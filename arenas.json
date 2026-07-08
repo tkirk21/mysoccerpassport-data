@@ -99,7 +99,7 @@
     "colorCode2": "#D9C21D",
     "league": "EPL",
     "Capacity": 40044,
-	"startDate": "1989-07-01",
+	"startDate": "1994-07-01",
     "endDate": null
   },
   {
@@ -238,7 +238,7 @@
     "colorCode2": "#FFFFFF",
     "league": "EPL",
     "Capacity": 61276,
-	"startDate": "1962-07-01",
+	"startDate": "1994-07-01",
     "endDate": null
   },
   {
@@ -273,7 +273,7 @@
 	"colorCode3": "#FFFFFF",
     "league": "EPL",
     "Capacity": 74500,
-	"startDate": "1975-07-01",
+	"startDate": "1994-07-01",
     "endDate": null
   },
   {
@@ -343,7 +343,7 @@
     "colorCode2": "#000E4C",
     "league": "EPL",
     "Capacity": 62850,
-	"startDate": "1978-07-01",
+	"startDate": "1994-07-01",
     "endDate": null
   }
 ]
