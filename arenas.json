@@ -12,7 +12,7 @@
     "colorCode": "#E70000",
 	  "colorCode2": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 60704,
+    "capacity": 60704,
 	  "startDate": "2006-07-01",
     "endDate": null
   },
@@ -29,7 +29,7 @@
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
     "league": "EPL",
-    "Capacity": 43205,
+    "capacity": 43205,
 	  "startDate": "2019-07-01",
     "endDate": null
   },
@@ -37,16 +37,16 @@
     "teamName": "Bournemouth",
     "teamCode": "BOU",
     "arena": "Vitality Stadium",
-    "arenaId": "vitality_stadium_bourne,outh",
+    "arenaId": "vitality_stadium_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
-    "website": "brentfordfc.com",
+    "website": "afcb.co.uk",
     "latitude": 50.73522420946804, 
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
     "league": "EPL",
-    "Capacity": 12357,
+    "capacity": 12357,
 	  "startDate": "2022-07-01",
     "endDate": null
   },
@@ -64,7 +64,7 @@
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
     "league": "EPL",
-    "Capacity": 17250,
+    "capacity": 17250,
 	  "startDate": "2020-07-01",
     "endDate": null
   },
@@ -81,7 +81,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 31876,
+    "capacity": 31876,
 	"startDate": "2017-07-01",
     "endDate": null
   },
@@ -98,7 +98,7 @@
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
     "league": "EPL",
-    "Capacity": 40044,
+    "capacity": 40044,
 	"startDate": "1994-07-01",
     "endDate": null
   },
@@ -115,7 +115,7 @@
     "colorCode": "#8EBDE4",
     "colorCode2": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 32609,
+    "capacity": 32609,
 	"startDate": "2026-07-01",
     "endDate": null
   },
@@ -133,7 +133,7 @@
     "colorCode2": "#FF0000",
 	"colorCode3": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 25194,
+    "capacity": 25194,
 	"startDate": "2013-07-01",
     "endDate": null
   },
@@ -151,7 +151,7 @@
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#FFD419",
     "league": "EPL",
-    "Capacity": 52769,
+    "capacity": 52769,
 	"startDate": "2025-07-01",
     "endDate": null
   },
@@ -168,7 +168,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
     "league": "EPL",
-    "Capacity": 27782,
+    "capacity": 27782,
 	"startDate": "2022-07-01",
     "endDate": null
   },	
@@ -186,7 +186,7 @@
     "colorCode2": "#000000",
 	"colorCode3": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 24620,
+    "capacity": 24620,
 	"startDate": "2026-07-01",
     "endDate": null
   },	
@@ -203,7 +203,7 @@
     "colorCode": "#2640A3",
     "colorCode2": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 30056,
+    "capacity": 30056,
 	"startDate": "2026-07-01",
     "endDate": null
   },	
@@ -211,7 +211,7 @@
     "teamName": "Leeds United",
     "teamCode": "LEE",
     "arena": "Elland Road",
-    "arenaId": "elland_road_ipswich_leeds",
+    "arenaId": "elland_road_leeds",
     "city": "Leeds, UK",
     "address": "Elland Rd, Beeston, Leeds LS11 0ES, United Kingdom",
     "website": "leedsunited.com",
@@ -220,7 +220,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#1414F7",
     "league": "EPL",
-    "Capacity": 37645,
+    "capacity": 37645,
 	"startDate": "2025-07-01",
     "endDate": null
   },	
@@ -237,7 +237,7 @@
     "colorCode": "#DE0000",
     "colorCode2": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 61276,
+    "capacity": 61276,
 	"startDate": "1994-07-01",
     "endDate": null
   },
@@ -254,7 +254,7 @@
     "colorCode": "#9FCEF2",
     "colorCode2": "#E9F6FF",
     "league": "EPL",
-    "Capacity": 61038,
+    "capacity": 61038,
 	"startDate": "2003-07-01",
     "endDate": null
   },	
@@ -272,7 +272,7 @@
     "colorCode2": "#000000",
 	"colorCode3": "#FFFFFF",
     "league": "EPL",
-    "Capacity": 74500,
+    "capacity": 74500,
 	"startDate": "1994-07-01",
     "endDate": null
   },
@@ -290,7 +290,7 @@
     "colorCode2": "#ffffff",
 	"colorCode3": "#62CFF2",
     "league": "EPL",
-    "Capacity": 52264,
+    "capacity": 52264,
 	"startDate": "2017-07-01",
     "endDate": null
   },
@@ -307,7 +307,7 @@
     "colorCode": "#FF0000",
     "colorCode2": "#ffffff",
     "league": "EPL",
-    "Capacity": 30445,
+    "capacity": 30445,
 	"startDate": "2022-07-01",
     "endDate": null
   },
@@ -325,7 +325,7 @@
     "colorCode2": "#ffffff",
 	"colorCode3": "#000000",
     "league": "EPL",
-    "Capacity": 48095,
+    "capacity": 48095,
 	"startDate": "2025-07-01",
     "endDate": null
   },
@@ -342,7 +342,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#000E4C",
     "league": "EPL",
-    "Capacity": 62850,
+    "capacity": 62850,
 	"startDate": "1994-07-01",
     "endDate": null
   }
