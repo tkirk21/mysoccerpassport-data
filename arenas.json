@@ -68,4 +68,38 @@
 	  "startDate": "2020-07-01",
     "endDate": null
   },
+  {
+    "teamName": "Brighton & Hove Albion",
+    "teamCode": "BHA",
+    "arena": "American Express Stadium",
+    "arenaId": "american_express_stadium_brighton",
+    "city": "Brighton, UK",
+    "address": "Village Way, Brighton and Hove, Brighton BN1 9BL, United Kingdom",
+    "website": "brightonandhovealbion.com",
+    "latitude": 50.861581103455364, 
+    "longitude": -0.08372115076939562,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "EPL",
+    "Capacity": 31876,
+	"startDate": "2017-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Chelsea",
+    "teamCode": "CHE",
+    "arena": "Stamford Bridge",
+    "arenaId": "stamford_bridge_london",
+    "city": "London, UK",
+    "address": "Stamford Bridge, Fulham Rd., London SW6 1HS, United Kingdom",
+    "website": "chelseafc.com",
+    "latitude": 51.48174347962515, 
+    "longitude": -0.19096601825159865,
+    "colorCode": "#14349B",
+    "colorCode2": "#D9C21D",
+    "league": "EPL",
+    "Capacity": 40044,
+	"startDate": "1989-07-01",
+    "endDate": null
+  }		
 ]
