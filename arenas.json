@@ -369,20 +369,22 @@
     "endDate": null
   },
   {
-    "teamName": "Blackburn Rovers",
-    "teamCode": "BR",
-    "arena": "Ewood Park",
-    "arenaId": "ewood_park_blackburn",
-    "city": "Blackburn, UK",
-    "address": "Ewood Park, Blackburn BB2 4JF, United Kingdom",
-    "website": "rovers.co.uk",
-    "latitude": 53.72860850302809, 
-    "longitude": -2.4892298991725017,
-    "colorCode": "#0000F3",
-    "colorCode2": "#FFFFFF",
+    "teamName": "Bolton Wanderers",
+    "teamCode": "BW",
+    "arena": "Toughsheet Community Stadium",
+    "arenaId": "toughsheet_community_stadium_bolton",
+    "city": "Bolton, UK",
+    "address": "Burnden Way, Horwich, Bolton BL6 6JW, United Kingdom",
+    "website": "bwfc.co.uk",
+    "latitude": 53.5806312194982,
+    "longitude": -2.5356911755971274,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#263C7E",
+	"colorCode3": "#DF0024",
     "league": "EFLC",
-    "capacity": 31367,
-	"startDate": "2018-07-01",
+    "capacity": 28723,
+	"startDate": "2026-07-01",
     "endDate": null
-  }
+  },
+  
 ]
