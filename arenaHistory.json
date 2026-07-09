@@ -1,3 +1,15 @@
 [
 
+  {
+    "currentArena": "Toughsheet Community Stadium",
+    "teamName": "Bolton Wanderers",
+    "league": "EFLC",
+    "history": [
+      { "name": "Reebok Stadium", "from": "1997-01-01", "to": "2014-06-30" },
+      { "name": "Macron Stadium", "from": "2014-07-01", "to": "2018-06-30" },
+      { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2023-06-30" },
+      { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": null }
+    ]
+  }
+
 ]
