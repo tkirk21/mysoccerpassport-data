@@ -345,5 +345,27 @@
     "capacity": 62850,
 	"startDate": "1994-07-01",
     "endDate": null
+  },
+
+
+
+
+
+  {
+    "teamName": "Birmingham City",
+    "teamCode": "BC",
+    "arena": "Knighthead Park",
+    "arenaId": "knighthead_park_birmingham",
+    "city": "Birmingham, UK",
+    "address": "Cattell Rd, Birmingham B9 4RL, United Kingdom",
+    "website": "bcfc.com",
+    "latitude": 52.47573524129733, 
+    "longitude": -1.8681323413587747,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "EFLC",
+    "capacity": 29409,
+	"startDate": "2025-07-01",
+    "endDate": null
   }
 ]
