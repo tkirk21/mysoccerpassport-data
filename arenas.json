@@ -386,5 +386,22 @@
 	"startDate": "2026-07-01",
     "endDate": null
   },
+  {
+    "teamName": "Bristol City",
+    "teamCode": "BC",
+    "arena": "Ashton Gate",
+    "arenaId": "ashton_gate_bristol",
+    "city": "Bristol, UK",
+    "address": "Ashton Rd, Bristol BS3 2EJ, United Kingdom",
+    "website": "bcfc.co.uk",
+    "latitude": 51.44011254154416, 
+    "longitude": -2.6203192221332037,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "EFLC",
+    "capacity": 26462,
+	"startDate": "2015-07-01",
+    "endDate": null
+  },	
   
 ]
