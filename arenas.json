@@ -369,6 +369,23 @@
     "endDate": null
   },
   {
+    "teamName": "Blackburn Rovers",
+    "teamCode": "BR",
+    "arena": "Ewood Park",
+    "arenaId": "ewood_park_blackburn",
+    "city": "Blackburn, UK",
+    "address": "Ewood Park, Blackburn BB2 4JF, United Kingdom",
+    "website": "rovers.co.uk",
+    "latitude": 53.72860850302809, 
+    "longitude": -2.4892298991725017,
+    "colorCode": "#0000F3",
+    "colorCode2": "#FFFFFF",
+    "league": "EFLC",
+    "capacity": 31367,
+	"startDate": "2018-07-01",
+    "endDate": null
+  },
+  {
     "teamName": "Bolton Wanderers",
     "teamCode": "BW",
     "arena": "Toughsheet Community Stadium",
