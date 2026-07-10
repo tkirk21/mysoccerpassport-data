@@ -4253,7 +4253,23 @@
 
 
 
-
+  {
+    "teamName": "Charlton Athletic",
+    "teamCode": "CA",
+    "arena": "The Valley",
+    "arenaId": "the_valley_london",
+    "city": "London, England",
+    "address": "Floyd Rd, London SE7 8BL, United Kingdom",
+    "website": "charltonafc.com",
+    "latitude": 51.48646924447754, 
+    "longitude": 0.03651363272697995,
+    "colorCode": "#FF0000",
+    "colorCode2": "#231F20",
+    "league": "EFL1",
+    "capacity": 27111,
+	"startDate": "2020-07-01",
+    "endDate": "2025-06-30"
+  },
   {
     "teamName": "Charlton Athletic",
     "teamCode": "CA",
