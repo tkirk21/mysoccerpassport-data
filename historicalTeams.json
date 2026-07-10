@@ -4241,10 +4241,52 @@
     "capacity": 21508,
 	"startDate": "1920-07-01",
     "endDate": "1921-06-30"
-  }		
+  },
 
 
 	  
 	
-	
+
+
+
+
+
+
+
+
+
+  {
+    "teamName": "Charlton Athletic",
+    "teamCode": "CA",
+    "arena": "The Valley",
+    "arenaId": "the_valley",
+    "city": "London, England",
+    "address": "Floyd Rd, London SE7 8BL, United Kingdom",
+    "website": "charltonafc.com",
+    "latitude": 51.48646924447754, 
+    "longitude": 0.03651363272697995,
+    "colorCode": "#FF0000",
+    "colorCode2": "#231F20",
+    "league": "EFLC",
+    "capacity": 27111,
+	"startDate": "1929-07-01",
+    "endDate": "1933-06-30"
+  },	
+  {
+    "teamName": "Charlton Athletic",
+    "teamCode": "CA",
+    "arena": "The Valley",
+    "arenaId": "the_valley",
+    "city": "London, England",
+    "address": "Floyd Rd, London SE7 8BL, United Kingdom",
+    "website": "charltonafc.com",
+    "latitude": 51.48646924447754, 
+    "longitude": 0.03651363272697995,
+    "colorCode": "#FF0000",
+    "colorCode2": "#231F20",
+    "league": "EFL1",
+    "capacity": 27111,
+	"startDate": "1921-07-01",
+    "endDate": "1929-06-30"
+  }	
 ]	
