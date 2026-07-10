@@ -19,15 +19,30 @@
     ]
   },
   {
-    "currentArena": "Toughsheet Community Stadium",
+    "currentArena": "Macron Stadium",
     "teamName": "Bolton Wanderers",
     "league": "EFLC",
     "history": [
-      { "name": "Reebok Stadium", "from": "1997-01-01", "to": "2014-06-30" },
-      { "name": "Macron Stadium", "from": "2014-07-01", "to": "2018-06-30" },
-      { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2023-06-30" },
-      { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": null }
+      { "name": "Reebok Stadium", "from": "2012-01-01", "to": "2014-06-30" },
+      { "name": "Macron Stadium", "from": "2014-07-01", "to": "2016-06-30" },
+    ]
+  },
+  {
+    "currentArena": "University of Bolton Stadium",
+    "teamName": "Bolton Wanderers",
+    "league": "EFLC",
+    "history": [
+      { "name": "Macron Stadium", "from": "2017-07-01", "to": "2018-06-30" },
+      { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2019-06-30" },
+    ]
+  },
+  {
+    "currentArena": "Toughsheet Community Stadium",
+    "teamName": "Bolton Wanderers",
+    "league": "EFL1",
+    "history": [
+      { "name": "University of Bolton Stadium", "from": "2021-07-01", "to": "2023-06-30" },
+      { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": "2026-06-30" }
     ]
   }
-
 ]
