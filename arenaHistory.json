@@ -1,5 +1,34 @@
 [
-
+  {
+    "currentArena": "Fitness First Stadium",
+    "teamName": "Bournemouth",
+    "league": "EFLC",
+    "history": [
+      { "name": "Dean Court", "from": "1992-01-01", "to": "2001-06-30" },
+      { "name": "Fitness First Stadium", "from": "2001-07-01", "to": "2002-06-30" },
+    ]
+  },
+  {
+    "currentArena": "Goldsands Stadium",
+    "teamName": "Bournemouth",
+    "league": "EFL1",
+    "history": [
+      { "name": "Fitness First Stadium ", "from": "2010-01-01", "to": "2011-06-30" },
+      { "name": "Seward Stadium", "from": "2011-01-01", "to": "2012-06-30" },
+      { "name": "Goldsands Stadium", "from": "2012-07-01", "to": "2013-06-30" },
+    ]
+  },
+  {
+    "currentArena": "Toughsheet Community Stadium",
+    "teamName": "Bolton Wanderers",
+    "league": "EFLC",
+    "history": [
+      { "name": "Reebok Stadium", "from": "1997-01-01", "to": "2014-06-30" },
+      { "name": "Macron Stadium", "from": "2014-07-01", "to": "2018-06-30" },
+      { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2023-06-30" },
+      { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": null }
+    ]
+  },
   {
     "currentArena": "Toughsheet Community Stadium",
     "teamName": "Bolton Wanderers",
