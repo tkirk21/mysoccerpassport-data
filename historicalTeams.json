@@ -2320,7 +2320,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFL2",
+    "league": "EFL1",
     "capacity": 28723,
 	"startDate": "2021-07-01",
     "endDate": "2026-06-30"
@@ -2400,7 +2400,7 @@
   {
     "teamName": "Bolton Wanderers",
     "teamCode": "BW",
-    "arena": "Reebok Stadium",
+    "arena": "Macron Stadium",
     "arenaId": "toughsheet_community_stadium_bolton",
     "city": "Bolton, UK",
     "address": "Burnden Way, Horwich, Bolton BL6 6JW, United Kingdom",
