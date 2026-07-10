@@ -441,7 +441,7 @@
     "teamName": "Cardiff City",
     "teamCode": "CC",
     "arena": "Cardiff City Stadium",
-    "arenaId": "Car",
+    "arenaId": "cardiff_city_stadium_cardiff",
     "city": "Cardiff, Wales",
     "address": "Leckwith Rd, Cardiff CF11 8AZ, United Kingdom",
     "website": "cardiffcityfc.co.uk",
@@ -449,7 +449,7 @@
     "longitude": -3.2030125173182884,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "EFLC",
     "capacity": 33280,
 	"startDate": "2026-07-01",
     "endDate": null
