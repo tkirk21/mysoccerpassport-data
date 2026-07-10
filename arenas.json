@@ -419,6 +419,23 @@
     "capacity": 26462,
 	"startDate": "2015-07-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Burnley",
+    "teamCode": "BUR",
+    "arena": "Turf Moor",
+    "arenaId": "turf_moor_burnley",
+    "city": "Burnley, UK",
+    "address": "52-56 Harry Potts Way, Burnley BB10 4BX, United Kingdom",
+    "website": "burnleyfootballclub.com",
+    "latitude": 53.78903752433454, 
+    "longitude": -2.23021953017902,
+    "colorCode": "#841E43",
+    "colorCode2": "#A1E7FF",
+    "league": "EFLC",
+    "capacity": 21990,
+	"startDate": "2026-07-01",
+    "endDate": null
+  }	
   
 ]
