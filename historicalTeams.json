@@ -546,7 +546,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Fitness First Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -563,7 +563,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Fitness First Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -580,7 +580,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Fitness First Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -597,7 +597,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Fitness First Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -614,7 +614,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Fitness First Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -631,7 +631,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Goldsands Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -648,7 +648,7 @@
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
-    "arena": "Dean Court",
+    "arena": "Goldsands Stadium",
     "arenaId": "dean_court_bournemouth",
     "city": "Bournemouth, UK",
     "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
@@ -1077,8 +1077,8 @@
   {
     "teamName": "Brentford",
     "teamCode": "BRE",
-    "arena": "Brentford Community Stadium",
-    "arenaId": "brentford_community_stadium_brentford",
+    "arena": "Gtech Community Stadium",
+    "arenaId": "gtech_community_stadium_brentford",
     "city": "Brentford, UK",
     "address": "Lionel Rd S, Brentford TW8 0RU, United Kingdom",
     "website": "brentfordfc.com",
@@ -1141,7 +1141,7 @@
     "league": "EFL1",
     "capacity": 31876,
 	"startDate": "1946-07-01",
-    "endDate": "1958-09-03"
+    "endDate": "1958-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1158,7 +1158,7 @@
     "league": "EFLC",
     "capacity": 31876,
 	"startDate": "1958-07-01",
-    "endDate": "1962-09-03"
+    "endDate": "1962-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1175,7 +1175,7 @@
     "league": "EFL1",
     "capacity": 31876,
 	"startDate": "1962-07-01",
-    "endDate": "1963-09-03"
+    "endDate": "1963-06-30"
   },	
   {
     "teamName": "Brighton & Hove Albion",
@@ -1192,7 +1192,7 @@
     "league": "EFL2",
     "capacity": 31876,
 	"startDate": "1963-07-01",
-    "endDate": "1965-09-03"
+    "endDate": "1965-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1209,7 +1209,7 @@
     "league": "EFL1",
     "capacity": 31876,
 	"startDate": "1965-07-01",
-    "endDate": "1972-09-03"
+    "endDate": "1972-06-30"
   },	
   {
     "teamName": "Brighton & Hove Albion",
@@ -1223,10 +1223,10 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "EFLC",
     "capacity": 31876,
 	"startDate": "1972-07-01",
-    "endDate": "1973-09-03"
+    "endDate": "1973-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1243,7 +1243,7 @@
     "league": "EFL1",
     "capacity": 31876,
 	"startDate": "1973-07-01",
-    "endDate": "1977-09-03"
+    "endDate": "1977-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1257,10 +1257,10 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "EFLC",
     "capacity": 31876,
 	"startDate": "1977-07-01",
-    "endDate": "1979-09-03"
+    "endDate": "1979-06-30"
   },	
   {
     "teamName": "Brighton & Hove Albion",
@@ -1274,10 +1274,10 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "EPL",
     "capacity": 31876,
 	"startDate": "1979-07-01",
-    "endDate": "1983-09-03"
+    "endDate": "1983-06-30"
   },	
   {
     "teamName": "Brighton & Hove Albion",
@@ -1291,10 +1291,10 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "EFLC",
     "capacity": 31876,
 	"startDate": "1983-07-01",
-    "endDate": "1987-09-03"
+    "endDate": "1987-06-30"
   },	
   {
     "teamName": "Brighton & Hove Albion",
@@ -1311,7 +1311,7 @@
     "league": "EFL1",
     "capacity": 31876,
 	"startDate": "1987-07-01",
-    "endDate": "1988-09-03"
+    "endDate": "1988-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1325,10 +1325,10 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "EFLC",
     "capacity": 31876,
 	"startDate": "1988-07-01",
-    "endDate": "1996-09-03"
+    "endDate": "1992-06-30"
   },	
   {
     "teamName": "Brighton & Hove Albion",
@@ -1344,8 +1344,8 @@
     "colorCode2": "#FFFFFF",
     "league": "EFL1",
     "capacity": 31876,
-	"startDate": "1996-07-01",
-    "endDate": "2001-09-03"
+	"startDate": "1992-07-01",
+    "endDate": "1996-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1361,8 +1361,8 @@
     "colorCode2": "#FFFFFF",
     "league": "EFL2",
     "capacity": 31876,
-	"startDate": "2001-07-01",
-    "endDate": "2002-09-03"
+	"startDate": "1996-07-01",
+    "endDate": "2001-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1378,8 +1378,25 @@
     "colorCode2": "#FFFFFF",
     "league": "EFL1",
     "capacity": 31876,
+	"startDate": "2001-07-01",
+    "endDate": "2002-06-30"
+  },
+  {
+    "teamName": "Brighton & Hove Albion",
+    "teamCode": "BHA",
+    "arena": "The Goldstone",
+    "arenaId": "the_goldstone_brighton",
+    "city": "Brighton, UK",
+    "address": "Newtown Rd, Brighton and Hove, Brighton BN3 7PN, United Kingdom",
+    "website": "brightonandhovealbion.com",
+    "latitude": 50.83809636294072, 
+    "longitude": -0.17407801849007357,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "EFLC",
+    "capacity": 31876,
 	"startDate": "2002-07-01",
-    "endDate": "2003-09-03"
+    "endDate": "2003-06-30"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1396,9 +1413,9 @@
     "league": "EFL1",
     "capacity": 31876,
 	"startDate": "2003-07-01",
-    "endDate": "2004-09-03"
+    "endDate": "2004-06-30"
   },
-  {
+	{
     "teamName": "Brighton & Hove Albion",
     "teamCode": "BHA",
     "arena": "The Goldstone",
@@ -1413,7 +1430,24 @@
     "league": "EFLC",
     "capacity": 31876,
 	"startDate": "2004-07-01",
-    "endDate": "2006-09-03"
+    "endDate": "2006-06-30"
+  },
+  {
+    "teamName": "Brighton & Hove Albion",
+    "teamCode": "BHA",
+    "arena": "American Express Stadium",
+    "arenaId": "american_express_stadium_brighton",
+    "city": "Brighton, UK",
+    "address": "Village Way, Brighton and Hove, Brighton BN1 9BL, United Kingdom",
+    "website": "brightonandhovealbion.com",
+    "latitude": 50.861581103455364, 
+    "longitude": -0.08372115076939562,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "EFL1",
+    "capacity": 31876,
+	"startDate": "2006-07-01",
+    "endDate": "2011-09-03"
   },
   {
     "teamName": "Brighton & Hove Albion",
@@ -1431,7 +1465,7 @@
     "capacity": 31876,
 	"startDate": "2011-07-01",
     "endDate": "2017-09-03"
-  },
+  },	
 
 
 
