@@ -36,6 +36,16 @@
       { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2019-06-30" },
     ]
   },
+   {
+    "currentArena": "Riverside Stadium",
+    "teamName": "Middlesbrough",
+    "league": "EPL",
+    "history": [
+      { "name": "Cellnet Riverside Stadium", "from": "1995-07-01", "to": "1999-06-30" },
+      { "name": "BT Cellnet Riverside Stadium", "from": "1999-07-01", "to": "2002-06-30" },
+      { "name": "Riverside Stadium", "from": "2002-07-01", "to": "2009-06-30" },
+    ]
+  },
   {
     "currentArena": "Toughsheet Community Stadium",
     "teamName": "Bolton Wanderers",
