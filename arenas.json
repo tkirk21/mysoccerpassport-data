@@ -487,6 +487,24 @@
     "capacity": 33597,
 	"startDate": "2024-07-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Lincoln City",
+    "teamCode": "LC",
+    "arena": "ProAmpac Stadium",
+    "arenaId": "proampac_stadium_lincoln",
+    "city": "Lincoln, England",
+    "address": "Cross St, Lincoln LN5 8LD, United Kingdom",
+    "website": "www.weareimps.com",
+    "latitude": 53.21834494245315, 
+    "longitude": -0.5408573874790765,
+    "colorCode": "#CE131A",
+    "colorCode2": "#FFFFFF",
+	"colorCode2": "#000000",   
+    "league": "EFLC",
+    "capacity": 10669,
+	"startDate": "2026-07-01",
+    "endDate": null
+  }			
   
 ]
