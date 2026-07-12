@@ -458,7 +458,7 @@
     "teamName": "Charlton Athletic",
     "teamCode": "CA",
     "arena": "The Valley",
-    "arenaId": "the_valley",
+    "arenaId": "the_valley_london",
     "city": "London, England",
     "address": "Floyd Rd, London SE7 8BL, United Kingdom",
     "website": "charltonafc.com",
@@ -469,6 +469,23 @@
     "league": "EFLC",
     "capacity": 27111,
 	"startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Derby County",
+    "teamCode": "DC",
+    "arena": "Pride Park Stadium",
+    "arenaId": "pride_park_stadium_derby",
+    "city": "derby, England",
+    "address": "Royal Way, Derby DE24 8XL, United Kingdom",
+    "website": "dcfc.co.uk",
+    "latitude": 52.91493693729348, 
+    "longitude": -1.447216901928318,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "EFLC",
+    "capacity": 33597,
+	"startDate": "2024-07-01",
     "endDate": null
   }		
   
