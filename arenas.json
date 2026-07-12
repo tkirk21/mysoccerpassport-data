@@ -500,11 +500,28 @@
     "longitude": -0.5408573874790765,
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
-	"colorCode2": "#000000",   
+	"colorCode3": "#000000",   
     "league": "EFLC",
     "capacity": 10669,
 	"startDate": "2026-07-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Middlesbrough",
+    "teamCode": "MID",
+    "arena": "Riverside Stadium",
+    "arenaId": "riverside_stadium_middlesbrough",
+    "city": "Middlesbrough, England",
+    "address": "Middlehaven Way, Middlesbrough TS3 6RS, United Kingdom",
+    "website": "www.weareimps.com",
+    "latitude": 54.57823480985055, 
+    "longitude": -1.2168374538166238,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",  
+    "league": "EFLC",
+    "capacity": 34742,
+	"startDate": "2017-07-01",
+    "endDate": null
+  }				
   
 ]
