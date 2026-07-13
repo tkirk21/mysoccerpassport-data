@@ -690,6 +690,23 @@
     "capacity": 20000,
 	"startDate": "2018-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Houston Dynamo",
+    "teamCode": "HOU",
+    "arena": "Shell Energy Stadium",
+    "arenaId": "shell_energy_stadium_houston",
+    "city": "Houston, Texas",
+    "address": "2200 Texas Ave, Houston, TX 77003",
+    "website": "houstondynamofc.com",
+    "latitude": 29.752263740384173, 
+    "longitude": -95.35224039822812 ,
+    "colorCode": "#F68326",
+    "colorCode2": "#80BFFF",   
+    "league": "MLS",
+    "capacity": 22039,
+	"startDate": "2012-05-12",
+    "endDate": null
   },	
   {
     "teamName": "Inter Miami",
@@ -725,6 +742,8 @@
 	"startDate": "2012-04-04",
     "endDate": null
   },
+  
+  
   {
     "teamName": "Nashville",
     "teamCode": "NAS",
