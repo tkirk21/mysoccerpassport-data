@@ -608,7 +608,7 @@
   {
     "teamName": "Columbus Crew",
     "teamCode": "CC",
-    "arena": "	"ScottsMiracle-Gro Field",
+    "arena": "ScottsMiracle-Gro Field",
     "arenaId": "scottsmiracle_Gro_field_columbus",
     "city": "Columbus, Ohio",
     "address": "96 Columbus Crew Way, Columbus, OH 43215",
@@ -622,6 +622,57 @@
 	"startDate": "2021-01-01",
     "endDate": null
   },	
+  {
+    "teamName": "D.C. United",
+    "teamCode": "DCU",
+    "arena": "Audi Field",
+    "arenaId": "audi_field_washington",
+    "city": "Washington, D.C.",
+    "address": "100 Potomac Ave SW, Washington, DC 20024",
+    "website": "dcunited.com",
+    "latitude": 38.86843266834134, 
+    "longitude": -77.0129241300491,
+    "colorCode": "#000000",
+    "colorCode2": "#FF0000",   
+    "league": "MLS",
+    "capacity": 20000,
+	"startDate": "2018-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Inter Miami",
+    "teamCode": "IM",
+    "arena": "Nu Stadium",
+    "arenaId": "nu_stadium_miami",
+    "city": "Miami, Florida",
+    "address": "1000 Stadium Dr, Miami, FL 33125",
+    "website": "intermiamicf.com",
+    "latitude": 25.793114489893885, 
+    "longitude": -80.25899463573234,
+    "colorCode": "#FDA0B3",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 26700,
+	"startDate": "2026-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Inter Miami",
+    "teamCode": "IM",
+    "arena": "Inter Miami CF Stadium",
+    "arenaId": "inter_rmiami_cf_stadium_fort_lauderdale",
+    "city": "Fort Lauderdale, Florida",
+    "address": "1350 NW 55th St, Fort Lauderdale, FL 33309",
+    "website": "intermiamicf.com",
+    "latitude": 26.193262611909713,  
+    "longitude": -80.16069492589483,
+    "colorCode": "#FDA0B3",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 26700,
+	"startDate": "2020-01-01",
+    "endDate": "2026-04-03"
+  }		
   	
   
 ]
