@@ -640,6 +640,23 @@
     "endDate": null
   },
   {
+    "teamName": "Dallas",
+    "teamCode": "DAL",
+    "arena": "Toyota Stadium",
+    "arenaId": "toyota_stadium_frisco",
+    "city": "Frisco, Texas",
+    "address": "9200 World Cup Way, Frisco, TX 75033",
+    "website": "www.fcdallas.com",
+    "latitude": 33.15434638601505, 
+    "longitude": -96.83519998764179,
+    "colorCode": "#BE1D2D",
+    "colorCode2": "#000D56",   
+    "league": "MLS",
+    "capacity": 19096,
+	"startDate": "2005-05-01",
+    "endDate": null
+  }		
+  {
     "teamName": "Inter Miami",
     "teamCode": "IM",
     "arena": "Nu Stadium",
@@ -682,7 +699,7 @@
     "address": "501 Benton Ave, Nashville, TN 37203",
     "website": "nashvillesc.com",
     "latitude": 36.13010829706939,
-    "longitude": -86.76601205985614 ,
+    "longitude": -86.76601205985614,
     "colorCode": "#EBE736",
     "colorCode2": "#190E44",   
     "league": "MLS",
