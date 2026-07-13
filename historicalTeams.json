@@ -6216,6 +6216,57 @@
     "endDate": "2017-12-31"
   },
   {
+    "teamName": "Dallas Burn",
+    "teamCode": "DAL",
+    "arena": "Cotton Bowl",
+    "arenaId": "cotton_bowl_dallas",
+    "city": "dallas, Texas",
+    "address": "3750 The Midway, Dallas, TX 75215",
+    "website": "www.fcdallas.com",
+    "latitude": 32.7796243037554,  
+    "longitude": -96.75965225172239,
+    "colorCode": "#BE1D2D",
+    "colorCode2": "#000D56",   
+    "league": "MLS",
+    "capacity": 92100,
+	"startDate": "1996-01-01",
+    "endDate": "2002-12-31"
+  },
+  {
+    "teamName": "Dallas Burn",
+    "teamCode": "DAL",
+    "arena": "Dragon Stadium",
+    "arenaId": "dragon_stadium_southlake",
+    "city": "southlake, Texas",
+    "address": "1085 S Kimball Ave, Southlake, TX 76092",
+    "website": "www.fcdallas.com",
+    "latitude": 32.92945639284787,  
+    "longitude": -97.11191635370311,
+    "colorCode": "#BE1D2D",
+    "colorCode2": "#000D56",   
+    "league": "MLS",
+    "capacity": 11000,
+	"startDate": "2003-01-01",
+    "endDate": "2003-12-31"
+  },
+  {
+    "teamName": "Dallas Burn",
+    "teamCode": "DAL",
+    "arena": "Cotton Bowl",
+    "arenaId": "cotton_bowl_dallas",
+    "city": "dallas, Texas",
+    "address": "3750 The Midway, Dallas, TX 75215",
+    "website": "www.fcdallas.com",
+    "latitude": 32.7796243037554,  
+    "longitude": -96.75965225172239,
+    "colorCode": "#BE1D2D",
+    "colorCode2": "#000D56",   
+    "league": "MLS",
+    "capacity": 92100,
+	"startDate": "2004-01-01",
+    "endDate": "2004-12-31"
+  },	
+  {
     "teamName": "Inter Miami",
     "teamCode": "IM",
     "arena": "Inter Miami CF Stadium",
@@ -6246,7 +6297,7 @@
     "colorCode2": "#190E44",   
     "league": "MLS",
     "capacity": 69143,
-	"startDate": "2022-05-01",
+	"startDate": "2022-01-01",
     "endDate": "2022-04-30"
   }			
 	
