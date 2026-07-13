@@ -6231,7 +6231,24 @@
     "capacity": 26700,
 	"startDate": "2020-01-01",
     "endDate": "2026-04-03"
-  }
+  },
+  {
+    "teamName": "Nashville",
+    "teamCode": "NAS",
+    "arena": "Nissan Stadium",
+    "arenaId": "nissan_stadium_nashville",
+    "city": "Nashville, Tennessee",
+    "address": "1 Titans Wy, Nashville, TN 37213",
+    "website": "nashvillesc.com",
+    "latitude": 36.16646972321172, 
+    "longitude": -86.7712990433443,
+    "colorCode": "#EBE736",
+    "colorCode2": "#190E44",   
+    "league": "MLS",
+    "capacity": 69143,
+	"startDate": "2022-05-01",
+    "endDate": "2022-04-30"
+  }			
 	
 	
 ]	
