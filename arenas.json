@@ -623,6 +623,24 @@
     "endDate": null
   },	
   {
+    "teamName": "Colorado Rapids",
+    "teamCode": "COL",
+    "arena": "Dick's Sporting Goods Park",
+    "arenaId": "dicks_sporting_goods_park_commerce_city",
+    "city": "Commerce City, Colorado",
+    "address": "6000 Victory Way, Commerce City, CO 80022",
+    "website": "coloradorapids.com",
+    "latitude": 39.805675560282914,  
+    "longitude": -104.89183556288665,
+    "colorCode": "#060606",
+    "colorCode2": "#84222F",   
+    "colorCode3": "#467697",
+    "league": "MLS",
+    "capacity": 18062,
+	"startDate": "2007-01-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Columbus Crew",
     "teamCode": "CC",
     "arena": "ScottsMiracle-Gro Field",
