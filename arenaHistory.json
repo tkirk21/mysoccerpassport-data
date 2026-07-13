@@ -52,7 +52,7 @@
     "league": "EFL1",
     "history": [
       { "name": "University of Bolton Stadium", "from": "2021-07-01", "to": "2023-06-30" },
-      { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": "2026-06-30" }
+      { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": null }
     ]
   },
 
@@ -67,7 +67,16 @@
     "league": "MLS",
     "history": [
       { "name": "Toyota Park", "from": "2006-07-01", "to": "2018-12-31" },
-      { "name": "SeatGeek Stadium", "from": "2019-01-01", "to": "2026-12-31" }
+      { "name": "SeatGeek Stadium", "from": "2019-01-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "ScottsMiracle-Gro Field",
+    "teamName": "Columbus Crew",
+    "league": "MLS",
+    "history": [
+      { "name": "Lower.com Field", "from": "2021-07-01", "to": "2025-12-31" },
+      { "name": "ScottsMiracle-Gro Field", "from": "2026-01-01", "to": null }
     ]
   }
 ]
