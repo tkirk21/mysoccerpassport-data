@@ -6301,7 +6301,24 @@
     "capacity": 92100,
 	"startDate": "2004-01-01",
     "endDate": "2005-08-05"
-  },	
+  },
+   {
+    "teamName": "Houston Dynamo",
+    "teamCode": "HOU",
+    "arena": "Robertson Stadium",
+    "arenaId": "robertson_stadium_houston",
+    "city": "Houston, Texas",
+    "address": "3700 Cullen Blvd, Houston, TX 77204",
+    "website": "houstondynamofc.com",
+    "latitude": 29.721980400138968,  
+    "longitude": -95.34918441201347,
+    "colorCode": "#F68326",
+    "colorCode2": "#80BFFF",   
+    "league": "MLS",
+    "capacity": 22039,
+	"startDate": "2006-01-01",
+    "endDate": "2011-12-31"
+  },		
   {
     "teamName": "Inter Miami",
     "teamCode": "IM",
