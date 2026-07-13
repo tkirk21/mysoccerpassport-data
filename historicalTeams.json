@@ -6077,6 +6077,75 @@
 	"startDate": "2020-04-20",
     "endDate": "2020-04-21"
   },
+  {
+    "teamName": "Chicago Fire",
+    "teamCode": "CHI",
+    "arena": "Soldier Field",
+    "arenaId": "soldier_field_chicago",
+    "city": "Chicago, Illinois",
+    "address": "1410 Special Olympics Dr, Chicago, IL 60605",
+    "website": "chicagofirefc.com",
+    "latitude": 41.862318438763516, 
+    "longitude": -87.61670306268714,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 62500,
+	"startDate": "1997-01-01",
+    "endDate": "2001-12-31"
+  },
+  {
+    "teamName": "Chicago Fire",
+    "teamCode": "CHI",
+    "arena": "Cardinal Stadium",
+    "arenaId": "cardinal_stadium_chicago",
+    "city": "Napperville, Illinois",
+    "address": "451 S Brainard St, Naperville, IL 60540",
+    "website": "chicagofirefc.com",
+    "latitude": 41.76949110028472,  
+    "longitude": -88.1460224088878,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 62500,
+	"startDate": "2002-01-01",
+    "endDate": "2003-09-30"
+  },
+
+  {
+    "teamName": "Chicago Fire",
+    "teamCode": "CHI",
+    "arena": "Soldier Field",
+    "arenaId": "soldier_field_chicago",
+    "city": "Chicago, Illinois",
+    "address": "1410 Special Olympics Dr, Chicago, IL 60605",
+    "website": "chicagofirefc.com",
+    "latitude": 41.862318438763516, 
+    "longitude": -87.61670306268714,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 62500,
+	"startDate": "2003-10-01",
+    "endDate": "2005-12-31"
+  },	
+  {
+    "teamName": "Chicago Fire",
+    "teamCode": "CHI",
+    "arena": "SeatGeek Stadium",
+    "arenaId": "seatgeek_stadium_bridgeview",
+    "city": "Bridgeview, Illinois",
+    "address": "7000 S Harlem Ave, Bridgeview, IL 60455",
+    "website": "chicagofirefc.com",
+    "latitude": 41.76482718176901,  
+    "longitude": -87.8061841997802,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 75037,
+	"startDate": "2006-01-01",
+    "endDate": "2019-12-31"
+  }
 	
 	
 ]	
