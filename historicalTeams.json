@@ -6163,7 +6163,41 @@
     "capacity": 35061,
 	"startDate": "2019-01-01",
     "endDate": "2020-12-31"
-  }	
+  },
+  {
+    "teamName": "Columbus Crew",
+    "teamCode": "CC",
+    "arena": "	"Mapfre Stadium",
+    "arenaId": "mapfre_stadium_columbus",
+    "city": "Columbus, Ohio",
+    "address": "One Black and Gold Blvd, Columbus, OH 43211",
+    "website": "columbuscrew.com",
+    "latitude": 40.0095311487861, 
+    "longitude": -82.99117556550709,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#000000",   
+    "league": "MLS",
+    "capacity": 19968,
+	"startDate": "1999-01-01",
+    "endDate": ""2020-12-31"
+  },
+  {
+    "teamName": "Columbus Crew",
+    "teamCode": "CC",
+    "arena": "	"Ohio Stadium",
+    "arenaId": "ohio_stadium_columbus",
+    "city": "Columbus, Ohio",
+    "address": "One Black and Gold Blvd, Columbus, OH 43211",
+    "website": "columbuscrew.com",
+    "latitude": 40.0095311487861, 
+    "longitude": -82.99117556550709,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#000000",   
+    "league": "MLS",
+    "capacity": 102780,
+	"startDate": "1996-01-01",
+    "endDate": ""1998-12-31"
+  }		
 	
 	
 ]	
