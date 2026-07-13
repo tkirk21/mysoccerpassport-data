@@ -6145,7 +6145,25 @@
     "capacity": 75037,
 	"startDate": "2006-01-01",
     "endDate": "2019-12-31"
-  }
+  },
+  {
+    "teamName": "Cincinnati",
+    "teamCode": "CIN",
+    "arena": "Nippert Stadium",
+    "arenaId": "nippert_stadium_cincinnati",
+    "city": "Cincinnati, Ohio",
+    "address": "2700 Bearcat Way, Cincinnati, OH 45221",
+    "website": "fccincinnati.com",
+    "latitude": 39.131225578851655, 
+    "longitude": -84.516229514106,
+    "colorCode": "#032BE4",
+    "colorCode2": "#FB5300",   
+    "colorCode3": "#03134C",
+    "league": "MLS",
+    "capacity": 35061,
+	"startDate": "2019-01-01",
+    "endDate": "2020-12-31"
+  }	
 	
 	
 ]	
