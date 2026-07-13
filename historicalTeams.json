@@ -5984,6 +5984,99 @@
     "capacity": 4000,
 	"startDate": "1900-07-01",
     "endDate": "1902-06-30"
-  }		
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "teamName": "Atlanta United",
+    "teamCode": "ATL",
+    "arena": "Fifth Third Bank Stadium",
+    "arenaId": "fifth_third_bank_stadium_kennesaw",
+    "city": "Kennesaw, Georgia",
+    "address": "3200 George Busbee Pkwy NW, Kennesaw, GA 30144",
+    "website": "atlutd.com",
+    "latitude": 34.028936807580074, 
+    "longitude": -84.56762165332418,
+    "colorCode": "#DF0003",
+    "colorCode2": "#000000",  
+	"colorCode3": "#DBBD64",   
+    "league": "MLS",
+    "capacity": 55000,
+	"startDate": "2017-01-01",
+    "endDate": "2017-09-09"
+  },
+  {
+    "teamName": "Atlanta United",
+    "teamCode": "ATL",
+    "arena": "Fifth Third Bank Stadium",
+    "arenaId": "fifth_third_bank_stadium_kennesaw",
+    "city": "Kennesaw, Georgia",
+    "address": "3200 George Busbee Pkwy NW, Kennesaw, GA 30144",
+    "website": "atlutd.com",
+    "latitude": 34.028936807580074, 
+    "longitude": -84.56762165332418,
+    "colorCode": "#DF0003",
+    "colorCode2": "#000000",  
+	"colorCode3": "#DBBD64",   
+    "league": "CONCACAF",
+    "capacity": 42500,
+	"startDate": "2019-02-28",
+    "endDate": "2019-03-01"
+  },
+  {
+    "teamName": "Atlanta United",
+    "teamCode": "ATL",
+    "arena": "Fifth Third Bank Stadium",
+    "arenaId": "fifth_third_bank_stadium_kennesaw",
+    "city": "Kennesaw, Georgia",
+    "address": "3200 George Busbee Pkwy NW, Kennesaw, GA 30144",
+    "website": "atlutd.com",
+    "latitude": 34.028936807580074, 
+    "longitude": -84.56762165332418,
+    "colorCode": "#DF0003",
+    "colorCode2": "#000000",  
+	"colorCode3": "#DBBD64",   
+    "league": "CONCACAF",
+    "capacity": 42500,
+	"startDate": "2020-04-20",
+    "endDate": "2020-04-21"
+  },
+	
 	
 ]	
