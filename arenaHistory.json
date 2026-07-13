@@ -87,5 +87,16 @@
       { "name": "Columbus Crew Stadium", "from": "1999-07-01", "to": "2015-12-31" },
       { "name": "MAPFRE Stadium", "from": "2015-01-01", "to": "2020-12-31" }
     ]
+  },
+  {
+    "currentArena": "Inter Miami CF Stadium",
+    "teamName": "Inter Miami",
+    "league": "MLS",
+    "history": [
+      { "name": "Inter Miami CF Stadium", "from": "2020-01-01", "to": "2020-12-31" },
+      { "name": "DRV PNK Stadium", "from": "2021-01-01", "to": "2023-12-31" },
+      { "name": "ChChase Stadiumase Stadium", "from": "2024-01-01", "to": "2025-12-31" },
+      { "name": "Inter Miami CF Stadium", "from": "2026-01-01", "to": "2026-04-03" }
+    ]
   }
 ]
