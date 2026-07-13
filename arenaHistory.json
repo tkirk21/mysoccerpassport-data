@@ -95,8 +95,18 @@
     "history": [
       { "name": "Inter Miami CF Stadium", "from": "2020-01-01", "to": "2020-12-31" },
       { "name": "DRV PNK Stadium", "from": "2021-01-01", "to": "2023-12-31" },
-      { "name": "ChChase Stadiumase Stadium", "from": "2024-01-01", "to": "2025-12-31" },
+      { "name": "Chase Stadiumase Stadium", "from": "2024-01-01", "to": "2025-12-31" },
       { "name": "Inter Miami CF Stadium", "from": "2026-01-01", "to": "2026-04-03" }
+    ]
+  },
+  {
+    "currentArena": "Toyota Stadium",
+    "teamName": "Dallas",
+    "league": "MLS",
+    "history": [
+      { "name": "Pizza Hut Park", "from": "2005-08-06", "to": "2012-12-31" },
+      { "name": "FC Dallas Stadium", "from": "2012-01-01", "to": "2013-12-31" },
+      { "name": "Toyota Stadium", "from": "2014-01-01", "to": null }
     ]
   }
 ]
