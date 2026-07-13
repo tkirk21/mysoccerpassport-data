@@ -6337,6 +6337,24 @@
     "endDate": "2026-04-03"
   },
   {
+    "teamName": "LA Galaxy",
+    "teamCode": "LAG",
+    "arena": "Rose Bowl",
+    "arenaId": "rose_bowl_pasadena",
+    "city": "Pasadena, California",
+    "address": "1001 Rose Bowl Dr, Pasadena, CA 91103",
+    "website": "lagalaxy.com",
+    "latitude": 34.16131526426678, 
+    "longitude": -118.16759321732722,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#00003E",
+	"colorCode3": "#D9AF4C",
+    "league": "MLS",
+    "capacity": 89702,
+	"startDate": "1996-07-01",
+    "endDate": "2002-12-31"
+  },		
+  {
     "teamName": "Nashville",
     "teamCode": "NAS",
     "arena": "Nissan Stadium",
