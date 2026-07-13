@@ -571,6 +571,23 @@
     "endDate": null
   },
   {
+    "teamName": "Austin",
+    "teamCode": "AUS",
+    "arena": "Q2 Stadium",
+    "arenaId": "q2_stadium_austin",
+    "city": "Austin, Texas",
+    "address": "10414 Mc Kalla Pl, Austin, TX 78758",
+    "website": "austinfc.com",
+    "latitude": 30.38781265895184, 
+    "longitude": -97.71946836844046,
+    "colorCode": "#3ADB69",
+    "colorCode2": "#000000",    
+    "league": "MLS",
+    "capacity": 20738,
+	"startDate": "2021-01-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Charlotte",
     "teamCode": "CHA",
     "arena": "Bank of America Stadium",
@@ -621,23 +638,6 @@
     "capacity": 20371,
 	"startDate": "2021-01-01",
     "endDate": null
-  },	
-  {
-    "teamName": "D.C. United",
-    "teamCode": "DCU",
-    "arena": "Audi Field",
-    "arenaId": "audi_field_washington",
-    "city": "Washington, D.C.",
-    "address": "100 Potomac Ave SW, Washington, DC 20024",
-    "website": "dcunited.com",
-    "latitude": 38.86843266834134, 
-    "longitude": -77.0129241300491,
-    "colorCode": "#000000",
-    "colorCode2": "#FF0000",   
-    "league": "MLS",
-    "capacity": 20000,
-	"startDate": "2018-01-01",
-    "endDate": null
   },
   {
     "teamName": "Dallas",
@@ -655,7 +655,24 @@
     "capacity": 23900,
 	"startDate": "2005-08-06",
     "endDate": null
-  }		
+  },		
+  {
+    "teamName": "D.C. United",
+    "teamCode": "DCU",
+    "arena": "Audi Field",
+    "arenaId": "audi_field_washington",
+    "city": "Washington, D.C.",
+    "address": "100 Potomac Ave SW, Washington, DC 20024",
+    "website": "dcunited.com",
+    "latitude": 38.86843266834134, 
+    "longitude": -77.0129241300491,
+    "colorCode": "#000000",
+    "colorCode2": "#FF0000",   
+    "league": "MLS",
+    "capacity": 20000,
+	"startDate": "2018-01-01",
+    "endDate": null
+  },	
   {
     "teamName": "Inter Miami",
     "teamCode": "IM",
