@@ -728,20 +728,20 @@
   {
     "teamName": "LA Galaxy",
     "teamCode": "LAG",
-    "arena": "Rose Bowl",
-    "arenaId": "rose_bowl_pasadena",
-    "city": "Pasadena, California",
-    "address": "1001 Rose Bowl Dr, Pasadena, CA 91103",
+    "arena": "Dignity Health Sports Park",
+    "arenaId": "dignity_health_sports_park_carson",
+    "city": "Carson, California",
+    "address": "18400 Avalon Blvd, Carson, CA 90746",
     "website": "lagalaxy.com",
-    "latitude": 34.16131526426678, 
-    "longitude": -118.16759321732722,
+    "latitude": 33.86437498277363, 
+    "longitude": -118.26114096616247,
     "colorCode": "#FFFFFF",
     "colorCode2": "#00003E",
 	"colorCode3": "#D9AF4C",
     "league": "MLS",
     "capacity": 89702,
-	"startDate": "1996-07-01",
-    "endDate": "2002-12-31"
+	"startDate": "2003-06-01",
+    "endDate": null
   },	
   {
     "teamName": "Montreal",
