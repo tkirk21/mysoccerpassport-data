@@ -54,5 +54,20 @@
       { "name": "University of Bolton Stadium", "from": "2021-07-01", "to": "2023-06-30" },
       { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": "2026-06-30" }
     ]
+  },
+
+
+
+
+
+
+  {
+    "currentArena": "SeatGeek Stadium",
+    "teamName": "Chicago Fire",
+    "league": "MLS",
+    "history": [
+      { "name": "Toyota Park", "from": "2006-07-01", "to": "2018-12-31" },
+      { "name": "SeatGeek Stadium", "from": "2019-01-01", "to": "2026-12-31" }
+    ]
   }
 ]
