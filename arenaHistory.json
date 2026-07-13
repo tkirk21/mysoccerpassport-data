@@ -78,5 +78,14 @@
       { "name": "Lower.com Field", "from": "2021-07-01", "to": "2025-12-31" },
       { "name": "ScottsMiracle-Gro Field", "from": "2026-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "MAPFRE Stadium",
+    "teamName": "Columbus Crew",
+    "league": "MLS",
+    "history": [
+      { "name": "Columbus Crew Stadium", "from": "1999-07-01", "to": "2015-12-31" },
+      { "name": "MAPFRE Stadium", "from": "2015-01-01", "to": "2020-12-31" }
+    ]
   }
 ]
