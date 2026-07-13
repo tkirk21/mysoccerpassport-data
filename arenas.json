@@ -672,7 +672,24 @@
     "capacity": 19619,
 	"startDate": "2012-04-04",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Nashville",
+    "teamCode": "NAS",
+    "arena": "Geodis Park",
+    "arenaId": "geodis_park_nashville",
+    "city": "Nashville, Tennessee",
+    "address": "501 Benton Ave, Nashville, TN 37203",
+    "website": "nashvillesc.com",
+    "latitude": 36.13010829706939,
+    "longitude": -86.76601205985614 ,
+    "colorCode": "#EBE736",
+    "colorCode2": "#190E44",   
+    "league": "MLS",
+    "capacity": 30000,
+	"startDate": "2022-05-01",
+    "endDate": null
+  }		
   	
   
 ]
