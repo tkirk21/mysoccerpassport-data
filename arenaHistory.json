@@ -108,5 +108,15 @@
       { "name": "FC Dallas Stadium", "from": "2012-01-01", "to": "2013-12-31" },
       { "name": "Toyota Stadium", "from": "2014-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "Dignity Health Sports Park",
+    "teamName": "LA Galaxy",
+    "league": "MLS",
+    "history": [
+      { "name": "Home Depot Center", "from": "2003-06-01", "to": "2013-05-31" },
+      { "name": "StubHub Center", "from": "2013-06-01", "to": "2018-12-31" },
+      { "name": "Dignity Health Sports Park", "from": "2019-01-01", "to": null }
+    ]
   }
 ]
