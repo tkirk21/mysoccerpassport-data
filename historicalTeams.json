@@ -6197,6 +6197,57 @@
     "capacity": 102780,
 	"startDate": "1996-01-01",
     "endDate": ""1998-12-31"
+  },
+  {
+    "teamName": "D.C. United",
+    "teamCode": "DCU",
+    "arena": "RFK Stadium",
+    "arenaId": "rfk_stadium_washington",
+    "city": "Washington, District of Columbia",
+    "address": "2400 East Capitol St NE, Washington, DC 20003",
+    "website": "dcunited.com",
+    "latitude": 38.88984858349012, 
+    "longitude": -76.97190766791617,
+    "colorCode": "#000000",
+    "colorCode2": "#FF0000",   
+    "league": "MLS",
+    "capacity": 20000,
+	"startDate": "1996-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "teamName": "Inter Miami",
+    "teamCode": "IM",
+    "arena": "Nu Stadium",
+    "arenaId": "nu_stadium_miami",
+    "city": "Miami, Florida",
+    "address": "1000 Stadium Dr, Miami, FL 33125",
+    "website": "intermiamicf.com",
+    "latitude": 25.793114489893885, 
+    "longitude": -80.25899463573234,
+    "colorCode": "#FDA0B3",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 26700,
+	"startDate": "2026-04-04",
+    "endDate": null
+  },
+  {
+    "teamName": "Montreal",
+    "teamCode": "MON",
+    "arena": "Saputo Stadium",
+    "arenaId": "saputo_stadium_montreal",
+    "city": "Montreal, Quebec",
+    "address": "4750 R. Sherbrooke E, Montréal, QC H1V 3S8, Canada",
+    "website": "www.cfmontreal.com",
+    "latitude": 45.563078092603526,  
+    "longitude": -73.55265105835203,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 19619,
+	"startDate": "2012-04-04",
+    "endDate": null
   }		
 	
 	
