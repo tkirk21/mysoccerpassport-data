@@ -657,22 +657,22 @@
     "endDate": null
   },
   {
-    "teamName": "Inter Miami",
-    "teamCode": "IM",
-    "arena": "Inter Miami CF Stadium",
-    "arenaId": "inter_rmiami_cf_stadium_fort_lauderdale",
-    "city": "Fort Lauderdale, Florida",
-    "address": "1350 NW 55th St, Fort Lauderdale, FL 33309",
-    "website": "intermiamicf.com",
-    "latitude": 26.193262611909713,  
-    "longitude": -80.16069492589483,
-    "colorCode": "#FDA0B3",
+    "teamName": "Montreal",
+    "teamCode": "MON",
+    "arena": "Saputo Stadium",
+    "arenaId": "saputo_stadium_montreal",
+    "city": "Montreal, Quebec",
+    "address": "4750 R. Sherbrooke E, Montréal, QC H1V 3S8, Canada",
+    "website": "www.cfmontreal.com",
+    "latitude": 45.563078092603526,  
+    "longitude": -73.55265105835203,
+    "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",   
     "league": "MLS",
-    "capacity": 26700,
-	"startDate": "2020-01-01",
-    "endDate": "2026-04-03"
-  }		
+    "capacity": 19619,
+	"startDate": "2012-04-04",
+    "endDate": null
+  }			
   	
   
 ]
