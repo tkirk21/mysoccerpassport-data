@@ -828,6 +828,23 @@
     "capacity": 60292,
 	"startDate": "2002-05-11",
     "endDate": null
+  },
+  {
+    "teamName": "New York City",
+    "teamCode": "NYC",
+    "arena": "Yankee Stadium",
+    "arenaId": "yankee_stadium_new_york",
+    "city": "New York, New York",
+    "address": "1 E 161st St, Bronx, NY 10451",
+    "website": "newyorkcityfc.com",
+    "latitude": 40.82966283438355,    
+    "longitude": -73.92626207768383,
+    "colorCode": "#ABCAE9",
+    "colorCode2": "#DBE7F5",   
+    "league": "MLS",
+    "capacity": 46537,
+	"startDate": "2015-01-01",
+    "endDate": null
   }		
   	
   
