@@ -18,7 +18,7 @@
   },
   {
     "teamName": "Aston Villa",
-    "teamCode": "AV",
+    "teamCode": "AVL",
     "arena": "Villa Park",
     "arenaId": "villa_park_birmingham",
     "city": "Birmingham, England",
@@ -104,7 +104,7 @@
   },
   {
     "teamName": "Coventry City",
-    "teamCode": "CC",
+    "teamCode": "COV",
     "arena": "Coventry Building Society Arena",
     "arenaId": "coventry_building_society_arena_coventry",
     "city": "Coventry, England",
@@ -121,7 +121,7 @@
   },
   {
     "teamName": "Crystal Palace",
-    "teamCode": "CP",
+    "teamCode": "CRY",
     "arena": "Selhurst Park",
     "arenaId": "selhurst_park_london",
     "city": "London, England",
@@ -174,7 +174,7 @@
   },	
   {
     "teamName": "Hull City",
-    "teamCode": "HC",
+    "teamCode": "HUL",
     "arena": "MKM Stadium",
     "arenaId": "mkm_stadium_hull",
     "city": "Hull, England",
@@ -192,7 +192,7 @@
   },	
   {
     "teamName": "Ipswich Town",
-    "teamCode": "IT",
+    "teamCode": "IPS",
     "arena": "Portman Road",
     "arenaId": "portman_road_ipswich",
     "city": "Ipswich, England",
@@ -243,7 +243,7 @@
   },
   {
     "teamName": "Manchester City",
-    "teamCode": "MANC",
+    "teamCode": "MNC",
     "arena": "Etihad Stadium",
     "arenaId": "etihad_stadium_manchester",
     "city": "Manchester, England",
@@ -260,7 +260,7 @@
   },	
   {
     "teamName": "Manchester United",
-    "teamCode": "MANU",
+    "teamCode": "MAN",
     "arena": "Old Trafford",
     "arenaId": "old_trafford_manchester",
     "city": "Manchester, England",
@@ -296,7 +296,7 @@
   },
   {
     "teamName": "Nottingham Forest",
-    "teamCode": "NF",
+    "teamCode": "NFO",
     "arena": "City Ground",
     "arenaId": "city_ground_nottingham",
     "city": "Nottingham, England",
@@ -353,7 +353,7 @@
 
   {
     "teamName": "Birmingham City",
-    "teamCode": "BC",
+    "teamCode": "BIR",
     "arena": "St. Andrew's @ Knighthead Park",
     "arenaId": "knighthead_park_birmingham",
     "city": "Birmingham, England",
@@ -370,7 +370,7 @@
   },
   {
     "teamName": "Blackburn Rovers",
-    "teamCode": "BR",
+    "teamCode": "BLK",
     "arena": "Ewood Park",
     "arenaId": "ewood_park_blackburn",
     "city": "Blackburn, England",
@@ -387,7 +387,7 @@
   },
   {
     "teamName": "Bolton Wanderers",
-    "teamCode": "BW",
+    "teamCode": "BOL",
     "arena": "Toughsheet Community Stadium",
     "arenaId": "toughsheet_community_stadium_bolton",
     "city": "Bolton, England",
@@ -405,7 +405,7 @@
   },
   {
     "teamName": "Bristol City",
-    "teamCode": "BC",
+    "teamCode": "BRC",
     "arena": "Ashton Gate",
     "arenaId": "ashton_gate_bristol",
     "city": "Bristol, England",
@@ -439,7 +439,7 @@
   },
   {
     "teamName": "Cardiff City",
-    "teamCode": "CC",
+    "teamCode": "CAR",
     "arena": "Cardiff City Stadium",
     "arenaId": "cardiff_city_stadium_cardiff",
     "city": "Cardiff, Wales",
@@ -456,7 +456,7 @@
   },
   {
     "teamName": "Charlton Athletic",
-    "teamCode": "CA",
+    "teamCode": "CHA",
     "arena": "The Valley",
     "arenaId": "the_valley_london",
     "city": "London, England",
@@ -473,7 +473,7 @@
   },
   {
     "teamName": "Derby County",
-    "teamCode": "DC",
+    "teamCode": "DER",
     "arena": "Pride Park Stadium",
     "arenaId": "pride_park_stadium_derby",
     "city": "derby, England",
@@ -490,7 +490,7 @@
   },
   {
     "teamName": "Lincoln City",
-    "teamCode": "LC",
+    "teamCode": "LCN",
     "arena": "ProAmpac Stadium",
     "arenaId": "proampac_stadium_lincoln",
     "city": "Lincoln, England",
@@ -572,7 +572,7 @@
   },
   {
     "teamName": "Austin",
-    "teamCode": "AUS",
+    "teamCode": "ATX",
     "arena": "Q2 Stadium",
     "arenaId": "q2_stadium_austin",
     "city": "Austin, Texas",
@@ -589,7 +589,7 @@
   },	
   {
     "teamName": "Charlotte",
-    "teamCode": "CHA",
+    "teamCode": "CLT",
     "arena": "Bank of America Stadium",
     "arenaId": "bank_of_america_stadium_charlotte",
     "city": "Charlotte, North Carolina",
@@ -642,7 +642,7 @@
   },	
   {
     "teamName": "Columbus Crew",
-    "teamCode": "CC",
+    "teamCode": "CLB",
     "arena": "ScottsMiracle-Gro Field",
     "arenaId": "scottsmiracle_Gro_field_columbus",
     "city": "Columbus, Ohio",
@@ -676,7 +676,7 @@
   },		
   {
     "teamName": "D.C. United",
-    "teamCode": "DCU",
+    "teamCode": "DC",
     "arena": "Audi Field",
     "arenaId": "audi_field_washington",
     "city": "Washington, D.C.",
@@ -710,7 +710,7 @@
   },	
   {
     "teamName": "Inter Miami",
-    "teamCode": "IM",
+    "teamCode": "MIA",
     "arena": "Nu Stadium",
     "arenaId": "nu_stadium_miami",
     "city": "Miami, Florida",
@@ -727,7 +727,7 @@
   },
   {
     "teamName": "LA Galaxy",
-    "teamCode": "LAG",
+    "teamCode": "LA",
     "arena": "Dignity Health Sports Park",
     "arenaId": "dignity_health_sports_park_carson",
     "city": "Carson, California",
@@ -739,13 +739,30 @@
     "colorCode2": "#00003E",
 	"colorCode3": "#D9AF4C",
     "league": "MLS",
-    "capacity": 89702,
+    "capacity": 27000,
 	"startDate": "2003-06-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Los Angeles FC",
+    "teamCode": "LAFC",
+    "arena": "BMO Stadium",
+    "arenaId": "bmo_stadium_los_angeles",
+    "city": "Los Angeles, California",
+    "address": "3939 S Figueroa St, Los Angeles, CA 90037",
+    "website": "lafc.com",
+    "latitude": 34.01275845464987, 
+    "longitude": -118.2840827279926,
+    "colorCode": "#000000",
+    "colorCode2": "#C5A365",
+    "league": "MLS",
+    "capacity": 22000,
+	"startDate": "2018-01-01",
     "endDate": null
   },	
   {
     "teamName": "Montreal",
-    "teamCode": "MON",
+    "teamCode": "MTL",
     "arena": "Saputo Stadium",
     "arenaId": "saputo_stadium_montreal",
     "city": "Montreal, Quebec",
@@ -760,11 +777,9 @@
 	"startDate": "2012-04-04",
     "endDate": null
   },
-  
-  
   {
     "teamName": "Nashville",
-    "teamCode": "NAS",
+    "teamCode": "NSH",
     "arena": "Geodis Park",
     "arenaId": "geodis_park_nashville",
     "city": "Nashville, Tennessee",
