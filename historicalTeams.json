@@ -6220,7 +6220,7 @@
   {
     "teamName": "Columbus Crew",
     "teamCode": "CC",
-    "arena": "	"Ohio Stadium",
+    "arena": "Ohio Stadium",
     "arenaId": "ohio_stadium_columbus",
     "city": "Columbus, Ohio",
     "address": "One Black and Gold Blvd, Columbus, OH 43211",
@@ -6232,7 +6232,7 @@
     "league": "MLS",
     "capacity": 102780,
 	"startDate": "1996-01-01",
-    "endDate": ""1998-12-31"
+    "endDate": "1998-12-31"
   },
   {
     "teamName": "D.C. United",
