@@ -118,5 +118,14 @@
       { "name": "StubHub Center", "from": "2013-06-01", "to": "2018-12-31" },
       { "name": "Dignity Health Sports Park", "from": "2019-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "BMO Stadium",
+    "teamName": "Los Angeles FC",
+    "league": "MLS",
+    "history": [
+      { "name": "Banc of California Stadium", "from": "2016-01-01", "to": "2018-12-31" },
+      { "name": "BMO Stadium", "from": "2023-01-01", "to": null }
+    ]
   }
 ]
