@@ -862,7 +862,25 @@
     "capacity": 25000,
 	"startDate": "2010-01-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Orlando City",
+    "teamCode": "ORL",
+    "arena": "Inter&Co Stadium",
+    "arenaId": "inter&co_stadium_orlando",
+    "city": "Orlando, Florida",
+    "address": "655 W Church St, Orlando, FL 32805",
+    "website": "orlandocitysc.com",
+    "latitude": 28.54110206710842, 
+    "longitude": -81.38906822290848  ,
+    "colorCode": "#412A7A",
+    "colorCode2": "#7460EE", 
+	"colorCode3": "#FFFFFF",    
+    "league": "MLS",
+    "capacity": 25500,
+	"startDate": "2017-01-01",
+    "endDate": null
+  }		
   	
   
 ]
