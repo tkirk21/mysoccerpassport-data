@@ -811,6 +811,23 @@
     "capacity": 30000,
 	"startDate": "2022-05-01",
     "endDate": null
+  },
+  {
+    "teamName": "New England Revolution",
+    "teamCode": "NE",
+    "arena": "Foxboro Stadium",
+    "arenaId": "foxboro_stadium_foxborough",
+    "city": "Foxborough, Massachusetts",
+    "address": "Route 1, Foxboro, MA 02035",
+    "website": "revolutionsoccer.net",
+    "latitude": 42.09277514105173,  
+    "longitude": -71.26751818546286,
+    "colorCode": "#122946",
+    "colorCode2": "#D01634",   
+    "league": "MLS",
+    "capacity": 60292,
+	"startDate": "1996-01-01",
+    "endDate": "2002-05-10"
   }		
   	
   
