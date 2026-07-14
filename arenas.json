@@ -845,7 +845,24 @@
     "capacity": 46537,
 	"startDate": "2015-01-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "New York Red Bulls",
+    "teamCode": "NYRB",
+    "arena": "Sports Illustrated Stadium",
+    "arenaId": "sports_illustrated_stadium_new_jersey",
+    "city": "Harrison, New Jersey",
+    "address": "600 Cape May St, Harrison, NJ 07029",
+    "website": "newyorkredbulls.com",
+    "latitude": 40.73687231333627,    
+    "longitude": -74.15031295177643,
+    "colorCode": "#F90000",
+    "colorCode2": "#000000",   
+    "league": "MLS",
+    "capacity": 25000,
+	"startDate": "2010-01-01",
+    "endDate": null
+  }			
   	
   
 ]
