@@ -6473,7 +6473,25 @@
     "capacity": 80242,
 	"startDate": "1996-01-01",
     "endDate": "2009-12-31"
-  }
+  },
+  {
+    "teamName": "Orlando City",
+    "teamCode": "ORL",
+    "arena": "Orlando Citrus Bowl",
+    "arenaId": "orlando_citrus_bowl_orlando",
+    "city": "Orlando, Florida",
+    "address": "1 Citrus Bowl Place, Orlando, FL 32805",
+    "website": "orlandocitysc.com",
+    "latitude": 28.53902005811624,
+    "longitude": -81.40275286791424,
+    "colorCode": "#412A7A",
+    "colorCode2": "#7460EE", 
+	"colorCode3": "#FFFFFF",    
+    "league": "MLS",
+    "capacity": 60219,
+	"startDate": "2015-01-01",
+    "endDate": "2016-12-31"
+  }			
   
 	
 	
