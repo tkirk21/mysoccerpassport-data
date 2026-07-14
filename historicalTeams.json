@@ -6405,7 +6405,41 @@
     "capacity": 60292,
 	"startDate": "1996-01-01",
     "endDate": "2002-05-10"
-  }		
+  },
+  {
+    "teamName": "New York City",
+    "teamCode": "NYC",
+    "arena": "Sports Illustrated Stadium",
+    "arenaId": "sports_illustrated_stadium_new_jersey",
+    "city": "Harrison, New Jersey",
+    "address": "600 Cape May St, Harrison, NJ 07029",
+    "website": "newyorkcityfc.com",
+    "latitude": 40.736941771228665,     
+    "longitude": -74.1503634272182,
+    "colorCode": "#ABCAE9",
+    "colorCode2": "#DBE7F5",   
+    "league": "MLS",
+    "capacity": 25000,
+	"startDate": "2020-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "New York City",
+    "teamCode": "NYC",
+    "arena": "Citi Field",
+    "arenaId": "citi_field_new_jersey_flushing",
+    "city": "Flushing, New York",
+    "address": "41 Seaver Wy, Flushing, NY 11368",
+    "website": "newyorkcityfc.com",
+    "latitude": 40.75716682566672,     
+    "longitude": -73.84588499231583,
+    "colorCode": "#ABCAE9",
+    "colorCode2": "#DBE7F5",   
+    "league": "MLS",
+    "capacity": 41922,
+	"startDate": "2022-01-01",
+    "endDate": null
+  }			
 	
 	
 ]	
