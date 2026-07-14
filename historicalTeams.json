@@ -6353,6 +6353,24 @@
     "capacity": 89702,
 	"startDate": "1996-01-01",
     "endDate": "2003-05-31"
+  },	
+  {
+    "teamName": "Minnesota United",
+    "teamCode": "MIN",
+    "arena": "TCF Bank Stadium",
+    "arenaId": "tcf_bank_stadium_minneapolis",
+    "city": "Minneapolis, Minnesota",
+    "address": "420 23rd Ave SE, Minneapolis, MN 55455",
+    "website": "www.mnufc.com",
+    "latitude": 44.976531424169025,  
+    "longitude": -93.22460699386856,
+    "colorCode": "#2C2526",
+    "colorCode2": "#166D86",  
+	"colorCode3": "#696E73",     
+    "league": "MLS",
+    "capacity": 50805,
+	"startDate": "2017-01-01",
+    "endDate": "2019-04-03"
   },		
   {
     "teamName": "Nashville",
