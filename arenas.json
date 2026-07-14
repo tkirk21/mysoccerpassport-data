@@ -761,6 +761,24 @@
     "endDate": null
   },	
   {
+    "teamName": "Minnesota United",
+    "teamCode": "MIN",
+    "arena": "Allianz Field",
+    "arenaId": "allianz_field_saint_paul",
+    "city": "Saint Paul, Minnesota",
+    "address": "400 Snelling Ave N, St Paul, MN 55104",
+    "website": "www.mnufc.com/stadium/",
+    "latitude": 44.95310793716133, 
+    "longitude": -93.16471266460158,
+    "colorCode": "#2C2526",
+    "colorCode2": "#166D86",  
+	"colorCode3": "#696E73",     
+    "league": "MLS",
+    "capacity": 19400,
+	"startDate": "2019-04-04",
+    "endDate": null
+  },	
+  {
     "teamName": "Montreal",
     "teamCode": "MTL",
     "arena": "Saputo Stadium",
