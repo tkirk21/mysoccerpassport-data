@@ -5,7 +5,7 @@
     "league": "EFLC",
     "history": [
       { "name": "Dean Court", "from": "1992-01-01", "to": "2001-06-30" },
-      { "name": "Fitness First Stadium", "from": "2001-07-01", "to": "2002-06-30" },
+      { "name": "Fitness First Stadium", "from": "2001-07-01", "to": "2002-06-30" }
     ]
   },
   {
@@ -13,9 +13,9 @@
     "teamName": "Bournemouth",
     "league": "EFL1",
     "history": [
-      { "name": "Fitness First Stadium ", "from": "2010-01-01", "to": "2011-06-30" },
+      { "name": "Fitness First Stadium", "from": "2010-01-01", "to": "2011-06-30" },
       { "name": "Seward Stadium", "from": "2011-01-01", "to": "2012-06-30" },
-      { "name": "Goldsands Stadium", "from": "2012-07-01", "to": "2013-06-30" },
+      { "name": "Goldsands Stadium", "from": "2012-07-01", "to": "2013-06-30" }
     ]
   },
   {
@@ -24,7 +24,7 @@
     "league": "EFLC",
     "history": [
       { "name": "Reebok Stadium", "from": "2012-01-01", "to": "2014-06-30" },
-      { "name": "Macron Stadium", "from": "2014-07-01", "to": "2016-06-30" },
+      { "name": "Macron Stadium", "from": "2014-07-01", "to": "2016-06-30" }
     ]
   },
   {
@@ -33,7 +33,7 @@
     "league": "EFLC",
     "history": [
       { "name": "Macron Stadium", "from": "2017-07-01", "to": "2018-06-30" },
-      { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2019-06-30" },
+      { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2019-06-30" }
     ]
   },
    {
@@ -43,7 +43,7 @@
     "history": [
       { "name": "Cellnet Riverside Stadium", "from": "1995-07-01", "to": "1999-06-30" },
       { "name": "BT Cellnet Riverside Stadium", "from": "1999-07-01", "to": "2002-06-30" },
-      { "name": "Riverside Stadium", "from": "2002-07-01", "to": "2009-06-30" },
+      { "name": "Riverside Stadium", "from": "2002-07-01", "to": "2009-06-30" }
     ]
   },
   {
@@ -95,7 +95,7 @@
     "history": [
       { "name": "Inter Miami CF Stadium", "from": "2020-01-01", "to": "2020-12-31" },
       { "name": "DRV PNK Stadium", "from": "2021-01-01", "to": "2023-12-31" },
-      { "name": "Chase Stadiumase Stadium", "from": "2024-01-01", "to": "2025-12-31" },
+      { "name": "Chase Stadium", "from": "2024-01-01", "to": "2025-12-31" },
       { "name": "Inter Miami CF Stadium", "from": "2026-01-01", "to": "2026-04-03" }
     ]
   },
