@@ -145,5 +145,15 @@
       { "name": "Red Bull Arena", "from": "2010-01-01", "to": "2024-12-10" },
       { "name": "Sports Illustrated Stadium", "from": "2024-12-11", "to": null }
     ]
+  },
+  {
+    "currentArena": "Subaru Park",
+    "teamName": "Philadelphia Union",
+    "league": "MLS",
+    "history": [
+      { "name": "PPL Park", "from": "2010-01-01", "to": "2015-12-31" },
+      { "name": "Talen Energy Stadium", "from": "2016-01-01", "to": "2019-12-31" },
+      { "name": "Subaru Park", "from": "2020-01-01", "to": null }
+    ]
   }
 ]
