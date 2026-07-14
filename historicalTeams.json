@@ -6439,7 +6439,42 @@
     "capacity": 41922,
 	"startDate": "2022-01-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "New York Red Bulls",
+    "teamCode": "NYRB",
+    "arena": "Giants Stadium",
+    "arenaId": "giants_stadium_east_rutherford",
+    "city": "East Rutherford, New Jersey",
+    "address": 	"50 Route 120, East Rutherford, NJ 07029",
+    "website": "newyorkredbulls.com",
+    "latitude": 40.81225123271052,   
+    "longitude": -74.07696093706969 ,
+    "colorCode": "#F90000",
+    "colorCode2": "#000000",   
+    "league": "MLS",
+    "capacity": 80242,
+	"startDate": "2006-01-01",
+    "endDate": "2009-12-31"
+  },
+  {
+    "teamName": "MetroStars",
+    "teamCode": "NYRB",
+    "arena": "Giants Stadium",
+    "arenaId": "giants_stadium_east_rutherford",
+    "city": "East Rutherford, New Jersey",
+    "address": 	"50 Route 120, East Rutherford, NJ 07029",
+    "website": "newyorkredbulls.com",
+    "latitude": 40.81225123271052,   
+    "longitude": -74.07696093706969 ,
+    "colorCode": "#F90000",
+    "colorCode2": "#000000",   
+    "league": "MLS",
+    "capacity": 80242,
+	"startDate": "1996-01-01",
+    "endDate": "2009-12-31"
+  }
+  
 	
 	
 ]	
