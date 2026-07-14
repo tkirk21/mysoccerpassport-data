@@ -898,6 +898,23 @@
     "capacity": 18500,
 	"startDate": "2010-01-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Portland Timbers",
+    "teamCode": "POR",
+    "arena": "Providence Park",
+    "arenaId": "providence_park_portland",
+    "city": "Portland, Oregon",
+    "address": "1844 SW Morrison St, Portland, OR 97205",
+    "website": "timbers.com",
+    "latitude": 45.52154310980704,
+    "longitude": -122.69178090850694,
+    "colorCode": "#0A4042",
+    "colorCode2": "#A88847", 
+    "league": "MLS",
+    "capacity": 25218,
+	"startDate": "2011-01-01",
+    "endDate": null
+  },
   
 ]
