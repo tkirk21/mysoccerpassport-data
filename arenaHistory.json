@@ -127,5 +127,23 @@
       { "name": "Banc of California Stadium", "from": "2016-01-01", "to": "2018-12-31" },
       { "name": "BMO Stadium", "from": "2023-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "Sports Illustrated Stadium",
+    "teamName": "New York City",
+    "league": "MLS",
+    "history": [
+      { "name": "Red Bull Arena", "from": "2020-01-01", "to": "2024-12-10" },
+      { "name": "Sports Illustrated Stadium", "from": "2024-12-11", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Sports Illustrated Stadium",
+    "teamName": "New York Red Bulls",
+    "league": "MLS",
+    "history": [
+      { "name": "Red Bull Arena", "from": "2010-01-01", "to": "2024-12-10" },
+      { "name": "Sports Illustrated Stadium", "from": "2024-12-11", "to": null }
+    ]
   }
 ]
