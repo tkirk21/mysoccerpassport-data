@@ -1054,7 +1054,24 @@
     "capacity": 65061,
 	"startDate": "2011-06-08",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Birmingham Legion",
+    "teamCode": "BIR",
+    "arena": "Protective Stadium",
+    "arenaId": "protective_stadium_birmingham",
+    "city": "Birmingham, Alabama",
+    "address": "1001 22nd St N, Birmingham, AL 35203",
+    "website": "whitecapsfc.com",
+    "latitude": 33.527844255091935,  
+    "longitude": -86.80920117357776,
+    "colorCode": "#000000",
+    "colorCode2": "#BBBBBB",  
+    "league": "USLC",
+    "capacity": 47100,
+	"startDate": "2022-06-08",
+    "endDate": null
+  }	
   
   	
   
