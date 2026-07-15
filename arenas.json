@@ -1057,7 +1057,7 @@
   },
   {
     "teamName": "Birmingham Legion",
-    "teamCode": "BIR",
+    "teamCode": "BHM",
     "arena": "Protective Stadium",
     "arenaId": "protective_stadium_birmingham",
     "city": "Birmingham, Alabama",
@@ -1069,7 +1069,41 @@
     "colorCode2": "#BBBBBB",  
     "league": "USLC",
     "capacity": 47100,
-	"startDate": "2022-06-08",
+	"startDate": "2022-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Brooklyn",
+    "teamCode": "BKN",
+    "arena": "Maimonides Park",
+    "arenaId": "maimonides_park_brooklyn",
+    "city": "Brooklyn, New York",
+    "address": "1904 Surf Ave, Brooklyn, NY 11224",
+    "website": "brooklynfootballclub.com",
+    "latitude": 40.574292101366844,  
+    "longitude": -73.98383002079599,
+    "colorCode": "#000000",
+    "colorCode2": "#CCCCCC",  
+    "league": "USLC",
+    "capacity": 7000,
+	"startDate": "2026-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Charleston Battery",
+    "teamCode": "CHS",
+    "arena": "Patriots Point Soccer Complex",
+    "arenaId": "patriots_point_soccer_complex_mount_pleasant",
+    "city": "Mount Pleasant, South Carolina",
+    "address": "85 Patriots Point Rd, Mt Pleasant, SC 29464",
+    "website": "charlestonbattery.com",
+    "latitude": 32.79492230125073, 
+    "longitude": -79.90298268532864,
+    "colorCode": "#000000",
+    "colorCode2": "#FECC08",  
+    "league": "USLC",
+    "capacity": 5000,
+	"startDate": "2020-01-01",
     "endDate": null
   }	
   
