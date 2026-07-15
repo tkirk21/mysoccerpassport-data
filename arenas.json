@@ -951,7 +951,24 @@
     "capacity": 35000,
 	"startDate": "2025-01-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "San Jose Earthquakes",
+    "teamCode": "SJ",
+    "arena": "PayPal Park",
+    "arenaId": "paypal_park_san_jose",
+    "city": "San Jose, California",
+    "address": "1123 Coleman Ave, San Jose, CA 95110",
+    "website": "sjearthquakes.com",
+    "latitude": 37.351149967791244, 
+    "longitude": -121.92464718965778,
+    "colorCode": "#0079FB",
+    "colorCode2": "#000000", 
+    "league": "MLS",
+    "capacity": 18000,
+	"startDate": "2015-01-01",
+    "endDate": null
+  },	
   	
   
 ]
