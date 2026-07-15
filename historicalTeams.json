@@ -6619,7 +6619,24 @@
     "capacity": 65657,
 	"startDate": "1999-01-01",
     "endDate": "2001-12-31"
-  }	
+  },
+   {
+    "teamName": "Birmingham Legion",
+    "teamCode": "BIR",
+    "arena": "BBVA Field",
+    "arenaId": "bbva_field_birmingham",
+    "city": "Birmingham, Alabama",
+    "address": "800 11th St S, Birmingham, AL 35205",
+    "website": "bhmlegion.com",
+    "latitude": 33.497921912211076, 
+    "longitude": -86.81237945892077,
+    "colorCode": "#000000",
+    "colorCode2": "#BBBBBB",  
+    "league": "USLC",
+    "capacity": 5000,
+	"startDate": "2019-01-01",
+    "endDate": "2021-12-31"
+  }		
 	
 	
 ]	
