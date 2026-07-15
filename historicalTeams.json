@@ -6636,7 +6636,24 @@
     "capacity": 5000,
 	"startDate": "2019-01-01",
     "endDate": "2021-12-31"
-  }		
+  },
+  {
+    "teamName": "Charleston Battery",
+    "teamCode": "CHS",
+    "arena": "MUSC Health Stadium",
+    "arenaId": "musc_health_stadium_charleston",
+    "city": "Charleston, South Carolina",
+    "address": "1990 Daniel Island Dr, Charleston, SC 29492",
+    "website": "charlestonbattery.com",
+    "latitude": 32.87087812509015,  
+    "longitude": -79.91975563202328,
+    "colorCode": "#000000",
+    "colorCode2": "#FECC08",  
+    "league": "USLC",
+    "capacity": 5100,
+	"startDate": "2011-01-01",
+    "endDate": "2019-12-31"
+  }	
 	
 	
 ]	
