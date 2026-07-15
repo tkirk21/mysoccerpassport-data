@@ -969,6 +969,24 @@
 	"startDate": "2015-01-01",
     "endDate": null
   },	
+  {
+    "teamName": "Seattle Sounders",
+    "teamCode": "SEA",
+    "arena": "Lumen Field",
+    "arenaId": "lumen_field_seattle",
+    "city": "Seattle, Washington",
+    "address": "800 Occidental Ave S, Seattle, WA 98134",
+    "website": "soundersfc.com",
+    "latitude": 47.59510670208928, 
+    "longitude": -122.33162953958848,
+    "colorCode": "#51B749",
+    "colorCode2": "#97EAE0", 
+	"colorCode3": "#013399",   
+    "league": "MLS",
+    "capacity": 68740,
+	"startDate": "2002-07-28",
+    "endDate": null
+  }	
   	
   
 ]
