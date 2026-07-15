@@ -915,6 +915,24 @@
     "capacity": 25218,
 	"startDate": "2011-01-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Real Salt Lake",
+    "teamCode": "RSL",
+    "arena": "America First Field",
+    "arenaId": "america_first_field_sandy",
+    "city": "Sandy, Utah",
+    "address": "9256 S State St, Sandy, UT 84070",
+    "website": "rsl.com",
+    "latitude": 40.582916590677016, 
+    "longitude": -111.89335960692455,
+    "colorCode": "#000360",
+    "colorCode2": "#DA0000", 
+	"colorCode3": "#F2D11A", 
+    "league": "MLS",
+    "capacity": 20213,
+	"startDate": "2008-01-01",
+    "endDate": null
+  }	
   
 ]
