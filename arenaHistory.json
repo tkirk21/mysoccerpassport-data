@@ -155,5 +155,14 @@
       { "name": "Talen Energy Stadium", "from": "2016-01-01", "to": "2019-12-31" },
       { "name": "Subaru Park", "from": "2020-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "America First Field",
+    "teamName": "Real Salt Lake",
+    "league": "MLS",
+    "history": [
+      { "name": "Rio Tinto Stadium", "from": "2008-01-01", "to": "2022-12-31" },
+      { "name": "America First Field", "from": "2023-01-01", "to": null }
+    ]
   }
 ]
