@@ -6560,6 +6560,23 @@
     "capacity": 10525,
 	"startDate": "2008-01-01",
     "endDate": "2014-12-31"
+  },
+  {
+    "teamName": "Sporting Kansas City",
+    "teamCode": "SKC",
+    "arena": "Arrowhead Stadium",
+    "arenaId": "arrowhead_stadium_kansas_city",
+    "city": "Kansas City, Kansas",
+    "address": "1 Arrowhead Dr, Kansas City, MO 64129",
+    "website": "sportingkc.com",
+    "latitude": 39.04890983026009,  
+    "longitude": -94.48402593168295,
+    "colorCode": "#A0D0FF",
+    "colorCode2": "#163051",  
+    "league": "MLS",
+    "capacity": 73426,
+	"startDate": "1996-01-01",
+    "endDate": "2011-06-08"
   }
 	
 	
