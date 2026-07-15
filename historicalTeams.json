@@ -6653,6 +6653,23 @@
     "capacity": 5100,
 	"startDate": "2011-01-01",
     "endDate": "2019-12-31"
+  },
+  {
+    "teamName": "Colorado Springs SwitchbackS",
+    "teamCode": "COS",
+    "arena": "Switchbacks Stadium",
+    "arenaId": "switchbacks_stadium_colorado_springs",
+    "city": "Colorado Springs, Colorado",
+    "address": "6303 Barnes Rd, Colorado Springs, CO 80903",
+    "website": "switchbacksfc.com",
+    "latitude": 38.89552960218223, 
+    "longitude": -104.7115934498844,
+    "colorCode": "#000000",
+    "colorCode2": "#FFFFFFF",  
+    "league": "USLC",
+    "capacity": 5000,
+	"startDate": "2015-01-01",
+    "endDate": "2020-04-23"
   }	
 	
 	
