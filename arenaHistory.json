@@ -192,5 +192,14 @@
       { "name": "CityPark", "from": "2023-01-01", "to": "2024-12-31" },
       { "name": "Energizer Park", "from": "2025-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "StubHub Center",
+    "teamName": "LA Galaxy",
+    "league": "MLS",
+    "history": [
+      { "name": "Home Depot Center", "from": "2005-01-01", "to": "2013-05-31" },
+      { "name": "StubHub Center", "from": "2013-06-01", "to": "2014-12-31" },
+    ]
   }
 ]
