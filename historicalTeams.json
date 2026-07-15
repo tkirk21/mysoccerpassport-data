@@ -6491,7 +6491,25 @@
     "capacity": 60219,
 	"startDate": "2015-01-01",
     "endDate": "2016-12-31"
-  }			
+  },
+  {
+    "teamName": "Real Salt Lake",
+    "teamCode": "RSL",
+    "arena": "Rice–Eccles Stadium",
+    "arenaId": "rice_eccles_tadium_salt_lake_city",
+    "city": "Salt Lake City, Utah",
+    "address": "451 1400 E, Salt Lake City, UT 84112",
+    "website": "rsl.com",
+    "latitude": 40.75997388675761, 
+    "longitude": -111.84884536548236,
+    "colorCode": "#000360",
+    "colorCode2": "#DA0000", 
+	"colorCode3": "#F2D11A", 
+    "league": "MLS",
+    "capacity": 51444,
+	"startDate": "2005-01-01",
+    "endDate": "2008-10-08"
+  }		
   
 	
 	
