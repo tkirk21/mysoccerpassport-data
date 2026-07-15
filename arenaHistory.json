@@ -173,5 +173,24 @@
       { "name": "Avaya Stadium", "from": "2015-01-01", "to": "2020-12-31" },
       { "name": "PayPal Park", "from": "2021-01-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "Sporting Park",
+    "teamName": "Sporting Kansas City",
+    "league": "MLS",
+    "history": [
+      { "name": "Livestrong Sporting Park", "from": "2011-01-01", "to": "2013-12-31" },
+      { "name": "Children's Mercy Park", "from": "2015-01-01", "to": "2025-12-31" },
+      { "name": "Sporting Park", "from": "2026-01-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Energizer Park",
+    "teamName": "St. Louis City",
+    "league": "MLS",
+    "history": [
+      { "name": "CityPark", "from": "2023-01-01", "to": "2024-12-31" },
+      { "name": "Energizer Park", "from": "2025-01-01", "to": null }
+    ]
   }
 ]
