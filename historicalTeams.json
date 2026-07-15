@@ -6577,7 +6577,41 @@
     "capacity": 73426,
 	"startDate": "1996-01-01",
     "endDate": "2011-06-08"
-  }
+  },
+  {
+    "teamName": "Tampa Bay Mutiny",
+    "teamCode": "TBM",
+    "arena": "Tampa Stadium",
+    "arenaId": "tampa_stadium_tampa",
+    "city": "Tampa, Florida",
+    "address": "4201 N Dale Mabry Hwy, Tampa, FL 33607",
+    "website": "https://www.mlssoccer.com/clubs/tampa-bay-mutiny/",
+    "latitude": 27.97889800111534, 
+    "longitude": -82.50358603331243,
+    "colorCode": "#00FFFF",
+    "colorCode2": "#000037",  
+    "league": "MLS",
+    "capacity": 74301,
+	"startDate": "1996-01-01",
+    "endDate": "1998-12-31"
+  }		
+  {
+    "teamName": "Tampa Bay Mutiny",
+    "teamCode": "TBM",
+    "arena": "Raymond James Stadium",
+    "arenaId": "raymond_james_stadium_tampa",
+    "city": "Tampa, Florida",
+    "address": "4201 N Dale Mabry Hwy, Tampa, FL 33607",
+    "website": "https://www.mlssoccer.com/clubs/tampa-bay-mutiny/",
+    "latitude": 27.97604992822869, 
+    "longitude": -82.50338178640348,
+    "colorCode": "#00FFFF",
+    "colorCode2": "#000037",  
+    "league": "MLS",
+    "capacity": 65657,
+	"startDate": "1999-01-01",
+    "endDate": "2001-12-31"
+  }	
 	
 	
 ]	
