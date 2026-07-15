@@ -6509,8 +6509,58 @@
     "capacity": 51444,
 	"startDate": "2005-01-01",
     "endDate": "2008-10-08"
-  }		
-  
+  },
+  {
+    "teamName": "San Jose Clash",
+    "teamCode": "SJ",
+    "arena": "Spartan Stadium",
+    "arenaId": "spartan_stadium_san_jose",
+    "city": "San Jose, California",
+    "address": "1257 S 10th St, San Jose, CA 95112",
+    "website": "sjearthquakes.com",
+    "latitude": 37.31970368657468, 
+    "longitude": -121.8683124733002,
+    "colorCode": "#0079FB",
+    "colorCode2": "#000000", 
+    "league": "MLS",
+    "capacity": 30456,
+	"startDate": "1996-01-01",
+    "endDate": "1999-12-31"
+  },		
+  {
+    "teamName": "San Jose Earthquakes",
+    "teamCode": "SJ",
+    "arena": "Spartan Stadium",
+    "arenaId": "spartan_stadium_san_jose",
+    "city": "San Jose, California",
+    "address": "1257 S 10th St, San Jose, CA 95112",
+    "website": "sjearthquakes.com",
+    "latitude": 37.31970368657468, 
+    "longitude": -121.8683124733002,
+    "colorCode": "#0079FB",
+    "colorCode2": "#000000", 
+    "league": "MLS",
+    "capacity": 30456,
+	"startDate": "2000-01-01",
+    "endDate": "2005-12-31"
+  },
+  {
+    "teamName": "San Jose Earthquakes",
+    "teamCode": "SJ",
+    "arena": "Buck Shaw Stadium",
+    "arenaId": "buck_shaw_stadium_santa_clara",
+    "city": "Santa Clara, California",
+    "address": "500 El Camino Real #105, Santa Clara, CA 95053",
+    "website": "sjearthquakes.com",
+    "latitude": 37.35052596965411,  
+    "longitude": -121.93659076736266,
+    "colorCode": "#0079FB",
+    "colorCode2": "#000000", 
+    "league": "MLS",
+    "capacity": 10525,
+	"startDate": "2008-01-01",
+    "endDate": "2014-12-31"
+  },
 	
 	
 ]	
