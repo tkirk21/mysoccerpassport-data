@@ -933,6 +933,25 @@
     "capacity": 20213,
 	"startDate": "2008-10-09",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "San Diego",
+    "teamCode": "SD",
+    "arena": "Snapdragon Stadium",
+    "arenaId": "snapdragon_stadium_san_diego",
+    "city": "San Diego, California",
+    "address": "2101 Stadium Wy, San Diego, CA 92108",
+    "website": "sandiegofc.com",
+    "latitude": 32.78426548451864, 
+    "longitude": -117.12241745542319,
+    "colorCode": "#04182C",
+    "colorCode2": "#B4B4B4", 
+	"colorCode3": "#04A8CB", 
+    "league": "MLS",
+    "capacity": 35000,
+	"startDate": "2025-01-01",
+    "endDate": null
+  }
+  	
   
 ]
