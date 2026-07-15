@@ -986,7 +986,76 @@
     "capacity": 68740,
 	"startDate": "2009-01-01",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "St. Louis City",
+    "teamCode": "STL",
+    "arena": "Energizer Park",
+    "arenaId": "energizer_park_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "2019 Market St, St. Louis, MO 63103",
+    "website": "stlcitysc.com",
+    "latitude": 38.63137628317594,  
+    "longitude": -90.21028571053145,
+    "colorCode": "#F6325C",
+    "colorCode2": "#001837",  
+    "league": "MLS",
+    "capacity": 22423,
+	"startDate": "2023-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Sporting Kansas City",
+    "teamCode": "SKC",
+    "arena": "Sporting Park",
+    "arenaId": "sporting_park_kansas_city",
+    "city": "Kansas City, Kansas",
+    "address": "1 Sporting Way, Kansas City, KS 66111",
+    "website": "sportingkc.com",
+    "latitude": 39.12161920823371,  
+    "longitude": -94.82321453516455,
+    "colorCode": "#A0D0FF",
+    "colorCode2": "#163051",  
+    "league": "MLS",
+    "capacity": 18467,
+	"startDate": "2011-01-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Toronto",
+    "teamCode": "TOR",
+    "arena": "BMO Field",
+    "arenaId": "bmo_field_toronto",
+    "city": "Toronto, Ontario",
+    "address": "170 Princes' Blvd, Toronto, ON M6K 3C3, Canada",
+    "website": "www.torontofc.ca",
+    "latitude": 43.63323127739506, 
+    "longitude": -79.4185745869111 ,
+    "colorCode": "#FF0000",
+    "colorCode2": "#950000",  
+    "league": "MLS",
+    "capacity": 45736,
+	"startDate": "2007-01-01",
+    "endDate": null
+  },		
+  {
+    "teamName": "Vancouver Whitecaps",
+    "teamCode": "VAN",
+    "arena": "BC Place",
+    "arenaId": "bc_place_vancouver",
+    "city": "Vancouver, British Columbia",
+    "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
+    "website": "whitecapsfc.com",
+    "latitude": 49.27673726758519, 
+    "longitude": -123.11200155088893,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#001F5E",  
+    "league": "MLS",
+    "capacity": 65061,
+	"startDate": "2011-01-01",
+    "endDate": null
+  }
+  
   	
   
 ]
