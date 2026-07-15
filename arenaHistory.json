@@ -201,5 +201,14 @@
       { "name": "Home Depot Center", "from": "2005-01-01", "to": "2013-05-31" },
       { "name": "StubHub Center", "from": "2013-06-01", "to": "2014-12-31" }
     ]
+  },
+  {
+    "currentArena": "MUSC Health Stadium",
+    "teamName": "Charleston Battery",
+    "league": "USLC",
+    "history": [
+      { "name": "Blackbaud Stadium", "from": "2011-01-01", "to": "2013-12-31" },
+      { "name": "MUSC Health Stadium", "from": "2016-01-01", "to": "2019-12-31" }
+    ]
   }
 ]
