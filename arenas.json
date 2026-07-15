@@ -1105,6 +1105,23 @@
     "capacity": 5000,
 	"startDate": "2020-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Colorado Springs SwitchbackS",
+    "teamCode": "COS",
+    "arena": "Weidner Field",
+    "arenaId": "weidner_field_colorado_springs",
+    "city": "Colorado Springs, Colorado",
+    "address": "111 W Cimarron St, Colorado Springs, CO 80903",
+    "website": "switchbacksfc.com",
+    "latitude": 38.826223049017315, 
+    "longitude": -104.82837254477205,
+    "colorCode": "#000000",
+    "colorCode2": "#FFFFFFF",  
+    "league": "USLC",
+    "capacity": 8000,
+	"startDate": "2021-01-01",
+    "endDate": null
   }	
   
   	
