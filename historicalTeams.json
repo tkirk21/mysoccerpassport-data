@@ -5997,32 +5997,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "teamName": "Atlanta United",
     "teamCode": "ATL",
@@ -6111,7 +6085,6 @@
 	"startDate": "2002-01-01",
     "endDate": "2003-09-30"
   },
-
   {
     "teamName": "Chicago Fire",
     "teamCode": "CHI",
@@ -6320,7 +6293,7 @@
 	"startDate": "2004-01-01",
     "endDate": "2005-08-05"
   },
-   {
+  {
     "teamName": "Houston Dynamo",
     "teamCode": "HOU",
     "arena": "Robertson Stadium",
@@ -6629,7 +6602,7 @@
     "capacity": 74301,
 	"startDate": "1996-01-01",
     "endDate": "1998-12-31"
-  }		
+  },
   {
     "teamName": "Tampa Bay Mutiny",
     "teamCode": "TBM",
