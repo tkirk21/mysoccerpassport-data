@@ -210,5 +210,15 @@
       { "name": "Blackbaud Stadium", "from": "2011-01-01", "to": "2013-12-31" },
       { "name": "MUSC Health Stadium", "from": "2016-01-01", "to": "2019-12-31" }
     ]
+  },
+  {
+    "currentArena": "Switchbacks Stadium",
+    "teamName": " Colorado Springs Switchback",
+    "league": "USLC",
+    "history": [
+      { "name": "Sand Creek Stadium", "from": "2015-01-01", "to": "2017-02-13" },
+      { "name": "Switchbacks Stadium", "from": "2016-03-07", "to": "2017-02-13" },
+      { "name": "Weidner Field", "from": "2017-02-14", "to": "2020-12-31" }
+    ]
   }
 ]
