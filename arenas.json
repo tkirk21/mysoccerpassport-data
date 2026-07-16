@@ -523,7 +523,25 @@
 	"startDate": "2017-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "Millwall",
+    "teamCode": "MIL",
+    "arena": "The Den",
+    "arenaId": "the_den_london",
+    "city": "London, England",
+    "address": "John Berylson Wy, London SE16 3LN, United Kingdom",
+    "website": "millwallfc.co.uk",
+    "latitude": 51.485945111816925,  
+    "longitude": -0.05090772499696153,
+    "colorCode": "#181D3B",
+    "colorCode2": "#1B3357",  
+	"colorCode3": "#6D7381", 
+	"colorCode4": "#9F935C",    
+    "league": "EFLC",
+    "capacity": 20146,
+	"startDate": "2017-07-01",
+    "endDate": null
+  },
 
 
 
