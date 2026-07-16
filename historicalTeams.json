@@ -6423,6 +6423,24 @@
     "endDate": "1928-06-30"
   },
 
+  {
+    "teamName": "Norwich City",
+    "teamCode": "NORC",
+    "arena": "The Nest",
+    "arenaId": "the_nest_norwich",
+    "city": "Norwich, England",
+    "address": "Bertram Way, Norwich NR1 1EU,, United Kingdom",
+    "website": "canaries.co.uk",
+    "latitude": 52.62971944547476,  
+    "longitude": 1.31027612275493,
+    "colorCode": "#FFF000",
+    "colorCode2": "#00A326",     
+    "league": "EFL1S",
+    "capacity": 27359,
+	"startDate": "1921-07-01",
+    "endDate": "1934-06-30"
+  },	
+
 
 
 
