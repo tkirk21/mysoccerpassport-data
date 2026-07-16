@@ -542,7 +542,23 @@
 	"startDate": "2017-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "Norwich City",
+    "teamCode": "NORC",
+    "arena": "Carrow Road",
+    "arenaId": "carrow_road_norwich",
+    "city": "Norwich, England",
+    "address": "Carrow Rd, Norwich NR1 1JE, United Kingdom",
+    "website": "millwallfc.co.uk",
+    "latitude": 52.622150032761404, 
+    "longitude": 1.3091493120293582 ,
+    "colorCode": "#FFF000",
+    "colorCode2": "#00A326",     
+    "league": "EFLC",
+    "capacity": 27359,
+	"startDate": "2020-07-01",
+    "endDate": null
+  },
 
 
 
