@@ -1122,8 +1122,23 @@
     "capacity": 8000,
 	"startDate": "2021-04-24",
     "endDate": null
-  }	
-  
-  	
-  
+  },
+  {
+    "teamName": "Detroit City",
+    "teamCode": "DET",
+    "arena": "Keyworth Stadium",
+    "arenaId": "keyworth_stadium_hamworth",
+    "city": "Hamtramck, Michigan",
+    "address": "3201 Roosevelt St, Hamtramck, MI 48212",
+    "website": "switchbacksfc.com",
+    "latitude": 42.39239456910551, 
+    "longitude": -83.04893205446965,
+    "colorCode": "#600020",
+    "colorCode2": "#E21313",  
+    "league": "USLC",
+    "capacity": 7933,
+	"startDate": "2020-01-01",
+    "endDate": null
+  }		
+
 ]
