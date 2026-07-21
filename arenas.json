@@ -1164,7 +1164,7 @@
     "arenaId": "keyworth_stadium_hamworth",
     "city": "Hamtramck, Michigan",
     "address": "3201 Roosevelt St, Hamtramck, MI 48212",
-    "website": "switchbacksfc.com",
+    "website": "detcityfc.com",
     "latitude": 42.39239456910551, 
     "longitude": -83.04893205446965,
     "colorCode": "#600020",
@@ -1173,6 +1173,57 @@
     "capacity": 7933,
 	"startDate": "2020-01-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "El Paso Locomotive",
+    "teamCode": "ELP",
+    "arena": "Southwest University Park",
+    "arenaId": "southwest_university_park_el_paso",
+    "city": "El Paso, Texas",
+    "address": "1 Ballpark Plaza, El Paso, TX 79901",
+    "website": "eplocomotivefc.com",
+    "latitude": 31.759218857678267,  
+    "longitude": -106.49258351418925,
+    "colorCode": "#031D40",
+    "colorCode2": "#FFFFFF",  
+    "league": "USLC",
+    "capacity": 9500,
+	"startDate": "2019-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "FC Tulsa",
+    "teamCode": "TUL",
+    "arena": "Oneok Field",
+    "arenaId": "oneok_field_tulsa",
+    "city": "Tulsa, Oklahoma",
+    "address": "201 N Elgin Ave, Tulsa, OK 74120",
+    "website": "eplocomotivefc.com",
+    "latitude": 36.16007990205052, 
+    "longitude": -95.98799709812567,
+    "colorCode": "#F8E3CC",
+    "colorCode2": "#FFCC00",  
+    "league": "USLC",
+    "capacity": 7833,
+	"startDate": "2015-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Hartford Athletic",
+    "teamCode": "HAR",
+    "arena": "Trinity Health Stadium",
+    "arenaId": "trinity_health_stadium_hartford",
+    "city": "Hartford, Connecticut",
+    "address": "250 Huyshope Ave, Hartford, CT 06106",
+    "website": "https://www.hartfordathletic.com/",
+    "latitude": 41.75390241582601, 
+    "longitude": -72.66103991370372,
+    "colorCode": "#009845",
+    "colorCode2": "#FFFFFF",  
+    "league": "USLC",
+    "capacity": 5500,
+	"startDate": "2019-01-01",
+    "endDate": null
+  }			
 
 ]
