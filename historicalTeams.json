@@ -7198,7 +7198,61 @@
     "capacity": 5000,
 	"startDate": "2015-01-01",
     "endDate": "2020-04-23"
-  }	
+  },
+  {
+    "teamName": "Indy Eleven",
+    "teamCode": "INDY",
+    "arena": "Carroll Stadium",
+    "arenaId": "carroll_stadium",
+    "city": "Indianapolis, Indiana",
+    "address": "1001 W New York St, Indianapolis, IN 46202",
+    "website": "indyeleven.com",
+    "latitude": 39.771112499963515, 
+    "longitude": -86.17788250861166,
+    "colorCode": "#00295C",
+    "colorCode2": "#FF0000",  
+	"colorCode3": "#FFFFFF",   
+    "league": "USLC",
+    "capacity": 10524,
+	"startDate": "2014-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "teamName": "Indy Eleven",
+    "teamCode": "INDY",
+    "arena": "Carroll Stadium",
+    "arenaId": "carroll_stadium_indianapolis",
+    "city": "Indianapolis, Indiana",
+    "address": "1001 W New York St, Indianapolis, IN 46202",
+    "website": "indyeleven.com",
+    "latitude": 39.771112499963515, 
+    "longitude": -86.17788250861166,
+    "colorCode": "#00295C",
+    "colorCode2": "#FF0000",  
+	"colorCode3": "#FFFFFF",   
+    "league": "USLC",
+    "capacity": 10524,
+	"startDate": "2014-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "teamName": "Indy Eleven",
+    "teamCode": "INDY",
+    "arena": "Lucas Oil Stadium",
+    "arenaId": "lucas_oil_stadium_indianapolis",
+    "city": "Indianapolis, Indiana",
+    "address": "500 S Capitol Ave, Indianapolis, IN 46225",
+    "website": "indyeleven.com",
+    "latitude": 39.76034034200605, 
+    "longitude": -86.16389825693356,
+    "colorCode": "#00295C",
+    "colorCode2": "#FF0000",  
+	"colorCode3": "#FFFFFF",   
+    "league": "USLC",
+    "capacity": 63000,
+	"startDate": "2018-01-01",
+    "endDate": "2020-12-31"
+  }			
 	
 	
 ]	
