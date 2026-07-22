@@ -1224,6 +1224,24 @@
     "capacity": 5500,
 	"startDate": "2019-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Indy Eleven",
+    "teamCode": "INDY",
+    "arena": "Carroll Stadium",
+    "arenaId": "carroll_stadium",
+    "city": "Indianapolis, Indiana",
+    "address": "1001 W New York St, Indianapolis, IN 46202",
+    "website": "indyeleven.com",
+    "latitude": 39.771112499963515, 
+    "longitude": -86.17788250861166,
+    "colorCode": "#00295C",
+    "colorCode2": "#FF0000",  
+	"colorCode3": "#FFFFFF",   
+    "league": "USLC",
+    "capacity": 10524,
+	"startDate": "2021-01-01",
+    "endDate": null
   }			
 
 ]
