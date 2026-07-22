@@ -1229,7 +1229,7 @@
     "teamName": "Indy Eleven",
     "teamCode": "INDY",
     "arena": "Carroll Stadium",
-    "arenaId": "carroll_stadium",
+    "arenaId": "carroll_stadium_indianapolis",
     "city": "Indianapolis, Indiana",
     "address": "1001 W New York St, Indianapolis, IN 46202",
     "website": "indyeleven.com",
@@ -1242,6 +1242,23 @@
     "capacity": 10524,
 	"startDate": "2021-01-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Loudoun United",
+    "teamCode": "LOU",
+    "arena": "Segra Field",
+    "arenaId": "segra_field_leesburg",
+    "city": "Leesburg, Virginia",
+    "address": "42095 Loudoun United Dr, Leesburg, VA 20175",
+    "website": "loudoununitedfc.com",
+    "latitude": 39.069048462840314, 
+    "longitude": -77.54558278710479,
+    "colorCode": "#000000",
+    "colorCode2": "#FF0000",    
+    "league": "USLC",
+    "capacity": 5000,
+	"startDate": "2019-01-01",
+    "endDate": null
+  }				
 
 ]
