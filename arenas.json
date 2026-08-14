@@ -594,6 +594,24 @@
     "startDate": "2015-07-01",
     "endDate": null
   },	
+  {
+    "teamName": "Sheffield United",
+    "teamCode": "SHE",
+    "arena": "Bramall Lane",
+    "arenaId": "bramall_lane_sheffield",
+    "city": "Sheffield, England",
+    "address": "Bramall Ln, Cherry St, Highfield, Sheffield S2 4SU, United Kingdom",
+    "website": "sufc.co.uk",
+    "latitude": 53.370412436828616, 
+    "longitude": -1.4708770552063544,
+    "colorCode": "#FE0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EFLC",
+    "capacity": 32050,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },	
 
 
 
