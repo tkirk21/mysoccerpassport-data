@@ -577,6 +577,23 @@
     "startDate": "2015-07-01",
     "endDate": null
   },
+  {
+    "teamName": "Queens Park Rangers",
+    "teamCode": "QPR",
+    "arena": "Loftus Road Stadium",
+    "arenaId": "Loftus_Road_stadium",
+    "city": "London, England",
+    "address": "Loftus Road, S Africa Rd, London W12 7PJ, United Kingdom",
+    "website": "qpr.co.uk",
+    "latitude": 51.50928037409464, 
+    "longitude": -0.23211164679580354,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#0033FF", 
+    "league": "EFLC",
+    "capacity": 18439,
+    "startDate": "2015-07-01",
+    "endDate": null
+  },	
 
 
 
