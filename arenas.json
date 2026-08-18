@@ -612,7 +612,24 @@
     "startDate": "2024-07-01",
     "endDate": null
   },	
-
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FE0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EFLC",
+    "capacity": 32384,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
 
 
 
