@@ -630,7 +630,23 @@
     "startDate": "2025-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "Stoke City",
+    "teamCode": "SC",
+    "arena": "bet365 Stadium",
+    "arenaId": "bet365_stadium_stoke_on_trent",
+    "city": "Stoke-on-Trent, England",
+    "address": "Stanley Matthews Way, Stoke-on-Trent ST4 4EG, United Kingdom",
+    "website": "stokecityfc.com",
+    "latitude": 52.98843400820601,  
+    "longitude": -2.1754068456005653,
+    "colorCode": "#FE0000",
+    "colorCode2": "#FFFFFF",  
+    "league": "EFLC",
+    "capacity": 30027,
+    "startDate": "2018-07-01",
+    "endDate": null
+  },
 
 
 
