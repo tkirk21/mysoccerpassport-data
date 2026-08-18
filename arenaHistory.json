@@ -47,6 +47,15 @@
     ]
   },
   {
+    "currentArena": "bet365 Stadium",
+    "teamName": "Stoke City",
+    "league": "EFLC",
+    "history": [
+	    { "name": "Britannia Stadium", "from": "2008-07-01", "to": "2016-06-30" },
+      { "name": "bet365 Stadium", "from": "2016-07-01", "to": "2018-06-30" }
+    ]
+  },
+  {
     "currentArena": "Toughsheet Community Stadium",
     "teamName": "Bolton Wanderers",
     "league": "EFL1",
@@ -55,6 +64,8 @@
       { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": null }
     ]
   },
+
+  
 
 
 
