@@ -28,7 +28,7 @@
     "longitude": -0.10292436948976785,
     "colorCode": "#E70000",
 	  "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 38419,
 	  "startDate": "1946-07-01",
     "endDate": "1992-06-30"
@@ -45,27 +45,10 @@
     "longitude": -0.10292436948976785,
     "colorCode": "#E70000",
 	  "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 38419,
 	  "startDate": "1919-07-01",
     "endDate": "1939-09-03"
-  },
-  {
-    "teamName": "Woolwich Arsenal",
-    "teamCode": "ARS",
-    "arena": "Highbury Stadium",
-    "arenaId": "highbury_stadium_london",
-    "city": "London, England",
-    "address": "Avenell Rd, Highbury Square, London N5 1FG, United Kingdom",
-    "website": "https://www.arsenal.com/",
-    "latitude": 51.557783750101954,  
-    "longitude": -0.10292436948976785,
-    "colorCode": "#E70000",
-	  "colorCode2": "#FFFFFF",
-    "league": "EFLC",
-    "capacity": 38419,
-	  "startDate": "1900-07-01",
-    "endDate": "1904-06-30"
   },
   {
     "teamName": "Arsenal",
@@ -79,10 +62,27 @@
     "longitude": -0.10292436948976785,
     "colorCode": "#E70000",
 	  "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 38419,
 	  "startDate": "1914-07-01",
     "endDate": "1915-06-30"
+  },	 
+  {
+    "teamName": "Woolwich Arsenal",
+    "teamCode": "ARS",
+    "arena": "Highbury Stadium",
+    "arenaId": "highbury_stadium_london",
+    "city": "London, England",
+    "address": "Avenell Rd, Highbury Square, London N5 1FG, United Kingdom",
+    "website": "https://www.arsenal.com/",
+    "latitude": 51.557783750101954,  
+    "longitude": -0.10292436948976785,
+    "colorCode": "#E70000",
+	  "colorCode2": "#FFFFFF",
+    "league": "2DIV",
+    "capacity": 38419,
+	  "startDate": "1900-07-01",
+    "endDate": "1904-06-30"
   },
   {
     "teamName": "Woolwich Arsenal",
@@ -96,28 +96,31 @@
     "longitude": -0.10292436948976785,
     "colorCode": "#E70000",
 	  "colorCode2": "#FFFFFF",
-    "league": "FL1",
+    "league": "1DIV",
+    "capacity": 38419,
+	  "startDate": "1904-07-01",
+    "endDate": "1913-06-30"
+  },	 
+  
+  {
+    "teamName": "Woolwich Arsenal",
+    "teamCode": "ARS",
+    "arena": "Highbury Stadium",
+    "arenaId": "highbury_stadium_london",
+    "city": "London, England",
+    "address": "Avenell Rd, Highbury Square, London N5 1FG, United Kingdom",
+    "website": "https://www.arsenal.com/",
+    "latitude": 51.557783750101954,  
+    "longitude": -0.10292436948976785,
+    "colorCode": "#E70000",
+	  "colorCode2": "#FFFFFF",
+    "league": "2DIV",
     "capacity": 38419,
 	  "startDate": "1913-07-01",
     "endDate": "1914-06-30"
   },
-  {
-    "teamName": "Woolwich Arsenal",
-    "teamCode": "ARS",
-    "arena": "Highbury Stadium",
-    "arenaId": "highbury_stadium_london",
-    "city": "London, England",
-    "address": "Avenell Rd, Highbury Square, London N5 1FG, United Kingdom",
-    "website": "https://www.arsenal.com/",
-    "latitude": 51.557783750101954,  
-    "longitude": -0.10292436948976785,
-    "colorCode": "#E70000",
-	  "colorCode2": "#FFFFFF",
-    "league": "EPL",
-    "capacity": 38419,
-	  "startDate": "1904-07-01",
-    "endDate": "1913-06-30"
-  },
+
+	
   {
     "teamName": "Aston Villa",
     "teamCode": "AV",
@@ -164,7 +167,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1988-07-01",
     "endDate": "1992-06-30"
@@ -181,7 +184,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 43205,
 	  "startDate": "1987-07-01",
     "endDate": "1988-06-30"
@@ -198,7 +201,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1975-07-01",
     "endDate": "1987-06-30"
@@ -215,7 +218,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 43205,
 	  "startDate": "1972-07-01",
     "endDate": "1975-06-30"
@@ -232,7 +235,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 43205,
 	  "startDate": "1970-07-01",
     "endDate": "1972-06-30"
@@ -249,7 +252,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 43205,
 	  "startDate": "1967-07-01",
     "endDate": "1970-06-30"
@@ -266,7 +269,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1960-07-01",
     "endDate": "1967-06-30"
@@ -283,7 +286,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 43205,
 	  "startDate": "1959-07-01",
     "endDate": "1960-06-30"
@@ -300,11 +303,29 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
+    "capacity": 43205,
+	  "startDate": "1946-07-01",
+    "endDate": "1959-06-30"
+  },	
+  {
+    "teamName": "Aston Villa",
+    "teamCode": "AV",
+    "arena": "Villa Park",
+    "arenaId": "villa_park_birmingham",
+    "city": "Birmingham, England",
+    "address": "Villa Park, Birmingham B6 6HE, United Kingdom",
+    "website": "avfc.co.uk",
+    "latitude": 52.50912633399078, 
+    "longitude": -1.8848182629414512,
+    "colorCode": "#67081B",
+	  "colorCode2": "#BCD6F2",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1938-07-01",
     "endDate": "1939-09-03"
   },
+  
   {
     "teamName": "Aston Villa",
     "teamCode": "AV",
@@ -317,24 +338,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
-    "capacity": 43205,
-	  "startDate": "1946-07-01",
-    "endDate": "1959-06-30"
-  },
-  {
-    "teamName": "Aston Villa",
-    "teamCode": "AV",
-    "arena": "Villa Park",
-    "arenaId": "villa_park_birmingham",
-    "city": "Birmingham, England",
-    "address": "Villa Park, Birmingham B6 6HE, United Kingdom",
-    "website": "avfc.co.uk",
-    "latitude": 52.50912633399078, 
-    "longitude": -1.8848182629414512,
-    "colorCode": "#67081B",
-	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1936-07-01",
     "endDate": "1938-06-30"
@@ -351,7 +355,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1919-07-01",
     "endDate": "1936-06-30"
@@ -368,7 +372,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 43205,
 	  "startDate": "1900-07-01",
     "endDate": "1915-06-30"
@@ -385,7 +389,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 12357,
 	  "startDate": "1923-07-01",
     "endDate": "1939-09-03"
@@ -402,7 +406,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 12357,
 	  "startDate": "1946-07-01",
     "endDate": "1958-06-30"
@@ -419,7 +423,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 12357,
 	  "startDate": "1958-07-01",
     "endDate": "1970-06-30"
@@ -436,7 +440,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 12357,
 	  "startDate": "1970-07-01",
     "endDate": "1971-06-30"
@@ -453,7 +457,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 12357,
 	  "startDate": "1971-07-01",
     "endDate": "1975-06-30"
@@ -470,7 +474,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 12357,
 	  "startDate": "1975-07-01",
     "endDate": "1982-06-30"
@@ -487,7 +491,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 12357,
 	  "startDate": "1982-07-01",
     "endDate": "1987-06-30"
@@ -504,7 +508,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 12357,
 	  "startDate": "1987-07-01",
     "endDate": "1990-06-30"
@@ -521,24 +525,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
-    "capacity": 12357,
-	  "startDate": "1990-07-01",
-    "endDate": "1992-06-30"
-  },
-  {
-    "teamName": "Bournemouth",
-    "teamCode": "BOU",
-    "arena": "Dean Court",
-    "arenaId": "dean_court_bournemouth",
-    "city": "Bournemouth, England",
-    "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
-    "website": "afcb.co.uk",
-    "latitude": 50.73522420946804, 
-    "longitude": -1.838339316884834,
-    "colorCode": "#FF0000",
-	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 12357,
 	  "startDate": "1990-07-01",
     "endDate": "1992-06-30"
@@ -555,7 +542,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 12357,
 	  "startDate": "1992-07-01",
     "endDate": "2002-06-30"
@@ -572,7 +559,7 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 12357,
 	  "startDate": "2002-07-01",
     "endDate": "2003-06-30"
@@ -589,11 +576,28 @@
     "longitude": -1.838339316884834,
     "colorCode": "#FF0000",
 	  "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 12357,
 	  "startDate": "2003-07-01",
-    "endDate": "2005-06-30"
+    "endDate": "2004-06-30"
   },
+  {
+    "teamName": "Bournemouth",
+    "teamCode": "BOU",
+    "arena": "Fitness First Stadium",
+    "arenaId": "dean_court_bournemouth",
+    "city": "Bournemouth, England",
+    "address": "Kings Park, Bournemouth BH7 7AF, United Kingdom",
+    "website": "afcb.co.uk",
+    "latitude": 50.73522420946804, 
+    "longitude": -1.838339316884834,
+    "colorCode": "#FF0000",
+	  "colorCode2": "#000000",
+    "league": "EFLC",
+    "capacity": 12357,
+	  "startDate": "2004-07-01",
+    "endDate": "2005-06-30"
+  },	
   {
     "teamName": "Bournemouth",
     "teamCode": "BOU",
@@ -709,9 +713,27 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1920-07-01",
+    "endDate": "1921-06-30"
+  },	
+  {
+    "teamName": "Brentford",
+    "teamCode": "BRE",
+    "arena": "Griffin Park",
+    "arenaId": "griffin_park_brentford",
+    "city": "Brentford, England",
+    "address": "Braemar Rd, Brentford TW8 0RU, United Kingdom",
+    "website": "brentfordfc.com",
+    "latitude": 51.48818725466827, 
+    "longitude": -0.302695965750352,
+    "colorCode": "#FF0000",
+	  "colorCode2": "#FFFFFF",
+	  "colorCode3": "#000000",
+    "league": "3DIVS",
+    "capacity": 17250,
+	  "startDate": "1921-07-01",
     "endDate": "1933-06-30"
   },
   {
@@ -727,7 +749,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 17250,
 	  "startDate": "1933-07-01",
     "endDate": "1935-06-30"
@@ -745,7 +767,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 17250,
 	  "startDate": "1935-07-01",
     "endDate": "1939-09-03"
@@ -763,7 +785,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 17250,
 	  "startDate": "1946-07-01",
     "endDate": "1947-06-30"
@@ -781,7 +803,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 17250,
 	  "startDate": "1947-07-01",
     "endDate": "1954-06-30"
@@ -799,7 +821,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 17250,
 	  "startDate": "1954-07-01",
     "endDate": "1958-06-30"
@@ -817,7 +839,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1958-07-01",
     "endDate": "1962-06-30"
@@ -835,7 +857,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 17250,
 	  "startDate": "1962-07-01",
     "endDate": "1963-06-30"
@@ -853,7 +875,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1963-07-01",
     "endDate": "1966-06-30"
@@ -871,7 +893,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 17250,
 	  "startDate": "1966-07-01",
     "endDate": "1972-06-30"
@@ -889,7 +911,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1972-07-01",
     "endDate": "1973-06-30"
@@ -907,7 +929,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 17250,
 	  "startDate": "1973-07-01",
     "endDate": "1978-06-30"
@@ -925,7 +947,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1978-07-01",
     "endDate": "1992-06-30"
@@ -943,7 +965,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 17250,
 	  "startDate": "1992-07-01",
     "endDate": "1993-06-30"
@@ -961,7 +983,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1993-07-01",
     "endDate": "1998-06-30"
@@ -979,7 +1001,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 17250,
 	  "startDate": "1998-07-01",
     "endDate": "1999-06-30"
@@ -997,7 +1019,7 @@
     "colorCode": "#FF0000",
 	  "colorCode2": "#FFFFFF",
 	  "colorCode3": "#000000",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 17250,
 	  "startDate": "1999-07-01",
     "endDate": "2004-06-30"
@@ -1104,7 +1126,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1920-07-01",
     "endDate": "1921-06-30"
@@ -1121,9 +1143,9 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 31876,
-	"startDate": "1920-07-01",
+	"startDate": "1921-07-01",
     "endDate": "1939-09-03"
   },
   {
@@ -1138,7 +1160,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 31876,
 	"startDate": "1946-07-01",
     "endDate": "1958-06-30"
@@ -1155,7 +1177,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "1958-07-01",
     "endDate": "1962-06-30"
@@ -1172,7 +1194,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1962-07-01",
     "endDate": "1963-06-30"
@@ -1189,7 +1211,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 31876,
 	"startDate": "1963-07-01",
     "endDate": "1965-06-30"
@@ -1206,7 +1228,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1965-07-01",
     "endDate": "1972-06-30"
@@ -1223,7 +1245,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "1972-07-01",
     "endDate": "1973-06-30"
@@ -1240,7 +1262,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1973-07-01",
     "endDate": "1977-06-30"
@@ -1257,7 +1279,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "1977-07-01",
     "endDate": "1979-06-30"
@@ -1274,7 +1296,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 31876,
 	"startDate": "1979-07-01",
     "endDate": "1983-06-30"
@@ -1291,7 +1313,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "1983-07-01",
     "endDate": "1987-06-30"
@@ -1308,7 +1330,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1987-07-01",
     "endDate": "1988-06-30"
@@ -1325,7 +1347,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "1988-07-01",
     "endDate": "1992-06-30"
@@ -1342,7 +1364,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "1992-07-01",
     "endDate": "1996-06-30"
@@ -1359,7 +1381,7 @@
     "longitude": -0.17407801849007357,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1996-07-01",
     "endDate": "1997-06-30"
@@ -1376,7 +1398,7 @@
     "longitude": 0.5607919589843515,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1997-07-01",
     "endDate": "1999-06-30"
@@ -1393,7 +1415,7 @@
     "longitude": -0.15932530092242314,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 31876,
 	"startDate": "1999-07-01",
     "endDate": "2001-06-30"
@@ -1410,7 +1432,7 @@
     "longitude": -0.15932530092242314,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "2001-07-01",
     "endDate": "2002-06-30"
@@ -1427,7 +1449,7 @@
     "longitude": -0.15932530092242314,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 31876,
 	"startDate": "2002-07-01",
     "endDate": "2003-06-30"
@@ -1444,7 +1466,7 @@
     "longitude": -0.15932530092242314,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 31876,
 	"startDate": "2003-07-01",
     "endDate": "2004-06-30"
@@ -1500,8 +1522,7 @@
 	"startDate": "2011-07-01",
     "endDate": "2017-09-03"
   },	
-
-
+  
   {
     "teamName": "Chelsea",
     "teamCode": "CHE",
@@ -1514,7 +1535,24 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "EPL",
+    "capacity": 40044,
+	"startDate": "1989-07-01",
+    "endDate": "1992-06-30"
+  },
+  {
+    "teamName": "Chelsea",
+    "teamCode": "CHE",
+    "arena": "Stamford Bridge",
+    "arenaId": "stamford_bridge_london",
+    "city": "London, England",
+    "address": "Stamford Bridge, Fulham Rd., London SW6 1HS, United Kingdom",
+    "website": "chelseafc.com",
+    "latitude": 51.48174347962515, 
+    "longitude": -0.19096601825159865,
+    "colorCode": "#14349B",
+    "colorCode2": "#D9C21D",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1988-07-01",
     "endDate": "1989-06-30"
@@ -1531,7 +1569,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1984-07-01",
     "endDate": "1988-06-30"
@@ -1548,7 +1586,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1979-07-01",
     "endDate": "1984-06-30"
@@ -1565,7 +1603,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1977-07-01",
     "endDate": "1979-06-30"
@@ -1582,7 +1620,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1975-07-01",
     "endDate": "1977-06-30"
@@ -1599,7 +1637,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1963-07-01",
     "endDate": "1975-06-30"
@@ -1616,7 +1654,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1962-07-01",
     "endDate": "1963-06-30"
@@ -1633,7 +1671,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1946-07-01",
     "endDate": "1962-06-30"
@@ -1650,7 +1688,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1930-07-01",
     "endDate": "1939-09-03"
@@ -1667,7 +1705,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1924-07-01",
     "endDate": "1930-06-30"
@@ -1684,7 +1722,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1919-07-01",
     "endDate": "1924-06-30"
@@ -1701,7 +1739,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1912-07-01",
     "endDate": "1915-06-30"
@@ -1718,7 +1756,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1910-07-01",
     "endDate": "1912-06-30"
@@ -1735,7 +1773,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 40044,
 	"startDate": "1906-07-01",
     "endDate": "1910-06-30"
@@ -1752,7 +1790,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 40044,
 	"startDate": "1905-07-01",
     "endDate": "1907-06-30"
@@ -1901,7 +1939,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1995-07-01",
     "endDate": "2002-06-30"
@@ -1918,7 +1956,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 29409,
 	"startDate": "1994-07-01",
     "endDate": "1995-06-30"
@@ -1935,7 +1973,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 29409,
 	"startDate": "1992-07-01",
     "endDate": "1994-06-30"
@@ -1952,7 +1990,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 29409,
 	"startDate": "1989-07-01",
     "endDate": "1992-06-30"
@@ -1969,7 +2007,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1986-07-01",
     "endDate": "1989-06-30"
@@ -1986,7 +2024,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1985-07-01",
     "endDate": "1986-06-30"
@@ -2003,7 +2041,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1984-07-01",
     "endDate": "1985-06-30"
@@ -2020,7 +2058,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1980-07-01",
     "endDate": "1984-06-30"
@@ -2037,7 +2075,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1979-07-01",
     "endDate": "1980-06-30"
@@ -2054,7 +2092,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1972-07-01",
     "endDate": "1979-06-30"
@@ -2071,7 +2109,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1965-07-01",
     "endDate": "1972-06-30"
@@ -2088,7 +2126,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1955-07-01",
     "endDate": "1965-06-30"
@@ -2105,7 +2143,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1950-07-01",
     "endDate": "1955-06-30"
@@ -2122,7 +2160,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1948-07-01",
     "endDate": "1950-06-30"
@@ -2139,7 +2177,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1946-07-01",
     "endDate": "1948-06-30"
@@ -2156,7 +2194,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1939-07-01",
     "endDate": "1939-09-03"
@@ -2173,7 +2211,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1921-07-01",
     "endDate": "1939-06-30"
@@ -2190,7 +2228,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1919-07-01",
     "endDate": "1921-06-30"
@@ -2207,7 +2245,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1908-07-01",
     "endDate": "1915-06-30"
@@ -2224,7 +2262,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1905-07-01",
     "endDate": "1908-06-30"
@@ -2241,7 +2279,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 29409,
 	"startDate": "1903-07-01",
     "endDate": "1905-06-30"
@@ -2258,7 +2296,7 @@
     "longitude": -1.8681323413587747,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 29409,
 	"startDate": "1900-07-01",
     "endDate": "1903-06-30"
@@ -2326,7 +2364,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 31367,
 	"startDate": "1999-07-01",
     "endDate": "2001-06-30"
@@ -2360,7 +2398,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31367,
 	"startDate": "1980-07-01",
     "endDate": "1992-06-30"
@@ -2377,7 +2415,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31367,
 	"startDate": "1979-07-01",
     "endDate": "1980-06-30"
@@ -2394,7 +2432,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31367,
 	"startDate": "1975-07-01",
     "endDate": "1979-06-30"
@@ -2411,7 +2449,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 31367,
 	"startDate": "1971-07-01",
     "endDate": "1975-06-30"
@@ -2428,7 +2466,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31367,
 	"startDate": "1966-07-01",
     "endDate": "1971-06-30"
@@ -2445,7 +2483,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 31367,
 	"startDate": "1958-07-01",
     "endDate": "1966-06-30"
@@ -2462,7 +2500,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31367,
 	"startDate": "1948-07-01",
     "endDate": "1958-06-30"
@@ -2479,7 +2517,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 31367,
 	"startDate": "1946-07-01",
     "endDate": "1948-06-30"
@@ -2496,7 +2534,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 31367,
 	"startDate": "1939-07-01",
     "endDate": "1939-09-03"
@@ -2513,7 +2551,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 31367,
 	"startDate": "1919-07-01",
     "endDate": "1939-06-30"
@@ -2530,7 +2568,7 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 31367,
 	"startDate": "1919-07-01",
     "endDate": "1936-06-30"
@@ -2547,16 +2585,11 @@
     "longitude": -2.4892298991725017,
     "colorCode": "#0000F3",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 31367,
 	"startDate": "1900-07-01",
     "endDate": "1915-06-30"
   },
-
-
-
-
-
 
   {
     "teamName": "Bolton Wanderers",
@@ -2697,7 +2730,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1998-07-01",
     "endDate": "2001-06-30"
@@ -2733,7 +2766,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 20000,
 	"startDate": "1996-07-01",
     "endDate": "1997-06-30"
@@ -2769,7 +2802,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 20000,
 	"startDate": "1993-07-01",
     "endDate": "1995-06-30"
@@ -2787,10 +2820,28 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFL1",
+    "league": "2DIV",
+    "capacity": 20000,
+	"startDate": "1992-07-01",
+    "endDate": "1993-06-30"
+  },		
+  {
+    "teamName": "Bolton Wanderers",
+    "teamCode": "BW",
+    "arena": "Burnden Park",
+    "arenaId": "burnden_park_manchester",
+    "city": "Manchester, England",
+    "address": "Manchester Road, Bolton, Greater, Manchester BL3 2QS, United Kingdom",
+    "website": "bwfc.co.uk",
+    "latitude": 53.56889982383873, 
+    "longitude": -2.4161304981819995,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#263C7E",
+	"colorCode3": "#DF0024",
+    "league": "3DIV",
     "capacity": 20000,
 	"startDate": "1988-07-01",
-    "endDate": "1993-06-30"
+    "endDate": "1992-06-30"
   },	
   {
     "teamName": "Bolton Wanderers",
@@ -2805,7 +2856,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 20000,
 	"startDate": "1987-07-01",
     "endDate": "1988-06-30"
@@ -2823,7 +2874,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 20000,
 	"startDate": "1983-07-01",
     "endDate": "1987-06-30"
@@ -2841,7 +2892,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 20000,
 	"startDate": "1980-07-01",
     "endDate": "1983-06-30"
@@ -2859,7 +2910,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 20000,
 	"startDate": "1978-07-01",
     "endDate": "1980-06-30"
@@ -2877,7 +2928,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 70000,
 	"startDate": "1973-07-01",
     "endDate": "1978-06-30"
@@ -2895,7 +2946,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 70000,
 	"startDate": "1971-07-01",
     "endDate": "1973-06-30"
@@ -2913,7 +2964,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 70000,
 	"startDate": "1964-07-01",
     "endDate": "1971-06-30"
@@ -2931,7 +2982,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1946-07-01",
     "endDate": "1964-06-30"
@@ -2949,7 +3000,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1935-07-01",
     "endDate": "1939-09-03"
@@ -2967,7 +3018,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 70000,
 	"startDate": "1933-07-01",
     "endDate": "1935-06-30"
@@ -2985,7 +3036,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1919-07-01",
     "endDate": "1933-06-30"
@@ -3003,7 +3054,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1911-07-01",
     "endDate": "1915-06-30"
@@ -3021,7 +3072,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 70000,
 	"startDate": "1910-07-01",
     "endDate": "1911-06-30"
@@ -3039,7 +3090,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1909-07-01",
     "endDate": "1910-06-30"
@@ -3057,7 +3108,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 70000,
 	"startDate": "1908-07-01",
     "endDate": "1909-06-30"
@@ -3075,7 +3126,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1905-07-01",
     "endDate": "1908-06-30"
@@ -3093,7 +3144,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EFLC",
+    "league": "2DIV,
     "capacity": 70000,
 	"startDate": "1903-07-01",
     "endDate": "1905-06-30"
@@ -3111,7 +3162,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#263C7E",
 	"colorCode3": "#DF0024",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 70000,
 	"startDate": "1900-07-01",
     "endDate": "1903-06-30"
@@ -3164,8 +3215,25 @@
     "colorCode2": "#FFFFFF",
     "league": "EFL1",
     "capacity": 26462,
-	"startDate": "1999-07-01",
+	"startDate": "2004-07-01",
     "endDate": "2007-06-30"
+  },	
+  {
+    "teamName": "Bristol City",
+    "teamCode": "BC",
+    "arena": "Ashton Gate",
+    "arenaId": "ashton_gate_bristol",
+    "city": "Bristol, England",
+    "address": "Ashton Rd, Bristol BS3 2EJ, United Kingdom",
+    "website": "bcfc.co.uk",
+    "latitude": 51.44011254154416, 
+    "longitude": -2.6203192221332037,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "2DIV",
+    "capacity": 26462,
+	"startDate": "1999-07-01",
+    "endDate": "2004-06-30"
   },
   {
     "teamName": "Bristol City",
@@ -3179,7 +3247,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 26462,
 	"startDate": "1998-07-01",
     "endDate": "1999-06-30"
@@ -3196,7 +3264,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1995-07-01",
     "endDate": "1998-06-30"
@@ -3213,10 +3281,27 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "1DIV",
+    "capacity": 26462,
+	"startDate": "1992-07-01",
+    "endDate": "1995-06-30"
+  },	
+  {
+    "teamName": "Bristol City",
+    "teamCode": "BC",
+    "arena": "Ashton Gate",
+    "arenaId": "ashton_gate_bristol",
+    "city": "Bristol, England",
+    "address": "Ashton Rd, Bristol BS3 2EJ, United Kingdom",
+    "website": "bcfc.co.uk",
+    "latitude": 51.44011254154416, 
+    "longitude": -2.6203192221332037,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1990-07-01",
-    "endDate": "1995-06-30"
+    "endDate": "1992-06-30"
   },
   {
     "teamName": "Bristol City",
@@ -3230,7 +3315,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 26462,
 	"startDate": "1984-07-01",
     "endDate": "1990-06-30"
@@ -3247,7 +3332,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 26462,
 	"startDate": "1982-07-01",
     "endDate": "1984-06-30"
@@ -3264,7 +3349,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 26462,
 	"startDate": "1981-07-01",
     "endDate": "1982-06-30"
@@ -3281,7 +3366,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1980-07-01",
     "endDate": "1981-06-30"
@@ -3298,7 +3383,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26462,
 	"startDate": "1976-07-01",
     "endDate": "1980-06-30"
@@ -3315,7 +3400,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1965-07-01",
     "endDate": "1976-06-30"
@@ -3332,7 +3417,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 26462,
 	"startDate": "1960-07-01",
     "endDate": "1965-06-30"
@@ -3349,7 +3434,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1955-07-01",
     "endDate": "1960-06-30"
@@ -3366,7 +3451,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 26462,
 	"startDate": "1946-07-01",
     "endDate": "1955-06-30"
@@ -3383,7 +3468,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 26462,
 	"startDate": "1932-07-01",
     "endDate": "1939-09-03"
@@ -3400,7 +3485,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1927-07-01",
     "endDate": "1932-06-30"
@@ -3417,7 +3502,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 26462,
 	"startDate": "1924-07-01",
     "endDate": "1927-06-30"
@@ -3434,7 +3519,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1923-07-01",
     "endDate": "1924-06-30"
@@ -3451,7 +3536,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 26462,
 	"startDate": "1922-07-01",
     "endDate": "1923-06-30"
@@ -3468,7 +3553,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1919-07-01",
     "endDate": "1922-06-30"
@@ -3485,7 +3570,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1911-07-01",
     "endDate": "1915-06-30"
@@ -3502,7 +3587,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26462,
 	"startDate": "1906-07-01",
     "endDate": "1911-06-30"
@@ -3519,7 +3604,7 @@
     "longitude": -2.6203192221332037,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26462,
 	"startDate": "1901-07-01",
     "endDate": "1906-06-30"
@@ -3575,23 +3660,6 @@
 	"startDate": "2023-07-01",
     "endDate": "2024-06-30"
   },
-  {
-    "teamName": "Burnley",
-    "teamCode": "BUR",
-    "arena": "Turf Moor",
-    "arenaId": "turf_moor_burnley",
-    "city": "Burnley, England",
-    "address": "52-56 Harry Potts Way, Burnley BB10 4BX, United Kingdom",
-    "website": "burnleyfootballclub.com",
-    "latitude": 53.78903752433454, 
-    "longitude": -2.23021953017902,
-    "colorCode": "#841E43",
-    "colorCode2": "#A1E7FF",
-    "league": "EPL",
-    "capacity": 21990,
-	"startDate": "2023-07-01",
-    "endDate": "2024-06-30"
-  },	
   {
     "teamName": "Burnley",
     "teamCode": "BUR",
@@ -3708,8 +3776,25 @@
     "colorCode2": "#A1E7FF",
     "league": "EFLC",
     "capacity": 21990,
-	"startDate": "2000-07-01",
+	"startDate": "2004-07-01",
     "endDate": "2009-06-30"
+  },	
+  {
+    "teamName": "Burnley",
+    "teamCode": "BUR",
+    "arena": "Turf Moor",
+    "arenaId": "turf_moor_burnley",
+    "city": "Burnley, England",
+    "address": "52-56 Harry Potts Way, Burnley BB10 4BX, United Kingdom",
+    "website": "burnleyfootballclub.com",
+    "latitude": 53.78903752433454, 
+    "longitude": -2.23021953017902,
+    "colorCode": "#841E43",
+    "colorCode2": "#A1E7FF",
+    "league": "1DIV",
+    "capacity": 21990,
+	"startDate": "2000-07-01",
+    "endDate": "2004-06-30"
   },
   {
     "teamName": "Burnley",
@@ -3723,7 +3808,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1995-07-01",
     "endDate": "2000-06-30"
@@ -3740,7 +3825,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 21990,
 	"startDate": "1994-07-01",
     "endDate": "1995-06-30"
@@ -3757,7 +3842,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1992-07-01",
     "endDate": "1994-06-30"
@@ -3774,7 +3859,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 21990,
 	"startDate": "1985-07-01",
     "endDate": "1992-06-30"
@@ -3791,24 +3876,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFL2",
-    "capacity": 21990,
-	"startDate": "1985-07-01",
-    "endDate": "1992-06-30"
-  },
-  {
-    "teamName": "Burnley",
-    "teamCode": "BUR",
-    "arena": "Turf Moor",
-    "arenaId": "turf_moor_burnley",
-    "city": "Burnley, England",
-    "address": "52-56 Harry Potts Way, Burnley BB10 4BX, United Kingdom",
-    "website": "burnleyfootballclub.com",
-    "latitude": 53.78903752433454, 
-    "longitude": -2.23021953017902,
-    "colorCode": "#841E43",
-    "colorCode2": "#A1E7FF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 21990,
 	"startDate": "1983-07-01",
     "endDate": "1985-06-30"
@@ -3825,7 +3893,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1982-07-01",
     "endDate": "1983-06-30"
@@ -3842,7 +3910,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 21990,
 	"startDate": "1980-07-01",
     "endDate": "1982-06-30"
@@ -3859,7 +3927,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1976-07-01",
     "endDate": "1980-06-30"
@@ -3876,7 +3944,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21990,
 	"startDate": "1973-07-01",
     "endDate": "1976-06-30"
@@ -3893,7 +3961,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1971-07-01",
     "endDate": "1973-06-30"
@@ -3910,7 +3978,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21990,
 	"startDate": "1947-07-01",
     "endDate": "1971-06-30"
@@ -3927,7 +3995,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1946-07-01",
     "endDate": "1947-06-30"
@@ -3944,7 +4012,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1930-07-01",
     "endDate": "1939-09-03"
@@ -3961,7 +4029,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1930-07-01",
     "endDate": "1939-09-03"
@@ -3978,7 +4046,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21990,
 	"startDate": "1919-07-01",
     "endDate": "1930-06-30"
@@ -3995,7 +4063,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21990,
 	"startDate": "1914-07-01",
     "endDate": "1915-06-30"
@@ -4012,7 +4080,7 @@
     "longitude": -2.23021953017902,
     "colorCode": "#841E43",
     "colorCode2": "#A1E7FF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21990,
 	"startDate": "1900-07-01",
     "endDate": "1913-06-30"
@@ -4133,8 +4201,25 @@
     "colorCode2": "#FFFFFF",
     "league": "EFLC",
     "capacity": 21508,
-	"startDate": "2003-07-01",
+	"startDate": "2004-07-01",
     "endDate": "2009-06-30"
+  },	 
+  {
+    "teamName": "Cardiff City",
+    "teamCode": "CC",
+    "arena": "Ninian Park",
+    "arenaId": "ninian_park_cardiff",
+    "city": "Cardiff, Wales",
+    "address": "Bartley Wilson Way, Cardiff CF11 8EL, United Kingdom",
+    "website": "cardiffcityfc.co.uk",
+    "latitude": 51.47467808428424,   
+    "longitude": -3.1998153410427608,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "1DIV",
+    "capacity": 21508,
+	"startDate": "2003-07-01",
+    "endDate": "2004-06-30"
   },
   {
     "teamName": "Cardiff City",
@@ -4148,7 +4233,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1999-07-01",
     "endDate": "2003-06-30"
@@ -4165,7 +4250,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 21508,
 	"startDate": "1995-07-01",
     "endDate": "1999-06-30"
@@ -4182,11 +4267,28 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1993-07-01",
     "endDate": "1995-06-30"
   },
+   {
+    "teamName": "Cardiff City",
+    "teamCode": "CC",
+    "arena": "Ninian Park",
+    "arenaId": "ninian_park_cardiff",
+    "city": "Cardiff, Wales",
+    "address": "Bartley Wilson Way, Cardiff CF11 8EL, United Kingdom",
+    "website": "cardiffcityfc.co.uk",
+    "latitude": 51.47467808428424,   
+    "longitude": -3.1998153410427608,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "3DIV",
+    "capacity": 21508,
+	"startDate": "1992-07-01",
+    "endDate": "1993-06-30"
+  },	 
   {
     "teamName": "Cardiff City",
     "teamCode": "CC",
@@ -4199,10 +4301,10 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 21508,
 	"startDate": "1990-07-01",
-    "endDate": "1993-06-30"
+    "endDate": "1992-06-30"
   },
   {
     "teamName": "Cardiff City",
@@ -4216,7 +4318,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 21508,
 	"startDate": "1988-07-01",
     "endDate": "1990-06-30"
@@ -4233,7 +4335,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 21508,
 	"startDate": "1986-07-01",
     "endDate": "1988-06-30"
@@ -4250,7 +4352,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 21508,
 	"startDate": "1985-07-01",
     "endDate": "1986-06-30"
@@ -4267,7 +4369,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1983-07-01",
     "endDate": "1985-06-30"
@@ -4284,7 +4386,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 21508,
 	"startDate": "1982-07-01",
     "endDate": "1983-06-30"
@@ -4301,7 +4403,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1976-07-01",
     "endDate": "1982-06-30"
@@ -4318,7 +4420,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 21508,
 	"startDate": "1975-07-01",
     "endDate": "1976-06-30"
@@ -4335,7 +4437,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1960-07-01",
     "endDate": "1975-06-30"
@@ -4352,7 +4454,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21508,
 	"startDate": "1960-07-01",
     "endDate": "1962-06-30"
@@ -4369,7 +4471,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1957-07-01",
     "endDate": "1960-06-30"
@@ -4386,7 +4488,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21508,
 	"startDate": "1952-07-01",
     "endDate": "1957-06-30"
@@ -4403,7 +4505,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1947-07-01",
     "endDate": "1952-06-30"
@@ -4420,7 +4522,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 21508,
 	"startDate": "1946-07-01",
     "endDate": "1947-06-30"
@@ -4437,7 +4539,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 21508,
 	"startDate": "1931-07-01",
     "endDate": "1939-09-03"
@@ -4454,7 +4556,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1929-07-01",
     "endDate": "1931-06-30"
@@ -4471,7 +4573,7 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 21508,
 	"startDate": "1920-07-01",
     "endDate": "1929-06-30"
@@ -4488,20 +4590,11 @@
     "longitude": -3.1998153410427608,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 21508,
 	"startDate": "1920-07-01",
     "endDate": "1921-06-30"
   },
-
-
-
-
-
-
-
-
-
 
 
   {
@@ -4635,7 +4728,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 27111,
 	"startDate": "1999-07-01",
     "endDate": "2000-06-30"
@@ -4656,7 +4749,7 @@
     "capacity": 27111,
 	"startDate": "1998-07-01",
     "endDate": "1999-06-30"
-  },	  	
+  },	
   {
     "teamName": "Charlton Athletic",
     "teamCode": "CA",
@@ -4669,10 +4762,27 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "1DIV",
+    "capacity": 27111,
+	"startDate": "1992-07-01",
+    "endDate": "1998-06-30"
+  },	 	
+  {
+    "teamName": "Charlton Athletic",
+    "teamCode": "CA",
+    "arena": "The Valley",
+    "arenaId": "the_valley_london",
+    "city": "London, England",
+    "address": "Floyd Rd, London SE7 8BL, United Kingdom",
+    "website": "charltonafc.com",
+    "latitude": 51.48646924447754, 
+    "longitude": 0.03651363272697995,
+    "colorCode": "#FF0000",
+    "colorCode2": "#231F20",
+    "league": "2DIV",
     "capacity": 27111,
 	"startDate": "1990-07-01",
-    "endDate": "1998-06-30"
+    "endDate": "1992-06-30"
   },	  
   {
     "teamName": "Charlton Athletic",
@@ -4686,7 +4796,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27111,
 	"startDate": "1986-07-01",
     "endDate": "1990-06-30"
@@ -4703,7 +4813,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27111,
 	"startDate": "1981-07-01",
     "endDate": "1986-06-30"
@@ -4720,7 +4830,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 27111,
 	"startDate": "1980-07-01",
     "endDate": "1981-06-30"
@@ -4737,7 +4847,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27111,
 	"startDate": "1975-07-01",
     "endDate": "1980-06-30"
@@ -4754,7 +4864,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 27111,
 	"startDate": "1972-07-01",
     "endDate": "1975-06-30"
@@ -4771,7 +4881,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27111,
 	"startDate": "1957-07-01",
     "endDate": "1972-06-30"
@@ -4788,7 +4898,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27111,
 	"startDate": "1946-07-01",
     "endDate": "1957-06-30"
@@ -4805,7 +4915,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27111,
 	"startDate": "1935-07-01",
     "endDate": "1939-09-03"
@@ -4822,7 +4932,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27111,
 	"startDate": "1934-07-01",
     "endDate": "1935-06-30"
@@ -4839,7 +4949,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 27111,
 	"startDate": "1933-07-01",
     "endDate": "1934-06-30"
@@ -4856,7 +4966,7 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27111,
 	"startDate": "1929-07-01",
     "endDate": "1933-06-30"
@@ -4873,11 +4983,12 @@
     "longitude": 0.03651363272697995,
     "colorCode": "#FF0000",
     "colorCode2": "#231F20",
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 27111,
 	"startDate": "1921-07-01",
     "endDate": "1929-06-30"
   },
+	
   {
     "teamName": "Derby County",
     "teamCode": "DC",
@@ -4992,10 +5103,27 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFCL",
+    "league": "1DIV",
+    "capacity": 18300,
+	"startDate": "1992-07-01",
+    "endDate": "1996-06-30"
+  },	
+  {
+    "teamName": "Derby County",
+    "teamCode": "DC",
+    "arena": "Baseball Ground",
+    "arenaId": "baseball_ground_derby",
+    "city": "Derby, England",
+    "address": "Baseball Dr, Derby DE24 8XL, United Kingdom",
+    "website": "dcfc.co.uk",
+    "latitude": 52.90458328570205, 
+    "longitude": -1.4689222406543538,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "2DIV",
     "capacity": 18300,
 	"startDate": "1991-07-01",
-    "endDate": "1996-06-30"
+    "endDate": "1992-06-30"
   },
   {
     "teamName": "Derby County",
@@ -5009,7 +5137,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 42000,
 	"startDate": "1987-07-01",
     "endDate": "1991-06-30"
@@ -5026,7 +5154,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 42000,
 	"startDate": "1986-07-01",
     "endDate": "1987-06-30"
@@ -5043,7 +5171,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 42000,
 	"startDate": "1984-07-01",
     "endDate": "1986-06-30"
@@ -5060,7 +5188,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 42000,
 	"startDate": "1980-07-01",
     "endDate": "1984-06-30"
@@ -5077,7 +5205,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 42000,
 	"startDate": "1969-07-01",
     "endDate": "1980-06-30"
@@ -5094,7 +5222,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1957-07-01",
     "endDate": "1969-06-30"
@@ -5111,7 +5239,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFL1",
+    "league": "3DIVN",
     "capacity": 4000,
 	"startDate": "1955-07-01",
     "endDate": "1957-06-30"
@@ -5128,7 +5256,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1953-07-01",
     "endDate": "1955-06-30"
@@ -5145,7 +5273,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1946-07-01",
     "endDate": "1953-06-30"
@@ -5162,7 +5290,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 4000,
 	"startDate": "1926-07-01",
     "endDate": "1939-09-03"
@@ -5179,7 +5307,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 4000,
 	"startDate": "1921-07-01",
     "endDate": "1926-06-30"
@@ -5196,7 +5324,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1919-07-01",
     "endDate": "1921-06-30"
@@ -5213,7 +5341,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 4000,
 	"startDate": "1914-07-01",
     "endDate": "1915-06-30"
@@ -5230,7 +5358,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1912-07-01",
     "endDate": "1914-06-30"
@@ -5247,7 +5375,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 4000,
 	"startDate": "1907-07-01",
     "endDate": "1912-06-30"
@@ -5264,7 +5392,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1907-07-01",
     "endDate": "1912-06-30"
@@ -5281,7 +5409,7 @@
     "longitude": -1.4689222406543538,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "EPL",
+    "league": "1SIV",
     "capacity": 4000,
 	"startDate": "1900-07-01",
     "endDate": "1907-06-30"
@@ -5355,8 +5483,26 @@
 	"colorCode3": "#000000",   
     "league": "EFL2",
     "capacity": 10669,
-	"startDate": "1999-07-01",
+	"startDate": "2004-07-01",
     "endDate": "2011-06-30"
+  },	 
+  {
+    "teamName": "Lincoln City",
+    "teamCode": "LC",
+    "arena": "Sincil Bank",
+    "arenaId": "proampac_stadium_lincoln",
+    "city": "Lincoln, England",
+    "address": "Cross St, Lincoln LN5 8LD, United Kingdom",
+    "website": "www.weareimps.com",
+    "latitude": 53.21834494245315, 
+    "longitude": -0.5408573874790765,
+    "colorCode": "#CE131A",
+    "colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",   
+    "league": "3DIV",
+    "capacity": 10669,
+	"startDate": "1999-07-01",
+    "endDate": "2004-06-30"
   },
   {
     "teamName": "Lincoln City",
@@ -5371,7 +5517,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1998-07-01",
     "endDate": "1999-06-30"
@@ -5389,10 +5535,28 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL2",
+    "league": "3DIV",
+    "capacity": 10669,
+	"startDate": "1992-07-01",
+    "endDate": "1998-06-30"
+  },	
+  {
+    "teamName": "Lincoln City",
+    "teamCode": "LC",
+    "arena": "Sincil Bank",
+    "arenaId": "proampac_stadium_lincoln",
+    "city": "Lincoln, England",
+    "address": "Cross St, Lincoln LN5 8LD, United Kingdom",
+    "website": "www.weareimps.com",
+    "latitude": 53.21834494245315, 
+    "longitude": -0.5408573874790765,
+    "colorCode": "#CE131A",
+    "colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",   
+    "league": "4DIV",
     "capacity": 10669,
 	"startDate": "1981-07-01",
-    "endDate": "1998-06-30"
+    "endDate": "1992-06-30"
   },
   {
     "teamName": "Lincoln City",
@@ -5407,7 +5571,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 10669,
 	"startDate": "1979-07-01",
     "endDate": "1981-06-30"
@@ -5425,7 +5589,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 10669,
 	"startDate": "1976-07-01",
     "endDate": "1979-06-30"
@@ -5443,7 +5607,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 10669,
 	"startDate": "1962-07-01",
     "endDate": "1976-06-30"
@@ -5461,7 +5625,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 10669,
 	"startDate": "1961-07-01",
     "endDate": "1962-06-30"
@@ -5479,7 +5643,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1948-07-01",
     "endDate": "1961-06-30"
@@ -5497,7 +5661,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL1",
+    "league": "3DIVN",
     "capacity": 10669,
 	"startDate": "1946-07-01",
     "endDate": "1948-06-30"
@@ -5515,7 +5679,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL1",
+    "league": "3DIVN",
     "capacity": 10669,
 	"startDate": "1934-07-01",
     "endDate": "1939-09-03"
@@ -5533,7 +5697,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1931-07-01",
     "endDate": "1934-06-30"
@@ -5551,7 +5715,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFL1",
+    "league": "3DIVN",
     "capacity": 10669,
 	"startDate": "1921-07-01",
     "endDate": "1931-06-30"
@@ -5569,7 +5733,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1919-07-01",
     "endDate": "1920-06-30"
@@ -5587,7 +5751,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1912-07-01",
     "endDate": "1915-06-30"
@@ -5605,7 +5769,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1908-07-01",
     "endDate": "1911-06-30"
@@ -5623,7 +5787,7 @@
     "colorCode": "#CE131A",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",   
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 10669,
 	"startDate": "1900-07-01",
     "endDate": "1908-06-30"
@@ -5691,7 +5855,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1992-07-01",
     "endDate": "1995-06-30"
@@ -5708,7 +5872,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1989-07-01",
     "endDate": "1992-06-30"
@@ -5725,7 +5889,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1988-07-01",
     "endDate": "1989-06-30"
@@ -5742,7 +5906,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26667,
 	"startDate": "1987-07-01",
     "endDate": "1988-06-30"
@@ -5759,7 +5923,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 26667,
 	"startDate": "1986-07-01",
     "endDate": "1987-06-30"
@@ -5776,7 +5940,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26667,
 	"startDate": "1982-07-01",
     "endDate": "1986-06-30"
@@ -5793,7 +5957,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1974-07-01",
     "endDate": "1982-06-30"
@@ -5810,7 +5974,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26667,
 	"startDate": "1967-07-01",
     "endDate": "1974-06-30"
@@ -5827,7 +5991,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 26667,
 	"startDate": "1966-07-01",
     "endDate": "1967-06-30"
@@ -5844,7 +6008,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26667,
 	"startDate": "1954-07-01",
     "endDate": "1966-06-30"
@@ -5861,7 +6025,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1946-07-01",
     "endDate": "1954-06-30"
@@ -5878,7 +6042,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1928-07-01",
     "endDate": "1939-09-03"
@@ -5895,7 +6059,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26667,
 	"startDate": "1928-07-01",
     "endDate": "1929-06-30"
@@ -5912,7 +6076,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1927-07-01",
     "endDate": "1928-06-30"
@@ -5929,7 +6093,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 26667,
 	"startDate": "1924-07-01",
     "endDate": "1927-06-30"
@@ -5946,7 +6110,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1920-07-01",
     "endDate": "1924-06-30"
@@ -5963,7 +6127,7 @@
     "longitude": -1.246947604663142,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 26667,
 	"startDate": "1902-07-01",
     "endDate": "1915-06-30"
@@ -5980,11 +6144,12 @@
     "longitude": -1.240703459674782,
     "colorCode": "#FF0000",
     "colorCode2": "#FFFFFF",  
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4000,
 	"startDate": "1900-07-01",
     "endDate": "1902-06-30"
   }, 
+	
   {
     "teamName": "Millwall",
     "teamCode": "MIL",
@@ -6041,7 +6206,7 @@
     "capacity": 20146,
 	"startDate": "2006-07-01",
     "endDate": "2010-06-30"
-  },		
+  },	
   {
     "teamName": "Millwall",
     "teamCode": "MIL",
@@ -6058,8 +6223,27 @@
 	"colorCode4": "#9F935C",    
     "league": "EFLC",
     "capacity": 20146,
-	"startDate": "2001-07-01",
+	"startDate": "2004-07-01",
     "endDate": "2006-06-30"
+  },	
+  {
+    "teamName": "Millwall",
+    "teamCode": "MIL",
+    "arena": "The Den",
+    "arenaId": "the_den_london",
+    "city": "London, England",
+    "address": "John Berylson Wy, London SE16 3LN, United Kingdom",
+    "website": "millwallfc.co.uk",
+    "latitude": 51.485945111816925,  
+    "longitude": -0.05090772499696153,
+    "colorCode": "#181D3B",
+    "colorCode2": "#1B3357",  
+	"colorCode3": "#6D7381", 
+	"colorCode4": "#9F935C",    
+    "league": "1DIV",
+    "capacity": 20146,
+	"startDate": "2001-07-01",
+    "endDate": "2004-06-30"
   },		
   {
     "teamName": "Millwall",
@@ -6075,7 +6259,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 20146,
 	"startDate": "1995-07-01",
     "endDate": "2001-06-30"
@@ -6094,7 +6278,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 20146,
 	"startDate": "1993-07-01",
     "endDate": "1995-06-30"
@@ -6113,10 +6297,29 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "1DIV",
+    "capacity": 22000,
+	"startDate": "1992-07-01",
+    "endDate": "1993-06-30"
+  },		
+  {
+    "teamName": "Millwall",
+    "teamCode": "MIL",
+    "arena": "The Old Den",
+    "arenaId": "the_old_den_london",
+    "city": "London, England",
+    "address": "John Williams Cl, London SE16 3LN, United Kingdom",
+    "website": "millwallfc.co.uk",
+    "latitude": 51.48108777939198, 
+    "longitude": -0.04758733086653525,
+    "colorCode": "#181D3B",
+    "colorCode2": "#1B3357",  
+	"colorCode3": "#6D7381", 
+	"colorCode4": "#9F935C",    
+    "league": "2DIV",
     "capacity": 22000,
 	"startDate": "1990-07-01",
-    "endDate": "1993-06-30"
+    "endDate": "1992-06-30"
   },			
   {
     "teamName": "Millwall",
@@ -6132,7 +6335,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 22000,
 	"startDate": "1985-07-01",
     "endDate": "1990-06-30"
@@ -6151,7 +6354,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 22000,
 	"startDate": "1985-07-01",
     "endDate": "1988-06-30"
@@ -6170,7 +6373,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 22000,
 	"startDate": "1979-07-01",
     "endDate": "1985-06-30"
@@ -6189,7 +6392,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 22000,
 	"startDate": "1977-07-01",
     "endDate": "1979-06-30"
@@ -6208,7 +6411,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 22000,
 	"startDate": "1976-07-01",
     "endDate": "1977-06-30"
@@ -6227,7 +6430,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 22000,
 	"startDate": "1966-07-01",
     "endDate": "1975-06-30"
@@ -6246,7 +6449,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 22000,
 	"startDate": "1965-07-01",
     "endDate": "1966-06-30"
@@ -6265,7 +6468,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 22000,
 	"startDate": "1964-07-01",
     "endDate": "1965-06-30"
@@ -6284,7 +6487,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 22000,
 	"startDate": "1962-07-01",
     "endDate": "1964-06-30"
@@ -6303,7 +6506,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 22000,
 	"startDate": "1958-07-01",
     "endDate": "1962-06-30"
@@ -6322,7 +6525,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1S",
+    "league": "3DIVS",
     "capacity": 22000,
 	"startDate": "1948-07-01",
     "endDate": "1958-06-30"
@@ -6341,7 +6544,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4536,
 	"startDate": "1946-07-01",
     "endDate": "1948-06-30"
@@ -6360,7 +6563,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4536,
 	"startDate": "1938-07-01",
     "endDate": "1939-09-03"
@@ -6379,7 +6582,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 4536,
 	"startDate": "1934-07-01",
     "endDate": "1938-06-30"
@@ -6398,7 +6601,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 4536,
 	"startDate": "1928-07-01",
     "endDate": "1934-06-30"
@@ -6417,7 +6620,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 4536,
 	"startDate": "1921-07-01",
     "endDate": "1928-06-30"
@@ -6519,23 +6722,6 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFLC",
-    "capacity": 27359,
-	"startDate": "2014-07-01",
-    "endDate": "2015-06-30"
-  },
-  {
-    "teamName": "Norwich City",
-    "teamCode": "NORC",
-    "arena": "The Nest",
-    "arenaId": "the_nest_norwich",
-    "city": "Norwich, England",
-    "address": "Bertram Way, Norwich NR1 1EU,, United Kingdom",
-    "website": "canaries.co.uk",
-    "latitude": 52.62971944547476,  
-    "longitude": 1.31027612275493,
-    "colorCode": "#FFF000",
-    "colorCode2": "#00A326",     
     "league": "EPL",
     "capacity": 27359,
 	"startDate": "2011-07-01",
@@ -6621,29 +6807,12 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27359,
 	"startDate": "1995-07-01",
     "endDate": "2004-06-30"
   },	
-  {
-    "teamName": "Norwich City",
-    "teamCode": "NORC",
-    "arena": "The Nest",
-    "arenaId": "the_nest_norwich",
-    "city": "Norwich, England",
-    "address": "Bertram Way, Norwich NR1 1EU,, United Kingdom",
-    "website": "canaries.co.uk",
-    "latitude": 52.62971944547476,  
-    "longitude": 1.31027612275493,
-    "colorCode": "#FFF000",
-    "colorCode2": "#00A326",     
-    "league": "EFLC",
-    "capacity": 27359,
-	"startDate": "1995-07-01",
-    "endDate": "2004-06-30"
-  },	
-  {
+   {
     "teamName": "Norwich City",
     "teamCode": "NORC",
     "arena": "The Nest",
@@ -6657,7 +6826,7 @@
     "colorCode2": "#00A326",     
     "league": "EPL",
     "capacity": 27359,
-	"startDate": "1986-07-01",
+	"startDate": "1992-07-01",
     "endDate": "1995-06-30"
   },	
   {
@@ -6672,7 +6841,24 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFLC",
+    "league": "1DIV",
+    "capacity": 27359,
+	"startDate": "1986-07-01",
+    "endDate": "1992-06-30"
+  },	
+  {
+    "teamName": "Norwich City",
+    "teamCode": "NORC",
+    "arena": "The Nest",
+    "arenaId": "the_nest_norwich",
+    "city": "Norwich, England",
+    "address": "Bertram Way, Norwich NR1 1EU,, United Kingdom",
+    "website": "canaries.co.uk",
+    "latitude": 52.62971944547476,  
+    "longitude": 1.31027612275493,
+    "colorCode": "#FFF000",
+    "colorCode2": "#00A326",     
+    "league": "2DIV",
     "capacity": 27359,
 	"startDate": "1985-07-01",
     "endDate": "1986-06-30"
@@ -6689,7 +6875,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27359,
 	"startDate": "1982-07-01",
     "endDate": "1985-06-30"
@@ -6706,7 +6892,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27359,
 	"startDate": "1981-07-01",
     "endDate": "1982-06-30"
@@ -6723,7 +6909,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27359,
 	"startDate": "1975-07-01",
     "endDate": "1981-06-30"
@@ -6740,7 +6926,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27359,
 	"startDate": "1974-07-01",
     "endDate": "1975-06-30"
@@ -6757,7 +6943,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 27359,
 	"startDate": "1972-07-01",
     "endDate": "1974-06-30"
@@ -6774,7 +6960,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27359,
 	"startDate": "1960-07-01",
     "endDate": "1972-06-30"
@@ -6791,7 +6977,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 27359,
 	"startDate": "1958-07-01",
     "endDate": "1960-06-30"
@@ -6808,7 +6994,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFL1S",
+    "league": "3DIVS",
     "capacity": 27359,
 	"startDate": "1946-07-01",
     "endDate": "1958-06-30"
@@ -6825,7 +7011,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFL1S",
+    "league": "3DIVS",
     "capacity": 27359,
 	"startDate": "1939-07-01",
     "endDate": "1939-09-03"
@@ -6842,7 +7028,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 27359,
 	"startDate": "1934-07-01",
     "endDate": "1939-06-30"
@@ -6859,7 +7045,7 @@
     "longitude": 1.31027612275493,
     "colorCode": "#FFF000",
     "colorCode2": "#00A326",     
-    "league": "EFL1S",
+    "league": "3DIVS",
     "capacity": 27359,
 	"startDate": "1921-07-01",
     "endDate": "1934-06-30"
@@ -6967,10 +7153,28 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFLC",
+    "league": "1DIV",
+    "capacity": 20867,
+    "startDate": "1992-07-01",
+    "endDate": "2003-06-30"
+  },	
+  {
+    "teamName": "Portsmouth",
+    "teamCode": "PORT",
+    "arena": "Fratton Park",
+    "arenaId": "fratton_park_portsmouth",
+    "city": "Portsmouth, England",
+    "address": "Fratton Park, 44 Frogmore Rd, Southsea, Portsmouth, Southsea PO4 8RA, United Kingdom",
+    "website": "portsmouthfc.co.uk",
+    "latitude": 50.79634261574786, 
+    "longitude": -1.0638112942420928,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",  
+    "colorCode3": "#FF0000",     
+    "league": "2DIV",
     "capacity": 20867,
     "startDate": "1988-07-01",
-    "endDate": "2003-06-30"
+    "endDate": "1992-06-30"
   }, 
   {
     "teamName": "Portsmouth",
@@ -6985,7 +7189,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL1",
+    "league": "1DIV",
     "capacity": 20867,
     "startDate": "1987-07-01",
     "endDate": "1988-06-30"
@@ -7003,7 +7207,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 20867,
     "startDate": "1983-07-01",
     "endDate": "1987-06-30"
@@ -7021,7 +7225,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 20867,
     "startDate": "1980-07-01",
     "endDate": "1983-06-30"
@@ -7039,7 +7243,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 20867,
     "startDate": "1978-07-01",
     "endDate": "1980-06-30"
@@ -7057,7 +7261,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 20867,
     "startDate": "1976-07-01",
     "endDate": "1978-06-30"
@@ -7075,7 +7279,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 20867,
     "startDate": "1962-07-01",
     "endDate": "1976-06-30"
@@ -7093,7 +7297,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 20867,
     "startDate": "1961-07-01",
     "endDate": "1962-06-30"
@@ -7111,7 +7315,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 20867,
     "startDate": "1959-07-01",
     "endDate": "1961-06-30"
@@ -7129,7 +7333,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 20867,
     "startDate": "1946-07-01",
     "endDate": "1959-06-30"
@@ -7147,7 +7351,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 20867,
     "startDate": "1927-07-01",
     "endDate": "1939-09-03"
@@ -7165,7 +7369,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 20867,
     "startDate": "1924-07-01",
     "endDate": "1927-06-30"
@@ -7183,11 +7387,30 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",  
     "colorCode3": "#FF0000",     
-    "league": "EFL1",
+    "league": "3DIVS",
+    "capacity": 20867,
+    "startDate": "1921-07-01",
+    "endDate": "1924-06-30"
+  },
+  {
+    "teamName": "Portsmouth",
+    "teamCode": "PORT",
+    "arena": "Fratton Park",
+    "arenaId": "fratton_park_portsmouth",
+    "city": "Portsmouth, England",
+    "address": "Fratton Park, 44 Frogmore Rd, Southsea, Portsmouth, Southsea PO4 8RA, United Kingdom",
+    "website": "portsmouthfc.co.uk",
+    "latitude": 50.79634261574786, 
+    "longitude": -1.0638112942420928,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",  
+    "colorCode3": "#FF0000",     
+    "league": "3DIV",
     "capacity": 20867,
     "startDate": "1920-07-01",
-    "endDate": "1924-06-30"
+    "endDate": "1921-06-30"
   },	
+	
   {
     "teamName": "Preston North End",
     "teamCode": "PNE",
@@ -7221,8 +7444,26 @@
     "colorCode3": "#FFE100",     
     "league": "EFLC",
     "capacity": 23404,
-    "startDate": "2000-07-01",
+    "startDate": "2004-07-01",
     "endDate": "2012-06-30"
+  },	
+  {
+    "teamName": "Preston North End",
+    "teamCode": "PNE",
+    "arena": "Deepdale",
+    "arenaId": "deepdale_preston",
+    "city": "Preston, England",
+    "address": "Sir Tom Finney Way, Preston PR1 6RU, United Kingdom",
+    "website": "pnefc.net",
+    "latitude": 53.77221314966417, 
+    "longitude": -2.6884068331023903,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#17204A",  
+    "colorCode3": "#FFE100",     
+    "league": "1DIV",
+    "capacity": 23404,
+    "startDate": "2000-07-01",
+    "endDate": "2004-06-30"
   },		
   {
     "teamName": "Preston North End",
@@ -7237,7 +7478,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1996-07-01",
     "endDate": "2000-06-30"
@@ -7255,7 +7496,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL2",
+    "league": "3DIV",
     "capacity": 23404,
     "startDate": "1993-07-01",
     "endDate": "1996-06-30"
@@ -7273,9 +7514,9 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 23404,
-    "startDate": "1987-07-01",
+    "startDate": "1992-07-01",
     "endDate": "1993-06-30"
   },	
   {
@@ -7291,7 +7532,25 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL2",
+    "league": "3DIV",
+    "capacity": 23404,
+    "startDate": "1987-07-01",
+    "endDate": "1992-06-30"
+  },	
+  {
+    "teamName": "Preston North End",
+    "teamCode": "PNE",
+    "arena": "Deepdale",
+    "arenaId": "deepdale_preston",
+    "city": "Preston, England",
+    "address": "Sir Tom Finney Way, Preston PR1 6RU, United Kingdom",
+    "website": "pnefc.net",
+    "latitude": 53.77221314966417, 
+    "longitude": -2.6884068331023903,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#17204A",  
+    "colorCode3": "#FFE100",     
+    "league": "4DIV",
     "capacity": 23404,
     "startDate": "1985-07-01",
     "endDate": "1987-06-30"
@@ -7309,7 +7568,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 23404,
     "startDate": "1981-07-01",
     "endDate": "1985-06-30"
@@ -7327,7 +7586,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1978-07-01",
     "endDate": "1981-06-30"
@@ -7345,7 +7604,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 23404,
     "startDate": "1974-07-01",
     "endDate": "1978-06-30"
@@ -7363,7 +7622,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1971-07-01",
     "endDate": "1974-06-30"
@@ -7381,7 +7640,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 23404,
     "startDate": "1970-07-01",
     "endDate": "1971-06-30"
@@ -7399,7 +7658,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1961-07-01",
     "endDate": "1970-06-30"
@@ -7417,7 +7676,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1951-07-01",
     "endDate": "1961-06-30"
@@ -7435,7 +7694,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1949-07-01",
     "endDate": "1951-06-30"
@@ -7453,7 +7712,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1946-07-01",
     "endDate": "1949-06-30"
@@ -7471,7 +7730,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1934-07-01",
     "endDate": "1939-09-03"
@@ -7489,7 +7748,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1925-07-01",
     "endDate": "1934-06-30"
@@ -7507,7 +7766,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1919-07-01",
     "endDate": "1925-06-30"
@@ -7525,7 +7784,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1914-07-01",
     "endDate": "1915-06-30"
@@ -7543,7 +7802,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1913-07-01",
     "endDate": "1914-06-30"
@@ -7561,7 +7820,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1912-07-01",
     "endDate": "1913-06-30"
@@ -7579,7 +7838,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1904-07-01",
     "endDate": "1912-06-30"
@@ -7597,7 +7856,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 23404,
     "startDate": "1901-07-01",
     "endDate": "1904-06-30"
@@ -7615,11 +7874,12 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#17204A",  
     "colorCode3": "#FFE100",     
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 23404,
     "startDate": "1900-07-01",
     "endDate": "1901-06-30"
   },
+	
   {
     "teamName": "Queens Park Rangers",
     "teamCode": "QPR",
@@ -7632,7 +7892,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 18439,
     "startDate": "1921-07-01",
     "endDate": "1931-06-30"
@@ -7649,7 +7909,7 @@
     "longitude": -0.22697461347633507,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 93000,
     "startDate": "1931-07-01",
     "endDate": "1933-06-30"
@@ -7666,7 +7926,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 18439,
     "startDate": "1933-07-01",
     "endDate": "1939-09-03"
@@ -7683,7 +7943,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 18439,
     "startDate": "1946-07-01",
     "endDate": "1948-06-30"
@@ -7700,26 +7960,9 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 18439,
-    "startDate": "1946-07-01",
-    "endDate": "1948-06-30"
-  },
-  {
-    "teamName": "Queens Park Rangers",
-    "teamCode": "QPR",
-    "arena": "Loftus Road Stadium",
-    "arenaId": "Loftus_Road_stadium",
-    "city": "London, England",
-    "address": "Loftus Road, S Africa Rd, London W12 7PJ, United Kingdom",
-    "website": "qpr.co.uk",
-    "latitude": 51.50928037409464, 
-    "longitude": -0.23211164679580354,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#0033FF", 
-    "league": "EFLC",
-    "capacity": 18439,
-    "startDate": "1949-07-01",
+    "startDate": "1948-07-01",
     "endDate": "1952-06-30"
   },
   {
@@ -7734,11 +7977,28 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIVS",
     "capacity": 18439,
-    "startDate": "1945-07-01",
-    "endDate": "1962-06-30"
+    "startDate": "1953-07-01",
+    "endDate": "1958-06-30"
   },
+  {
+    "teamName": "Queens Park Rangers",
+    "teamCode": "QPR",
+    "arena": "Loftus Road Stadium",
+    "arenaId": "Loftus_Road_stadium",
+    "city": "London, England",
+    "address": "Loftus Road, S Africa Rd, London W12 7PJ, United Kingdom",
+    "website": "qpr.co.uk",
+    "latitude": 51.50928037409464, 
+    "longitude": -0.23211164679580354,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#0033FF", 
+    "league": "3DIV",
+    "capacity": 18439,
+    "startDate": "1958-07-01",
+    "endDate": "1962-06-30"
+  },	
   {
     "teamName": "Queens Park Rangers",
     "teamCode": "QPR",
@@ -7751,7 +8011,7 @@
     "longitude": -0.22697461347633507,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 18439,
     "startDate": "1962-07-01",
     "endDate": "1963-06-30"
@@ -7768,7 +8028,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 18439,
     "startDate": "1963-07-01",
     "endDate": "1967-06-30"
@@ -7785,7 +8045,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "2DIV",
     "capacity": 18439,
     "startDate": "1967-07-01",
     "endDate": "1968-06-30"
@@ -7802,7 +8062,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 18439,
     "startDate": "1968-07-01",
     "endDate": "1969-06-30"
@@ -7819,7 +8079,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 18439,
     "startDate": "1968-07-01",
     "endDate": "1973-06-30"
@@ -7836,7 +8096,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 18439,
     "startDate": "1973-07-01",
     "endDate": "1979-06-30"
@@ -7853,7 +8113,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 18439,
     "startDate": "1979-07-01",
     "endDate": "1983-06-30"
@@ -7870,10 +8130,10 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 18439,
     "startDate": "1983-07-01",
-    "endDate": "1996-06-30"
+    "endDate": "1992-06-30"
   },
   {
     "teamName": "Queens Park Rangers",
@@ -7887,7 +8147,24 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFLC",
+    "league": "1DIV",
+    "capacity": 18439,
+    "startDate": "1983-07-01",
+    "endDate": "1996-06-30"
+  },	
+  {
+    "teamName": "Queens Park Rangers",
+    "teamCode": "QPR",
+    "arena": "Loftus Road Stadium",
+    "arenaId": "Loftus_Road_stadium",
+    "city": "London, England",
+    "address": "Loftus Road, S Africa Rd, London W12 7PJ, United Kingdom",
+    "website": "qpr.co.uk",
+    "latitude": 51.50928037409464, 
+    "longitude": -0.23211164679580354,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#0033FF", 
+    "league": "2DIV",
     "capacity": 18439,
     "startDate": "1996-07-01",
     "endDate": "2001-06-30"
@@ -7904,7 +8181,7 @@
     "longitude": -0.23211164679580354,
     "colorCode": "#FFFFFF",
     "colorCode2": "#0033FF", 
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 18439,
     "startDate": "2001-07-01",
     "endDate": "2004-06-30"
@@ -7977,6 +8254,7 @@
     "startDate": "2014-07-01",
     "endDate": "2015-06-30"
   },
+	
   {
     "teamName": "Sheffield United",
     "teamCode": "SHE",
@@ -7990,7 +8268,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1893-07-01",
     "endDate": "1915-06-30"
@@ -8008,7 +8286,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1919-07-01",
     "endDate": "1934-06-30"
@@ -8026,7 +8304,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1934-07-01",
     "endDate": "1939-06-30"
@@ -8044,7 +8322,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1939-07-01",
     "endDate": "1939-09-03"
@@ -8062,7 +8340,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1946-07-01",
     "endDate": "1949-06-30"
@@ -8080,7 +8358,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1949-07-01",
     "endDate": "1953-06-30"
@@ -8098,7 +8376,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1953-07-01",
     "endDate": "1956-06-30"
@@ -8116,7 +8394,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1956-07-01",
     "endDate": "1961-06-30"
@@ -8134,7 +8412,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1961-07-01",
     "endDate": "1968-06-30"
@@ -8152,7 +8430,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1968-07-01",
     "endDate": "1971-06-30"
@@ -8170,7 +8448,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EPL",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1971-07-01",
     "endDate": "1976-06-30"
@@ -8188,7 +8466,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1976-07-01",
     "endDate": "1979-06-30"
@@ -8206,7 +8484,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 32050,
     "startDate": "1979-07-01",
     "endDate": "1981-06-30"
@@ -8224,7 +8502,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFL2",
+    "league": "4DIV",
     "capacity": 32050,
     "startDate": "1981-07-01",
     "endDate": "1982-06-30"
@@ -8242,7 +8520,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 32050,
     "startDate": "1982-07-01",
     "endDate": "1984-06-30"
@@ -8260,7 +8538,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1984-07-01",
     "endDate": "1988-06-30"
@@ -8278,7 +8556,7 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFL1",
+    "league": "3DIV",
     "capacity": 32050,
     "startDate": "1988-07-01",
     "endDate": "1989-06-30"
@@ -8296,10 +8574,28 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "2DIV",
     "capacity": 32050,
     "startDate": "1988-07-01",
     "endDate": "1989-06-30"
+  },
+  {
+    "teamName": "Sheffield United",
+    "teamCode": "SHE",
+    "arena": "Bramall Lane",
+    "arenaId": "bramall_lane_sheffield",
+    "city": "Sheffield, England",
+    "address": "Bramall Ln, Cherry St, Highfield, Sheffield S2 4SU, United Kingdom",
+    "website": "sufc.co.uk",
+    "latitude": 53.370412436828616, 
+    "longitude": -1.4708770552063544,
+    "colorCode": "#FE0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "1DIV",
+    "capacity": 32050,
+    "startDate": "1989-07-01",
+    "endDate": "1992-06-30"
   },
   {
     "teamName": "Sheffield United",
@@ -8316,7 +8612,7 @@
     "colorCode3": "#000000", 
     "league": "EPL",
     "capacity": 32050,
-    "startDate": "1989-07-01",
+    "startDate": "1992-07-01",
     "endDate": "1994-06-30"
   },
   {
@@ -8332,9 +8628,27 @@
     "colorCode": "#FE0000",
     "colorCode2": "#FFFFFF", 
     "colorCode3": "#000000", 
-    "league": "EFLC",
+    "league": "1DIV",
     "capacity": 32050,
     "startDate": "1994-07-01",
+    "endDate": "2004-06-30"
+  },
+  {
+    "teamName": "Sheffield United",
+    "teamCode": "SHE",
+    "arena": "Bramall Lane",
+    "arenaId": "bramall_lane_sheffield",
+    "city": "Sheffield, England",
+    "address": "Bramall Ln, Cherry St, Highfield, Sheffield S2 4SU, United Kingdom",
+    "website": "sufc.co.uk",
+    "latitude": 53.370412436828616, 
+    "longitude": -1.4708770552063544,
+    "colorCode": "#FE0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "1DIV",
+    "capacity": 32050,
+    "startDate": "2004-07-01",
     "endDate": "2006-06-30"
   },
   {
@@ -8480,8 +8794,332 @@
     "capacity": 32050,
     "startDate": "2023-07-01",
     "endDate": "2024-06-30"
-  },	
+  },
 
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "3DIVS",
+    "capacity": 15200,
+    "startDate": "1921-07-01",
+    "endDate": "1922-06-30"
+  },  	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "2DIV",
+    "capacity": 15200,
+    "startDate": "1922-07-01",
+    "endDate": "1940-09-03"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "2DIV",
+    "capacity": 15200,
+    "startDate": "1946-07-01",
+    "endDate": "1953-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "3DIVS",
+    "capacity": 15200,
+    "startDate": "1953-07-01",
+    "endDate": "1958-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "3DIV",
+    "capacity": 15200,
+    "startDate": "1958-07-01",
+    "endDate": "1960-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "3DIV",
+    "capacity": 15200,
+    "startDate": "1958-07-01",
+    "endDate": "1960-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "2DIV",
+    "capacity": 15200,
+    "startDate": "1960-07-01",
+    "endDate": "1966-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "1DIV",
+    "capacity": 15200,
+    "startDate": "1966-07-01",
+    "endDate": "1974-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "2DIV",
+    "capacity": 15200,
+    "startDate": "1974-07-01",
+    "endDate": "1978-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "1DIV",
+    "capacity": 15200,
+    "startDate": "1978-07-01",
+    "endDate": "1992-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "The Dell",
+    "arenaId": "the_dell_southampton",
+    "city": "Southampton, England",
+    "address": "Milton Road, Southampton, Hampshire, England",
+    "website": "southamptonfc.com",
+    "latitude": 50.91468193800748,  
+    "longitude": -1.4131517152706166,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EPL",
+    "capacity": 15200,
+    "startDate": "1992-07-01",
+    "endDate": "2001-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EPL",
+    "capacity": 15200,
+    "startDate": "2001-07-01",
+    "endDate": "2005-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EFLC",
+    "capacity": 15200,
+    "startDate": "2005-07-01",
+    "endDate": "2009-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EFL1",
+    "capacity": 15200,
+    "startDate": "2009-07-01",
+    "endDate": "2011-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EFLC",
+    "capacity": 15200,
+    "startDate": "2011-07-01",
+    "endDate": "2012-06-30"
+  },	
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EPL",
+    "capacity": 15200,
+    "startDate": "2012-07-01",
+    "endDate": "2023-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EFLC",
+    "capacity": 15200,
+    "startDate": "2023-07-01",
+    "endDate": "2024-06-30"
+  },
+  {
+    "teamName": "Southampton",
+    "teamCode": "SOU",
+    "arena": "St Mary's Stadium",
+    "arenaId": "st_marys_stadium_southampton",
+    "city": "Southampton, England",
+    "address": "Britannia Rd, Southampton SO14 5FP, United Kingdom",
+    "website": "southamptonfc.com",
+    "latitude": 50.90582576464834, 
+    "longitude": -1.391046502403281,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF", 
+    "colorCode3": "#000000", 
+    "league": "EPL",
+    "capacity": 15200,
+    "startDate": "2024-07-01",
+    "endDate": "2025-06-30"
+  },			
 
 
 
