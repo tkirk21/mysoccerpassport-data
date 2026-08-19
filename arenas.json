@@ -698,7 +698,23 @@
     "startDate": "2021-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "West Ham United",
+    "teamCode": "WHU",
+    "arena": "London Stadium",
+    "arenaId": "london_stadium_london",
+    "city": "London, England",
+    "address": "London E20 2ST, United Kingdom",
+    "website": "whufc.com",
+    "latitude": 51.53879196673998,   
+    "longitude": -0.016533593150376155,
+    "colorCode": "#7E1823",
+    "colorCode2": "#877A86",  
+    "league": "EFLC",
+    "capacity": 62500,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
 
 
 
