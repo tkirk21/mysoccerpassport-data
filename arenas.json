@@ -647,8 +647,40 @@
     "startDate": "2018-07-01",
     "endDate": null
   },
-
-
+  {
+    "teamName": "Swansea City",
+    "teamCode": "SWAN",
+    "arena": "Swansea.com Stadium",
+    "arenaId": "swansea_com_stadium_swansea",
+    "city": "Swansea, Wales",
+    "address": "Stadium, Plasmarl, Swansea SA1 2FA, United Kingdom",
+    "website": "swanseacity.com",
+    "latitude": 51.64274755921079,   
+    "longitude": -3.9346101063915624,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",  
+    "league": "EFLC",
+    "capacity": 21000,
+    "startDate": "2018-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Watford",
+    "teamCode": "WAT",
+    "arena": "Vicarage Road Stadium",
+    "arenaId": "vicarage_road_stadium_watford",
+    "city": "Watford, England",
+    "address": "Vicarage Rd, Watford WD18 0ER, United Kingdom",
+    "website": "watfordfc.com",
+    "latitude": 51.64995403125845,    
+    "longitude": -0.40156633266687536,
+    "colorCode": "#FAEF00",
+    "colorCode2": "#FF0000",  
+    "league": "EFLC",
+    "capacity": 22200,
+    "startDate": "2022-07-01",
+    "endDate": null
+  },
 
 
 
