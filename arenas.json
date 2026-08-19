@@ -715,7 +715,41 @@
     "startDate": "2026-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "Wolverhampton Wanderers",
+    "teamCode": "WOL",
+    "arena": "Molineux Stadium",
+    "arenaId": "molineux_stadium_wolverhampton",
+    "city": "Wolverhampton, England",
+    "address": "Waterloo Rd, Wolverhampton WV1 4QR, United Kingdom",
+    "website": "wolves.co.uk",
+    "latitude": 52.590237879931856,   
+    "longitude": -2.1304149230334684,
+    "colorCode": "#F39825",
+    "colorCode2": "#000000",  
+	"colorCode3": "#F19122",    
+    "league": "EFLC",
+    "capacity": 31750,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Wrexham",
+    "teamCode": "WREX",
+    "arena": "Racecourse Ground",
+    "arenaId": "racecourse_ground_wrexham",
+    "city": "Wrexham, Wales",
+    "address": "Mold Rd, Wrexham LL11 2AH, United Kingdom",
+    "website": "wrexhamafc.co.uk",
+    "latitude": 53.05194886150924, 
+    "longitude": -3.003803475847968,
+    "colorCode": "#F30000",
+    "colorCode2": "#FFFFFF",     
+    "league": "EFLC",
+    "capacity": 10771,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
 
 
 
