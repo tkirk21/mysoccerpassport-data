@@ -681,7 +681,23 @@
     "startDate": "2022-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "West Bromwich Albion",
+    "teamCode": "WBA",
+    "arena": "The Hawthorns",
+    "arenaId": "the_hathorns_west_bromwich",
+    "city": "West Bromwich, England",
+    "address": "9 Birmingham Rd, West Bromwich B71 4LF, United Kingdom",
+    "website": "wba.co.uk",
+    "latitude": 52.50909035151376,    
+    "longitude": -1.9639286568403058,
+    "colorCode": "#031265",
+    "colorCode2": "#FF0000",  
+    "league": "EFLC",
+    "capacity": 26688,
+    "startDate": "2021-07-01",
+    "endDate": null
+  },
 
 
 
