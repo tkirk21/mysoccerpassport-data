@@ -1,5 +1,14 @@
 [
   {
+    "currentArena": "Coventry Building Society Arena",
+    "teamName": "Coventry City",
+    "league": "EFLC",
+    "history": [
+      { "name": "Ricoh Arena", "from": "2020-01-01", "to": "2021-06-30" },
+      { "name": "Coventry Building Society Arena", "from": "2021-07-01", "to": "2026-06-30" }
+    ]
+  },	
+  {
     "currentArena": "Fitness First Stadium",
     "teamName": "Bournemouth",
     "league": "EFLC",
