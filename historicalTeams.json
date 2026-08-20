@@ -2497,6 +2497,54 @@
 	"startDate": "2005-07-01",
     "endDate": "2013-06-30"
   },
+  {
+    "teamName": "Everton",
+    "teamCode": "EVE",
+    "arena": "Hill Dickinson Stadium",
+    "arenaId": "hill_dickinson_stadium_liverpool",
+    "city": "Liverpool, England",
+    "address": "Regent Rd, Liverpool L3 0BW, United Kingdom",
+    "website": "evertonfc.com",
+    "latitude": 53.425000092524535,  
+    "longitude": -3.0027933237062547,
+    "colorCode": "#00019E",
+    "colorCode2": "#FFFFFF",
+	"colorCode3": "#FFD419",
+    "league": "1DIV",
+    "capacity": 52769,
+	"startDate": "1899-07-01",
+    "endDate": "1915-06-30"
+  },
+  {
+    "teamName": "Everton",
+    "teamCode": "EVE",
+    "arena": "Hill Dickinson Stadium",
+    "arenaId": "hill_dickinson_stadium_liverpool",
+    "city": "Liverpool, England",
+    "address": "Regent Rd, Liverpool L3 0BW, United Kingdom",
+    "website": "evertonfc.com",
+    "latitude": 53.425000092524535,  
+    "longitude": -3.0027933237062547,
+    "colorCode": "#00019E",
+    "colorCode2": "#FFFFFF",
+	"colorCode3": "#FFD419",
+    "league": "1DIV",
+    "capacity": 52769,
+	"startDate": "1919-07-01",
+    "endDate": "1946-09-03"
+  },	
+
+
+
+
+
+
+
+
+
+
+
+	
   
 
 
