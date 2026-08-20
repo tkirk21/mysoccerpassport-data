@@ -6620,7 +6620,7 @@
     "colorCode2": "#1B3357",  
 	"colorCode3": "#6D7381", 
 	"colorCode4": "#9F935C",    
-    "league": "3DIV",
+    "league": "3DIVS",
     "capacity": 4536,
 	"startDate": "1921-07-01",
     "endDate": "1928-06-30"
@@ -9526,7 +9526,7 @@
     "longitude": -3.9500004415923473,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",  
-    "league": "3DIV",
+    "league": "3DIVS",
     "capacity": 11475,
     "startDate": "1921-07-01",
     "endDate": "1925-06-30"
