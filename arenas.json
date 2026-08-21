@@ -580,8 +580,8 @@
   {
     "teamName": "Queens Park Rangers",
     "teamCode": "QPR",
-    "arena": "Loftus Road Stadium",
-    "arenaId": "Loftus_Road_stadium",
+    "arena": "MATRADE Loftus Road Stadium",
+    "arenaId": "matrade_Loftus_Road_stadium",
     "city": "London, England",
     "address": "Loftus Road, S Africa Rd, London W12 7PJ, United Kingdom",
     "website": "qpr.co.uk",
