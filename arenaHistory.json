@@ -1,13 +1,5 @@
 [
-  {
-    "currentArena": "Coventry Building Society Arena",
-    "teamName": "Coventry City",
-    "league": "EFLC",
-    "history": [
-      { "name": "Ricoh Arena", "from": "2020-01-01", "to": "2021-06-30" },
-      { "name": "Coventry Building Society Arena", "from": "2021-07-01", "to": "2026-06-30" }
-    ]
-  },	
+  	
   {
     "currentArena": "Fitness First Stadium",
     "teamName": "Bournemouth",
@@ -45,6 +37,15 @@
       { "name": "University of Bolton Stadium", "from": "2018-07-01", "to": "2019-06-30" }
     ]
   },
+  {
+    "currentArena": "Coventry Building Society Arena",
+    "teamName": "Coventry City",
+    "league": "EFLC",
+    "history": [
+      { "name": "Ricoh Arena", "from": "2020-01-01", "to": "2021-06-30" },
+      { "name": "Coventry Building Society Arena", "from": "2021-07-01", "to": "2026-06-30" }
+    ]
+  },	
    {
     "currentArena": "Riverside Stadium",
     "teamName": "Middlesbrough",
@@ -54,7 +55,17 @@
       { "name": "BT Cellnet Riverside Stadium", "from": "1999-07-01", "to": "2002-06-30" },
       { "name": "Riverside Stadium", "from": "2002-07-01", "to": "2009-06-30" }
     ]
-  },
+  },	
+  {
+    "currentArena": "MATRADE Loftus Road Stadium",
+    "teamName": "Queens Park Rangers",
+    "league": "EFLC",
+    "history": [
+      { "name": "Kiyan Prince Foundation Stadium", "from": "2019-07-01", "to": "2022-06-30" },
+      { "name": "Loftus Road Stadium", "from": "2022-07-01", "to": "2023-06-30" },
+      { "name": "MATRADE Loftus Road Stadium", "from": "2023-07-01", "to": null }
+    ]
+  },	
   {
     "currentArena": "bet365 Stadium",
     "teamName": "Stoke City",
