@@ -4273,6 +4273,134 @@
 	"startDate": "2023-07-01",
     "endDate": "2025-06-30"
   },
+
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "1DIV",
+    "capacity": 61276,
+	"startDate": "1899-07-01",
+    "endDate": "1904-06-30"
+  },	
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "2DIV",
+    "capacity": 61276,
+	"startDate": "1904-07-01",
+    "endDate": "1905-06-30"
+  },		
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "1DIV",
+    "capacity": 61276,
+	"startDate": "1905-07-01",
+    "endDate": "1915-06-30"
+  },
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "1DIV",
+    "capacity": 61276,
+	"startDate": "1919-07-01",
+    "endDate": "1939-09-03"
+  },
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "1DIV",
+    "capacity": 61276,
+	"startDate": "1946-07-01",
+    "endDate": "1953-06-30"
+  },
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "2DIV",
+    "capacity": 61276,
+	"startDate": "1953-07-01",
+    "endDate": "1962-06-30"
+  },	
+  {
+    "teamName": "Liverpool",
+    "teamCode": "LIV",
+    "arena": "Anfield",
+    "arenaId": "anfield_liverpool",
+    "city": "Liverpool, England",
+    "address": "Anfield Rd, Anfield, Liverpool L4 0TH, United Kingdom",
+    "website": "liverpoolfc.com",
+    "latitude": 53.430884528795936,   
+    "longitude": -2.960889730403759,
+    "colorCode": "#DE0000",
+    "colorCode2": "#FFFFFF",
+    "league": "1DIV",
+    "capacity": 61276,
+	"startDate": "1962-07-01",
+    "endDate": "1992-06-30"
+  },
+	
+
+
+
+
+
+
+	
 	
 	
 
