@@ -346,41 +346,7 @@
 	"startDate": "2019-04-19",
     "endDate": null
   },
-  {
-    "teamName": "AFC Wimbledon",
-    "teamCode": "WIM",
-    "arena": "Plough Lane",
-    "arenaId": "plough_lane_london",
-    "city": "London, England",
-    "address": "Plough Ln, London SW17 0NR, United Kingdom",
-    "website": "afcwimbledon.co.uk",
-    "latitude": 51.43154670006875,
-    "longitude": -0.18670903029390332,
-    "colorCode": "#0000FF",
-    "colorCode2": "#F9DD06",
-    "league": "EFL1",
-    "capacity": 9215,
-	"startDate": "2025-07-01",
-    "endDate": null
-  },
-  {
-    "teamName": "Barnsley",
-    "teamCode": "BAR",
-    "arena": "Oakwell",
-    "arenaId": "oakwell_barnsley",
-    "city": "Barnsley, England",
-    "address": "17 Grove St, Barnsley S71 1ET, United Kingdom",
-    "website": "www.barnsleyfc.co.uk",
-    "latitude": 53.552311478114724, 
-    "longitude": -1.4676508152548178,
-    "colorCode": "#FF0000",
-    "colorCode2": "#FFFFFF",
-    "league": "EFL1",
-    "capacity": 9215,
-	"startDate": "2022-07-01",
-    "endDate": null
-  },	
-
+  
 
 	
 
@@ -788,6 +754,80 @@
     "endDate": null
   },
 
+
+
+
+
+  {
+    "teamName": "AFC Wimbledon",
+    "teamCode": "WIM",
+    "arena": "Plough Lane",
+    "arenaId": "plough_lane_london",
+    "city": "London, England",
+    "address": "Plough Ln, London SW17 0NR, United Kingdom",
+    "website": "afcwimbledon.co.uk",
+    "latitude": 51.43154670006875,
+    "longitude": -0.18670903029390332,
+    "colorCode": "#0000FF",
+    "colorCode2": "#F9DD06",
+    "league": "EFL1",
+    "capacity": 9215,
+	"startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Barnsley",
+    "teamCode": "BAR",
+    "arena": "Oakwell",
+    "arenaId": "oakwell_barnsley",
+    "city": "Barnsley, England",
+    "address": "17 Grove St, Barnsley S71 1ET, United Kingdom",
+    "website": "www.barnsleyfc.co.uk",
+    "latitude": 53.552311478114724, 
+    "longitude": -1.4676508152548178,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "EFL1",
+    "capacity": 9215,
+	"startDate": "2022-07-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Blackpool",
+    "teamCode": "BLA",
+    "arena": "Bloomfield Road",
+    "arenaId": "bloomfield_road_blackpool",
+    "city": "Blackpool, England",
+    "address": "Bloomfield Rd, Seasiders Way, Blackpool FY1 6JJ, United Kingdom",
+    "website": "blackpoolfc.co.uk",
+    "latitude": 53.80487615293736,  
+    "longitude": -3.048107537196724,
+    "colorCode": "#FF7A1C",
+    "colorCode2": "#FFFFFF",
+    "league": "EFL1",
+    "capacity": 16500,
+	"startDate": "2023-07-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Bradford City",
+    "teamCode": "BC",
+    "arena": "Valley Parade",
+    "arenaId": "valley_parade_bradford",
+    "city": "Bradford, England",
+    "address": "Valley Parade, Bradford BD8 7DY, United Kingdom",
+    "website": "bradfordcityafc.com",
+    "latitude": 53.8042375491365,  
+    "longitude": -1.7590237523304777,
+    "colorCode": "#FFD700",
+    "colorCode2": "#810000",
+	"colorCode3": "#98285C",  
+	"colorCode4": "#000000",      
+    "league": "EFL1",
+    "capacity": 24840,
+	"startDate": "2026-07-01",
+    "endDate": null
+  },	
 
 
 
