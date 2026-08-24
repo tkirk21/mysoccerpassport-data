@@ -346,6 +346,43 @@
 	"startDate": "2019-04-19",
     "endDate": null
   },
+  {
+    "teamName": "AFC Wimbledon",
+    "teamCode": "WIM",
+    "arena": "Plough Lane",
+    "arenaId": "plough_lane_london",
+    "city": "London, England",
+    "address": "Plough Ln, London SW17 0NR, United Kingdom",
+    "website": "afcwimbledon.co.uk",
+    "latitude": 51.43154670006875,
+    "longitude": -0.18670903029390332,
+    "colorCode": "#0000FF",
+    "colorCode2": "#F9DD06",
+    "league": "EFL1",
+    "capacity": 9215,
+	"startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Barnsley",
+    "teamCode": "BAR",
+    "arena": "Oakwell",
+    "arenaId": "oakwell_barnsley",
+    "city": "Barnsley, England",
+    "address": "17 Grove St, Barnsley S71 1ET, United Kingdom",
+    "website": "www.barnsleyfc.co.uk",
+    "latitude": 53.552311478114724, 
+    "longitude": -1.4676508152548178,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "EFL1",
+    "capacity": 9215,
+	"startDate": "2022-07-01",
+    "endDate": null
+  },	
+
+
+	
 
 
 
