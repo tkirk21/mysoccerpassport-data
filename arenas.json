@@ -2108,9 +2108,131 @@
     "capacity": 7227,
     "startDate": "2017-01-01",
     "endDate": null
-  }
-	
-	
+  },
+
+
+
+
+
+  {
+    "teamName": "Atlanta United 2",
+    "arena": "Fifth Third Stadium",
+    "arenaId": "fifth_third_stadium_kennesaw",
+    "city": "Kennesaw, Georgia",
+    "address": "3200 George Busbee Pkwy NW, Kennesaw, GA 30144",
+    "website": "atlutd.com/2",
+    "latitude": 34.028932391259644,  
+    "longitude": -84.5676113628604,
+    "colorCode": "#DF0003",
+    "colorCode2": "#000000",  
+	"colorCode3": "#DBBD64",   
+    "league": "MLSNP",
+    "capacity": 8318,
+	"startDate": "2022-09-10",
+    "endDate": null
+  },
+  {
+    "teamName": "Austin FC II",
+    "teamCode": "ATX2",
+    "arena": "Parmer Field",
+    "arenaId": "parmer_field_austin",
+    "city": "Austin, Texas",
+    "address": "13000 Harris Ridge Blvd, Austin, TX 78753",
+    "website": "austinfc.com/ii",
+    "latitude": 30.406935680781988, 
+    "longitude": -97.65193651755044,
+    "colorCode": "#000000",
+    "colorCode2": "#3ADB69",    
+    "league": "MLSNP",
+    "capacity": 1000,
+	"startDate": "2023-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Carolina Core",
+    "teamCode": "CC",
+    "arena": "Truist Point Stadium",
+    "arenaId": "truist_point_stadium",
+    "city": "High Point, North Carolina",
+    "address": "301 N Elm St, High Point, NC 27262",
+    "website": "www.carolinacorefc.com",
+    "latitude": 35.95924666622305, 
+    "longitude": -80.01135552859847,
+    "colorCode": "#374F2F",
+    "colorCode2": "#000000",    
+    "league": "MLSNP",
+    "capacity": 5000,
+	"startDate": "2024-01-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Chattanooga",
+    "teamCode": "CHAT",
+    "arena": "Finley Stadium",
+    "arenaId": "finley_stadium_chattanooga",
+    "city": "Chattanooga, Tennessee",
+    "address": "1826 Reggie White Blvd, Chattanooga, TN 37402",
+    "website": "www.chattanoogafc.com",
+    "latitude": 35.03632912620616,  
+    "longitude": -85.31574026716002,
+    "colorCode": "#000057",
+    "colorCode2": "#87CEEB",    
+    "league": "MLSNP",
+    "capacity": 20668,
+	"startDate": "2024-01-01",
+    "endDate": null
+  },		
+  {
+    "teamName": "Chicago Fire II",
+    "teamCode": "CHI2",
+    "arena": "SeatGeek Stadium",
+    "arenaId": "seatgeek_stadium_bridgeview",
+    "city": "Bridgeview, Illinois",
+    "address": "7000 S Harlem Ave, Bridgeview, IL 60455",
+    "website": "chicagofirefc.com",
+    "latitude": 41.764842801069754,  
+    "longitude": -87.8062121002995,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLSNP",
+    "capacity": 62500,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Colorado Rapids 2",
+    "teamCode": "COL2",
+    "arena": "University of Denver Soccer Stadium",
+    "arenaId": "university_of_denver_soccer_stadium_denver",
+    "city": "Denver, Colorado",
+    "address": "Denver Soccer Stadium, University, Denver, CO 80210",
+    "website": "www.coloradorapids.com/rapids2",
+    "latitude": 39.68144766022165,  
+    "longitude": -104.96334521801901,
+    "colorCode": "#900010",
+    "colorCode2": "#87CEEB",   
+    "league": "MLSNP",
+    "capacity": 2000,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Columbus Crew 2",
+    "teamCode": "CLB2",
+    "arena": "Historic Crew Stadium",
+    "arenaId": "historic_crew_stadium_columbus",
+    "city": "Columbus, Ohio",
+    "address": "One Black and Gold Blvd, Columbus, OH 43211",
+    "website": "www.columbuscrew.com/crew2",
+    "latitude": 40.009514073662935,  
+    "longitude": -82.99117977907986,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#000000",   
+    "league": "MLSNP",
+    "capacity": 19968,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },	
 	
 	
 
