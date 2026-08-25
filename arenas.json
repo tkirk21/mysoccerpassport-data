@@ -880,6 +880,23 @@
     "capacity": 20738,
 	"startDate": "2021-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "CF Montreal",
+    "teamCode": "MTL",
+    "arena": "Saputo Stadium",
+    "arenaId": "saputo_stadium_montreal",
+    "city": "Montreal, Quebec",
+    "address": "4750 R. Sherbrooke E, Montréal, QC H1V 3S8, Canada",
+    "website": "www.cfmontreal.com",
+    "latitude": 45.563078092603526,  
+    "longitude": -73.55265105835203,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 19619,
+	"startDate": "2012-04-04",
+    "endDate": null
   },	
   {
     "teamName": "Charlotte",
@@ -896,6 +913,23 @@
     "league": "MLS",
     "capacity": 75037,
 	"startDate": "2022-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Chicago Fire",
+    "teamCode": "CHI",
+    "arena": "Soldier Field",
+    "arenaId": "soldier_field_chicago",
+    "city": "Chicago, Illinois",
+    "address": "1410 Special Olympics Dr, Chicago, IL 60605",
+    "website": "chicagofirefc.com",
+    "latitude": 41.86230068405289, 
+    "longitude": -87.61669893247577,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLS",
+    "capacity": 62500,
+	"startDate": "2020-01-01",
     "endDate": null
   },	
   {
@@ -950,23 +984,6 @@
     "capacity": 20371,
 	"startDate": "2021-01-01",
     "endDate": null
-  },
-  {
-    "teamName": "Dallas",
-    "teamCode": "DAL",
-    "arena": "Toyota Stadium",
-    "arenaId": "toyota_stadium_frisco",
-    "city": "Frisco, Texas",
-    "address": "9200 World Cup Way, Frisco, TX 75033",
-    "website": "www.fcdallas.com",
-    "latitude": 33.15434638601505, 
-    "longitude": -96.83519998764179,
-    "colorCode": "#BE1D2D",
-    "colorCode2": "#000D56",   
-    "league": "MLS",
-    "capacity": 23900,
-	"startDate": "2005-08-06",
-    "endDate": null
   },		
   {
     "teamName": "D.C. United",
@@ -985,6 +1002,23 @@
 	"startDate": "2018-01-01",
     "endDate": null
   },
+  {
+    "teamName": "FC Dallas",
+    "teamCode": "DAL",
+    "arena": "Toyota Stadium",
+    "arenaId": "toyota_stadium_frisco",
+    "city": "Frisco, Texas",
+    "address": "9200 World Cup Way, Frisco, TX 75033",
+    "website": "www.fcdallas.com",
+    "latitude": 33.15434638601505, 
+    "longitude": -96.83519998764179,
+    "colorCode": "#BE1D2D",
+    "colorCode2": "#000D56",   
+    "league": "MLS",
+    "capacity": 23900,
+	"startDate": "2005-08-06",
+    "endDate": null
+  },	
   {
     "teamName": "Houston Dynamo",
     "teamCode": "HOU",
@@ -1072,23 +1106,6 @@
 	"startDate": "2019-04-04",
     "endDate": null
   },	
-  {
-    "teamName": "Montreal",
-    "teamCode": "MTL",
-    "arena": "Saputo Stadium",
-    "arenaId": "saputo_stadium_montreal",
-    "city": "Montreal, Quebec",
-    "address": "4750 R. Sherbrooke E, Montréal, QC H1V 3S8, Canada",
-    "website": "www.cfmontreal.com",
-    "latitude": 45.563078092603526,  
-    "longitude": -73.55265105835203,
-    "colorCode": "#0000FF",
-    "colorCode2": "#FFFFFF",   
-    "league": "MLS",
-    "capacity": 19619,
-	"startDate": "2012-04-04",
-    "endDate": null
-  },
   {
     "teamName": "Nashville",
     "teamCode": "NSH",
@@ -1282,23 +1299,6 @@
     "endDate": null
   },
   {
-    "teamName": "St. Louis City",
-    "teamCode": "STL",
-    "arena": "Energizer Park",
-    "arenaId": "energizer_park_st_louis",
-    "city": "St. Louis, Missouri",
-    "address": "2019 Market St, St. Louis, MO 63103",
-    "website": "stlcitysc.com",
-    "latitude": 38.63137628317594,  
-    "longitude": -90.21028571053145,
-    "colorCode": "#F6325C",
-    "colorCode2": "#001837",  
-    "league": "MLS",
-    "capacity": 22423,
-	"startDate": "2023-01-01",
-    "endDate": null
-  },
-  {
     "teamName": "Sporting Kansas City",
     "teamCode": "SKC",
     "arena": "Sporting Park",
@@ -1313,6 +1313,23 @@
     "league": "MLS",
     "capacity": 18467,
 	"startDate": "2011-01-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "St. Louis City",
+    "teamCode": "STL",
+    "arena": "Energizer Park",
+    "arenaId": "energizer_park_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "2019 Market St, St. Louis, MO 63103",
+    "website": "stlcitysc.com",
+    "latitude": 38.63137628317594,  
+    "longitude": -90.21028571053145,
+    "colorCode": "#F6325C",
+    "colorCode2": "#001837",  
+    "league": "MLS",
+    "capacity": 22423,
+	"startDate": "2023-01-01",
     "endDate": null
   },	
   {
