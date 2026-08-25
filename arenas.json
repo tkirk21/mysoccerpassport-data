@@ -828,10 +828,77 @@
 	"startDate": "2026-07-01",
     "endDate": null
   },	
-
-
-
-
+  {
+    "teamName": "Bromley",
+    "teamCode": "BROM",
+    "arena": "Hayes Lane",
+    "arenaId": "hayes_lane_bromley",
+    "city": "Bromley, England",
+    "address": "Bromley Football Club Ground, FC-Stadium, Hayes Ln, Bromley BR2 9EF, United Kingdom",
+    "website": "bromleyfc.co.uk",
+    "latitude": 51.39009091316769,   
+    "longitude": 0.02108839877324596,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#AB9718",
+	"colorCode3": "#000000",    
+    "league": "EFL1",
+    "capacity": 10798,
+	"startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Burton Albion",
+    "teamCode": "BA",
+    "arena": "Pirelli Stadium",
+    "arenaId": "pirelli_stadium_buton_on_trent",
+    "city": "Burton-on-Trent, England",
+    "address": "Princess Way, Burton-on-Trent DE13 0AR, United Kingdom",
+    "website": "burtonalbionfc.co.uk",
+    "latitude": 52.8219633724787,    
+    "longitude": -1.6268631888939988,
+    "colorCode": "#000000",
+    "colorCode2": "#F7B206",
+	"colorCode3": "#FFFFFF",    
+    "league": "EFL1",
+    "capacity": 6912,
+	"startDate": "2018-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Cambridge United",
+    "teamCode": "CAMU",
+    "arena": "Abbey Stadium",
+    "arenaId": "abbey_stadium_cambridge",
+    "city": "Cambridge, England",
+    "address": "The Cledara, Newmarket Rd, Cambridge CB5 8LN, United Kingdom",
+    "website": "www.cambridgeunited.com",
+    "latitude": 52.21213098531038,     
+    "longitude": 0.154180201527135,
+    "colorCode": "#FAA419",
+    "colorCode2": "#000000",
+    "league": "EFL1",
+    "capacity": 7937,
+	"startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Doncaster Rovers",
+    "teamCode": "DON",
+    "arena": "Club Doncaster Sports Village",
+    "arenaId": "club_doncaster_sports_village_doncaster",
+    "city": "Doncaster, England",
+    "address": "Potteric Carr Rd, Doncaster DN4 5JB, United Kingdom",
+    "website": "doncasterroversfc.co.uk",
+    "latitude": 53.50982448968288,     
+    "longitude": -1.113801382391851,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",  
+    "league": "EFL1",
+    "capacity": 15231,
+	"startDate": "2025-07-01",
+    "endDate": null
+  },
 
 
 
