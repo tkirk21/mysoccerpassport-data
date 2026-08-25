@@ -316,5 +316,26 @@
 	  { "name": "Etihad Stadium", "from": "2009-03-01", "to": "2018-08-30" },
 	  { "name": "Marvel Stadium", "from": "2018-09-01", "to": "2021-08-30" }	
     ]
+  },
+  {
+    "currentArena": "McDonald Jones Stadium",
+    "teamName": "Newcastle Jets",
+    "league": "ALM",
+    "history": [
+      { "name": "EnergyAustralia Stadium", "from": "2005-07-01", "to": "2011-02-09" },
+	  { "name": "Ausgrid Stadium", "from": "2011-02-10", "to": "2012-01-01" },
+	  { "name": "Hunter Stadium", "from": "2012-01-01", "to": "2016-08-30" },
+	  { "name": "McDonald Jones Stadium", "from": "2016-09-01", "to": null }	
+    ]
+  },
+  {
+    "currentArena": "HBF Park",
+    "teamName": "Perth Glory",
+    "league": "ALM",
+    "history": [
+	  { "name": "Members Equity Bank", "from": "2005-02-10", "to": "2011-12-31" },
+	  { "name": "NIB Stadium", "from": "2010-01-01", "to": "2019-01-29" },
+	  { "name": "HBF Park", "from": "2019-01-30", "to": null }	
+    ]
   }		
 ]
