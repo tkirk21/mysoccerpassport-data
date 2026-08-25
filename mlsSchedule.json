@@ -1,3 +1,1962 @@
 [
+  {
+    "id": "mls_2026082961",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "Chicago Fire",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-08-29T20:30Z"
+  },
+  
+  {
+    "id": "mls_2026082962",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "Charlotte",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-08-29T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026082963",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "New England Revolution",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-08-29T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026082964",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "Los Angeles FC",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-08-29T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026082965",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "CF Montreal",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-08-29T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026082966",
+    "league": "MLS",
+    "team": "New York Red Bulls",
+    "opponent": "Philadelphia Union",
+    "arena": "Sports Illustrated Stadium",
+    "city": "Harrison, New Jersey",
+    "date": "2026-08-29T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026082967",
+    "league": "MLS",
+    "team": "Toronto",
+    "opponent": "New York City",
+    "arena": "BMO Field",
+    "city": "Toronto, Ontario",
+    "date": "2026-08-29T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026083068",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "San Jose Earthquakes",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-08-30T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026083069",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "Orlando City",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-08-30T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026083070",
+    "league": "MLS",
+    "team": "Nashville",
+    "opponent": "FC Cincinnati",
+    "arena": "Geodis Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-08-30T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026083071",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-08-30T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026083072",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "Real Salt Lake",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-08-30T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026083073",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "Austin",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-08-30T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026083074",
+    "league": "MLS",
+    "team": "San Diego",
+    "opponent": "LA Galaxy",
+    "arena": "Snapdragon Stadium",
+    "city": "San Diego, California",
+    "date": "2026-08-30T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026083075",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "FC Dallas",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-08-30T23:00Z"
+  },
+
+  {
+    "id": "mls_2026090401",
+    "league": "MLS",
+    "team": "New York City",
+    "opponent": "Nashville",
+    "arena": "Yankee Stadium",
+    "city": "New York, New York",
+    "date": "2026-09-04T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090502",
+    "league": "MLS",
+    "team": "Charlotte",
+    "opponent": "Houston Dynamo",
+    "arena": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090503",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "Colorado Rapids",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090504",
+    "league": "MLS",
+    "team": "FC Cincinnati",
+    "opponent": "D.C. United",
+    "arena": "TQL Stadium",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090505",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "Atlanta United",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090506",
+    "league": "MLS",
+    "team": "Orlando City",
+    "opponent": "San Diego",
+    "arena": "Inter&Co Stadium",
+    "city": "Orlando, Florida",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090507",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "CF Montreal",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090508",
+    "league": "MLS",
+    "team": "Toronto",
+    "opponent": "Chicago Fire",
+    "arena": "BMO Field",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-05T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090609",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "San Jose Earthquakes",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-09-06T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026090610",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Sporting Kansas City",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-09-06T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026090611",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "New York Red Bulls",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-09-06T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026090612",
+    "league": "MLS",
+    "team": "LA Galaxy",
+    "opponent": "New England Revolution",
+    "arena": "Dignity Health Sports Park",
+    "city": "Carson, California",
+    "date": "2026-09-06T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026090613",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "Los Angeles FC",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-09-06T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026090614",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "Minnesota United",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-09-06T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026090615",
+    "league": "MLS",
+    "team": "Vancouver Whitecaps",
+    "opponent": "St. Louis City",
+    "arena": "BC Place",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-09-06T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026090916",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "Orlando City",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-09-09T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090917",
+    "league": "MLS",
+    "team": "CF Montreal",
+    "opponent": "Charlotte",
+    "arena": "Saputo Stadium",
+    "city": "Montreal, Quebec",
+    "date": "2026-09-09T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090918",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "Columbus Crew",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-09-09T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090919",
+    "league": "MLS",
+    "team": "New York City",
+    "opponent": "New England Revolution",
+    "arena": "Yankee Stadium",
+    "city": "New York, New York",
+    "date": "2026-09-09T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090920",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "FC Cincinnati",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-09-09T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026090921",
+    "league": "MLS",
+    "team": "Toronto",
+    "opponent": "Nashville",
+    "arena": "BMO Field",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-09T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091022",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "Colorado Rapids",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-09-10T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091023",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "Inter Miami",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-10T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091024",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "Real Salt Lake",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-09-10T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091025",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "FC Dallas",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-09-10T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091026",
+    "league": "MLS",
+    "team": "Los Angeles FC",
+    "opponent": "New York Red Bulls",
+    "arena": "BMO Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-10T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026091027",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "St. Louis City",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-09-10T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026091028",
+    "league": "MLS",
+    "team": "San Diego",
+    "opponent": "San Jose Earthquakes",
+    "arena": "Snapdragon Stadium",
+    "city": "San Diego, California",
+    "date": "2026-09-10T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026091029",
+    "league": "MLS",
+    "team": "Vancouver Whitecaps",
+    "opponent": "LA Galaxy",
+    "arena": "BC Place",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-09-10T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026091230",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "New York Red Bulls",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-12T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091231",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "Atlanta United",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-09-12T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091232",
+    "league": "MLS",
+    "team": "FC Cincinnati",
+    "opponent": "Charlotte",
+    "arena": "TQL Stadium",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-12T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091233",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "Nashville",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-09-12T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091234",
+    "league": "MLS",
+    "team": "Orlando City",
+    "opponent": "Toronto",
+    "arena": "Inter&Co Stadium",
+    "city": "Orlando, Florida",
+    "date": "2026-09-12T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091335",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Portland Timbers",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-09-13T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091336",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "Los Angeles FC",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-13T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091337",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "Minnesota United",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-13T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026091338",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "CF Montreal",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-09-13T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026091339",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "New York City",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-09-13T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026091340",
+    "league": "MLS",
+    "team": "LA Galaxy",
+    "opponent": "Seattle Sounders",
+    "arena": "Dignity Health Sports Park",
+    "city": "Carson, California",
+    "date": "2026-09-13T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026091341",
+    "league": "MLS",
+    "team": "San Jose Earthquakes",
+    "opponent": "Houston Dynamo",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-09-13T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026091342",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "New England Revolution",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-13T21:30Z"
+  },
+  
+  {
+    "id": "mls_2026091343",
+    "league": "MLS",
+    "team": "Vancouver Whitecaps",
+    "opponent": "Austin",
+    "arena": "BC Place",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-09-13T22:30Z"
+  },
+  
+  {
+    "id": "mls_2026091444",
+    "league": "MLS",
+    "team": "San Diego",
+    "opponent": "Philadelphia Union",
+    "arena": "Snapdragon Stadium",
+    "city": "San Diego, California",
+    "date": "2026-09-14T01:00Z"
+  },
+  
+  {
+    "id": "mls_2026091845",
+    "league": "MLS",
+    "team": "New York City",
+    "opponent": "New York Red Bulls",
+    "arena": "Yankee Stadium",
+    "city": "New York, New York",
+    "date": "2026-09-18T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091946",
+    "league": "MLS",
+    "team": "CF Montreal",
+    "opponent": "Columbus Crew",
+    "arena": "Saputo Stadium",
+    "city": "Montreal, Quebec",
+    "date": "2026-09-19T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091947",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "Charlotte",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-09-19T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091948",
+    "league": "MLS",
+    "team": "New England Revolution",
+    "opponent": "Orlando City",
+    "arena": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "date": "2026-09-19T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026091949",
+    "league": "MLS",
+    "team": "San Jose Earthquakes",
+    "opponent": "Los Angeles FC",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-09-19T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026092050",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Austin",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-09-20T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092051",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "FC Cincinnati",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-09-20T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092052",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "LA Galaxy",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-09-20T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092053",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "Philadelphia Union",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-20T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092054",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "Toronto",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-20T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092055",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "Seattle Sounders",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-09-20T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026092056",
+    "league": "MLS",
+    "team": "Nashville",
+    "opponent": "Chicago Fire",
+    "arena": "Geodis Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-20T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026092057",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-09-20T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026092058",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "Atlanta United",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-09-20T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026092059",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "San Diego",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-09-20T23:00Z"
+  },
+  
+  {
+    "id": "mls_2026092460",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "Real Salt Lake",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-09-24T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026092661",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "New York City",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-09-26T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026092662",
+    "league": "MLS",
+    "team": "CF Montreal",
+    "opponent": "FC Cincinnati",
+    "arena": "Saputo Stadium",
+    "city": "Montreal, Quebec",
+    "date": "2026-09-26T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026092663",
+    "league": "MLS",
+    "team": "Charlotte",
+    "opponent": "Chicago Fire",
+    "arena": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-26T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026092664",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "Orlando City",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-09-26T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026092665",
+    "league": "MLS",
+    "team": "New York Red Bulls",
+    "opponent": "St. Louis City",
+    "arena": "Sports Illustrated Stadium",
+    "city": "Harrison, New Jersey",
+    "date": "2026-09-26T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026092766",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "San Diego",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-09-27T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092767",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Los Angeles FC",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-09-27T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092768",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "Sporting Kansas City",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-09-27T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092769",
+    "league": "MLS",
+    "team": "Nashville",
+    "opponent": "Toronto",
+    "arena": "Geodis Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-27T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092770",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "Minnesota United",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-09-27T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026092771",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "New England Revolution",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-09-27T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026092772",
+    "league": "MLS",
+    "team": "LA Galaxy",
+    "opponent": "Colorado Rapids",
+    "arena": "Dignity Health Sports Park",
+    "city": "Carson, California",
+    "date": "2026-09-27T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026092773",
+    "league": "MLS",
+    "team": "San Jose Earthquakes",
+    "opponent": "Portland Timbers",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-09-27T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026092774",
+    "league": "MLS",
+    "team": "Vancouver Whitecaps",
+    "opponent": "D.C. United",
+    "arena": "BC Place",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-09-27T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026092775",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "Inter Miami",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-27T23:00Z"
+  },
+  
+  {
+    "id": "mls_2026100201",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "Sporting Kansas City",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-10-02T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026100702",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-10-07T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101003",
+    "league": "MLS",
+    "team": "Toronto",
+    "opponent": "CF Montreal",
+    "arena": "BMO Field",
+    "city": "Toronto, Ontario",
+    "date": "2026-10-10T17:00Z"
+  },
+  
+  {
+    "id": "mls_2026101004",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "New York City",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-10-10T18:30Z"
+  },
+  
+  {
+    "id": "mls_2026101005",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "FC Cincinnati",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101006",
+    "league": "MLS",
+    "team": "Charlotte",
+    "opponent": "FC Dallas",
+    "arena": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101007",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "D.C. United",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101008",
+    "league": "MLS",
+    "team": "New England Revolution",
+    "opponent": "Seattle Sounders",
+    "arena": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101009",
+    "league": "MLS",
+    "team": "Orlando City",
+    "opponent": "Columbus Crew",
+    "arena": "Inter&Co Stadium",
+    "city": "Orlando, Florida",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101010",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "Real Salt Lake",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101011",
+    "league": "MLS",
+    "team": "New York Red Bulls",
+    "opponent": "San Diego",
+    "arena": "Sports Illustrated Stadium",
+    "city": "Harrison, New Jersey",
+    "date": "2026-10-10T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101112",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "Nashville",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-10-11T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101113",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "Houston Dynamo",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-10-11T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101114",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "Portland Timbers",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-10-11T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101115",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "San Jose Earthquakes",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-10-11T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026101116",
+    "league": "MLS",
+    "team": "Los Angeles FC",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "BMO Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-10-11T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101117",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "LA Galaxy",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-10-11T23:00Z"
+  },
+  
+  {
+    "id": "mls_2026101418",
+    "league": "MLS",
+    "team": "CF Montreal",
+    "opponent": "Atlanta United",
+    "arena": "Saputo Stadium",
+    "city": "Montreal, Quebec",
+    "date": "2026-10-14T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101419",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "Charlotte",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-10-14T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101420",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "New York Red Bulls",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-10-14T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101421",
+    "league": "MLS",
+    "team": "FC Cincinnati",
+    "opponent": "New England Revolution",
+    "arena": "TQL Stadium",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-10-14T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101422",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "New York City",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-10-14T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101423",
+    "league": "MLS",
+    "team": "Toronto",
+    "opponent": "Orlando City",
+    "arena": "BMO Field",
+    "city": "Toronto, Ontario",
+    "date": "2026-10-14T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101524",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "Philadelphia Union",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-10-15T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101525",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Seattle Sounders",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-10-15T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101526",
+    "league": "MLS",
+    "team": "Nashville",
+    "opponent": "Sporting Kansas City",
+    "arena": "Geodis Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-10-15T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101527",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-10-15T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101528",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "Minnesota United",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-10-15T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026101529",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "San Jose Earthquakes",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-10-15T01:30Z"
+  },
+  
+  {
+    "id": "mls_2026101530",
+    "league": "MLS",
+    "team": "LA Galaxy",
+    "opponent": "Portland Timbers",
+    "arena": "Dignity Health Sports Park",
+    "city": "Carson, California",
+    "date": "2026-10-15T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101531",
+    "league": "MLS",
+    "team": "Los Angeles FC",
+    "opponent": "Austin",
+    "arena": "BMO Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-10-15T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101532",
+    "league": "MLS",
+    "team": "San Diego",
+    "opponent": "Houston Dynamo",
+    "arena": "Snapdragon Stadium",
+    "city": "San Diego, California",
+    "date": "2026-10-15T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101733",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "Charlotte",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-10-17T18:30Z"
+  },
+  
+  {
+    "id": "mls_2026101734",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "St. Louis City",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-10-17T20:30Z"
+  },
+  
+  {
+    "id": "mls_2026101735",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "Inter Miami",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-10-17T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101736",
+    "league": "MLS",
+    "team": "New England Revolution",
+    "opponent": "Chicago Fire",
+    "arena": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "date": "2026-10-17T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101737",
+    "league": "MLS",
+    "team": "Orlando City",
+    "opponent": "D.C. United",
+    "arena": "Inter&Co Stadium",
+    "city": "Orlando, Florida",
+    "date": "2026-10-17T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101738",
+    "league": "MLS",
+    "team": "New York Red Bulls",
+    "opponent": "Toronto",
+    "arena": "Sports Illustrated Stadium",
+    "city": "Harrison, New Jersey",
+    "date": "2026-10-17T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026101839",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-10-18T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101840",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "FC Dallas",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-10-18T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101841",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "Real Salt Lake",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-10-18T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026101842",
+    "league": "MLS",
+    "team": "LA Galaxy",
+    "opponent": "San Diego",
+    "arena": "Dignity Health Sports Park",
+    "city": "Carson, California",
+    "date": "2026-10-18T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101843",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "Colorado Rapids",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-10-18T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101844",
+    "league": "MLS",
+    "team": "San Jose Earthquakes",
+    "opponent": "Nashville",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-10-18T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101845",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "CF Montreal",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-10-18T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026101846",
+    "league": "MLS",
+    "team": "FC Cincinnati",
+    "opponent": "Columbus Crew",
+    "arena": "TQL Stadium",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-10-18T23:00Z"
+  },
+  
+  {
+    "id": "mls_2026102447",
+    "league": "MLS",
+    "team": "CF Montreal",
+    "opponent": "Nashville",
+    "arena": "Saputo Stadium",
+    "city": "Montreal, Quebec",
+    "date": "2026-10-24T17:30Z"
+  },
+  
+  {
+    "id": "mls_2026102448",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "Toronto",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-10-24T19:30Z"
+  },
+  
+  {
+    "id": "mls_2026102449",
+    "league": "MLS",
+    "team": "New York Red Bulls",
+    "opponent": "Inter Miami",
+    "arena": "Sports Illustrated Stadium",
+    "city": "Harrison, New Jersey",
+    "date": "2026-10-24T21:30Z"
+  },
+  
+  {
+    "id": "mls_2026102450",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "Chicago Fire",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-10-24T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102451",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "FC Cincinnati",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-10-24T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102452",
+    "league": "MLS",
+    "team": "Orlando City",
+    "opponent": "New York City",
+    "arena": "Inter&Co Stadium",
+    "city": "Orlando, Florida",
+    "date": "2026-10-24T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102453",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "New England Revolution",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-10-24T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102554",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-10-25T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102555",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "San Jose Earthquakes",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-10-25T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102556",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "Minnesota United",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-10-25T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102557",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "St. Louis City",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-10-25T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102558",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "Austin",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-10-25T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102559",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "Charlotte",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-10-25T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026102560",
+    "league": "MLS",
+    "team": "San Diego",
+    "opponent": "Seattle Sounders",
+    "arena": "Snapdragon Stadium",
+    "city": "San Diego, California",
+    "date": "2026-10-25T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026102661",
+    "league": "MLS",
+    "team": "Los Angeles FC",
+    "opponent": "LA Galaxy",
+    "arena": "BMO Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-10-26T01:00Z"
+  },
+  
+  {
+    "id": "mls_2026102862",
+    "league": "MLS",
+    "team": "Charlotte",
+    "opponent": "CF Montreal",
+    "arena": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-10-28T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102863",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "FC Cincinnati",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-10-28T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102864",
+    "league": "MLS",
+    "team": "New England Revolution",
+    "opponent": "New York Red Bulls",
+    "arena": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "date": "2026-10-28T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102865",
+    "league": "MLS",
+    "team": "New York City",
+    "opponent": "Atlanta United",
+    "arena": "Yankee Stadium",
+    "city": "New York, New York",
+    "date": "2026-10-28T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102866",
+    "league": "MLS",
+    "team": "Toronto",
+    "opponent": "D.C. United",
+    "arena": "BMO Field",
+    "city": "Toronto, Ontario",
+    "date": "2026-10-28T23:30Z"
+  },
+  
+  {
+    "id": "mls_2026102967",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "Real Salt Lake",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-10-29T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102968",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "Orlando City",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-10-29T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102969",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Columbus Crew",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-10-29T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102970",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "Sporting Kansas City",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-10-29T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102971",
+    "league": "MLS",
+    "team": "Nashville",
+    "opponent": "Philadelphia Union",
+    "arena": "Geodis Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-10-29T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102972",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "Portland Timbers",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-10-29T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026102973",
+    "league": "MLS",
+    "team": "San Jose Earthquakes",
+    "opponent": "Colorado Rapids",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-10-29T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026102974",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "Houston Dynamo",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-10-29T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026102975",
+    "league": "MLS",
+    "team": "Vancouver Whitecaps",
+    "opponent": "San Diego",
+    "arena": "BC Place",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-10-29T02:30Z"
+  },
+  
+  {
+    "id": "mls_2026103176",
+    "league": "MLS",
+    "team": "Charlotte",
+    "opponent": "Orlando City",
+    "arena": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-10-31T17:00Z"
+  },
+  
+  {
+    "id": "mls_2026103177",
+    "league": "MLS",
+    "team": "Columbus Crew",
+    "opponent": "D.C. United",
+    "arena": "ScottsMiracle-Gro Field",
+    "city": "Columbus, Ohio",
+    "date": "2026-10-31T18:00Z"
+  },
+  
+  {
+    "id": "mls_2026103178",
+    "league": "MLS",
+    "team": "FC Cincinnati",
+    "opponent": "Philadelphia Union",
+    "arena": "TQL Stadium",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-10-31T18:00Z"
+  },
+  
+  {
+    "id": "mls_2026103179",
+    "league": "MLS",
+    "team": "Sporting Kansas City",
+    "opponent": "FC Dallas",
+    "arena": "Sporting Park",
+    "city": "Kansas City, Kansas",
+    "date": "2026-10-31T19:00Z"
+  },
+  
+  {
+    "id": "mls_2026103180",
+    "league": "MLS",
+    "team": "LA Galaxy",
+    "opponent": "Austin",
+    "arena": "Dignity Health Sports Park",
+    "city": "Carson, California",
+    "date": "2026-10-31T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110181",
+    "league": "MLS",
+    "team": "Colorado Rapids",
+    "opponent": "Chicago Fire",
+    "arena": "Dick's Sporting Goods Park",
+    "city": "Commerce City, Colorado",
+    "date": "2026-11-01T01:30Z"
+  },  
+
+  {
+    "id": "mls_2026110101",
+    "league": "MLS",
+    "team": "Los Angeles FC",
+    "opponent": "Minnesota United",
+    "arena": "BMO Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-11-01T20:00Z"
+  },
+  
+  {
+    "id": "mls_2026110102",
+    "league": "MLS",
+    "team": "New York City",
+    "opponent": "CF Montreal",
+    "arena": "Yankee Stadium",
+    "city": "New York, New York",
+    "date": "2026-11-01T20:00Z"
+  },
+  
+  {
+    "id": "mls_2026110103",
+    "league": "MLS",
+    "team": "San Jose Earthquakes",
+    "opponent": "Real Salt Lake",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-11-01T20:00Z"
+  },
+  
+  {
+    "id": "mls_2026110104",
+    "league": "MLS",
+    "team": "St. Louis City",
+    "opponent": "San Diego",
+    "arena": "Energizer Park",
+    "city": "St. Louis, Missouri",
+    "date": "2026-11-01T20:00Z"
+  },
+  
+  {
+    "id": "mls_2026110105",
+    "league": "MLS",
+    "team": "Atlanta United",
+    "opponent": "Toronto",
+    "arena": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "date": "2026-11-01T21:30Z"
+  },
+  
+  {
+    "id": "mls_2026110106",
+    "league": "MLS",
+    "team": "Nashville",
+    "opponent": "New York Red Bulls",
+    "arena": "Geodis Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-11-01T21:30Z"
+  },
+  
+  {
+    "id": "mls_2026110107",
+    "league": "MLS",
+    "team": "Vancouver Whitecaps",
+    "opponent": "Seattle Sounders",
+    "arena": "BC Place",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-11-01T21:30Z"
+  },
+  
+  {
+    "id": "mls_2026110108",
+    "league": "MLS",
+    "team": "New England Revolution",
+    "opponent": "Inter Miami",
+    "arena": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "date": "2026-11-01T23:00Z"
+  },
+  
+  {
+    "id": "mls_2026110209",
+    "league": "MLS",
+    "team": "Portland Timbers",
+    "opponent": "Houston Dynamo",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-11-02T01:00Z"
+  },
+  
+  {
+    "id": "mls_2026110510",
+    "league": "MLS",
+    "team": "New York City",
+    "opponent": "Los Angeles FC",
+    "arena": "Yankee Stadium",
+    "city": "New York, New York",
+    "date": "2026-11-05T00:30Z"
+  },
+  
+  {
+    "id": "mls_2026110711",
+    "league": "MLS",
+    "team": "CF Montreal",
+    "opponent": "Vancouver Whitecaps",
+    "arena": "Saputo Stadium",
+    "city": "Montreal, Quebec",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110712",
+    "league": "MLS",
+    "team": "Chicago Fire",
+    "opponent": "Columbus Crew",
+    "arena": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110713",
+    "league": "MLS",
+    "team": "D.C. United",
+    "opponent": "New York City",
+    "arena": "Audi Field",
+    "city": "Washington, D.C.",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110714",
+    "league": "MLS",
+    "team": "FC Cincinnati",
+    "opponent": "Nashville",
+    "arena": "TQL Stadium",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110715",
+    "league": "MLS",
+    "team": "Inter Miami",
+    "opponent": "Charlotte",
+    "arena": "Nu Stadium",
+    "city": "Miami, Florida",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110716",
+    "league": "MLS",
+    "team": "Orlando City",
+    "opponent": "New England Revolution",
+    "arena": "Inter&Co Stadium",
+    "city": "Orlando, Florida",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110717",
+    "league": "MLS",
+    "team": "Philadelphia Union",
+    "opponent": "Toronto",
+    "arena": "Subaru Park",
+    "city": "Chester, Pennsylvania",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110718",
+    "league": "MLS",
+    "team": "New York Red Bulls",
+    "opponent": "Atlanta United",
+    "arena": "Sports Illustrated Stadium",
+    "city": "Harrison, New Jersey",
+    "date": "2026-11-07T21:00Z"
+  },
+  
+  {
+    "id": "mls_2026110819",
+    "league": "MLS",
+    "team": "Austin",
+    "opponent": "Portland Timbers",
+    "arena": "Q2 Stadium",
+    "city": "Austin, Texas",
+    "date": "2026-11-08T00:00Z"
+  },
+  
+  {
+    "id": "mls_2026110820",
+    "league": "MLS",
+    "team": "FC Dallas",
+    "opponent": "Colorado Rapids",
+    "arena": "Toyota Stadium",
+    "city": "Frisco, Texas",
+    "date": "2026-11-08T00:00Z"
+  },
+  
+  {
+    "id": "mls_2026110821",
+    "league": "MLS",
+    "team": "Houston Dynamo",
+    "opponent": "St. Louis City",
+    "arena": "Shell Energy Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-11-08T00:00Z"
+  },
+  
+  {
+    "id": "mls_2026110822",
+    "league": "MLS",
+    "team": "Minnesota United",
+    "opponent": "San Jose Earthquakes",
+    "arena": "Allianz Field",
+    "city": "Saint Paul, Minnesota",
+    "date": "2026-11-08T00:00Z"
+  },
+  
+  {
+    "id": "mls_2026110823",
+    "league": "MLS",
+    "team": "Real Salt Lake",
+    "opponent": "LA Galaxy",
+    "arena": "America First Field",
+    "city": "Sandy, Utah",
+    "date": "2026-11-08T00:00Z"
+  },
+  
+  {
+    "id": "mls_2026110824",
+    "league": "MLS",
+    "team": "San Diego",
+    "opponent": "Sporting Kansas City",
+    "arena": "Snapdragon Stadium",
+    "city": "San Diego, California",
+    "date": "2026-11-08T00:00Z"
+  },
+  
+  {
+    "id": "mls_2026110825",
+    "league": "MLS",
+    "team": "Seattle Sounders",
+    "opponent": "Los Angeles FC",
+    "arena": "Lumen Field",
+    "city": "Seattle, Washington",
+    "date": "2026-11-08T00:00Z"
+  }
 
 ]
