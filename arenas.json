@@ -2116,6 +2116,7 @@
 
   {
     "teamName": "Atlanta United 2",
+	"teamCode": "ATL2",  
     "arena": "Fifth Third Stadium",
     "arenaId": "fifth_third_stadium_kennesaw",
     "city": "Kennesaw, Georgia",
