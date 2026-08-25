@@ -84,7 +84,18 @@
       { "name": "Toughsheet Community Stadium", "from": "2023-07-01", "to": null }
     ]
   },
-
+  {
+    "currentArena": "Club Doncaster Sports Village",
+    "teamName": "Doncaster Rovers",
+    "league": "EFL1",
+    "history": [
+      { "name": "Eco-power stadium", "from": "2025-07-01", "to": "2026-06-30" },
+      { "name": "Club Doncaster Sports Village", "from": "2026-07-01", "to": null }
+    ]
+  },	
+  
+	
+  
   
 
 
