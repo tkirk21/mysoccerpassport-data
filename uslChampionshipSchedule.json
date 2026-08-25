@@ -1,3 +1,141 @@
 [
-
+  {
+    "id": "uslc_2026082747",
+    "league": "USLC",
+    "team": "El Paso Locomotive",
+    "opponent": "Pittsburgh Riverhounds",
+    "arena": "Southwest University Park",
+    "city": "El Paso, Texas",
+    "date": "2026-08-27T01:00Z"
+  },
+  
+  {
+    "id": "uslc_2026082748",
+    "league": "USLC",
+    "team": "New Mexico United",
+    "opponent": "Lexington",
+    "arena": "Rio Grande Credit Union Field",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-08-27T01:30Z"
+  },
+  
+  {
+    "id": "uslc_2026082949",
+    "league": "USLC",
+    "team": "Pittsburgh Riverhounds",
+    "opponent": "Tampa Bay Rowdies",
+    "arena": "F.N.B. Stadium",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-08-29T21:00Z"
+  },
+  
+  {
+    "id": "uslc_2026082950",
+    "league": "USLC",
+    "team": "Brooklyn",
+    "opponent": "Sporting Club Jacksonville",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-08-29T23:00Z"
+  },
+  
+  {
+    "id": "uslc_2026082951",
+    "league": "USLC",
+    "team": "Hartford Athletic",
+    "opponent": "Birmingham Legion",
+    "arena": "Trinity Health Stadium",
+    "city": "Hartford, Connecticut",
+    "date": "2026-08-29T23:00Z"
+  },
+  
+  {
+    "id": "uslc_2026082952",
+    "league": "USLC",
+    "team": "Lexington",
+    "opponent": "Colorado Springs SwitchbackS",
+    "arena": "Lexington SC Stadium",
+    "city": "Lexington, Kentucky",
+    "date": "2026-08-29T23:00Z"
+  },
+  
+  {
+    "id": "uslc_2026083053",
+    "league": "USLC",
+    "team": "Louisville City",
+    "opponent": "Detroit City",
+    "arena": "Lynn Family Stadium",
+    "city": "Louisville, Kentucky",
+    "date": "2026-08-30T00:00Z"
+  },
+  
+  {
+    "id": "uslc_2026083054",
+    "league": "USLC",
+    "team": "Oakland Roots",
+    "opponent": "Orange County SC",
+    "arena": "Oakland Coliseum",
+    "city": "Oakland, California",
+    "date": "2026-08-30T00:00Z"
+  },
+  
+  {
+    "id": "uslc_2026083055",
+    "league": "USLC",
+    "team": "FC Tulsa",
+    "opponent": "Rhode Island",
+    "arena": "Oneok Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-08-30T00:30Z"
+  },
+  
+  {
+    "id": "uslc_2026083056",
+    "league": "USLC",
+    "team": "El Paso Locomotive",
+    "opponent": "Loudoun United",
+    "arena": "Southwest University Park",
+    "city": "El Paso, Texas",
+    "date": "2026-08-30T01:00Z"
+  },
+  
+  {
+    "id": "uslc_2026083057",
+    "league": "USLC",
+    "team": "New Mexico United",
+    "opponent": "San Antonio",
+    "arena": "Rio Grande Credit Union Field",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-08-30T01:30Z"
+  },
+  
+  {
+    "id": "uslc_2026083058",
+    "league": "USLC",
+    "team": "Monterey Bay",
+    "opponent": "Sacramento Republic",
+    "arena": "Cardinale Stadium",
+    "city": "Seaside, California",
+    "date": "2026-08-30T02:00Z"
+  },
+  
+  {
+    "id": "uslc_2026083059",
+    "league": "USLC",
+    "team": "Las Vegas Lights",
+    "opponent": "Charleston Battery",
+    "arena": "Cashman Field",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-08-30T02:30Z"
+  },
+  
+  {
+    "id": "uslc_2026083060",
+    "league": "USLC",
+    "team": "Phoenix Rising",
+    "opponent": "Indy Eleven",
+    "arena": "Phoenix Rising Soccer Stadium",
+    "city": "Phoenix, Arizona",
+    "date": "2026-08-30T02:30Z"
+  }
 ]
