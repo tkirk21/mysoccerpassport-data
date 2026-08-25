@@ -93,8 +93,34 @@
       { "name": "Club Doncaster Sports Village", "from": "2026-07-01", "to": null }
     ]
   },	
-  
-	
+  {
+    "currentArena": "Accu Stadium",
+    "teamName": "Huddersfield Town",
+    "league": "EFL1",
+    "history": [
+      { "name": "John Smith's Stadium", "from": "2024-07-01", "to": "2025-06-30" },
+      { "name": "Accu Stadium", "from": "2025-07-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "BetWright Stadium",
+    "teamName": "Leyton Orient",
+    "league": "EFL1",
+    "history": [
+	  { "name": "Breyer Group Stadium", "from": "2023-06-30", "to": "2023-12-06" },	
+      { "name": "Gaughan Group Stadium", "from": "2023-12-07", "to": "2025-05-22" },
+      { "name": "BetWright Stadium", "from": "2025-05-23", "to": null }
+    ]
+  },
+  {
+    "currentArena": "SPORTA Arena",
+    "teamName": "Stevenage",
+    "league": "EFL1",
+    "history": [
+      { "name": "Broadhall Way", "from": "2023-07-01", "to": "2026-07-30" },
+      { "name": "PORTA Arena", "from": "2026-08-01", "to": null }
+    ]
+  },		
   
   
 
