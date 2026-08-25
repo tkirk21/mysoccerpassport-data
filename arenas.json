@@ -2233,7 +2233,76 @@
     "capacity": 19968,
 	"startDate": "2022-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Crown Legacy",
+    "teamCode": "CL",
+    "arena": "Sportsplex at Matthews",
+    "arenaId": "sportsplex_at_matthews_matthews",
+    "city": "Matthews, North Carolina",
+    "address": "2425 Sports Pkwy, Matthews, NC 28105",
+    "website": "www.crownlegacyfc.com",
+    "latitude": 35.112192852093955,  
+    "longitude": -80.70018559806748,
+    "colorCode": "#000000",
+    "colorCode2": "#6F6F6F",   
+    "league": "MLSNP",
+    "capacity": 5000,
+	"startDate": "2023-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "CT United",
+    "teamCode": "CTU",
+    "arena": "Morrone Stadium",
+    "arenaId": "morrone_stadium_storrs",
+    "city": "Storrs, Connecticut",
+    "address": "510 Jim Calhoun Way, Storrs, CT 06269",
+    "website": "https://www.ctunited.com",
+    "latitude": 41.801269432615946,   
+    "longitude": -72.25491744556737,
+    "colorCode": "#9881CD",
+    "colorCode2": "#000000",   
+    "league": "MLSNP",
+    "capacity": 5000,
+	"startDate": "2026-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Houston Dynamo 2",
+    "teamCode": "HOU2",
+    "arena": "SaberCats Stadium",
+    "arenaId": "sabercats_stadium_houston",
+    "city": "Houston, Texas",
+    "address": "2055 Mowery Rd, Houston, TX 77051",
+    "website": "www.houstondynamofc.com/dynamo2",
+    "latitude": 29.63477905472832, 
+    "longitude": -95.39100819167544,
+    "colorCode": "#F68326",
+    "colorCode2": "#80BFFF",   
+    "league": "MLSNP",
+    "capacity": 4000,
+	"startDate": "2022-05-12",
+    "endDate": null
+  },
+  {
+    "teamName": "Huntsville City",
+    "teamCode": "HC",
+    "arena": "Joe W. Davis Stadium",
+    "arenaId": "joe_w_davis_stadium_huntsville",
+    "city": "Huntsville, Alabama",
+    "address": "3125 Don Mincher Dr SW, Huntsville, AL 35801",
+    "website": "mlsnextpro.com/huntsvillecityfc",
+    "latitude": 34.69972486889106,  
+    "longitude": -86.58863069210746,
+    "colorCode": "#000066",
+    "colorCode2": "#FFFFFF",   
+    "league": "MLSNP",
+    "capacity": 4000,
+	"startDate": "2023-05-12",
+    "endDate": null
   }	
+  
 	
 	
 
