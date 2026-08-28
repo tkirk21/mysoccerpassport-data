@@ -1367,7 +1367,57 @@
 	"startDate": "2022-07-01",
     "endDate": null
   },
-	
+  {
+    "teamName": "Newport County",
+    "teamCode": "NC",
+    "arena": "Rodney Parade",
+    "arenaId": "rodney_parade_newport",
+    "city": "Newport, Wales",
+    "address": "Rodney Rd, Newport NP19 0UU, United Kingdom",
+    "website": "newport-county.co.uk",
+    "latitude": 51.58829930537833,     
+    "longitude": -2.98803267876348,
+    "colorCode": "#FFC840",
+    "colorCode2": "#000000", 
+    "league": "EFL2",
+    "capacity": 7850,
+	"startDate": "2013-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Northampton Town",
+    "teamCode": "NT",
+    "arena": "Sixfields Stadium",
+    "arenaId": "sixfields_stadium_northampton",
+    "city": "Northampton, England",
+    "address": "Sixfields Stadium, Northampton NN5 5QA, United Kingdom",
+    "website": 	"www.ntfc.co.uk",
+    "latitude": 52.23516264916287,     
+    "longitude": -0.9335305975807855,
+    "colorCode": "#72202B",
+    "colorCode2": "#FFFFFF", 
+    "league": "EFL2",
+    "capacity": 8203,
+	"startDate": "2026-07-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Oldham Athletic",
+    "teamCode": "OLD",
+    "arena": "Boundary Park",
+    "arenaId": "boundary_park_oldham",
+    "city": "Oldham, England",
+    "address": "Furtherwood Rd, Oldham OL1 2PA, United Kingdom",
+    "website": 	"oldhamathletic.co.uk",
+    "latitude": 53.55515077590938,      
+    "longitude": -2.1285627794908577,
+    "colorCode": "#0044FF",
+    "colorCode2": "#FFFFFF", 
+    "league": "EFL2",
+    "capacity": 13513,
+	"startDate": "2025-07-01",
+    "endDate": null
+  },		
 
 
 
