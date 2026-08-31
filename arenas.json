@@ -2920,8 +2920,74 @@
 	"startDate": "2022-01-01",
     "endDate": null
   },	
-
-
+  {
+    "teamName": "Tacoma Defiance",
+    "teamCode": "TAC",
+    "arena": "Starfire Sports Stadium",
+    "arenaId": "starfire_sports_stadium_tukwila",
+    "city": "Tukwila, Missouri",
+    "address": "14800 Starfire Way, Tukwila, WA 98188, United States",
+    "website": "www.tacdefiance.com",
+    "latitude": 47.46984365187724,  
+    "longitude": -122.24713636023795,
+    "colorCode": "#000000",
+    "colorCode2": "#87CEEB",  
+    "league": "MLSNP",
+    "capacity": 4500,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },		
+  {
+    "teamName": "Toronto FC II",
+    "teamCode": "TOR2",
+    "arena": "York Lions Stadium",
+    "arenaId": "york_lions_stadium_north_york",
+    "city": "North York, Ontario",
+    "address": "230 Ian MacDonald Blvd, North York, ON M3J 1P3, Canada",
+    "website": "torontofc.ca/tfc2",
+    "latitude": 43.7751976843432,   
+    "longitude": -79.50655662893726,
+    "colorCode": "#EF0000",
+    "colorCode2": "#FFFFFF",  
+    "league": "MLSNP",
+    "capacity": 4000,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Ventura County",
+    "teamCode": "VENT",
+    "arena": "William Rolland Stadium",
+    "arenaId": "william_rolland_stadium_thousand_oaks",
+    "city": "Thousand Oaks, California",
+    "address": "60 W Olsen Rd, Thousand Oaks, CA 91360, United States",
+    "website": "vcfcpro.com",
+    "latitude": 34.226169455424106,    
+    "longitude": -118.87936938477046,
+    "colorCode": "#000052",
+    "colorCode2": "#FFFFFF",  
+    "league": "MLSNP",
+    "capacity": 2000,
+	"startDate": "2023-01-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Whitecaps 2",
+    "teamCode": "WHI2",
+    "arena": "Swangard Stadium",
+    "arenaId": "swangard_stadium_burnaby",
+    "city": "Burnaby, British Columbia"
+    "address": "6100 Boundary Rd, Burnaby, BC V5J 1A3, Canada",
+    "website": "www.whitecapsfc.com/wfc2/",
+    "latitude": 49.230848777888525,    
+    "longitude": -123.02150587949703,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000066",  
+    "league": "MLSNP",
+    "capacity": 5228,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },	
 	
 
 
