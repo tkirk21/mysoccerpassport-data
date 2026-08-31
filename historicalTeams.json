@@ -18259,6 +18259,24 @@
 	    "startDate": "2011-01-01",
 	    "endDate": "2016-12-31"
 	},
+	{
+    "teamName": "Rochester New York",
+    "teamCode": "RNY",
+    "arena": "John L. DiMarco Field",
+    "arenaId": "john_l_dimarco_field_rochester",
+    "city": "Rochester, New York"
+    "address": "PAC Center, Rochester, NY 14623, United States",
+    "website": null,
+    "latitude": 43.09868738499858,    
+    "longitude": -77.60727813589865,
+    "colorCode": "#000000",
+    "colorCode2": "#69E78F", 
+	"colorCode3": "#777777", 	
+    "league": "MLSNP",
+    "capacity": 1500,
+	"startDate": "2022-01-01",
+    "endDate": "2022-12-31"
+  },
 	
 	
 
