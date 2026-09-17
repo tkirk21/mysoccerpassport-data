@@ -2988,6 +2988,65 @@
 	"startDate": "2022-01-01",
     "endDate": null
   },	
+
+
+
+
+
+
+  {
+    "teamName": "Alavés",
+    "teamCode": "ALA",
+    "arena": "Mendizorroza",
+    "arenaId": "mendizorroza_vicroria_gasteiz",
+    "city": "Vitoria-Gasteiz, Spain",
+    "address": "Cervantes Ibilbidea, 20, 01007 Vitoria-Gasteiz, Araba, Spain",
+    "website": "deportivoalaves.com",
+    "latitude": 42.837097204622204,     
+    "longitude": -2.6882424574950714,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",  
+    "league": "LL",
+    "capacity": 19840,
+	"startDate": "1939-09-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Athletic Bilbao",
+    "teamCode": "ABIL",
+    "arena": "Estadio San Mamés",
+    "arenaId": "estadio_san_mames_bilbao",
+    "city": "Bilbao, Spain",
+    "address": "Rafael Moreno Pitxitxi s/n, Puerta 20, 48013 Bilbao, Bizkaia, Spain",
+    "website": "athletic-club.eus",
+    "latitude": 43.26417411330135,     
+    "longitude": -2.949378600660086,
+    "colorCode": "#FF0B0B",
+    "colorCode2": "#FFFFFF",
+	"colorCode2": "#000000",  
+    "league": "LL",
+    "capacity": 53289,
+	"startDate": "2013-09-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Atlético Madrid",
+    "teamCode": "AMAD",
+    "arena": "Riyadh Air Metropolitano",
+    "arenaId": "riyadh_air_metropolitano_madrid",
+    "city": "Madrid, Spain",
+    "address": "Avenida de Luis Aragonés, 4, 28022 Madrid, Spain",
+    "website": "atleticodemadrid.com",
+    "latitude": 43.26417411330135,     
+    "longitude": -2.949378600660086,
+    "colorCode": "#F60000",
+    "colorCode2": "#0000E8",
+	"colorCode2": "#FFFFFF",  
+    "league": "LL",
+    "capacity": 70692,
+	"startDate": "2017-09-01",
+    "endDate": null
+  },	
 	
 
 
