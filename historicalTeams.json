@@ -18556,23 +18556,6 @@
     "endDate": "2023-06-30"
   },	
   {
-    "teamName": "Alavés",
-    "teamCode": "ALA",
-    "arena": "Mendizorroza",
-    "arenaId": "mendizorroza_vicroria_gasteiz",
-    "city": "Vitoria-Gasteiz, Spain",
-    "address": "Cervantes Ibilbidea, 20, 01007 Vitoria-Gasteiz, Araba, Spain",
-    "website": "deportivoalaves.com",
-    "latitude": 42.837097204622204,     
-    "longitude": -2.6882424574950714,
-    "colorCode": "#0000FF",
-    "colorCode2": "#FFFFFF",  
-    "league": "LL",
-    "capacity": 19840,
-	"startDate": "1939-09-01",
-    "endDate": null
-  },
-  {
     "teamName": "Athletic Bilbao",
     "teamCode": "ABIL",
     "arena": "San Mamés",
@@ -18587,7 +18570,7 @@
 	"colorCode2": "#000000",  
     "league": "LL",
     "capacity": 39750,
-	"startDate": "1928-09-01",
+	"startDate": "1929-09-01",
     "endDate": "1936-06-30"
   },	
   {
@@ -18731,10 +18714,48 @@
 	"colorCode2": "#FFFFFF",  
     "league": "LL",
     "capacity": 54907,
-	"startDate": "1928-09-01",
+	"startDate": "1929-09-01",
     "endDate": "1930-06-30"
   },
 
+
+
+
+
+  {
+    "teamName": "Real Madrid",
+    "teamCode": "RMAD",
+    "arena": "Estadio Chamartín",
+    "arenaId": "estadio_chamartin_madrid",
+    "city": "Madrid, Spain",
+    "address": "Av. de Concha Espina, 1, Chamartín, 28036 Madrid, Spain",
+    "website": "realmadrid.com",
+    "latitude": 40.452700643400604, 
+    "longitude": -3.6867880539500426,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#E25F7A",
+    "league": "LL",
+    "capacity": 83186,
+	"startDate": "1929-09-01",
+    "endDate": "1946-06-30"
+  },		
+  {
+    "teamName": "Real Madrid",
+    "teamCode": "RMAD",
+	"arena": "Estadio Metropolitano de Madrid",
+    "arenaId": "estadio_metropolitano_de_madrid_madrid",
+    "city": "Madrid, Spain",
+    "address": "Av. de Luis Aragonés, 4, San Blas-Canillejas, 28022 Madrid, Spain",
+    "website": "realmadrid.com",
+    "latitude": 40.44753504725445,   
+    "longitude": -3.7161540615744406,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#E25F7A",
+    "league": "LL",
+    "capacity": 83186,
+	"startDate": "1946-09-01",
+    "endDate": "1947-06-30"
+  },
 
 
   {
