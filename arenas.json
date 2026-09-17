@@ -3023,7 +3023,7 @@
     "longitude": -2.949378600660086,
     "colorCode": "#FF0B0B",
     "colorCode2": "#FFFFFF",
-	"colorCode2": "#000000",  
+	"colorCode3": "#000000",  
     "league": "LL",
     "capacity": 53289,
 	"startDate": "2013-09-01",
@@ -3035,19 +3035,38 @@
     "arena": "Riyadh Air Metropolitano",
     "arenaId": "riyadh_air_metropolitano_madrid",
     "city": "Madrid, Spain",
-    "address": "Avenida de Luis Aragonés, 4, 28022 Madrid, Spain",
+    "address": "Calle de Garganta de los Montes, 1, San Blas-Canillejas, 28045 Madrid, Spain",
     "website": "atleticodemadrid.com",
-    "latitude": 43.26417411330135,     
-    "longitude": -2.949378600660086,
+    "latitude": 40.4362531396866,  
+    "longitude": -3.599488436018977,
     "colorCode": "#F60000",
     "colorCode2": "#0000E8",
-	"colorCode2": "#FFFFFF",  
+	"colorCode3": "#FFFFFF",  
     "league": "LL",
     "capacity": 70692,
 	"startDate": "2017-09-01",
     "endDate": null
   },	
-	
+
+
+
+  {
+    "teamName": "Real Madrid",
+    "teamCode": "RMAD",
+    "arena": "Bernabéu",
+    "arenaId": "bernabéu_madrid",
+    "city": "Madrid, Spain",
+    "address": "Av. de Concha Espina, 1, Chamartín, 28036 Madrid, Spain",
+    "website": "realmadrid.com",
+    "latitude": 40.453172215218416,  
+    "longitude": -3.688233021651326,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#E25F7A",
+    "league": "LL",
+    "capacity": 83186,
+	"startDate": "1947-09-01",
+    "endDate": null
+  },		
 
 
 
