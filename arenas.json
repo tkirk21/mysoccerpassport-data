@@ -3047,7 +3047,24 @@
 	"startDate": "2017-09-01",
     "endDate": null
   },	
-
+  {
+    "teamName": "Celta Vigo",
+    "teamCode": "CV",
+    "arena": "Balaídos",
+    "arenaId": "balaidos_vigo",
+    "city": "Vigo, Spain",
+    "address": "Av. de Balaídos, s/n, Coia, 36210 Vigo, Pontevedra, Spain",
+    "website": "rccelta.es",
+    "latitude": 42.21186717838372, 
+    "longitude": -8.73975509988229,
+    "colorCode": "#90CCFF",
+    "colorCode2": "#FFFFFF",
+	"colorCode3": "#D40032",  
+    "league": "LL",
+    "capacity": 24870,
+	"startDate": "2012-09-01",
+    "endDate": null
+  },
 
 
   {
