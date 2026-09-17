@@ -298,6 +298,22 @@
       { "name": "Weidner Field", "from": "2017-02-14", "to": "2020-12-31" }
     ]
   },
+
+
+  {
+    "currentArena": "Bernabéu",
+    "teamName": "Real Madrid",
+    "league": "LL",
+    "history": [
+	  { "name": "Estadio Real Madrid Club de Fútbol", "from": "1947-01-01", "to": "1955-08-30" },	
+      { "name": "Estadio Santiago Bernabéu", "from": "1955-01-01", "to": "2025-08-30" },
+      { "name": "Bernabéu", "from": "2025-09-01", "to": null }
+    ]
+  },
+
+
+
+	
   {
     "currentArena": "Coopers Stadium",
     "teamName": "Adelaide United",
