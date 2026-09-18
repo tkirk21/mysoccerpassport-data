@@ -3098,7 +3098,25 @@
     "capacity": 33732,
 	"startDate": "2025-09-01",
     "endDate": null
-  },	
+  },
+  {
+    "teamName": "Espanyol",
+    "teamCode": "ESP",
+    "arena": "RCDE Stadium",
+    "arenaId": "rsde_stadium_cornella_de_llobregat",
+    "city": "Cornellà de Llobregat, Spain",
+    "address": "Av. del Baix Llobregat, 100, 08940 Cornellà de Llobregat, Barcelona, Spain",
+    "website": "rcdespanyol.com",
+    "latitude": 41.34787246098887, 
+    "longitude": 2.075626017045932,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+	"colorCode2": "#000000",  
+    "league": "LL",
+    "capacity": 40000,
+	"startDate": "2024-09-01",
+    "endDate": null
+  },		
 
   {
     "teamName": "Real Madrid",
