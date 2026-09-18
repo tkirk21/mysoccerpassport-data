@@ -3065,6 +3065,23 @@
 	"startDate": "2012-09-01",
     "endDate": null
   },
+  {
+    "teamName": "Deportivo A Coruña",
+    "teamCode": "DAC",
+    "arena": "Abanca-Riazor",
+    "arenaId": "abanca_riazor_a_coruna",
+    "city": "A Coruña, Spain",
+    "address": "Av. de BalaíRúa Manuel Murguía, S/N, 15011 A Coruña, Spaindos, s/n, Coia, 36210 Vigo, Pontevedra, Spain",
+    "website": "rcdeportivo.es",
+    "latitude": 43.36873561404698, 
+    "longitude": -8.417523423241692,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",
+    "league": "LL",
+    "capacity": 32490,
+	"startDate": "2026-09-01",
+    "endDate": null
+  },	
 
 
   {
