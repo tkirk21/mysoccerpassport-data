@@ -3065,40 +3065,7 @@
 	"startDate": "2012-09-01",
     "endDate": null
   },
-  {
-    "teamName": "Deportivo La Coruña",
-    "teamCode": "DEP",
-    "arena": "Abanca-Riazor",
-    "arenaId": "abanca_riazor_a_coruna",
-    "city": "A Coruña, Spain",
-    "address": "Av. de BalaíRúa Manuel Murguía, S/N, 15011 A Coruña, Spaindos, s/n, Coia, 36210 Vigo, Pontevedra, Spain",
-    "website": "rcdeportivo.es",
-    "latitude": 43.36873561404698, 
-    "longitude": -8.417523423241692,
-    "colorCode": "#0000FF",
-    "colorCode2": "#FFFFFF",
-    "league": "LL",
-    "capacity": 32490,
-	"startDate": "2026-09-01",
-    "endDate": null
-  },	
-  {
-    "teamName": "Elche",
-    "teamCode": "ELC",
-    "arena": "Estadio Martínez Valero",
-    "arenaId": "estadio_martinez_valero_alicante",
-    "city": "Alicante, Spain",
-    "address": "Avinguda Manuel Martínez Valero, 3, 03208 Elx, Alicante, Spain",
-    "website": "elchecf.es",
-    "latitude": 38.26713917263254, 
-    "longitude": -0.6633423085566814,
-    "colorCode": "#008127",
-    "colorCode2": "#FFFFFF",
-    "league": "LL",
-    "capacity": 33732,
-	"startDate": "2025-09-01",
-    "endDate": null
-  },
+  
   		
   {
     "teamName": "Real Madrid",
