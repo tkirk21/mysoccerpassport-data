@@ -3099,7 +3099,7 @@
 	"startDate": "2025-09-01",
     "endDate": null
   },
-{
+  {
     "teamName": "Espanyol",
     "teamCode": "ESP",
     "arena": "RCDE Stadium",
@@ -3117,6 +3117,23 @@
 	"startDate": "2024-09-01",
     "endDate": null
   },
+  {
+    "teamName": "Getafe",
+    "teamCode": "GET",
+    "arena": "Estadio Coliseum",
+    "arenaId": "estadio_coliseum_getafe",
+    "city": "Cornellà de Llobregat, Spain",
+    "address": "Av. Teresa de Calcuta, s/n, 28903 Getafe, Madrid, Spain",
+    "website": "getafecf.com",
+    "latitude": 40.3257441862254,  
+    "longitude": -3.7149419180372094,
+    "colorCode": "#0808FF",
+    "colorCode2": "#000A26",
+    "league": "LL",
+    "capacity": 16500,
+	"startDate": "2017-09-01",
+    "endDate": null
+  },	
   {
     "teamName": "Real Madrid",
     "teamCode": "RMAD",
