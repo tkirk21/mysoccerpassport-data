@@ -3111,7 +3111,7 @@
     "longitude": 2.075626017045932,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-	"colorCode2": "#000000",  
+	"colorCode3": "#000000",  
     "league": "LL",
     "capacity": 40000,
 	"startDate": "2024-09-01",
