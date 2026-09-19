@@ -2454,7 +2454,7 @@
     "startDate": "2014-01-01",
     "endDate": null
   },
-  {
+  {l
     "teamName": "San Antonio",
     "teamCode": "SA",
     "arena": "Toyota Field",
@@ -3134,6 +3134,24 @@
 	"startDate": "2017-09-01",
     "endDate": null
   },	
+  {
+    "teamName": "Levante",
+    "teamCode": "LEV",
+    "arena": "Estadi Ciutat de València",
+    "arenaId": "estadi_ciutat_de_valencia",
+    "city": "València, Spain",
+    "address": "Carrer de Sant Vicent de Paül, 44, Rascanya, 46019 València, Valencia, Spain",
+    "website": "levanteud.com",
+    "latitude": 39.4947741494044,  
+    "longitude": -0.3638421023128672,
+    "colorCode": "#882736",
+    "colorCode2": "#020341",
+	"colorCode3": "#FFFFFF",  
+    "league": "LL",
+    "capacity": 26354,
+	"startDate": "2025-09-01",
+    "endDate": null
+  },		
   {
     "teamName": "Real Madrid",
     "teamCode": "RMAD",
