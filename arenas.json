@@ -3228,7 +3228,7 @@
     "teamName": "Rayo Vallecano",
     "teamCode": "RVA",
     "arena": "Ontime Butarque",
-    "arenaId": "onetime_butarque",
+    "arenaId": "onetime_butarque_madrid",
     "city": "Madrid, Spain",
     "address": "C. Arquitectura, s/n, 28918 Leganés, Madrid, Spain",
     "website": "rayovallecano.es",
@@ -3240,6 +3240,23 @@
     "league": "LL",
     "capacity": 14500,
 	"startDate": "2026-09-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Real Betis",
+    "teamCode": "RBE",
+    "arena": "Estadio de La Cartuja",
+    "arenaId": "estadio_de_la_cartuja_sevilla",
+    "city": "Sevilla, Spain",
+    "address": "Zona Isla de la Cartuja, 22, 41970 Santiponce, Sevilla, Spain",
+    "website": "realbetisbalompie.es",
+    "latitude": 37.417139834746244, 
+    "longitude": -6.004658394075326,
+    "colorCode": "#349B5C",
+    "colorCode2": "#FFFFFF", 
+    "league": "LL",
+    "capacity": 71374,
+	"startDate": "2025-09-01",
     "endDate": null
   },	
   {
