@@ -18263,7 +18263,7 @@
     "colorCode2": "#FFFFFF",  
     "league": "SD",
     "capacity": 19840,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1930-06-30"
   },	 
   {
@@ -18570,7 +18570,7 @@
 	"colorCode3": "#000000",  
     "league": "LL",
     "capacity": 39750,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1936-06-30"
   },	
   {
@@ -18714,7 +18714,7 @@
 	"colorCode3": "#000000",  
     "league": "LL",
     "capacity": 54907,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1930-06-30"
   },
   {
@@ -18732,7 +18732,7 @@
 	"colorCode3": "#010038",  
     "league": "LL",
     "capacity": 60000,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1935-06-30"
   },		
   {
@@ -19642,7 +19642,7 @@
     "colorCode2": "#FFFFFF",
     "league": "SD",
     "capacity": 32490,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1941-08-30"
   }, 
 {
@@ -20000,7 +20000,7 @@
 	"colorCode3": "#000000",  
     "league": "LL",
     "capacity": 44000,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1936-06-30"
   },
 {
@@ -21185,7 +21185,7 @@
 	"colorCode3": "#000000",  
     "league": "LL",
     "capacity": 22222,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1940-06-30"
   },
   {
@@ -21976,7 +21976,7 @@
     "colorCode2": "#FFFFFF", 
     "league": "SD",
     "capacity": 60721,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1932-06-30"
   },
   {
@@ -22435,7 +22435,7 @@
     "colorCode2": "#FFFFFF",
     "league": "LL",
     "capacity": 27000,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1935-06-30"
   },	
   {
@@ -22639,7 +22639,7 @@
     "colorCode2": "#FF0000",
     "league": "SD",
     "capacity": 43751,
-	"startDate": "1929-09-01",
+	"startDate": "1928-09-01",
     "endDate": "1934-06-30"
   },		
   {
@@ -22814,6 +22814,75 @@
   },	
 
 
+
+  {
+    "teamName": "Valencia",
+    "teamCode": "VAL",
+    "arena": "Mestalla",
+    "arenaId": "mestalla_valencia",
+    "city": "Valencia, Spain",
+    "address": "Av. de Suècia, s/n, El Pla del Real, 46010 València, Valencia, Spain",
+    "website": "valenciacf.com",
+    "latitude": 39.474624921678924, 
+    "longitude": -0.35823579771938613,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "LL",
+    "capacity": 49430,
+	"startDate": "1928-09-01",
+    "endDate": "1931-06-30"
+  },
+  {
+    "teamName": "Valencia",
+    "teamCode": "VAL",
+    "arena": "Mestalla",
+    "arenaId": "mestalla_valencia",
+    "city": "Valencia, Spain",
+    "address": "Av. de Suècia, s/n, El Pla del Real, 46010 València, Valencia, Spain",
+    "website": "valenciacf.com",
+    "latitude": 39.474624921678924, 
+    "longitude": -0.35823579771938613,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "LL",
+    "capacity": 49430,
+	"startDate": "1931-09-01",
+    "endDate": "1936-06-30"
+  },	
+  {
+    "teamName": "Valencia",
+    "teamCode": "VAL",
+    "arena": "Mestalla",
+    "arenaId": "mestalla_valencia",
+    "city": "Valencia, Spain",
+    "address": "Av. de Suècia, s/n, El Pla del Real, 46010 València, Valencia, Spain",
+    "website": "valenciacf.com",
+    "latitude": 39.474624921678924, 
+    "longitude": -0.35823579771938613,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "LL",
+    "capacity": 49430,
+	"startDate": "1939-09-01",
+    "endDate": "1986-06-30"
+  },	
+  {
+    "teamName": "Valencia",
+    "teamCode": "VAL",
+    "arena": "Mestalla",
+    "arenaId": "mestalla_valencia",
+    "city": "Valencia, Spain",
+    "address": "Av. de Suècia, s/n, El Pla del Real, 46010 València, Valencia, Spain",
+    "website": "valenciacf.com",
+    "latitude": 39.474624921678924, 
+    "longitude": -0.35823579771938613,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "SD",
+    "capacity": 49430,
+	"startDate": "1986-09-01",
+    "endDate": "1987-06-30"
+  },	
 
 
 
