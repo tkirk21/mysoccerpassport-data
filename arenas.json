@@ -3151,7 +3151,25 @@
     "capacity": 26354,
 	"startDate": "2025-09-01",
     "endDate": null
-  },		
+  },	
+  {
+    "teamName": "Málaga",
+    "teamCode": "MAL",
+    "arena": "La Rosaleda",
+    "arenaId": "la_rosaleda_malaga",
+    "city": "Málaga, Spain",
+    "address": "Martiricos, s/n, Palma-Palmilla, 29011 Málaga, Spain",
+    "website": "malagacf.com",
+    "latitude": 36.73423135133266, 
+    "longitude": -4.426599482039763,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#0F3E9F",
+	"colorCode3": "#8EB8EF",  
+    "league": "LL",
+    "capacity": 30044,
+	"startDate": "2026-09-01",
+    "endDate": null
+  },	
   {
     "teamName": "Real Madrid",
     "teamCode": "RMAD",
