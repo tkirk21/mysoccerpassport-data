@@ -3292,7 +3292,24 @@
     "capacity": 40000,
 	"startDate": "2010-09-01",
     "endDate": null
-  },	
+  },
+  {
+    "teamName": "Sevilla",
+    "teamCode": "SEV",
+    "arena": "Estadio Ramón Sánchez-Pizjuán",
+    "arenaId": "estadio_ramon_sanchez_pizjuan_sevilla",
+    "city": "Sevilla, Spain",
+    "address": "C. Sevilla Fútbol Club, s/n, 41015 Sevilla, Spain",
+    "website": "sevillafc.es",
+    "latitude": 37.38403039283695, 
+    "longitude": -5.970582274014597,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#FF0000",
+    "league": "LL",
+    "capacity": 42714,
+	"startDate": "2001-09-01",
+    "endDate": null
+  },		
   
 
 
