@@ -3048,6 +3048,24 @@
     "endDate": null
   },	
   {
+    "teamName": "Barcelona",
+    "teamCode": "BAR",
+    "arena": "Spotify Camp Nou",
+    "arenaId": "camp_nou_barcelona",
+    "city": "Barcelona, Spain",
+    "address": "Les Corts, 08028 Barcelona, Spain",
+    "website": "fcbarcelona.com",
+    "latitude": 41.38091108698711, 
+    "longitude": 2.122812199526561 ,
+    "colorCode": "#EE004E",
+    "colorCode2": "#0035BF",
+	"colorCode3": "#010038",  
+    "league": "LL",
+    "capacity": 105000,
+	"startDate": "2025-09-01",
+    "endDate": null
+  },		
+  {
     "teamName": "Celta Vigo",
     "teamCode": "CV",
     "arena": "Balaídos",
