@@ -3276,6 +3276,23 @@
 	"startDate": "1947-09-01",
     "endDate": null
   },	
+  {
+    "teamName": "Real Sociedad",
+    "teamCode": "RSOC",
+    "arena": "Anoeta Stadium",
+    "arenaId": "anoeta_stadium_san__donpstia_sebastian",
+    "city": "Donostia / San Sebastián, Spain",
+    "address": "Anoeta Pasalekua, 1, 20014 Donostia / San Sebastián, Gipuzkoa, Spain",
+    "website": "realsociedad.eus",
+    "latitude": 43.30136317938872, 
+    "longitude": -1.97359475630135,
+    "colorCode": "#000F98",
+    "colorCode2": "#FFFFFF",
+    "league": "LL",
+    "capacity": 40000,
+	"startDate": "2010-09-01",
+    "endDate": null
+  },	
   
 
 
