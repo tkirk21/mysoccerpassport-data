@@ -22886,12 +22886,108 @@
 
 
 
-
-
-
-	
-  
-
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "SD",
+    "capacity": 23008,
+	"startDate": "1970-09-01",
+    "endDate": 1972-06-30"
+  },
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "SD",
+    "capacity": 23008,
+	"startDate": "1992-09-01",
+    "endDate": 1998-06-30"
+  },	
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "LL",
+    "capacity": 23008,
+	"startDate": "1998-09-01",
+    "endDate": 1999-06-30"
+  },	
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "SD",
+    "capacity": 23008,
+	"startDate": "1999-09-01",
+    "endDate": 2000-06-30"
+  },	
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "LL",
+    "capacity": 23008,
+	"startDate": "2000-09-01",
+    "endDate": 2012-06-30"
+  },
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "SD",
+    "capacity": 23008,
+	"startDate": "2012-09-01",
+    "endDate": 2013-06-30"
+  },
 
 
 
