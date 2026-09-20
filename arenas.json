@@ -3225,6 +3225,24 @@
     "endDate": null
   },	
   {
+    "teamName": "Rayo Vallecano",
+    "teamCode": "RVA",
+    "arena": "Ontime Butarque",
+    "arenaId": "onetime_butarque",
+    "city": "Madrid, Spain",
+    "address": "C. Arquitectura, s/n, 28918 Leganés, Madrid, Spain",
+    "website": "rayovallecano.es",
+    "latitude": 40.34046121084231, 
+    "longitude": -3.7607389061832746,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#FF0000",
+	"colorCode3": "#DDB45A",  
+    "league": "LL",
+    "capacity": 14500,
+	"startDate": "2026-09-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Real Madrid",
     "teamCode": "RMAD",
     "arena": "Bernabéu",
