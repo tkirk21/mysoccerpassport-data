@@ -3310,7 +3310,40 @@
 	"startDate": "2001-09-01",
     "endDate": null
   },		
-  
+  {
+    "teamName": "Valencia",
+    "teamCode": "VAL",
+    "arena": "Mestalla",
+    "arenaId": "mestalla_valencia",
+    "city": "Valencia, Spain",
+    "address": "Av. de Suècia, s/n, El Pla del Real, 46010 València, Valencia, Spain",
+    "website": "valenciacf.com",
+    "latitude": 39.474624921678924, 
+    "longitude": -0.35823579771938613,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "LL",
+    "capacity": 49430,
+	"startDate": "1987-09-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Villarreal",
+    "teamCode": "VIL",
+    "arena": "Estadio de la Cerámica",
+    "arenaId": "estadio_de_la_ceramica_castello",
+    "city": "Castelló, Spain",
+    "address": "Carrer Blasco Ibáñez, 2, 12540 Vila-real, Castelló, Spain",
+    "website": "villarrealcf.es",
+    "latitude": 39.944168036149144, 
+    "longitude": -0.1035352173067723,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#01004E",
+    "league": "LL",
+    "capacity": 23008,
+	"startDate": "2013-09-01",
+    "endDate": null
+  },	
 
 
 
