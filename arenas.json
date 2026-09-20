@@ -3187,6 +3187,24 @@
     "capacity": 23516,
 	"startDate": "2019-09-01",
     "endDate": null
+  },
+  {
+    "teamName": "Racing Santander",
+    "teamCode": "RSA",
+    "arena": "El Sardinero",
+    "arenaId": "el_sardinero_santander",
+    "city": "Santander, Spain",
+    "address": "C19, 39005 Santander, Cantabria, Spain",
+    "website": "realracingclub.es",
+    "latitude": 43.47629919055114, 
+    "longitude": -3.793300616787765,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#369028",
+	"colorCode3": "#000000",  
+    "league": "LL",
+    "capacity": 22222,
+	"startDate": "2026-09-01",
+    "endDate": null
   },	
   {
     "teamName": "Real Madrid",
