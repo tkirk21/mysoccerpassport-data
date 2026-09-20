@@ -3171,6 +3171,24 @@
     "endDate": null
   },	
   {
+    "teamName": "Osasuna",
+    "teamCode": "OSA",
+    "arena": "Estadio El Sadar",
+    "arenaId": "estadio_el_sandar_pamplona",
+    "city": "Pamplona, Spain",
+    "address": "C. de Eladio Cilveti, 59T, s/n, 31006 Pamplona, Navarra, Spain",
+    "website": "osasuna.es",
+    "latitude": 42.796721934826515, 
+    "longitude": -1.6371488136396604,
+    "colorCode": "#F70000",
+    "colorCode2": "#000055",
+	"colorCode3": "#000000",  
+    "league": "LL",
+    "capacity": 23516,
+	"startDate": "2019-09-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Real Madrid",
     "teamCode": "RMAD",
     "arena": "Bernabéu",
