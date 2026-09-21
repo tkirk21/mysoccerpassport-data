@@ -23872,7 +23872,7 @@
     "league": "SD",
     "capacity": 23008,
 	"startDate": "1970-09-01",
-    "endDate": 1972-06-30"
+    "endDate": "1972-06-30"
   },
   {
     "teamName": "Villarreal",
@@ -23889,7 +23889,7 @@
     "league": "SD",
     "capacity": 23008,
 	"startDate": "1992-09-01",
-    "endDate": 1998-06-30"
+    "endDate": "1998-06-30"
   },	
   {
     "teamName": "Villarreal",
@@ -23906,7 +23906,7 @@
     "league": "LL",
     "capacity": 23008,
 	"startDate": "1998-09-01",
-    "endDate": 1999-06-30"
+    "endDate": "1999-06-30"
   },	
   {
     "teamName": "Villarreal",
@@ -23923,7 +23923,7 @@
     "league": "SD",
     "capacity": 23008,
 	"startDate": "1999-09-01",
-    "endDate": 2000-06-30"
+    "endDate": "2000-06-30"
   },	
   {
     "teamName": "Villarreal",
@@ -23940,7 +23940,7 @@
     "league": "LL",
     "capacity": 23008,
 	"startDate": "2000-09-01",
-    "endDate": 2012-06-30"
+    "endDate": "2012-06-30"
   },
   {
     "teamName": "Villarreal",
@@ -23957,7 +23957,7 @@
     "league": "SD",
     "capacity": 23008,
 	"startDate": "2012-09-01",
-    "endDate": 2013-06-30"
+    "endDate": "2013-06-30"
   },
 
 
