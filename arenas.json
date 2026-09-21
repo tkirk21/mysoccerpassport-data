@@ -1571,7 +1571,61 @@
     "capacity": 8500,
 	"startDate": "2026-07-01",
     "endDate": null
-  },		
+  },	
+
+  {
+	"teamName": "Aldershot Town",
+	"teamCode": "ALD",
+	"arena": "The Recreation Ground",
+	"arenaId": "the_recreation_ground_aldershot",
+	"city": "Aldershot, England",
+	"address": "High St, Aldershot GU11 1TW, United Kingdom",
+	"website": "www.theshots.co.uk",
+	"latitude": 51.24840812716805,  
+	"longitude": -0.7547483380443527,
+	"colorCode": "#FF0000",
+	"colorCode2": "#0022DD",
+	"league": "NL",
+	"capacity": 7100,
+	"startDate": "2013-07-01",
+	"endDate": null
+	},
+	{
+	"teamName": "Altrincham",
+	"teamCode": "ALT",
+	"arena": "Moss Lane",
+	"arenaId": "moss_lane_altrincham",
+	"city": "Altrincham, England",
+	"address": "Moss Ln, Hale, Altrincham WA15 8AP, United Kingdom",
+	"website": "altrinchamfc.com",
+	"latitude": 53.38343729171652,   
+	"longitude": -2.3351528420402388,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "NL",
+	"capacity": 7873,
+	"startDate": "2020-07-01",
+	"endDate": null
+	},
+	{
+	"teamName": "Boreham Wood",
+	"teamCode": "BORW",
+	"arena": "Meadow Park",
+	"arenaId": "meadow_park_borehamwood",
+	"city": "Borehamwood, England",
+	"address": "Broughinge Rd, Borehamwood WD6 5AL, United Kingdom",
+	"website": "borehamwoodfootballclub.co.uk",
+	"latitude": 51.66194507336772,  
+	"longitude": -0.27239144539754395 ,
+	"colorCode": "#FFFFFF",
+	"colorCode2": "#000000",
+	"colorCode2": "#D3D3D3",
+	"league": "NL",
+	"capacity": 4502,
+	"startDate": "2025-07-01",
+	"endDate": null
+  },	
 
 
 	
