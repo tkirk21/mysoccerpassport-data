@@ -1626,6 +1626,24 @@
 	"startDate": "2025-07-01",
 	"endDate": null
   },	
+  {
+  "teamName": "Boston United",
+  "teamCode": "BOSU",
+  "arena": "Jakemans Community Stadium",
+  "arenaId": "jakemans_community_stadium_boston",
+  "city": "Boston, England",
+  "address": "Pilgrim Wy, Wyberton, Boston PE21 7NE, United Kingdom",
+  "website": "www.bostonunited.co.uk",
+  "latitude": 52.956346296874145,   
+  "longitude": -0.028566150616454334,
+  "colorCode": "#FFD700",
+  "colorCode2": "#000000",
+  "league": "NL",
+  "capacity": 5061,
+  "startDate": "2024-07-01",
+  "endDate": null
+},	
+  	
 
 
 	
