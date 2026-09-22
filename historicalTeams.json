@@ -17481,12 +17481,89 @@
   "startDate": "2020-07-01",
   "endDate": "2024-06-30"
 },	
-	
+{
+  "teamName": "Brackley Town",
+  "teamCode": "BRA",
+  "arena": "St James Park",
+  "arenaId": "st_james_park_brackley",
+  "city": "Brackley, England",
+  "address": "Churchill Way, Brackley NN13 7EJ, United Kingdom",
+  "website": "brackleytownfc.com",
+  "latitude": 52.024624129499244,
+  "longitude": -1.144066064945015,
+  "colorCode": "#FFD700",
+  "colorCode2": "#FFFFFF",
+  "league": "VNLN",
+  "capacity": 3500,
+  "startDate": "2015-07-01",
+  "endDate": "2025-06-30"
+},
+{
+  "teamName": "Brackley Town",
+  "teamCode": "BRA",
+  "arena": "St James Park",
+  "arenaId": "st_james_park_brackley",
+  "city": "Brackley, England",
+  "address": "Churchill Way, Brackley NN13 7EJ, United Kingdom",
+  "website": "brackleytownfc.com",
+  "latitude": 52.024624129499244,
+  "longitude": -1.144066064945015,
+  "colorCode": "#FFD700",
+  "colorCode2": "#FFFFFF",
+  "league": "VN",
+  "capacity": 3500,
+  "startDate": "2014-07-01",
+  "endDate": "2015-06-30"
+},
+{
+  "teamName": "Brackley Town",
+  "teamCode": "BRA",
+  "arena": "St James Park",
+  "arenaId": "st_james_park_brackley",
+  "city": "Brackley, England",
+  "address": "Churchill Way, Brackley NN13 7EJ, United Kingdom",
+  "website": "brackleytownfc.com",
+  "latitude": 52.024624129499244,
+  "longitude": -1.144066064945015,
+  "colorCode": "#FFD700",
+  "colorCode2": "#FFFFFF",
+  "league": "SN",
+  "capacity": 3500,
+  "startDate": "2013-07-01",
+  "endDate": "2014-06-30"
+},
+{
+  "teamName": "Brackley Town",
+  "teamCode": "BRA",
+  "arena": "St James Park",
+  "arenaId": "st_james_park_brackley",
+  "city": "Brackley, England",
+  "address": "Churchill Way, Brackley NN13 7EJ, United Kingdom",
+  "website": "brackleytownfc.com",
+  "latitude": 52.024624129499244,
+  "longitude": -1.144066064945015,
+  "colorCode": "#FFD700",
+  "colorCode2": "#FFFFFF",
+  "league": "BSBN",
+  "capacity": 3500,
+  "startDate": "2012-07-01",
+  "endDate": "2013-06-30"
+},	
 	
 
 
 	
 
+
+
+
+
+
+
+
+
+
+	
   {
     "teamName": "Atlanta United",
     "teamCode": "ATL",
