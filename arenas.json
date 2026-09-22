@@ -1710,7 +1710,24 @@
 	"startDate": "2017-07-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Forest Green Rovers",
+	"teamCode": "FGR",
+	"arena": "The Bolt New Lawn",
+	"arenaId": "the_bolt_new_lawn_stroud",
+	"city": "Stroud, England",
+	"address": "Another Way, Forest Green, Nailsworth, Stroud GL6 0FG, United Kingdom",
+	"website": "www.fgr.co.uk",
+	"latitude": 51.699010577551704,   
+	"longitude": -2.237898984985659,
+	"colorCode": "#AFFF2F",
+	"colorCode2": "#000000",
+	"colorCode2": "#FFFFFF",    
+	"league": "NL",
+	"capacity": 5147,
+	"startDate": "2024-07-01",
+	"endDate": null
+  },
 
 
 
