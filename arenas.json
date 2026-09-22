@@ -1642,6 +1642,23 @@
   "capacity": 5061,
   "startDate": "2024-07-01",
   "endDate": null
+},
+{
+  "teamName": "Brackley Town",
+  "teamCode": "BRAC",
+  "arena": "St James Park",
+  "arenaId": "st_james_park_brackley",
+  "city": "Brackley, England",
+  "address": "Churchill Way, Brackley NN13 7EJ, United Kingdom",
+  "website": "brackleytownfc.com",
+  "latitude": 52.024624129499244,
+  "longitude": -1.144066064945015,
+  "colorCode": "#FF0000",
+  "colorCode2": "#FFFFFF",
+  "league": "NL",
+  "capacity": 3500,
+  "startDate": "2025-07-01",
+  "endDate": null
 },	
   	
 
