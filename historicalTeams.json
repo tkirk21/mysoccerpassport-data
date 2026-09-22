@@ -18286,7 +18286,108 @@
 	"capacity": 17949,
 	"startDate": "1928-07-01",
 	"endDate": "1939-09-03"
+  },
+  {
+	"teamName": "Eastleigh",
+	"teamCode": "EAST",
+	"arena": "Silverlake Stadium",
+	"arenaId": "silverlake_stadium",
+	"city": "Eastleigh, England",
+	"address": "Stoneham Ln, Eastleigh SO50 9HT, United Kingdom",
+	"website": "www.eastleighfc.com",
+	"latitude": 50.95232487665132,    
+	"longitude": -1.3720715535384902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "FC",
+	"capacity": 5192,
+	"startDate": "2014-07-01",
+	"endDate": "2015-06-30"
   },	
+  {
+	"teamName": "Eastleigh",
+	"teamCode": "EAST",
+	"arena": "Silverlake Stadium",
+	"arenaId": "silverlake_stadium",
+	"city": "Eastleigh, England",
+	"address": "Stoneham Ln, Eastleigh SO50 9HT, United Kingdom",
+	"website": "www.eastleighfc.com",
+	"latitude": 50.95232487665132,    
+	"longitude": -1.3720715535384902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "SS",
+	"capacity": 5192,
+	"startDate": "2013-07-01",
+	"endDate": "2014-06-30"
+  },
+  {
+	"teamName": "Eastleigh",
+	"teamCode": "EAST",
+	"arena": "Silverlake Stadium",
+	"arenaId": "silverlake_stadium",
+	"city": "Eastleigh, England",
+	"address": "Stoneham Ln, Eastleigh SO50 9HT, United Kingdom",
+	"website": "www.eastleighfc.com",
+	"latitude": 50.95232487665132,    
+	"longitude": -1.3720715535384902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "BSBS",
+	"capacity": 5192,
+	"startDate": "2010-07-01",
+	"endDate": "2013-06-30"
+  },
+  {
+	"teamName": "Eastleigh",
+	"teamCode": "EAST",
+	"arena": "Silverlake Stadium",
+	"arenaId": "silverlake_stadium",
+	"city": "Eastleigh, England",
+	"address": "Stoneham Ln, Eastleigh SO50 9HT, United Kingdom",
+	"website": "www.eastleighfc.com",
+	"latitude": 50.95232487665132,    
+	"longitude": -1.3720715535384902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "BSS",
+	"capacity": 5192,
+	"startDate": "2007-07-01",
+	"endDate": "2010-06-30"
+  },
+  {
+	"teamName": "Eastleigh",
+	"teamCode": "EAST",
+	"arena": "Silverlake Stadium",
+	"arenaId": "silverlake_stadium",
+	"city": "Eastleigh, England",
+	"address": "Stoneham Ln, Eastleigh SO50 9HT, United Kingdom",
+	"website": "www.eastleighfc.com",
+	"latitude": 50.95232487665132,    
+	"longitude": -1.3720715535384902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "CS",
+	"capacity": 5192,
+	"startDate": "2005-07-01",
+	"endDate": "2007-06-30"
+  },	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 {
   "teamName": "Brackley Town",
