@@ -1722,13 +1722,29 @@
 	"longitude": -2.237898984985659,
 	"colorCode": "#AFFF2F",
 	"colorCode2": "#000000",
-	"colorCode2": "#FFFFFF",    
+	"colorCode3": "#FFFFFF",    
 	"league": "NL",
 	"capacity": 5147,
 	"startDate": "2024-07-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Gateshead",
+	"teamCode": "GATE",
+	"arena": "Gateshead International Stadium",
+	"arenaId": "gateshead_international_stadium_gateshead",
+	"city": "Gateshead, England",
+	"address": "Neilson Rd, Gateshead NE10 0EF, United Kingdom",
+	"website": "gateshead-fc.com",
+	"latitude": 54.9610252966042,  
+	"longitude": -1.5796699446188314,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "NL",
+	"capacity": 11800,
+	"startDate": "2022-07-01",
+	"endDate": null
+  },
 
 
 
