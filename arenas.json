@@ -1572,7 +1572,23 @@
 	"startDate": "2026-07-01",
     "endDate": null
   },	
-
+  {
+	"teamName": "AFC Fylde",
+	"teamCode": "FYL",
+	"arena": "Mill Farm",
+	"arenaId": "mill_farm_preston",
+	"city": "Preston, England",
+	"address": "Fleetwood Road, Wesham, Preston PR4 3JZ, United Kingdom",
+	"website": "afcfylde.co.uk",
+	"latitude": 53.79738997433994, 
+	"longitude": -2.8895130103889595,
+	"colorCode": "#FFFFFF",
+	"colorCode2": "#0000FF",
+	"league": "NL",
+	"capacity": 6000,
+	"startDate": "2026-07-01",
+	"endDate": null
+  },
   {
 	"teamName": "Aldershot Town",
 	"teamCode": "ALD",
@@ -1643,6 +1659,17 @@
   "startDate": "2024-07-01",
   "endDate": null
 },
+
+
+
+
+
+
+
+
+
+
+	
 {
   "teamName": "Brackley Town",
   "teamCode": "BRAC",
@@ -1655,9 +1682,9 @@
   "longitude": -1.144066064945015,
   "colorCode": "#FF0000",
   "colorCode2": "#FFFFFF",
-  "league": "NL",
+  "league": "NLN",
   "capacity": 3500,
-  "startDate": "2025-07-01",
+  "startDate": "2026-07-01",
   "endDate": null
 },	
   	
