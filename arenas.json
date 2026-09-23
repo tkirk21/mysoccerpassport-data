@@ -1780,7 +1780,23 @@
 	"startDate": "2023-07-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Hornchurch",
+	"teamCode": "HOR",
+	"arena": "Hornchurch Stadium",
+	"arenaId": "hornchurch_stadium_upminster",
+	"city": "Upminster, England",
+	"address": "Bridge Ave, Upminster RM14 2LX, United Kingdom",
+	"website": "hornchurchfc.com",
+	"latitude": 51.556576737226315,  
+	"longitude": 0.2383546793077413,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+	"league": "NL",
+	"capacity": 3500,
+	"startDate": "2026-07-01",
+	"endDate": null
+  },
 
 
 
