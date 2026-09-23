@@ -1831,6 +1831,26 @@
 	"startDate": "2025-07-01",
 	"endDate": null
   },  
+  {
+	"teamName": "Solihull Moors",
+	"teamCode": "SOLI",
+	"arena": "Damson Park",
+	"arenaId": "damson_park_solihull",
+	"city": "Solihull, England",
+	"address": "Damson Pkwy, Solihull B91 2PP, UK",
+	"website": "www.solihullmoorsfc.co.uk",
+	"latitude": 52.43893557987253, 
+	"longitude": -1.757186559477608,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#0000FF",
+	"league": "NL",
+	"capacity": 5500,
+	"startDate": "2016-07-01",
+	"endDate": null
+  },  
+
+
+	
 
 
 	
