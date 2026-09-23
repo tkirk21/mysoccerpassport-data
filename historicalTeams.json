@@ -19244,8 +19244,57 @@
 	"startDate": "1921-07-01",
 	"endDate": "1940-06-30"
   },	
-
-
+  {
+	"teamName": "Hornchurch",
+	"teamCode": "HOR",
+	"arena": "Hornchurch Stadium",
+	"arenaId": "hornchurch_stadium_upminster",
+	"city": "Upminster, England",
+	"address": "Bridge Ave, Upminster RM14 2LX, United Kingdom",
+	"website": "hornchurchfc.com",
+	"latitude": 51.556576737226315,  
+	"longitude": 0.2383546793077413,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+	"league": "ENLS",
+	"capacity": 3500,
+	"startDate": "2025-07-01",
+	"endDate": "2026-06-30"
+  },
+  {
+	"teamName": "Hornchurch",
+	"teamCode": "HOR",
+	"arena": "Hornchurch Stadium",
+	"arenaId": "hornchurch_stadium_upminster",
+	"city": "Upminster, England",
+	"address": "Bridge Ave, Upminster RM14 2LX, United Kingdom",
+	"website": "hornchurchfc.com",
+	"latitude": 51.556576737226315,  
+	"longitude": 0.2383546793077413,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+	"league": "NLS",
+	"capacity": 3500,
+	"startDate": "2024-07-01",
+	"endDate": "2025-06-30"
+  },	
+  {
+	"teamName": "Hornchurch",
+	"teamCode": "HOR",
+	"arena": "Hornchurch Stadium",
+	"arenaId": "hornchurch_stadium_upminster",
+	"city": "Upminster, England",
+	"address": "Bridge Ave, Upminster RM14 2LX, United Kingdom",
+	"website": "hornchurchfc.com",
+	"latitude": 51.556576737226315,  
+	"longitude": 0.2383546793077413,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+	"league": "BSBS",
+	"capacity": 3500,
+	"startDate": "2012-07-01",
+	"endDate": "2013-06-30"
+  },
 
 
 
