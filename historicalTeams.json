@@ -18820,6 +18820,154 @@
 	"startDate": "1983-07-01",
 	"endDate": "1985-06-30"
   },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "EFL2",
+	"capacity": 5000,
+	"startDate": "2020-07-01",
+	"endDate": "2026-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "NL",
+	"capacity": 5000,
+	"startDate": "2018-07-01",
+	"endDate": "2020-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "VNLN",
+	"capacity": 5000,
+	"startDate": "2015-07-01",
+	"endDate": "2018-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "VN",
+	"capacity": 5000,
+	"startDate": "2014-07-01",
+	"endDate": "2015-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "SN",
+	"capacity": 5000,
+	"startDate": "2013-07-01",
+	"endDate": "2014-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "BSBN",
+	"capacity": 5000,
+	"startDate": "2010-07-01",
+	"endDate": "2013-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "BSN",
+	"capacity": 5000,
+	"startDate": "2007-07-01",
+	"endDate": "2010-06-30"
+  },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HAR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "NN",
+	"capacity": 5000,
+	"startDate": "2004-07-01",
+	"endDate": "2007-06-30"
+  },
+
+
+
+
+
+
+
+
+
+
+	
+	
 
 
 	
