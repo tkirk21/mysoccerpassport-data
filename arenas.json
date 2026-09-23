@@ -1797,7 +1797,23 @@
 	"startDate": "2026-07-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Kidderminster Harriers",
+	"teamCode": "KIDD",
+	"arena": "Aggborough",
+	"arenaId": "aggborough_kidderminster",
+	"city": "Kidderminster, England",
+	"address": "Hoo Rd, Kidderminster DY10 1NB, United Kingdom",
+	"website": "harriers.co.uk",
+	"latitude": 52.38049860594865,  
+	"longitude": -2.2426514359034653,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+	"league": "NL",
+	"capacity": 6444,
+	"startDate": "2026-07-01",
+	"endDate": null
+  },
 
 
 	
