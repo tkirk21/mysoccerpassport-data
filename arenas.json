@@ -1745,8 +1745,46 @@
 	"startDate": "2022-07-01",
 	"endDate": null
   },
+  {
+	"teamName": "Harrogate Town",
+	"teamCode": "HARR",
+	"arena": "Marcy Fitness Stadium",
+	"arenaId": "marcy_fitness_stadium_harrogate",
+	"city": "Harrogate, England",
+	"address": "59 Wetherby Rd, Harrogate HG2 7SG, United Kingdom",
+	"website": "www.harrogatetownafc.com",
+	"latitude": 53.99173210321605, 
+	"longitude": -1.5145181819883735,
+	"colorCode": "#FFF700",
+	"colorCode2": "#000000",
+	"league": "NL",
+	"capacity": 5000,
+	"startDate": "2026-07-01",
+	"endDate": null
+  },
+  {
+	"teamName": "Hartlepool United",
+	"teamCode": "HART",
+	"arena": "Victoria Park",
+	"arenaId": "victoria_park_hartlepool",
+	"city": "Hartlepool, England",
+	"address": "Clarence Rd, Hartlepool TS24 8BZ, United Kingdom",
+	"website": "hartlepoolunited.co.uk",
+	"latitude": 54.689107165065714,  
+	"longitude": -1.2127128534763323,
+	"colorCode": "#0433FF",
+	"colorCode2": "#FFFFFF",
+	"colorCode3": "#73FDFF",  
+	"league": "NL",
+	"capacity": 7858,
+	"startDate": "2023-07-01",
+	"endDate": null
+  },
 
 
+
+
+	
 
 
 
