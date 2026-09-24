@@ -20307,6 +20307,160 @@
 	"startDate": "1920-07-01",
 	"endDate": "1921-06-30"
   },
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "VBS Community Stadium",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "EFL2",
+	"capacity": 7032,
+	"startDate": "2021-07-01",
+	"endDate": "2024-06-30"
+  },	
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "VNLN",
+	"capacity": 7032,
+	"startDate": "2016-07-01",
+	"endDate": "2021-06-30"
+  },	
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "NLS",
+	"capacity": 7032,
+	"startDate": "2015-07-01",
+	"endDate": "2016-06-30"
+  },	
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "VCS",
+	"capacity": 7032,
+	"startDate": "2014-07-01",
+	"endDate": "2015-06-30"
+  },	
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "SS",
+	"capacity": 7032,
+	"startDate": "2013-07-01",
+	"endDate": "2014-06-30"
+  },		
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "BSBS",
+	"capacity": 7032,
+	"startDate": "2011-07-01",
+	"endDate": "2013-06-30"
+  },	  
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "BSS",
+	"capacity": 7032,
+	"startDate": "2007-07-01",
+	"endDate": "2008-06-30"
+  },
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "Borough Sports Ground",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "CS",
+	"capacity": 7032,
+	"startDate": "2004-07-01",
+	"endDate": "2007-06-30"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 	
