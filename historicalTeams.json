@@ -11,7 +11,7 @@
     "longitude": -0.10842341556961675,
     "colorCode": "#E70000",
 	"colorCode2": "#FFFFFF",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 60704,
 	  "startDate": "2007-07-01",
     "endDate": "2016-06-30"
@@ -216,7 +216,7 @@
     "longitude": -1.8848182629414512,
     "colorCode": "#67081B",
 	  "colorCode2": "#BCD6F2",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 43205,
 	  "startDate": "2007-07-01",
     "endDate": "2016-06-30"
@@ -1708,7 +1708,7 @@
     "longitude": -0.19096601825159865,
     "colorCode": "#14349B",
     "colorCode2": "#D9C21D",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 40044,
 	"startDate": "2007-07-01",
     "endDate": "2016-06-30"
@@ -2800,7 +2800,7 @@
     "colorCode": "#0000FF",
     "colorCode2": "#FF0000",
 	"colorCode3": "#FFFFFF",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 25194,
 	"startDate": "2013-07-01",
     "endDate": "2016-06-30"
@@ -2836,7 +2836,7 @@
     "colorCode": "#00019E",
     "colorCode2": "#FFFFFF",
 	"colorCode3": "#FFD419",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 52769,
 	"startDate": "2007-07-01",
     "endDate": "2016-06-30"
@@ -3153,7 +3153,7 @@
     "longitude": -0.2216157492773846,
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 27782,
 	"startDate": "2007-07-01",
     "endDate": "2014-06-30"
@@ -3601,7 +3601,7 @@
     "colorCode": "#FF9000",
     "colorCode2": "#000000",
 	"colorCode3": "#FFFFFF",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 24983,
 	"startDate": "2013-07-01",
     "endDate": "2015-06-30"
@@ -3637,7 +3637,7 @@
     "colorCode": "#FF9000",
     "colorCode2": "#000000",
 	"colorCode3": "#FFFFFF",
-    "league": "BPL",
+    "league": "BP",
     "capacity": 24983,
 	"startDate": "2008-07-01",
     "endDate": "2010-06-30"
