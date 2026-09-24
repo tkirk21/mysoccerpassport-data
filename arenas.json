@@ -1935,6 +1935,44 @@
 	"startDate": "2019-07-01",
 	"endDate": null
   },
+  {
+	"teamName": "Worthing",
+	"teamCode": "WOR",
+	"arena": "Woodside Road",
+	"arenaId": "woodside_road_worthing",
+	"city": "Worthing, England",
+	"address": "25 Woodside Rd, Worthing BN14 7HQ, United Kingdom",
+	"website": "worthingfc.com",
+	"latitude": 50.82035061694212, 
+	"longitude": -0.3848346663456748,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF", 
+	"league": "NL",
+	"capacity": 4000,
+	"startDate": "2026-07-01",
+	"endDate": null
+  },
+  {
+	"teamName": "Yeovil Town",
+	"teamCode": "YEO",
+	"arena": "Huish Park",
+	"arenaId": "huish_park_yeovil",
+	"city": "Yeovil, EnYEOgland",
+	"address": "Lufton Way, Brympton d'Evercy, Yeovil BA22 8YF, United Kingdom",
+	"website": "ytfc.net",
+	"latitude": 50.9502406301455, 
+	"longitude": -2.673966502793714,
+	"colorCode": "#164126",
+	"colorCode2": "#FFFFFF", 
+	"league": "NL",
+	"capacity": 9565,
+	"startDate": "2024-07-01",
+	"endDate": null
+  },
+
+
+
+
 	
 
 
