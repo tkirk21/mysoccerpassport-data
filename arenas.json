@@ -1866,7 +1866,23 @@
 	"startDate": "2021-07-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Sutton United",
+	"teamCode": "SUTU",
+	"arena": "VBS Community Stadium",
+	"arenaId": "vbs_community_stadium_sutton",
+	"city": "Sutton, England",
+	"address": "Gander Green Ln, Sutton SM1 2EY, United Kingdom",
+	"website": "suttonunited.net",
+	"latitude": 51.36760874894818,  
+	"longitude": -0.20432451161262677,
+	"colorCode": "#FFDD00",
+	"colorCode2": "#78472D",
+	"league": "NL",
+	"capacity": 7032,
+	"startDate": "2024-07-01",
+	"endDate": null
+  },
 	
 
 
