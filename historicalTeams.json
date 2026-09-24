@@ -20443,10 +20443,91 @@
 	"startDate": "2004-07-01",
 	"endDate": "2007-06-30"
   },
-
-
-
-
+  {
+	"teamName": "Tamworth",
+	"teamCode": "TAM",
+	"arena": "The Lamb Ground",
+	"arenaId": "the_lamb_ground_tamworth",
+	"city": "Tamworth, England",
+	"address": "Kettlebrook road, Tamworth B77 1AA, United Kingdom",
+	"website": "tamworthfootballclub.com",
+	"latitude": 52.628466530413164, 
+	"longitude": -1.6888379512810796,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"league": "VNLN",
+	"capacity": 4565,
+	"startDate": "2023-07-01",
+	"endDate": "2024-06-30"
+  }, 
+  {
+	"teamName": "Tamworth",
+	"teamCode": "TAM",
+	"arena": "The Lamb Ground",
+	"arenaId": "the_lamb_ground_tamworth",
+	"city": "Tamworth, England",
+	"address": "Kettlebrook road, Tamworth B77 1AA, United Kingdom",
+	"website": "tamworthfootballclub.com",
+	"latitude": 52.628466530413164, 
+	"longitude": -1.6888379512810796,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"league": "VNLN",
+	"capacity": 4565,
+	"startDate": "2015-07-01",
+	"endDate": "2018-06-30"
+  }, 
+  {
+	"teamName": "Tamworth",
+	"teamCode": "TAM",
+	"arena": "The Lamb Ground",
+	"arenaId": "the_lamb_ground_tamworth",
+	"city": "Tamworth, England",
+	"address": "Kettlebrook road, Tamworth B77 1AA, United Kingdom",
+	"website": "tamworthfootballclub.com",
+	"latitude": 52.628466530413164, 
+	"longitude": -1.6888379512810796,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"league": "VN",
+	"capacity": 4565,
+	"startDate": "2014-07-01",
+	"endDate": "2015-06-30"
+  }, 
+  {
+	"teamName": "Tamworth",
+	"teamCode": "TAM",
+	"arena": "The Lamb Ground",
+	"arenaId": "the_lamb_ground_tamworth",
+	"city": "Tamworth, England",
+	"address": "Kettlebrook road, Tamworth B77 1AA, United Kingdom",
+	"website": "tamworthfootballclub.com",
+	"latitude": 52.628466530413164, 
+	"longitude": -1.6888379512810796,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"league": "BSN",
+	"capacity": 4565,
+	"startDate": "2007-07-01",
+	"endDate": "2009-06-30"
+  }, 
+  {
+	"teamName": "Tamworth",
+	"teamCode": "TAM",
+	"arena": "The Lamb Ground",
+	"arenaId": "the_lamb_ground_tamworth",
+	"city": "Tamworth, England",
+	"address": "Kettlebrook road, Tamworth B77 1AA, United Kingdom",
+	"website": "tamworthfootballclub.com",
+	"latitude": 52.628466530413164, 
+	"longitude": -1.6888379512810796,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"league": "NN",
+	"capacity": 4565,
+	"startDate": "2005-07-01",
+	"endDate": "2007-06-30"
+  },	
 
 
 
