@@ -1900,8 +1900,41 @@
 	"startDate": "2024-07-01",
 	"endDate": null
   }, 
-	
-
+  {
+	"teamName": "Wealdstone",
+	"teamCode": "WEAL",
+	"arena": "Grosvenor Vale",
+	"arenaId": "grosvenor_vale_ruislip",
+	"city": "Ruislip, England",
+	"address": "Ruislip HA4 6JQ, United Kingdom",
+	"website": "wealdstone-fc.com",
+	"latitude": 51.569409442701975, 
+	"longitude": -0.4165970470848534,
+	"colorCode": "#004ADD",
+	"colorCode2": "#FFFFFF",
+	"league": "NL",
+	"capacity": 4085,
+	"startDate": "2020-07-01",
+	"endDate": null
+  },	
+  {
+	"teamName": "Woking",
+	"teamCode": "WOK",
+	"arena": "The Laithwaite Community Stadium",
+	"arenaId": "the_laithwaite_community_stadium_woking",
+	"city": "Woking, England",
+	"address": "Kingfield Rd, Woking GU22 9AA, UK",
+	"website": "wokingfc.co.uk",
+	"latitude": 51.30630916746687, 
+	"longitude": -0.5588776416109157,
+	"colorCode": "#FF0000",
+	"colorCode2": "#FFFFFF",
+	"colorCode2": "#000000",  
+	"league": "NL",
+	"capacity": 6036,
+	"startDate": "2019-07-01",
+	"endDate": null
+  },
 	
 
 
