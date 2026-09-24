@@ -1848,13 +1848,33 @@
 	"startDate": "2016-07-01",
 	"endDate": null
   },  
-
+  {
+	"teamName": "Southend United",
+	"teamCode": "SEU",
+	"arena": "Roots Hall",
+	"arenaId": "roots_hall_southend_on_sea",
+	"city": "Southend-on-Sea, England",
+	"address": "Victoria Ave, Westcliff-on-Sea, Southend-on-Sea SS2 6NQ, United Kingdom",
+	"website": "southendunited.co.uk",
+	"latitude": 51.54901223469678, 
+	"longitude": 0.7016027882412079,
+	"colorCode": "#1C375F",
+	"colorCode2": "#FFFF00",
+	"colorCode3": "#182A46",
+	"league": "NL",
+	"capacity": 5500,
+	"startDate": "2021-07-01",
+	"endDate": null
+  },
 
 	
 
 
 	
 
+
+
+	
 
 	
 
