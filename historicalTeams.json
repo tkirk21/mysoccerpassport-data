@@ -21091,6 +21091,97 @@
 	"startDate": "2012-07-01",
 	"endDate": "2013-06-30"
   },	
+  	
+  {
+	"teamName": "Buxton",
+	"teamCode": "BUX",
+	"arena": "The Silverlands",
+	"arenaId": "the silverlands_buxton",
+	"city": "Buxton, England",
+	"address": "Silverlands, Buxton SK17 6QH, United Kingdom",
+	"website": "buxtonfc.co.uk",
+	"latitude": 53.25661460771555, 
+	"longitude": -1.9065833968512902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "VNLN",
+	"capacity": 4000,
+	"startDate": "2022-07-01",
+	"endDate": "2025-06-30"
+  },  	
+  {
+	"teamName": "Chester",
+	"teamCode": "CHES",
+	"arena": "Deva Stadium",
+	"arenaId": "deva_stadium_chester",
+	"city": "Chester, Wales",
+	"address": "Bumper's Ln, Chester CH1 4LT, United Kingdom",
+	"website": "chesterfc.com",
+	"latitude": 53.189223754258194, 
+	"longitude": -2.9234870998685243,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",  
+	"league": "VNLN",
+	"capacity": 5400,
+	"startDate": "2018-07-01",
+	"endDate": "2025-06-30"
+  },
+  {
+	"teamName": "Chester",
+	"teamCode": "CHES",
+	"arena": "Deva Stadium",
+	"arenaId": "deva_stadium_chester",
+	"city": "Chester, Wales",
+	"address": "Bumper's Ln, Chester CH1 4LT, United Kingdom",
+	"website": "chesterfc.com",
+	"latitude": 53.189223754258194, 
+	"longitude": -2.9234870998685243,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",  
+	"league": "NL",
+	"capacity": 5400,
+	"startDate": "2015-07-01",
+	"endDate": "2018-06-30"
+  },
+  {
+	"teamName": "Chester",
+	"teamCode": "CHES",
+	"arena": "Deva Stadium",
+	"arenaId": "deva_stadium_chester",
+	"city": "Chester, Wales",
+	"address": "Bumper's Ln, Chester CH1 4LT, United Kingdom",
+	"website": "chesterfc.com",
+	"latitude": 53.189223754258194, 
+	"longitude": -2.9234870998685243,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",  
+	"league": "FC",
+	"capacity": 5400,
+	"startDate": "2013-07-01",
+	"endDate": "2015-06-30"
+  },
+  {
+	"teamName": "Chester",
+	"teamCode": "CHES",
+	"arena": "Deva Stadium",
+	"arenaId": "deva_stadium_chester",
+	"city": "Chester, Wales",
+	"address": "Bumper's Ln, Chester CH1 4LT, United Kingdom",
+	"website": "chesterfc.com",
+	"latitude": 53.189223754258194, 
+	"longitude": -2.9234870998685243,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",  
+	"league": "BSBN",
+	"capacity": 5400,
+	"startDate": "2012-07-01",
+	"endDate": "2013-06-30"
+  },	
+
   {
 	"teamName": "Moor Green",
 	"teamCode": "MOOR",
@@ -21108,7 +21199,7 @@
 	"capacity": 3250,
 	"startDate": "2004-07-01",
 	"endDate": "2007-06-30"
-  },	
+  },		
   {
 	"teamName": "Moor Green",
 	"teamCode": "MOOR",
@@ -21128,6 +21219,12 @@
 	"endDate": "2007-06-30"
   },
 
+
+
+
+
+
+	
 	
 
 
