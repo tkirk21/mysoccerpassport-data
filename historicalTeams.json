@@ -21004,7 +21004,25 @@
 	"capacity": 6380,
 	"startDate": "2007-07-01",
 	"endDate": "2010-06-30"
-  },	
+  },
+  {
+	"teamName": "Bedford Town",
+	"teamCode": "BED",
+	"arena": "The New Eyrie",
+	"arenaId": "the_new_eyrie_bedford",
+	"city": "bedford, England",
+	"address": "Meadow Ln, Bedford MK44 3LW, United Kingdom",
+	"website": "telfordunited.com",
+	"latitude": 52.12881068158108,
+	"longitude": -0.41382639814923955,
+	"colorCode": "#0147FF",
+	"colorCode2": "#0065FF", 
+	"colorCode3": "#FFFFFF",   
+	"league": "CS",
+	"capacity": 3000,
+	"startDate": "2006-07-01",
+	"endDate": "2007-06-30"
+  },		
   {
 	"teamName": "Brackley Town",
 	"teamCode": "BRA",
