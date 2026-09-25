@@ -2024,7 +2024,23 @@
 	"startDate": "2026-07-01",
 	"endDate": null
   },	
-  	
+  {
+	"teamName": "Buxton",
+	"teamCode": "BUX",
+	"arena": "The Silverlands",
+	"arenaId": "the silverlands_buxton",
+	"city": "Buxton, England",
+	"address": "Silverlands, Buxton SK17 6QH, United Kingdom",
+	"website": "buxtonfc.co.uk",
+	"latitude": 53.25661460771555, 
+	"longitude": -1.9065833968512902,
+	"colorCode": "#0000FF",
+	"colorCode2": "#FFFFFF",
+	"league": "NLN",
+	"capacity": 4000,
+	"startDate": "2022-07-01",
+	"endDate": null
+  },  	
 
 
 
