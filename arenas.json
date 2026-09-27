@@ -2059,7 +2059,23 @@
 	"startDate": "2025-07-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Chorley",
+	"teamCode": "CHOR",
+	"arena": "Victory Park",
+	"arenaId": "deva_stadium_Chorley",
+	"city": "Chorley, England",
+	"address": "Duke St, Chorley PR7 3DU, United Kingdom",
+	"website": "www.chorleyfc.com",
+	"latitude": 53.645578483715894, 
+	"longitude": -2.629198681593543,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "NLN",
+	"capacity": 4300,
+	"startDate": "2025-07-01",
+	"endDate": null
+  },
 
 
 
