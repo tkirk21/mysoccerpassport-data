@@ -21180,7 +21180,103 @@
 	"capacity": 5400,
 	"startDate": "2012-07-01",
 	"endDate": "2013-06-30"
+  },
+  {
+	"teamName": "Chorley",
+	"teamCode": "CHOR",
+	"arena": "Victory Park",
+	"arenaId": "victory_park_Chorley",
+	"city": "Chorley, England",
+	"address": "Duke St, Chorley PR7 3DU, United Kingdom",
+	"website": "www.chorleyfc.com",
+	"latitude": 53.645578483715894, 
+	"longitude": -2.629198681593543,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "VNLN",
+	"capacity": 4300,
+	"startDate": "2020-07-01",
+	"endDate": "2025-06-30"
+  },
+  {
+	"teamName": "Chorley",
+	"teamCode": "CHOR",
+	"arena": "Victory Park",
+	"arenaId": "victory_park_Chorley",
+	"city": "Chorley, England",
+	"address": "Duke St, Chorley PR7 3DU, United Kingdom",
+	"website": "www.chorleyfc.com",
+	"latitude": 53.645578483715894, 
+	"longitude": -2.629198681593543,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "NL",
+	"capacity": 4300,
+	"startDate": "2019-07-01",
+	"endDate": "2020-06-30"
+  },
+  {
+	"teamName": "Chorley",
+	"teamCode": "CHOR",
+	"arena": "Victory Park",
+	"arenaId": "victory_park_Chorley",
+	"city": "Chorley, England",
+	"address": "Duke St, Chorley PR7 3DU, United Kingdom",
+	"website": "www.chorleyfc.com",
+	"latitude": 53.645578483715894, 
+	"longitude": -2.629198681593543,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "VNLN",
+	"capacity": 4300,
+	"startDate": "2015-07-01",
+	"endDate": "2019-06-30"
   },	
+  {
+	"teamName": "Chorley",
+	"teamCode": "CHOR",
+	"arena": "Victory Park",
+	"arenaId": "victory_park_Chorley",
+	"city": "Chorley, England",
+	"address": "Duke St, Chorley PR7 3DU, United Kingdom",
+	"website": "www.chorleyfc.com",
+	"latitude": 53.645578483715894, 
+	"longitude": -2.629198681593543,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "VN",
+	"capacity": 4300,
+	"startDate": "2014-07-01",
+	"endDate": "2015-06-30"
+  },	
+  {
+	"teamName": "Chorley",
+	"teamCode": "CHOR",
+	"arena": "Victory Park",
+	"arenaId": "victory_park_Chorley",
+	"city": "Chorley, England",
+	"address": "Duke St, Chorley PR7 3DU, United Kingdom",
+	"website": "www.chorleyfc.com",
+	"latitude": 53.645578483715894, 
+	"longitude": -2.629198681593543,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "FC",
+	"capacity": 4300,
+	"startDate": "1988-07-01",
+	"endDate": "1990-06-30"
+  },
+
+
+
+
+
+
+
+	
+
+
+	
 
   {
 	"teamName": "Moor Green",
