@@ -28276,8 +28276,8 @@
 	"colorCode3": "#FFFFFF",  
     "league": "FIFA",
     "capacity": 22423,
-	"startDate": "2026-01-01",
-    "endDate": "2026-12-31"
+	"startDate": "2026-09-29",
+    "endDate": "2026-09-30"
   },	
   {
     "teamName": "Chile National Football Team",
@@ -28294,7 +28294,7 @@
 	"colorCode3": "#FFFFFF",  
     "league": "FIFA",
     "capacity": 48745,
-	"startDate": "2026-01-01",
-    "endDate": "2026-12-31"
+	"startDate": "2026-09-29",
+    "endDate": "2026-09-30"
   }
 ]	
