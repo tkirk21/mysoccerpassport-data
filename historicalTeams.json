@@ -28260,5 +28260,42 @@
     "capacity": 36000,
 	"startDate": "2019-09-01",
     "endDate": "2021-08-30"
-  }	
+  },
+
+  {
+    "teamName": "United States Men's National Team",
+    "teamCode": "USA",
+    "arena": "Energizer Park",
+    "arenaId": "energizer_park_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "2019 Market St, St. Louis, MO 63103",
+    "website": "https://www.ussoccer.com/teams/usmnt",
+    "latitude": 38.63132004736008,       
+    "longitude": -90.21032420499463,
+    "colorCode": "#FA0000",
+    "colorCode2": "#263147",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 22423,
+	"startDate": "2026-09-29",
+    "endDate": "2026-09-30"
+  },	
+  {
+    "teamName": "Chile National Football Team",
+    "teamCode": "CHI",
+    "arena": "Estadio Nacional Julio",
+    "arenaId": "estadio_nacional_julio_nunoa",
+    "city": "Ñuñoa, Chile",
+    "address": "Av. Grecia 2001, 7780464 Ñuñoa, Región Metropolitana, Chile",
+    "website": "https://www.ussoccer.com/teams/usmnt",
+    "latitude": -33.46449766296175,      
+    "longitude": -70.61070842018677,
+    "colorCode": "#EB060D",
+    "colorCode2": "#0055FF",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 48745,
+	"startDate": "2026-09-29",
+    "endDate": "2026-09-30"
+  },	
 ]	
