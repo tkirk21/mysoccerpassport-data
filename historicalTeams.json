@@ -28262,7 +28262,7 @@
   },
 
   {
-    "teamName": "United States Men's National Team",
+    "teamName": "United States National Team",
     "teamCode": "USA",
     "arena": "Energizer Park",
     "arenaId": "energizer_park_st_louis",
@@ -28280,7 +28280,7 @@
     "endDate": "2026-09-30"
   },	
   {
-    "teamName": "Chile National Football Team",
+    "teamName": "Chile National Team",
     "teamCode": "CHI",
     "arena": "Estadio Nacional Julio",
     "arenaId": "estadio_nacional_julio_nunoa",
@@ -28296,5 +28296,41 @@
     "capacity": 48745,
 	"startDate": "2026-09-29",
     "endDate": "2026-09-30"
+  },
+  {
+    "teamName": "Australia National Team",
+    "teamCode": "AUS",
+    "arena": "AT&T Stadium",
+    "arenaId": "at&t_stadium_arlington",
+    "city": "Arlington, Texas",
+    "address": "1 AT&T Way, Arlington, TX 76011",
+    "website": "socceroos.com.au",
+    "latitude": 32.74798618151685,      
+    "longitude": -97.09283974728126,
+    "colorCode": "#FFB700",
+    "colorCode2": "#07563E",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 80000,
+	"startDate": "2026-07-03",
+    "endDate": "2026-07-04"
+  },
+  {
+    "teamName": "Egypt National Team",
+    "teamCode": "EGY",
+    "arena": "AT&T Stadium",
+    "arenaId": "at&t_stadium_arlington",
+    "city": "Arlington, Texas",
+    "address": "1 AT&T Way, Arlington, TX 76011",
+    "website": "https://egyptnt.net/",
+    "latitude": 32.74798618151685,      
+    "longitude": -97.09283974728126,
+    "colorCode": "#F3000A",
+    "colorCode2": "#000000",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 80000,
+	"startDate": "2026-07-03",
+    "endDate": "2026-07-04"
   }
 ]	
