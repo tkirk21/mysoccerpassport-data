@@ -581,6 +581,24 @@
     "endDate": null
   },
   {
+    "teamName": "Portsmouth",
+    "teamCode": "PORT",
+    "arena": "Fratton Park",
+    "arenaId": "fratton_park_portsmouth",
+    "city": "Portsmouth, England",
+    "address": "44 Frogmore Rd, Southsea, Portsmouth, Southsea PO4 8RA, United Kingdom",
+    "website": "portsmouthfc.co.uk",
+    "latitude": 50.79634533332503, 
+    "longitude": -1.0638127728239128,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF",  
+    "colorCode3": "#FF0000",     
+    "league": "EFLC",
+    "capacity": 20867,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Queens Park Rangers",
     "teamCode": "QPR",
     "arena": "MATRADE Loftus Road Stadium",
