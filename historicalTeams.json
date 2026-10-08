@@ -1714,6 +1714,8 @@
     "endDate": "2016-06-30"
   },	
   {
+	"teamName": "Chelsea",
+    "teamCode": "CHE",  
     "arena": "Stamford Bridge",
     "arenaId": "stamford_bridge_london",
     "city": "London, England",
@@ -1729,7 +1731,7 @@
     "endDate": "2007-06-30"
   },	
   {
-     "teamName": "Chelsea",
+    "teamName": "Chelsea",
     "teamCode": "CHE",
     "arena": "Stamford Bridge",
     "arenaId": "stamford_bridge_london",
