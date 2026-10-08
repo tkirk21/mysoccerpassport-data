@@ -1352,6 +1352,23 @@
     "endDate": null
   },	
   {
+    "teamName": "Gillingham",
+    "teamCode": "GILL",
+    "arena": " MEMS Priestfield Stadium",
+    "arenaId": "mems_priestfield_stadium_gillingham",
+    "city": "Gillingham, England",
+    "address": "Redfern Ave, Gillingham ME7 4DD, United Kingdom",
+    "website": "gillinghamfootballclub.com",
+    "latitude": 51.38425785287138,     
+    "longitude": 0.5608017165323418,
+    "colorCode": "#0000FF",
+    "colorCode2": "#FFFFFF", 
+    "league": "EFL2",
+    "capacity": 11582,
+	"startDate": "2022-07-01",
+    "endDate": null
+  },
+  {
     "teamName": "Fleetwood Town",
     "teamCode": "FLE",
     "arena": "Highbury Stadium",
@@ -1367,7 +1384,7 @@
     "capacity": 5327,
 	"startDate": "2024-07-01",
     "endDate": null
-  },
+  },	
   {
     "teamName": "Grimsby Town",
     "teamCode": "GRIM",
