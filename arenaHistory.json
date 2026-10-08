@@ -130,6 +130,16 @@
 	  { "name": "JobServe Community Stadium", "from": "2018-08-01", "to": null }	
     ]
   },
+  {
+    "currentArena": "MEMS Priestfield Stadium",
+    "teamName": "Gillingham",
+    "league": "EFL2",
+    "history": [
+	  { "name": "MEMS Priestfield Stadium", "from": "2022-01-01", "to": "2024-07-30" },	
+	  { "name": "Priestfield Stadium", "from": "2023-01-01", "to": "2024-07-30" },
+	  { "name": "MEMS Priestfield Stadium", "from": "2024-08-01", "to": null }	
+    ]
+  },	
 
 
 
