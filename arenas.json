@@ -3397,6 +3397,23 @@
 	"startDate": "2022-10-09",
     "endDate": null
   },	
+   {
+    "teamName": "San Jose Earthquakes II",
+    "teamCode": "SJ2",
+    "arena": "PayPal Park",
+    "arenaId": "paypal_park_san_jose",
+    "city": "San Jose, California",
+    "address": "1123 Coleman Ave, San Jose, CA 95110",
+    "website": "sjearthquakes.com/earthquakesii",
+    "latitude": 37.351149967791244, 
+    "longitude": -121.92464718965778,
+    "colorCode": "#000000", 
+	"colorCode2": "#0079FB",
+    "league": "MLSNP",
+    "capacity": 18000,
+	"startDate": "2022-01-01",
+    "endDate": null
+  },	
   {
     "teamName": "Sporting Kansas City II",
     "teamCode": "SKC2",
