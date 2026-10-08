@@ -1642,6 +1642,24 @@
 	"endDate": null
   },
   {
+	"teamName": "Altrincham",
+	"teamCode": "ALT",
+	"arena": " The J. Davidson Stadium",
+	"arenaId": "the_j_davidson_stadium_altrincham",
+	"city": "Altrincham, England",
+	"address": "Moss Ln, Hale, Altrincham WA15 8AP, United Kingdom",
+	"website": "altrinchamfc.com",
+	"latitude": 53.38344888201146,  
+	"longitude": -2.3351836215696125,
+	"colorCode": "#FF0000",
+	"colorCode2": "#000000",
+	"colorCode3": "#FFFFFF",  
+	"league": "NL",
+	"capacity": 7873,
+	"startDate": "2020-07-01",
+	"endDate": null
+  },	
+  {
 	"teamName": "Barrow",
 	"teamCode": "BAR",
 	"arena": "Holker Street",
