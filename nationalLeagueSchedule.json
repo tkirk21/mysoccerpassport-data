@@ -1,3 +1,1696 @@
 [
+  {
+    "id": "NL_2026100301",
+    "league": "NL",
+    "team": "Aldershot Town",
+    "opponent": "Carlisle United",
+    "arena": "The Recreation Ground",
+    "city": "Aldershot, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100302",
+    "league": "NL",
+    "team": "Barrow",
+    "opponent": "Wealdstone",
+    "arena": "Holker Street",
+    "city": "Barrow-in-Furness, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100303",
+    "league": "NL",
+    "team": "Boreham Wood",
+    "opponent": "Altrincham",
+    "arena": "Meadow Park",
+    "city": "Borehamwood, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100304",
+    "league": "NL",
+    "team": "Eastleigh",
+    "opponent": "Woking",
+    "arena": "Silverlake Stadium",
+    "city": "Eastleigh, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100305",
+    "league": "NL",
+    "team": "Gateshead",
+    "opponent": "Worthing",
+    "arena": "Gateshead International Stadium",
+    "city": "Gateshead, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100306",
+    "league": "NL",
+    "team": "Harrogate Town",
+    "opponent": "Hornchurch",
+    "arena": "Marcy Fitness Stadium",
+    "city": "Harrogate, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100307",
+    "league": "NL",
+    "team": "Hartlepool United",
+    "opponent": "Tamworth",
+    "arena": "Victoria Park",
+    "city": "Hartlepool, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100308",
+    "league": "NL",
+    "team": "Kidderminster Harriers",
+    "opponent": "Sutton United",
+    "arena": "Aggborough",
+    "city": "Kidderminster, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100309",
+    "league": "NL",
+    "team": "Scunthorpe United",
+    "opponent": "Forest Green Rovers",
+    "arena": "Glanford Park",
+    "city": "Scunthorpe, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100310",
+    "league": "NL",
+    "team": "Solihull Moors",
+    "opponent": "FC Halifax Town",
+    "arena": "Damson Park",
+    "city": "Solihull, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100311",
+    "league": "NL",
+    "team": "Southend United",
+    "opponent": "AFC Fylde",
+    "arena": "Roots Hall",
+    "city": "Southend-on-Sea, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100312",
+    "league": "NL",
+    "team": "Yeovil Town",
+    "opponent": "Boston United",
+    "arena": "Huish Park",
+    "city": "Yeovil, England",
+    "date": "2026-10-03T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026100913",
+    "league": "NL",
+    "team": "Sutton United",
+    "opponent": "Boreham Wood",
+    "arena": "VBS Community Stadium",
+    "city": "Sutton, England",
+    "date": "2026-10-09T18:45Z"
+  },
+  
+  {
+    "id": "NL_2026101014",
+    "league": "NL",
+    "team": "Altrincham",
+    "opponent": "Aldershot Town",
+    "arena": " The J. Davidson Stadium",
+    "city": "Altrincham, England",
+    "date": "2026-10-10T11:30Z"
+  },
+  
+  {
+    "id": "NL_2026101015",
+    "league": "NL",
+    "team": "Carlisle United",
+    "opponent": "Kidderminster Harriers",
+    "arena": "Brunton Park",
+    "city": "Carlisle, England",
+    "date": "2026-10-10T11:30Z"
+  },
+  
+  {
+    "id": "NL_2026101016",
+    "league": "NL",
+    "team": "AFC Fylde",
+    "opponent": "Scunthorpe United",
+    "arena": "Mill Farm",
+    "city": "Preston, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101017",
+    "league": "NL",
+    "team": "Hornchurch",
+    "opponent": "Eastleigh",
+    "arena": "Hornchurch Stadium",
+    "city": "Upminster, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101018",
+    "league": "NL",
+    "team": "Boston United",
+    "opponent": "Southend United",
+    "arena": "Jakemans Community Stadium",
+    "city": "Boston, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101019",
+    "league": "NL",
+    "team": "FC Halifax Town",
+    "opponent": "Gateshead",
+    "arena": "The Shay",
+    "city": "Halifax, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101020",
+    "league": "NL",
+    "team": "Tamworth",
+    "opponent": "Barrow",
+    "arena": "The Lamb Ground",
+    "city": "Tamworth, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101021",
+    "league": "NL",
+    "team": "Wealdstone",
+    "opponent": "Yeovil Town",
+    "arena": "Grosvenor Vale",
+    "city": "Ruislip, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101022",
+    "league": "NL",
+    "team": "Woking",
+    "opponent": "Harrogate Town",
+    "arena": "The Laithwaite Community Stadium",
+    "city": "Woking, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101023",
+    "league": "NL",
+    "team": "Worthing",
+    "opponent": "Solihull Moors",
+    "arena": "Woodside Road",
+    "city": "Worthing, England",
+    "date": "2026-10-10T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026101024",
+    "league": "NL",
+    "team": "Forest Green Rovers",
+    "opponent": "Hartlepool United",
+    "arena": "The Bolt New Lawn",
+    "city": "Stroud, England",
+    "date": "2026-10-10T16:30Z"
+  },
+  
+  {
+    "id": "NL_2026102325",
+    "league": "NL",
+    "team": "Gateshead",
+    "opponent": "Tamworth",
+    "arena": "Gateshead International Stadium",
+    "city": "Gateshead, England",
+    "date": "2026-10-23T18:45Z"
+  },
+  
+  {
+    "id": "NL_2026102426",
+    "league": "NL",
+    "team": "Eastleigh",
+    "opponent": "Boston United",
+    "arena": "Silverlake Stadium",
+    "city": "Eastleigh, England",
+    "date": "2026-10-24T11:30Z"
+  },
+  
+  {
+    "id": "NL_2026102427",
+    "league": "NL",
+    "team": "Harrogate Town",
+    "opponent": "Sutton United",
+    "arena": "Marcy Fitness Stadium",
+    "city": "Harrogate, England",
+    "date": "2026-10-24T11:30Z"
+  },
+  
+  {
+    "id": "NL_2026102428",
+    "league": "NL",
+    "team": "Aldershot Town",
+    "opponent": "Wealdstone",
+    "arena": "The Recreation Ground",
+    "city": "Aldershot, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102429",
+    "league": "NL",
+    "team": "Barrow",
+    "opponent": "Forest Green Rovers",
+    "arena": "Holker Street",
+    "city": "Barrow-in-Furness, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102430",
+    "league": "NL",
+    "team": "Boreham Wood",
+    "opponent": "AFC Fylde",
+    "arena": "Meadow Park",
+    "city": "Borehamwood, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102431",
+    "league": "NL",
+    "team": "Hartlepool United",
+    "opponent": "Hornchurch",
+    "arena": "Victoria Park",
+    "city": "Hartlepool, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102432",
+    "league": "NL",
+    "team": "Scunthorpe United",
+    "opponent": "Woking",
+    "arena": "Glanford Park",
+    "city": "Scunthorpe, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102433",
+    "league": "NL",
+    "team": "Solihull Moors",
+    "opponent": "Carlisle United",
+    "arena": "Damson Park",
+    "city": "Solihull, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102434",
+    "league": "NL",
+    "team": "Southend United",
+    "opponent": "FC Halifax Town",
+    "arena": "Roots Hall",
+    "city": "Southend-on-Sea, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102435",
+    "league": "NL",
+    "team": "Yeovil Town",
+    "opponent": "Altrincham",
+    "arena": "Huish Park",
+    "city": "Yeovil, England",
+    "date": "2026-10-24T14:00Z"
+  },
+  
+  {
+    "id": "NL_2026102436",
+    "league": "NL",
+    "team": "Kidderminster Harriers",
+    "opponent": "Worthing",
+    "arena": "Aggborough",
+    "city": "Kidderminster, England",
+    "date": "2026-10-24T16:30Z"
+  },
+  
+  {
+    "id": "NL_2026102737",
+    "league": "NL",
+    "team": "AFC Fylde",
+    "opponent": "Hartlepool United",
+    "arena": "Mill Farm",
+    "city": "Preston, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102738",
+    "league": "NL",
+    "team": "Hornchurch",
+    "opponent": "Yeovil Town",
+    "arena": "Hornchurch Stadium",
+    "city": "Upminster, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102739",
+    "league": "NL",
+    "team": "Altrincham",
+    "opponent": "Kidderminster Harriers",
+    "arena": " The J. Davidson Stadium",
+    "city": "Altrincham, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102740",
+    "league": "NL",
+    "team": "Boston United",
+    "opponent": "Gateshead",
+    "arena": "Jakemans Community Stadium",
+    "city": "Boston, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102741",
+    "league": "NL",
+    "team": "FC Halifax Town",
+    "opponent": "Barrow",
+    "arena": "The Shay",
+    "city": "Halifax, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102742",
+    "league": "NL",
+    "team": "Tamworth",
+    "opponent": "Scunthorpe United",
+    "arena": "The Lamb Ground",
+    "city": "Tamworth, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102743",
+    "league": "NL",
+    "team": "Wealdstone",
+    "opponent": "Solihull Moors",
+    "arena": "Grosvenor Vale",
+    "city": "Ruislip, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102744",
+    "league": "NL",
+    "team": "Woking",
+    "opponent": "Boreham Wood",
+    "arena": "The Laithwaite Community Stadium",
+    "city": "Woking, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102745",
+    "league": "NL",
+    "team": "Worthing",
+    "opponent": "Southend United",
+    "arena": "Woodside Road",
+    "city": "Worthing, England",
+    "date": "2026-10-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102846",
+    "league": "NL",
+    "team": "Carlisle United",
+    "opponent": "Harrogate Town",
+    "arena": "Brunton Park",
+    "city": "Carlisle, England",
+    "date": "2026-10-28T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102847",
+    "league": "NL",
+    "team": "Forest Green Rovers",
+    "opponent": "Eastleigh",
+    "arena": "The Bolt New Lawn",
+    "city": "Stroud, England",
+    "date": "2026-10-28T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026102848",
+    "league": "NL",
+    "team": "Sutton United",
+    "opponent": "Aldershot Town",
+    "arena": "VBS Community Stadium",
+    "city": "Sutton, England",
+    "date": "2026-10-28T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026103049",
+    "league": "NL",
+    "team": "AFC Fylde",
+    "opponent": "Hornchurch",
+    "arena": "Mill Farm",
+    "city": "Preston, England",
+    "date": "2026-10-30T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026103150",
+    "league": "NL",
+    "team": "FC Halifax Town",
+    "opponent": "Yeovil Town",
+    "arena": "The Shay",
+    "city": "Halifax, England",
+    "date": "2026-10-31T12:30Z"
+  },
+  
+  {
+    "id": "NL_2026103151",
+    "league": "NL",
+    "team": "Forest Green Rovers",
+    "opponent": "Harrogate Town",
+    "arena": "The Bolt New Lawn",
+    "city": "Stroud, England",
+    "date": "2026-10-31T12:30Z"
+  },
+  
+  {
+    "id": "NL_2026103152",
+    "league": "NL",
+    "team": "Aldershot Town",
+    "opponent": "Gateshead",
+    "arena": "The Recreation Ground",
+    "city": "Aldershot, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103153",
+    "league": "NL",
+    "team": "Altrincham",
+    "opponent": "Carlisle United",
+    "arena": " The J. Davidson Stadium",
+    "city": "Altrincham, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103154",
+    "league": "NL",
+    "team": "Barrow",
+    "opponent": "Eastleigh",
+    "arena": "Holker Street",
+    "city": "Barrow-in-Furness, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103155",
+    "league": "NL",
+    "team": "Boreham Wood",
+    "opponent": "Hartlepool United",
+    "arena": "Meadow Park",
+    "city": "Borehamwood, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103156",
+    "league": "NL",
+    "team": "Solihull Moors",
+    "opponent": "Kidderminster Harriers",
+    "arena": "Damson Park",
+    "city": "Solihull, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103157",
+    "league": "NL",
+    "team": "Tamworth",
+    "opponent": "Woking",
+    "arena": "The Lamb Ground",
+    "city": "Tamworth, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103158",
+    "league": "NL",
+    "team": "Wealdstone",
+    "opponent": "Southend United",
+    "arena": "Grosvenor Vale",
+    "city": "Ruislip, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103159",
+    "league": "NL",
+    "team": "Worthing",
+    "opponent": "Sutton United",
+    "arena": "Woodside Road",
+    "city": "Worthing, England",
+    "date": "2026-10-31T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026103160",
+    "league": "NL",
+    "team": "Boston United",
+    "opponent": "Scunthorpe United",
+    "arena": "Jakemans Community Stadium",
+    "city": "Boston, England",
+    "date": "2026-10-31T17:30Z"
+  },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "NL_2026111401",
+    "league": "NL",
+    "team": "Hornchurch",
+    "opponent": "Tamworth",
+    "arena": "Hornchurch Stadium",
+    "city": "Upminster, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111402",
+    "league": "NL",
+    "team": "Carlisle United",
+    "opponent": "Boston United",
+    "arena": "Brunton Park",
+    "city": "Carlisle, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111403",
+    "league": "NL",
+    "team": "Eastleigh",
+    "opponent": "AFC Fylde",
+    "arena": "Silverlake Stadium",
+    "city": "Eastleigh, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111404",
+    "league": "NL",
+    "team": "Gateshead",
+    "opponent": "Barrow",
+    "arena": "Gateshead International Stadium",
+    "city": "Gateshead, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111405",
+    "league": "NL",
+    "team": "Harrogate Town",
+    "opponent": "Altrincham",
+    "arena": "Marcy Fitness Stadium",
+    "city": "Harrogate, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111406",
+    "league": "NL",
+    "team": "Hartlepool United",
+    "opponent": "Wealdstone",
+    "arena": "Victoria Park",
+    "city": "Hartlepool, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111407",
+    "league": "NL",
+    "team": "Kidderminster Harriers",
+    "opponent": "FC Halifax Town",
+    "arena": "Aggborough",
+    "city": "Kidderminster, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111408",
+    "league": "NL",
+    "team": "Scunthorpe United",
+    "opponent": "Worthing",
+    "arena": "Glanford Park",
+    "city": "Scunthorpe, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111409",
+    "league": "NL",
+    "team": "Southend United",
+    "opponent": "Aldershot Town",
+    "arena": "Roots Hall",
+    "city": "Southend-on-Sea, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111410",
+    "league": "NL",
+    "team": "Sutton United",
+    "opponent": "Solihull Moors",
+    "arena": "VBS Community Stadium",
+    "city": "Sutton, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111411",
+    "league": "NL",
+    "team": "Woking",
+    "opponent": "Forest Green Rovers",
+    "arena": "The Laithwaite Community Stadium",
+    "city": "Woking, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026111412",
+    "league": "NL",
+    "team": "Yeovil Town",
+    "opponent": "Boreham Wood",
+    "arena": "Huish Park",
+    "city": "Yeovil, England",
+    "date": "2026-11-14T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112013",
+    "league": "NL",
+    "team": "Southend United",
+    "opponent": "Boreham Wood",
+    "arena": "Roots Hall",
+    "city": "Southend-on-Sea, England",
+    "date": "2026-11-20T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112114",
+    "league": "NL",
+    "team": "Solihull Moors",
+    "opponent": "Altrincham",
+    "arena": "Damson Park",
+    "city": "Solihull, England",
+    "date": "2026-11-21T12:30Z"
+  },
+  
+  {
+    "id": "NL_2026112115",
+    "league": "NL",
+    "team": "Tamworth",
+    "opponent": "Eastleigh",
+    "arena": "The Lamb Ground",
+    "city": "Tamworth, England",
+    "date": "2026-11-21T12:30Z"
+  },
+  
+  {
+    "id": "NL_2026112116",
+    "league": "NL",
+    "team": "Aldershot Town",
+    "opponent": "Scunthorpe United",
+    "arena": "The Recreation Ground",
+    "city": "Aldershot, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112117",
+    "league": "NL",
+    "team": "Barrow",
+    "opponent": "Carlisle United",
+    "arena": "Holker Street",
+    "city": "Barrow-in-Furness, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112118",
+    "league": "NL",
+    "team": "FC Halifax Town",
+    "opponent": "Woking",
+    "arena": "The Shay",
+    "city": "Halifax, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112119",
+    "league": "NL",
+    "team": "Gateshead",
+    "opponent": "Hartlepool United",
+    "arena": "Gateshead International Stadium",
+    "city": "Gateshead, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112120",
+    "league": "NL",
+    "team": "Kidderminster Harriers",
+    "opponent": "AFC Fylde",
+    "arena": "Aggborough",
+    "city": "Kidderminster, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112121",
+    "league": "NL",
+    "team": "Sutton United",
+    "opponent": "Boston United",
+    "arena": "VBS Community Stadium",
+    "city": "Sutton, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112122",
+    "league": "NL",
+    "team": "Wealdstone",
+    "opponent": "Hornchurch",
+    "arena": "Grosvenor Vale",
+    "city": "Ruislip, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112123",
+    "league": "NL",
+    "team": "Worthing",
+    "opponent": "Harrogate Town",
+    "arena": "Woodside Road",
+    "city": "Worthing, England",
+    "date": "2026-11-21T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112124",
+    "league": "NL",
+    "team": "Yeovil Town",
+    "opponent": "Forest Green Rovers",
+    "arena": "Huish Park",
+    "city": "Yeovil, England",
+    "date": "2026-11-21T17:30Z"
+  },
+  
+  {
+    "id": "NL_2026112425",
+    "league": "NL",
+    "team": "AFC Fylde",
+    "opponent": "FC Halifax Town",
+    "arena": "Mill Farm",
+    "city": "Preston, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112426",
+    "league": "NL",
+    "team": "Hornchurch",
+    "opponent": "Sutton United",
+    "arena": "Hornchurch Stadium",
+    "city": "Upminster, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112427",
+    "league": "NL",
+    "team": "Altrincham",
+    "opponent": "Wealdstone",
+    "arena": " The J. Davidson Stadium",
+    "city": "Altrincham, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112428",
+    "league": "NL",
+    "team": "Boston United",
+    "opponent": "Barrow",
+    "arena": "Jakemans Community Stadium",
+    "city": "Boston, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112429",
+    "league": "NL",
+    "team": "Carlisle United",
+    "opponent": "Tamworth",
+    "arena": "Brunton Park",
+    "city": "Carlisle, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112430",
+    "league": "NL",
+    "team": "Eastleigh",
+    "opponent": "Yeovil Town",
+    "arena": "Silverlake Stadium",
+    "city": "Eastleigh, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112431",
+    "league": "NL",
+    "team": "Forest Green Rovers",
+    "opponent": "Southend United",
+    "arena": "The Bolt New Lawn",
+    "city": "Stroud, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112432",
+    "league": "NL",
+    "team": "Scunthorpe United",
+    "opponent": "Gateshead",
+    "arena": "Glanford Park",
+    "city": "Scunthorpe, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112433",
+    "league": "NL",
+    "team": "Woking",
+    "opponent": "Worthing",
+    "arena": "The Laithwaite Community Stadium",
+    "city": "Woking, England",
+    "date": "2026-11-24T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112534",
+    "league": "NL",
+    "team": "Boreham Wood",
+    "opponent": "Aldershot Town",
+    "arena": "Meadow Park",
+    "city": "Borehamwood, England",
+    "date": "2026-11-25T19:00Z"
+  },
+  
+  {
+    "id": "NL_2026112535",
+    "league": "NL",
+    "team": "Harrogate Town",
+    "opponent": "Kidderminster Harriers",
+    "arena": "Marcy Fitness Stadium",
+    "city": "Harrogate, England",
+    "date": "2026-11-25T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112536",
+    "league": "NL",
+    "team": "Hartlepool United",
+    "opponent": "Solihull Moors",
+    "arena": "Victoria Park",
+    "city": "Hartlepool, England",
+    "date": "2026-11-25T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112737",
+    "league": "NL",
+    "team": "Scunthorpe United",
+    "opponent": "Wealdstone",
+    "arena": "Glanford Park",
+    "city": "Scunthorpe, England",
+    "date": "2026-11-27T19:45Z"
+  },
+  
+  {
+    "id": "NL_2026112838",
+    "league": "NL",
+    "team": "AFC Fylde",
+    "opponent": "Aldershot Town",
+    "arena": "Mill Farm",
+    "city": "Preston, England",
+    "date": "2026-11-28T12:30Z"
+  },
+  
+  {
+    "id": "NL_2026112839",
+    "league": "NL",
+    "team": "Woking",
+    "opponent": "Barrow",
+    "arena": "The Laithwaite Community Stadium",
+    "city": "Woking, England",
+    "date": "2026-11-28T12:30Z"
+  },
+  
+  {
+    "id": "NL_2026112840",
+    "league": "NL",
+    "team": "Hornchurch",
+    "opponent": "Solihull Moors",
+    "arena": "Hornchurch Stadium",
+    "city": "Upminster, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112841",
+    "league": "NL",
+    "team": "Altrincham",
+    "opponent": "Worthing",
+    "arena": " The J. Davidson Stadium",
+    "city": "Altrincham, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112842",
+    "league": "NL",
+    "team": "Boreham Wood",
+    "opponent": "Gateshead",
+    "arena": "Meadow Park",
+    "city": "Borehamwood, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112843",
+    "league": "NL",
+    "team": "Boston United",
+    "opponent": "Kidderminster Harriers",
+    "arena": "Jakemans Community Stadium",
+    "city": "Boston, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112844",
+    "league": "NL",
+    "team": "Carlisle United",
+    "opponent": "Sutton United",
+    "arena": "Brunton Park",
+    "city": "Carlisle, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112845",
+    "league": "NL",
+    "team": "Eastleigh",
+    "opponent": "FC Halifax Town",
+    "arena": "Silverlake Stadium",
+    "city": "Eastleigh, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112846",
+    "league": "NL",
+    "team": "Forest Green Rovers",
+    "opponent": "Tamworth",
+    "arena": "The Bolt New Lawn",
+    "city": "Stroud, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112847",
+    "league": "NL",
+    "team": "Harrogate Town",
+    "opponent": "Yeovil Town",
+    "arena": "Marcy Fitness Stadium",
+    "city": "Harrogate, England",
+    "date": "2026-11-28T15:00Z"
+  },
+  
+  {
+    "id": "NL_2026112848",
+    "league": "NL",
+    "team": "Hartlepool United",
+    "opponent": "Southend United",
+    "arena": "Victoria Park",
+    "city": "Hartlepool, England",
+    "date": "2026-11-28T17:30Z"
+  },
+
+  {
+  "id": "NL_2026120401",
+  "league": "NL",
+  "team": "Wealdstone",
+  "opponent": "Woking",
+  "arena": "Grosvenor Vale",
+  "city": "Ruislip, England",
+  "date": "2026-12-04T19:45Z"
+},
+
+{
+  "id": "NL_2026120502",
+  "league": "NL",
+  "team": "Barrow",
+  "opponent": "Boreham Wood",
+  "arena": "Holker Street",
+  "city": "Barrow-in-Furness, England",
+  "date": "2026-12-05T12:30Z"
+},
+
+{
+  "id": "NL_2026120503",
+  "league": "NL",
+  "team": "Gateshead",
+  "opponent": "Hornchurch",
+  "arena": "Gateshead International Stadium",
+  "city": "Gateshead, England",
+  "date": "2026-12-05T12:30Z"
+},
+
+{
+  "id": "NL_2026120504",
+  "league": "NL",
+  "team": "Aldershot Town",
+  "opponent": "Forest Green Rovers",
+  "arena": "The Recreation Ground",
+  "city": "Aldershot, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120505",
+  "league": "NL",
+  "team": "Kidderminster Harriers",
+  "opponent": "Scunthorpe United",
+  "arena": "Aggborough",
+  "city": "Kidderminster, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120506",
+  "league": "NL",
+  "team": "Solihull Moors",
+  "opponent": "Eastleigh",
+  "arena": "Damson Park",
+  "city": "Solihull, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120507",
+  "league": "NL",
+  "team": "Southend United",
+  "opponent": "Harrogate Town",
+  "arena": "Roots Hall",
+  "city": "Southend-on-Sea, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120508",
+  "league": "NL",
+  "team": "Sutton United",
+  "opponent": "AFC Fylde",
+  "arena": "VBS Community Stadium",
+  "city": "Sutton, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120509",
+  "league": "NL",
+  "team": "Tamworth",
+  "opponent": "Altrincham",
+  "arena": "The Lamb Ground",
+  "city": "Tamworth, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120510",
+  "league": "NL",
+  "team": "Worthing",
+  "opponent": "Boston United",
+  "arena": "Woodside Road",
+  "city": "Worthing, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120511",
+  "league": "NL",
+  "team": "Yeovil Town",
+  "opponent": "Hartlepool United",
+  "arena": "Huish Park",
+  "city": "Yeovil, England",
+  "date": "2026-12-05T15:00Z"
+},
+
+{
+  "id": "NL_2026120512",
+  "league": "NL",
+  "team": "FC Halifax Town",
+  "opponent": "Carlisle United",
+  "arena": "The Shay",
+  "city": "Halifax, England",
+  "date": "2026-12-05T17:30Z"
+},
+
+{
+  "id": "NL_2026120813",
+  "league": "NL",
+  "team": "Boreham Wood",
+  "opponent": "Sutton United",
+  "arena": "Meadow Park",
+  "city": "Borehamwood, England",
+  "date": "2026-12-08T19:00Z"
+},
+
+{
+  "id": "NL_2026120814",
+  "league": "NL",
+  "team": "Aldershot Town",
+  "opponent": "Altrincham",
+  "arena": "The Recreation Ground",
+  "city": "Aldershot, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120815",
+  "league": "NL",
+  "team": "Eastleigh",
+  "opponent": "Hornchurch",
+  "arena": "Silverlake Stadium",
+  "city": "Eastleigh, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120816",
+  "league": "NL",
+  "team": "Harrogate Town",
+  "opponent": "Woking",
+  "arena": "Marcy Fitness Stadium",
+  "city": "Harrogate, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120817",
+  "league": "NL",
+  "team": "Hartlepool United",
+  "opponent": "Forest Green Rovers",
+  "arena": "Victoria Park",
+  "city": "Hartlepool, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120818",
+  "league": "NL",
+  "team": "Kidderminster Harriers",
+  "opponent": "Carlisle United",
+  "arena": "Aggborough",
+  "city": "Kidderminster, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120819",
+  "league": "NL",
+  "team": "Scunthorpe United",
+  "opponent": "AFC Fylde",
+  "arena": "Glanford Park",
+  "city": "Scunthorpe, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120820",
+  "league": "NL",
+  "team": "Solihull Moors",
+  "opponent": "Worthing",
+  "arena": "Damson Park",
+  "city": "Solihull, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120821",
+  "league": "NL",
+  "team": "Southend United",
+  "opponent": "Boston United",
+  "arena": "Roots Hall",
+  "city": "Southend-on-Sea, England",
+  "date": "2026-12-08T19:45Z"
+},
+
+{
+  "id": "NL_2026120922",
+  "league": "NL",
+  "team": "Barrow",
+  "opponent": "Tamworth",
+  "arena": "Holker Street",
+  "city": "Barrow-in-Furness, England",
+  "date": "2026-12-09T19:45Z"
+},
+
+{
+  "id": "NL_2026120923",
+  "league": "NL",
+  "team": "Gateshead",
+  "opponent": "FC Halifax Town",
+  "arena": "Gateshead International Stadium",
+  "city": "Gateshead, England",
+  "date": "2026-12-09T19:45Z"
+},
+
+{
+  "id": "NL_2026120924",
+  "league": "NL",
+  "team": "Yeovil Town",
+  "opponent": "Wealdstone",
+  "arena": "Huish Park",
+  "city": "Yeovil, England",
+  "date": "2026-12-09T19:45Z"
+},
+
+{
+  "id": "NL_2026121825",
+  "league": "NL",
+  "team": "AFC Fylde",
+  "opponent": "Southend United",
+  "arena": "Mill Farm",
+  "city": "Preston, England",
+  "date": "2026-12-18T19:45Z"
+},
+
+{
+  "id": "NL_2026121926",
+  "league": "NL",
+  "team": "Hornchurch",
+  "opponent": "Harrogate Town",
+  "arena": "Hornchurch Stadium",
+  "city": "Upminster, England",
+  "date": "2026-12-19T12:30Z"
+},
+
+{
+  "id": "NL_2026121927",
+  "league": "NL",
+  "team": "Boston United",
+  "opponent": "Yeovil Town",
+  "arena": "Jakemans Community Stadium",
+  "city": "Boston, England",
+  "date": "2026-12-19T12:30Z"
+},
+
+{
+  "id": "NL_2026121928",
+  "league": "NL",
+  "team": "Sutton United",
+  "opponent": "Kidderminster Harriers",
+  "arena": "VBS Community Stadium",
+  "city": "Sutton, England",
+  "date": "2026-12-19T12:30Z"
+},
+
+{
+  "id": "NL_2026121929",
+  "league": "NL",
+  "team": "Woking",
+  "opponent": "Eastleigh",
+  "arena": "The Laithwaite Community Stadium",
+  "city": "Woking, England",
+  "date": "2026-12-19T12:30Z"
+},
+
+{
+  "id": "NL_2026121930",
+  "league": "NL",
+  "team": "Altrincham",
+  "opponent": "Boreham Wood",
+  "arena": " The J. Davidson Stadium",
+  "city": "Altrincham, England",
+  "date": "2026-12-19T17:30Z"
+},
+
+{
+  "id": "NL_2026121931",
+  "league": "NL",
+  "team": "Forest Green Rovers",
+  "opponent": "Scunthorpe United",
+  "arena": "The Bolt New Lawn",
+  "city": "Stroud, England",
+  "date": "2026-12-19T17:30Z"
+},
+
+{
+  "id": "NL_2026121932",
+  "league": "NL",
+  "team": "Worthing",
+  "opponent": "Gateshead",
+  "arena": "Woodside Road",
+  "city": "Worthing, England",
+  "date": "2026-12-19T17:30Z"
+},
+
+{
+  "id": "NL_2026121933",
+  "league": "NL",
+  "team": "Tamworth",
+  "opponent": "Hartlepool United",
+  "arena": "The Lamb Ground",
+  "city": "Tamworth, England",
+  "date": "2026-12-19T19:45Z"
+},
+
+{
+  "id": "NL_2026122034",
+  "league": "NL",
+  "team": "FC Halifax Town",
+  "opponent": "Solihull Moors",
+  "arena": "The Shay",
+  "city": "Halifax, England",
+  "date": "2026-12-20T12:00Z"
+},
+
+{
+  "id": "NL_2026122035",
+  "league": "NL",
+  "team": "Wealdstone",
+  "opponent": "Barrow",
+  "arena": "Grosvenor Vale",
+  "city": "Ruislip, England",
+  "date": "2026-12-20T14:00Z"
+},
+
+{
+  "id": "NL_2026122036",
+  "league": "NL",
+  "team": "Carlisle United",
+  "opponent": "Aldershot Town",
+  "arena": "Brunton Park",
+  "city": "Carlisle, England",
+  "date": "2026-12-20T16:00Z"
+},
+
+{
+  "id": "NL_2026122637",
+  "league": "NL",
+  "team": "Aldershot Town",
+  "opponent": "Woking",
+  "arena": "The Recreation Ground",
+  "city": "Aldershot, England",
+  "date": "2026-12-26T12:30Z"
+},
+
+{
+  "id": "NL_2026122638",
+  "league": "NL",
+  "team": "Barrow",
+  "opponent": "AFC Fylde",
+  "arena": "Holker Street",
+  "city": "Barrow-in-Furness, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122639",
+  "league": "NL",
+  "team": "Boreham Wood",
+  "opponent": "Wealdstone",
+  "arena": "Meadow Park",
+  "city": "Borehamwood, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122640",
+  "league": "NL",
+  "team": "Eastleigh",
+  "opponent": "Worthing",
+  "arena": "Silverlake Stadium",
+  "city": "Eastleigh, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122641",
+  "league": "NL",
+  "team": "Gateshead",
+  "opponent": "Carlisle United",
+  "arena": "Gateshead International Stadium",
+  "city": "Gateshead, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122642",
+  "league": "NL",
+  "team": "Harrogate Town",
+  "opponent": "FC Halifax Town",
+  "arena": "Marcy Fitness Stadium",
+  "city": "Harrogate, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122643",
+  "league": "NL",
+  "team": "Hartlepool United",
+  "opponent": "Boston United",
+  "arena": "Victoria Park",
+  "city": "Hartlepool, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122644",
+  "league": "NL",
+  "team": "Kidderminster Harriers",
+  "opponent": "Forest Green Rovers",
+  "arena": "Aggborough",
+  "city": "Kidderminster, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122645",
+  "league": "NL",
+  "team": "Scunthorpe United",
+  "opponent": "Altrincham",
+  "arena": "Glanford Park",
+  "city": "Scunthorpe, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122646",
+  "league": "NL",
+  "team": "Solihull Moors",
+  "opponent": "Tamworth",
+  "arena": "Damson Park",
+  "city": "Solihull, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122647",
+  "league": "NL",
+  "team": "Southend United",
+  "opponent": "Hornchurch",
+  "arena": "Roots Hall",
+  "city": "Southend-on-Sea, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122648",
+  "league": "NL",
+  "team": "Yeovil Town",
+  "opponent": "Sutton United",
+  "arena": "Huish Park",
+  "city": "Yeovil, England",
+  "date": "2026-12-26T15:00Z"
+},
+
+{
+  "id": "NL_2026122849",
+  "league": "NL",
+  "team": "AFC Fylde",
+  "opponent": "Gateshead",
+  "arena": "Mill Farm",
+  "city": "Preston, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122850",
+  "league": "NL",
+  "team": "Hornchurch",
+  "opponent": "Boreham Wood",
+  "arena": "Hornchurch Stadium",
+  "city": "Upminster, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122851",
+  "league": "NL",
+  "team": "Altrincham",
+  "opponent": "Barrow",
+  "arena": " The J. Davidson Stadium",
+  "city": "Altrincham, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122852",
+  "league": "NL",
+  "team": "Carlisle United",
+  "opponent": "Hartlepool United",
+  "arena": "Brunton Park",
+  "city": "Carlisle, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122853",
+  "league": "NL",
+  "team": "FC Halifax Town",
+  "opponent": "Scunthorpe United",
+  "arena": "The Shay",
+  "city": "Halifax, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122854",
+  "league": "NL",
+  "team": "Sutton United",
+  "opponent": "Southend United",
+  "arena": "VBS Community Stadium",
+  "city": "Sutton, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122855",
+  "league": "NL",
+  "team": "Tamworth",
+  "opponent": "Kidderminster Harriers",
+  "arena": "The Lamb Ground",
+  "city": "Tamworth, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122856",
+  "league": "NL",
+  "team": "Woking",
+  "opponent": "Yeovil Town",
+  "arena": "The Laithwaite Community Stadium",
+  "city": "Woking, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122857",
+  "league": "NL",
+  "team": "Worthing",
+  "opponent": "Aldershot Town",
+  "arena": "Woodside Road",
+  "city": "Worthing, England",
+  "date": "2026-12-28T15:00Z"
+},
+
+{
+  "id": "NL_2026122958",
+  "league": "NL",
+  "team": "Forest Green Rovers",
+  "opponent": "Solihull Moors",
+  "arena": "The Bolt New Lawn",
+  "city": "Stroud, England",
+  "date": "2026-12-29T19:00Z"
+},
+
+{
+  "id": "NL_2026122959",
+  "league": "NL",
+  "team": "Boston United",
+  "opponent": "Harrogate Town",
+  "arena": "Jakemans Community Stadium",
+  "city": "Boston, England",
+  "date": "2026-12-29T19:45Z"
+},
+
+{
+  "id": "NL_2026122960",
+  "league": "NL",
+  "team": "Wealdstone",
+  "opponent": "Eastleigh",
+  "arena": "Grosvenor Vale",
+  "city": "Ruislip, England",
+  "date": "2026-12-29T19:45Z"
+}
 ]
