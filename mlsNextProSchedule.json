@@ -1,3 +1,82 @@
 [
+  {
+    "id": "MLSNP_2026101101",
+    "league": "MLSNP",
+    "team": "New York Red Bulls II",
+    "opponent": "Huntsville City",
+    "arena": "MSU Soccer Park",
+    "city": "Upr Montclair, New Jersey",
+    "date": "2026-10-11T21:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101202",
+    "league": "MLSNP",
+    "team": "San Jose Earthquakes II",
+    "opponent": "Tacoma Defiance",
+    "arena": "PayPal Park",
+    "city": "San Jose, California",
+    "date": "2026-10-12T00:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101603",
+    "league": "MLSNP",
+    "team": "Atlanta United 2",
+    "opponent": "CT United",
+    "arena": "Fifth Third Stadium",
+    "city": "Kennesaw, Georgia",
+    "date": "2026-10-16T22:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101704",
+    "league": "MLSNP",
+    "team": "Portland Timbers 2",
+    "opponent": "St. Louis City 2",
+    "arena": "Providence Park",
+    "city": "Portland, Oregon",
+    "date": "2026-10-17T02:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101705",
+    "league": "MLSNP",
+    "team": "Ventura County",
+    "opponent": "Minnesota United 2",
+    "arena": "William Rolland Stadium",
+    "city": "Thousand Oaks, California",
+    "date": "2026-10-17T02:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101706",
+    "league": "MLSNP",
+    "team": "Columbus Crew 2",
+    "opponent": "New England Revolution II",
+    "arena": "Historic Crew Stadium",
+    "city": "Columbus, Ohio",
+    "date": "2026-10-17T19:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101807",
+    "league": "MLSNP",
+    "team": "Chattanooga",
+    "opponent": "New York City II",
+    "arena": "Finley Stadium",
+    "city": "Chattanooga, Tennessee",
+    "date": "2026-10-18T21:00:00Z"
+  },
+  
+  {
+    "id": "MLSNP_2026101808",
+    "league": "MLSNP",
+    "team": "Houston Dynamo 2",
+    "opponent": "Los Angeles FC 2",
+    "arena": "SaberCats Stadium",
+    "city": "Houston, Texas",
+    "date": "2026-10-18T23:00:00Z"
+  }
 
 ]
