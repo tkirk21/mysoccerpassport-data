@@ -2951,6 +2951,24 @@
     "endDate": null
   },
   {
+    "teamName": "Orange County",
+    "teamCode": "OCSC",
+    "arena": "Championship Soccer Stadium",
+    "arenaId": "championship_soccer_stadium_irvine",
+    "city": "Irvine, California",
+    "address": "8272 Great Park Blvd, Irvine, CA 92618",
+    "website": "orangecountysoccer.com",
+    "latitude": 33.67448284630851, 
+    "longitude": -117.73935058249629,
+    "colorCode": "#FF6600",
+    "colorCode2": "#FF8D00",    
+	"colorCode3": "#000000",
+    "league": "USLC",
+    "capacity": 5000,
+    "startDate": "2021-01-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Phoenix Rising",
     "teamCode": "PHO",
     "arena": "Phoenix Rising Soccer Stadium",
