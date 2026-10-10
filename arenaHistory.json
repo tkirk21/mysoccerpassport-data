@@ -195,8 +195,8 @@
     "teamName": "Columbus Crew",
     "league": "MLS",
     "history": [
-      { "name": "Lower.com Field", "from": "2021-07-01", "to": "2025-12-31" },
-      { "name": "ScottsMiracle-Gro Field", "from": "2026-01-01", "to": null }
+      { "name": "Lower.com Field", "from": "2021-07-01", "to": "2025-11-24" },
+      { "name": "ScottsMiracle-Gro Field", "from": "2025-11-25", "to": null }
     ]
   },
   {
@@ -424,5 +424,67 @@
 	  { "name": "Bankwest Stadium", "from": "2019-08-01", "to": "2021-07-30" },
 	  { "name": "CommBank Stadium", "from": "2021-08-01", "to": null }	
     ]
-  }	
+  },
+  {
+    "currentArena": "Stadium Australia",
+    "teamName": "Australia National Team",
+    "league": "FIFA",
+    "history": [
+	  { "name": "Sydney Olympic Stadium", "from": "1999-03-06", "to": "2001-12-31" },
+	  { "name": "Telstra Stadium", "from": "2002-01-01", "to": "2007-12-31" },
+	  { "name": "ANZ Stadium", "from": "2008-01-01", "to": "2020-12-31" },
+	  { "name": "Stadium Australia", "from": "2020-01-01", "to": "2024-12-31" },			
+	  { "name": "Sydney Olympic Stadium", "from": "2025-01-01", "to": "2025-12-31" },
+      { "name": "Accor Stadium", "from": "2026-01-01", "to": null }
+	]
+  },
+  {
+    "currentArena": "Estadio Monumental",
+    "teamName": "Argentina National Team",
+    "league": "FIFA",
+    "history": [
+	  { "name": "Estadio Monumental", "from": "1938-01-01", "to": "1986-12-31" },
+	  { "name": "Estadio Monumental Antonio Vespucio Liberti", "from": "1986-01-01", "to": "2022-12-31" },			
+	  { "name": "Estadio Mas Monumental", "from": "2022-01-01", "to": "2026-06-30" },	
+      { "name": "Estadio Monumental", "from": "2026-07-01", "to": null }
+	]
+  },
+  {
+    "currentArena": "Julio Martínez Prádanos National Stadium",
+    "teamName": "Chile National Team",
+    "league": "FIFA",
+    "history": [		
+	  { "name": "Estadio Nacional", "from": "1938-01-01", "to": "2007-12-31" },
+      { "name": "Julio Martínez Prádanos National Stadium", "from": "2008-01-01", "to": null }
+	]
+  },
+  {
+    "currentArena": "Robert F. Kennedy Memorial Stadium",
+    "teamName": "United States National Team",
+    "league": "FIFA",
+    "history": [		
+	  { "name": "District of Columbia Stadium", "from": "1961-10-01", "to": "1968-12-31" },
+      { "name": "Robert F. Kennedy Memorial Stadium", "from": "1969-01-01", "to": "1999-05-14" }
+	]
+  },
+  {
+    "currentArena": "Historic Crew Stadium",
+    "teamName": "United States National Team",
+    "league": "FIFA",
+    "history": [		
+	  { "name": "Columbus Crew Stadium", "from": "1999-01-01", "to": "2014-12-31" },		
+	  { "name": "Mapfre Stadium", "from": "2015-01-01", "to": "2019-12-31" },	
+      { "name": "Historic Crew Stadium", "from": "2020-01-01", "to": "2021-07-20" }
+	]
+  },
+  {
+    "currentArena": "ScottsMiracle-Gro Field",
+    "teamName": "United States National Team",
+    "league": "FIFA",
+    "history": [		
+	  { "name": "Columbus Crew Stadium", "from": "1999-01-01", "to": "2014-12-31" },		
+	  { "name": "Lower.com Field", "from": "2021-07-21", "to": "2025-11-24" },	
+      { "name": "ScottsMiracle-Gro Field", "from": "2025-11-25", "to": null }
+	]
+  }			
 ]
