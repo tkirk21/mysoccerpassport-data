@@ -28263,42 +28263,10 @@
     "endDate": "2021-08-30"
   },
 
-  {
-    "teamName": "United States National Team",
-    "teamCode": "USA",
-	"arena": "Energizer Park",
-    "arenaId": "energizer_park_st_louis",
-    "city": "St. Louis, Missouri",
-    "address": "2019 Market St, St. Louis, MO 63103",
-    "website": "https://www.ussoccer.com/teams/usmnt",
-    "latitude": 38.63137628317594,  
-    "longitude": -90.21028571053145,  
-    "colorCode": "#FA0000",
-    "colorCode2": "#263147",
-	"colorCode3": "#FFFFFF",  
-    "league": "FIFA",
-    "capacity": 22423,
-	"startDate": "2026-09-29",
-    "endDate": "2026-09-30"
-  },	
-  {
-    "teamName": "Chile National Team",
-    "teamCode": "CHI",
-    "arena": "Julio Martínez_prádanos_national_stadium_nunoa",
-    "arenaId": "julio_martínez rádanos National Stadiumnunoa",
-    "city": "Ñuñoa, Chile",
-    "address": "Av. Grecia 2001, 7780464 Ñuñoa, Región Metropolitana, Chile",
-    "website": "https://www.ussoccer.com/teams/usmnt",
-    "latitude": -33.46449766296175,      
-    "longitude": -70.61070842018677,
-    "colorCode": "#EB060D"
-    "colorCode2": "#0055FF",
-	"colorCode3": "#FFFFFF",  
-    "league": "FIFA",
-    "capacity": 48745,
-	"startDate": "1938-12-03",
-    "endDate": "null"
-  },
+
+
+
+	
   {
     "teamName": "Argentina National Team",
     "teamCode": "ARG",
@@ -28372,6 +28340,24 @@
     "endDate": "2026-07-04"
   },
   {
+    "teamName": "Chile National Team",
+    "teamCode": "CHI",
+    "arena": "Julio Martínez Prádanos National Stadium",
+    "arenaId": "julio_martínez rádanos National Stadiumnunoa",
+    "city": "Ñuñoa, Chile",
+    "address": "Av. Grecia 2001, 7780464 Ñuñoa, Región Metropolitana, Chile",
+    "website": "https://laroja.cl/",
+    "latitude": -33.46449766296175,      
+    "longitude": -70.61070842018677,
+    "colorCode": "#EB060D"
+    "colorCode2": "#0055FF",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 48745,
+	"startDate": "1938-12-03",
+    "endDate": "null"
+  },	
+  {
     "teamName": "Egypt National Team",
     "teamCode": "EGY",
     "arena": "AT&T Stadium",
@@ -28388,5 +28374,59 @@
     "capacity": 80000,
 	"startDate": "2026-07-03",
     "endDate": "2026-07-04"
-  }
+  },
+  {
+    "teamName": "Egypt National Team",
+    "teamCode": "EGY",
+    "arena": "Cairo International Stadium",
+    "arenaId": "cairo_international_stadium_cairo",
+    "city": "Cairo, Egypt",
+    "address": "Al Estad, Qesm Than Madinet Nasr, Cairo Governorate 4436020, Egypt",
+    "website": "https://egyptnt.net/",
+    "latitude": 30.069097404534197,     
+    "longitude": 31.31238134764584,
+    "colorCode": "#F3000A",
+    "colorCode2": "#000000",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 80000,
+	"startDate": "1960-07-23",
+    "endDate": null
+  },	
+  {
+    "teamName": "United States National Team",
+    "teamCode": "USA",
+	"arena": "ScottsMiracle-Gro Field",
+    "arenaId": "scottsmiracle_gro_field_columbus",
+    "city": "Columbus, Ohio",
+    "address": "96 Columbus Crew Way, Columbus, OH 43215",
+    "website": "https://www.ussoccer.com/teams/usmnt",
+    "latitude": 39.9684577942965,  
+    "longitude": -83.01704075924442,  
+    "colorCode": "#FA0000",
+    "colorCode2": "#263147",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 20371,
+	"startDate": "2021-07-21",
+    "endDate": null
+  },		
+  {
+    "teamName": "United States National Team",
+    "teamCode": "USA",
+	"arena": "Energizer Park",
+    "arenaId": "energizer_park_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "2019 Market St, St. Louis, MO 63103",
+    "website": "https://www.ussoccer.com/teams/usmnt",
+    "latitude": 38.63137628317594,  
+    "longitude": -90.21028571053145,  
+    "colorCode": "#FA0000",
+    "colorCode2": "#263147",
+	"colorCode3": "#FFFFFF",  
+    "league": "FIFA",
+    "capacity": 22423,
+	"startDate": "2026-09-29",
+    "endDate": "2026-09-30"
+  },		
 ]	
