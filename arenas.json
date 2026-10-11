@@ -4123,7 +4123,40 @@
     "startDate": "2021-07-01",
     "endDate": null
   },
-
+  { 
+    "teamName": "Eldense",
+    "teamCode": "ELD",
+    "arena": "Estadio Municipal Nuevo Pepico Amat",
+    "arenaId": "estadio_municipal_nuevo_pepico_amat_alicante",
+    "city": "Alicante, Spain",
+    "address": "C. Heidelberg, s/n, 03600 Elda, Alicante, Spain",
+    "website": "cdeldense.es",
+    "latitude": 38.46745700211466,   
+    "longitude": -0.7961023339247472,
+    "colorCode": "#173097",
+    "colorCode2": "#A21438",
+    "league": "SD",
+    "capacity": 5776,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
+  { 
+    "teamName": "Girona",
+    "teamCode": "GIR",
+    "arena": "Estadi Municipal de Montilivi",
+    "arenaId": "estadi_municipal_de_montilivi_girona",
+    "city": "Girona, Spain",
+    "address": "Avinguda de Montilivi, 141, 17003 Girona, Spain",
+    "website": "gironafc.cat",
+    "latitude": 41.9612169759257, 
+    "longitude": 2.828430708929928,
+    "colorCode": "#173097",
+    "colorCode2": "#A21438",
+    "league": "SD",
+    "capacity": 14624,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
 
 
 	
