@@ -3951,6 +3951,190 @@
 
 
 
+  {
+    "teamName": "Albacete",
+    "teamCode": "ALB",
+    "arena": "Estadio Carlos Belmonte",
+    "arenaId": "estadio_carlos_belmonte_albacete",
+    "city": "Albacete, Spain",
+    "address": "Av. de España, s/n, 02006 Albacete, Spain",
+    "website": "albacetebalompie.es",
+    "latitude": 38.98107788259372,   
+    "longitude": -1.8521976591634546,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#820013",
+    "league": "SD",
+    "capacity": 17524,
+    "startDate": "2022-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Almería",
+    "teamCode": "ALM",
+    "arena": "UD Almería Stadium",
+    "arenaId": "ud_almeria_stadium_albacete",
+    "city": "Albacete, Spain",
+    "address": "C. Alcalde Santiago Martínez Cabrejas, 5, 04007 Almería, Spain",
+    "website": "udalmeriasad.com",
+    "latitude": 36.840037482878905,    
+    "longitude": -2.4354331080399296,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "SD",
+    "capacity": 18311,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Andorra",
+    "teamCode": "AND",
+    "arena": "L'Estadi de la FAF",
+    "arenaId": "l_estadi_de_la_faf_andorra",
+    "city": "Andorra, Spain",
+    "address": "Baixada del Molí, 15, AD500 Andorra la Vella, Andorra",
+    "website": "www.fcandorra.com",
+    "latitude": 42.5334913797387,    
+    "longitude": 1.5760072479925429,
+    "colorCode": "#000055",
+    "colorCode2": "#FFD000",
+    "colorCode3": "#FF0000",
+    "league": "SD",
+    "capacity": 5108,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Burgos",
+    "teamCode": "BUR",
+    "arena": "Estadio Municipal El Plantío",
+    "arenaId": "estadio_municipal_el_plantio_burgos",
+    "city": "Burgos, Spain",
+    "address": "C/ Cruz Roja s/n, C. Dos de Mayo, 09006 Burgos, Spain",
+    "website": "burgoscf.es",
+    "latitude": 42.34426605703957, 
+    "longitude": -3.680613278452706,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "SD",
+    "capacity": 12194,
+    "startDate": "2021-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Cádiz",
+    "teamCode": "CAD",
+    "arena": "JP Financial Estadio",
+    "arenaId": "jp_financial_estadio_cadiz",
+    "city": "Cádiz, Spain",
+    "address": "Pl. de Madrid, s/n, 11010 Cádiz, Spain",
+    "website": "cadizcf.com",
+    "latitude": 36.50264880787916,  
+    "longitude": -6.272937379371616,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#0000FF",
+    "league": "SD",
+    "capacity": 20724,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Castellón",
+    "teamCode": "CAS",
+    "arena": "Estadio SkyFi Castalia",
+    "arenaId": "estadio_skyfi_castalia_castello_de_la_plana",
+    "city": "Castelló de la Plana, Spain",
+    "address": "C. Huesca, s/n, 12004 Castelló de la Plana, Province of Castellón, Spain",
+    "website": "cdcastellon.com",
+    "latitude": 39.99613973551363,  
+    "longitude": -0.038616417626450156,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "colorCode3": "#FF0000",
+    "league": "SD",
+    "capacity": 15500,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Celta Fortuna",
+    "teamCode": "CF",
+    "arena": "Estadio Municipal de Balaídos",
+    "arenaId": "estadio_municipal_de_balaidos_pontevedra",
+    "city": "Pontevedra, Spain",
+    "address": "Rúa dos Olimpícos, s/n, Coia, 36210 Vigo, Pontevedra, Spain",
+    "website": "rccelta.es/en/equipos/celta-fortuna/",
+    "latitude": 42.21184526441225, 
+    "longitude": -8.73968345670913,
+    "colorCode": "#90CCFF",
+    "colorCode2": "#D30430",
+    "league": "SD",
+    "capacity": 24870,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Ceuta",
+    "teamCode": "CEU",
+    "arena": "Estadio Municipal Alfonso Murube",
+    "arenaId": "estadio_municipal_alfonso_murube_ceuta",
+    "city": "Ceuta, Spain",
+    "address": "Av. Otero, s/n, 51002 Ceuta, Ceu, Spain",
+    "website": "adceutafc.com",
+    "latitude": 35.88546917234594, 
+    "longitude": -5.3278521099416025,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "SD",
+    "capacity": 6500,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Córdoba",
+    "teamCode": "COR",
+    "arena": "Estadio Bahrain Victorious Nuevo Arcángel de Córdoba",
+    "arenaId": "estadio_bahrain_victorious_nuevo_arcángel_de_córdoba",
+    "city": "Córdoba, Spain",
+    "address": "C. José Ramón García Fernández, 14010 Córdoba, Spain",
+    "website": "adceutafc.com",
+    "latitude": 37.87223031846652, 
+    "longitude": -4.764625936582621,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#007D48",
+    "league": "SD",
+    "capacity": 21650,
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Eibar",
+    "teamCode": "EIR",
+    "arena": "Estadio Municipal de Ipurúa",
+    "arenaId": "estadio_municipal_de_ipurua_gipuzkoa",
+    "city": "Gipuzkoa, Spain",
+    "address": "Ipurua Kalea, 2, 20600 Eibar, Gipuzkoa, Spain",
+    "website": "sdeibar.com",
+    "latitude": 43.18177861856768,  
+    "longitude": -2.475877999850511,
+    "colorCode": "#1A1B3E",
+    "colorCode2": "#520721",
+    "league": "SD",
+    "capacity": 8164,
+    "startDate": "2021-07-01",
+    "endDate": null
+  }
+
+
+
+	
+
+
+
+
+
+
+
+
 
   {
     "teamName": "Adelaide United",
