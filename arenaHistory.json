@@ -353,6 +353,48 @@
       { "name": "Bernabéu", "from": "2025-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "UD Almería Stadium",
+    "teamName": "Almería",
+    "league": "SD",
+    "history": [
+      { "name": "UD Almería Stadium", "from": "2002-01-01", "to": "2004-06-30" },
+      { "name": "Estadio de los Juegos Mediterráneos", "from": "2007-07-01", "to": "2004-06-30" }
+    ]
+  },
+  {
+    "currentArena": "JP Financial Estadio",
+    "teamName": "Cádiz",
+    "league": "LL",
+    "history": [
+      { "name": "Estadio Ramón de Carranza", "from": "2020-01-01", "to": "2021-06-30" },
+      { "name": "JP Financial Estadio", "from": "2021-07-01", "to": "2024-06-30" }
+    ]
+  },
+  {
+    "currentArena": "Estadi Mallorca Son Moix",
+    "teamName": "Mallorca",
+    "league": "LL",
+    "history": [
+      { "name": "Visit Mallorca Estadi", "from": "2021-01-01", "to": "2022-06-30" },
+      { "name": "Estadi Mallorca Son Moix", "from": "2022-07-01", "to": "2026-06-30" }
+    ]
+  },
+  {
+    "currentArena": "Iberostar Estadi",
+    "teamName": "Mallorca",
+    "league": "LL",
+    "history": [
+      { "name": "Estadi de Son Moix", "from": "1999-01-01", "to": "2006-06-30" },
+      { "name": "Ono Estadi", "from": "2006-01-01", "to": "2010-06-30" },
+      { "name": "Iberostar Estadi", "from": "2010-07-01", "to": "2013-06-30" }
+    ]
+  },
+
+
+
+
+	
 
 
 
