@@ -4157,6 +4157,41 @@
     "startDate": "2026-07-01",
     "endDate": null
   },
+  {
+    "teamName": "Granada",
+    "teamCode": "GRA",
+    "arena": "Nuevo Estadio de Los Cármenes",
+    "arenaId": "nuevo_estadio_de_los_carmenes_granada",
+    "city": "Granada, Spain",
+    "address": "C. Pintor Manuel Maldonado, s/n, Zaidín, 18007 Granada, Spain",
+    "website": "granadacf.es",
+    "latitude": 37.152936413259326,  
+    "longitude": -3.5957355140116567,
+    "colorCode": "#EB0000",
+    "colorCode2": "#0000FF",
+    "colorCode3": "#FFFFFF",
+    "league": "SD",
+    "capacity": 21600,
+    "startDate": "2024-07-01",
+    "endDate": null
+  }, 
+  {
+    "teamName": "Las Palmas",
+    "teamCode": "LPAL",
+    "arena": "Estadio de Gran Canaria",
+    "arenaId": "estadio_de_gran_canaria_las_palmas",
+    "city": "Las Palmas, Spain",
+    "address": "Calle Germán Dévora Ceballos, s/n, 35019 Las Palmas de Gran Canaria, Las Palmas, Spain",
+    "website": "udlaspalmas.es",
+    "latitude": 28.100367818715725,   
+    "longitude": -15.45672796738714,
+    "colorCode": "#FFFF00",
+    "colorCode2": "#0000FF",
+    "league": "SD",
+    "capacity": 32400,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
 
 
 	
