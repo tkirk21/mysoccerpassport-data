@@ -2037,7 +2037,7 @@
 	"longitude": -2.5014610129029426,
 	"colorCode": "#FFFFFF",
 	"colorCode2": "#000000", 
-	"league": "ENLN",
+	"league": "NLN",
 	"capacity": 6380,
 	"startDate": "2025-07-01",
 	"endDate": null
@@ -2055,7 +2055,7 @@
 	"colorCode": "#0147FF",
 	"colorCode2": "#0065FF", 
 	"colorCode3": "#FFFFFF",   
-	"league": "ENLN",
+	"league": "NLN",
 	"capacity": 3000,
 	"startDate": "2025-07-01",
 	"endDate": null
@@ -2072,7 +2072,7 @@
 	"longitude": -1.144066064945015,
 	"colorCode": "#FF0000",
 	"colorCode2": "#FFFFFF",
-	"league": "ENLN",
+	"league": "NLN",
 	"capacity": 3500,
 	"startDate": "2026-07-01",
 	"endDate": null
@@ -2089,7 +2089,7 @@
 	"longitude": -1.9065833968512902,
 	"colorCode": "#0000FF",
 	"colorCode2": "#FFFFFF",
-	"league": "ENLN",
+	"league": "NLN",
 	"capacity": 4000,
 	"startDate": "2025-07-01",
 	"endDate": null
@@ -2107,7 +2107,7 @@
 	"colorCode": "#0000FF",
 	"colorCode2": "#FFFFFF",
 	"colorCode3": "#000000",  
-	"league": "ENLN",
+	"league": "NLN",
 	"capacity": 5400,
 	"startDate": "2025-07-01",
 	"endDate": null
@@ -2124,7 +2124,7 @@
 	"longitude": -2.629198681593543,
 	"colorCode": "#000000",
 	"colorCode2": "#FFFFFF",
-	"league": "ENLN",
+	"league": "NLN",
 	"capacity": 4300,
 	"startDate": "2025-07-01",
 	"endDate": null
