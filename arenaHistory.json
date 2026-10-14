@@ -176,6 +176,17 @@
 	  { "name": "The Laithwaite Community Stadium", "from": "2015-08-01", "to": "2018-06-30" }	
     ]
   },	
+  {
+    "currentArena": "The Big Help Stadium",
+    "teamName": "Southport",
+    "league": "NL",
+    "history": [
+          { "name": "Haig Avenue", "from": "2017-08-01", "to": "2019-07-30" },
+	  { "name": "The Pure Stadium", "from": "2019-08-01", "to": "2021-07-30" },
+          { "name": "Haig Avenue", "from": "2021-08-01", "to": "2023-07-30" },
+	  { "name": "The Big Help Stadium", "from": "2023-08-01", "to": "2025-06-30" }	
+    ]
+  },	
 
 
 
