@@ -34362,6 +34362,125 @@
   "startDate": "2015-01-01",
   "endDate": "2018-12-31"
 },
+{
+  "teamName": "León",
+  "teamCode": "LEO",
+  "arena": "Estadio León",
+  "arenaId": "estadio_leon_guanajuato",
+  "city": "Guanajuato, Mexico",
+  "address": "Blvd. Adolfo López Mateos 1810, La Martinica, 37500 León de los Aldama, Gto., Mexico",
+  "website": "clubleon.mx",
+  "latitude": 21.115556884151435, 
+  "longitude": -101.65770351165305,
+  "colorCode": "#1C302E",
+  "colorCode2": "#14513D",
+  "league": "LDA",
+  "capacity": 31297,
+  "startDate": "2009-01-01",
+  "endDate": "2011-12-31"
+},
+{
+  "teamName": "León",
+  "teamCode": "LEO",
+  "arena": "Estadio León",
+  "arenaId": "estadio_leon_guanajuato",
+  "city": "Guanajuato, Mexico",
+  "address": "Blvd. Adolfo López Mateos 1810, La Martinica, 37500 León de los Aldama, Gto., Mexico",
+  "website": "clubleon.mx",
+  "latitude": 21.115556884151435, 
+  "longitude": -101.65770351165305,
+  "colorCode": "#1C302E",
+  "colorCode2": "#14513D",
+  "league": "PDA",
+  "capacity": 31297,
+  "startDate": "2002-01-01",
+  "endDate": "2008-12-31"
+},
+{
+  "teamName": "León",
+  "teamCode": "LEO",
+  "arena": "Estadio León",
+  "arenaId": "estadio_leon_guanajuato",
+  "city": "Guanajuato, Mexico",
+  "address": "Blvd. Adolfo López Mateos 1810, La Martinica, 37500 León de los Aldama, Gto., Mexico",
+  "website": "clubleon.mx",
+  "latitude": 21.115556884151435, 
+  "longitude": -101.65770351165305,
+  "colorCode": "#1C302E",
+  "colorCode2": "#14513D",
+  "league": "LMX",
+  "capacity": 31297,
+  "startDate": "1990-01-01",
+  "endDate": "2001-12-31"
+},
+{
+  "teamName": "León",
+  "teamCode": "LEO",
+  "arena": "Estadio León",
+  "arenaId": "estadio_leon_guanajuato",
+  "city": "Guanajuato, Mexico",
+  "address": "Blvd. Adolfo López Mateos 1810, La Martinica, 37500 León de los Aldama, Gto., Mexico",
+  "website": "clubleon.mx",
+  "latitude": 21.115556884151435, 
+  "longitude": -101.65770351165305,
+  "colorCode": "#1C302E",
+  "colorCode2": "#14513D",
+  "league": "SDM",
+  "capacity": 31297,
+  "startDate": "1987-01-01",
+  "endDate": "1989-12-31"
+},
+{
+  "teamName": "León",
+  "teamCode": "LEO",
+  "arena": "Estadio León",
+  "arenaId": "estadio_leon_guanajuato",
+  "city": "Guanajuato, Mexico",
+  "address": "Blvd. Adolfo López Mateos 1810, La Martinica, 37500 León de los Aldama, Gto., Mexico",
+  "website": "clubleon.mx",
+  "latitude": 21.115556884151435, 
+  "longitude": -101.65770351165305,
+  "colorCode": "#1C302E",
+  "colorCode2": "#14513D",
+  "league": "LMX",
+  "capacity": 31297,
+  "startDate": "1967-01-01",
+  "endDate": "1986-12-31"
+},
+{
+  "teamName": "León",
+  "teamCode": "LEO",
+  "arena": "Estadio Enrique Fernández Martínez",
+  "arenaId": "estadio_enrique_fernandez_martinez_guanajuato",
+  "city": "Guanajuato, Mexico",
+  "address": "Boulevard Adolfo López Mateos, Julián de Obregón 3301, 37290 León de los Aldama, Gto., Mexico",
+  "website": "clubleon.mx",
+  "latitude": 21.10475051369097,
+  "longitude": -101.6365200842025,
+  "colorCode": "#1C302E",
+  "colorCode2": "#14513D",
+  "league": "LMX",
+  "capacity": 10000,
+  "startDate": "1944-01-01",
+  "endDate": "1966-12-31"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
