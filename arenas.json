@@ -4710,6 +4710,42 @@
   "startDate": "2019-01-01",
   "endDate": null
 }, 	
+{
+  "teamName": "Cruz Azul",
+  "teamCode": "CAZ",
+  "arena": "Estadio Banorte",
+  "arenaId": "estadio_banorte_mexico_city",
+  "city": "Mexico City, Mexico",
+  "address": "Calz. de Tlalpan 3465, Sta. Úrsula Coapa, Coyoacán, 04650 Ciudad de México, CDMX, Mexico",
+  "website": "cfcruzazul.com",
+  "latitude": 19.3029668467017, 
+  "longitude": -99.15048641764798,
+  "colorCode": "#0000F3",
+  "colorCode2": "#FF0000",
+  "colorCode3": "#FFFFFF",
+  "league": "LMX",
+  "capacity": 87523,
+  "startDate": "2026-07-01",
+  "endDate": null
+},
+{
+  "teamName": "Chivas de Guadalajara",
+  "teamCode": "CHI",
+  "arena": "Estadio Akron",
+  "arenaId": "estadio_akron_jalisco",
+  "city": "Jalisco, Mexico",
+  "address": "Cto. J.V.C. 2800, El Bajío, 45014 Zapopan, Jal., Mexico",
+  "website": "chivasdecorazon.com.mx",
+  "latitude": 20.681813431146185, 
+  "longitude": -103.46260769667649,
+  "colorCode": "#FF0000",
+  "colorCode2": "#FFFFFF",
+  "colorCode3": "#000040",
+  "league": "LMX",
+  "capacity": 48071,
+  "startDate": "2010-01-01",
+  "endDate": null
+},	
 
 	
 
