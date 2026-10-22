@@ -4636,6 +4636,81 @@
     "endDate": null
   },
 
+
+
+
+   {
+  "teamName": "Club América",
+  "teamCode": "CA",
+  "arena": "Estadio Banorte",
+  "arenaId": "estadio_banorte",
+  "city": "Mexico City, Mexico",
+  "address": "Calz. de Tlalpan 3465, Sta. Úrsula Coapa, Coyoacán, 04650 Ciudad de México, CDMX, Mexico",
+  "website": "clubamerica.com.mx",
+  "latitude": 19.3029668467017, 
+  "longitude": -99.15048641764798,
+  "colorCode": "#F9F900",
+  "colorCode2": "#181D3A",
+  "colorCode3": "#B80101",
+  "league": "LMX",
+  "capacity": 87523,
+  "startDate": "2026-01-01",
+  "endDate": null
+},
+{
+  "teamName": "Atlante",
+  "teamCode": "ATL",
+  "arena": "Estadio Banorte",
+  "arenaId": "estadio_banorte",
+  "city": "Mexico City, Mexico",
+  "address": "Calz. de Tlalpan 3465, Sta. Úrsula Coapa, Coyoacán, 04650 Ciudad de México, CDMX, Mexico",
+  "website": "www.atlantefutbol.com",
+  "latitude": 19.3029668467017, 
+  "longitude": -99.15048641764798,
+  "colorCode": "#1B1B55",
+  "colorCode2": "#8C100B",
+  "colorCode3": "#FFFFFF",
+  "league": "LMX",
+  "capacity": 87523,
+  "startDate": "2026-01-01",
+  "endDate": null
+},
+{
+  "teamName": "Atlas",
+  "teamCode": "ATS",
+  "arena": "Estadio Jalisco",
+  "arenaId": "estadio_jalisco",
+  "city": "Jalisco, Mexico",
+  "address": "Monumento Al Estadio Jalisco Puerta 9, Calz. Independencia Norte, 44290 Guadalajara, Jal., Mexico",
+  "website": "atlasfc.com.mx",
+  "latitude": 19.3029668467017, 
+  "longitude": -99.15048641764798,
+  "colorCode": "#9D1A1A",
+  "colorCode2": "#000000",
+  "league": "LMX",
+  "capacity": 59937,
+  "startDate": "1979-01-01",
+  "endDate": null
+},
+{
+  "teamName": "Atlético San Luis",
+  "teamCode": "ASL",
+  "arena": "Estadio Libertad Financiera",
+  "arenaId": "estadio_libertad_financiera_sa_luis_potosi",
+  "city": "San Luis Potosi, Mexico",
+  "address": "Malaquita 1030, Valle Dorado, 78399 San Luis Potosí, S.L.P., Mexico",
+  "website": "atleticodesanluis.mx",
+  "latitude": 22.138671002689005,  
+  "longitude": -100.95083617793246,
+  "colorCode": "#C9323A",
+  "colorCode2": "#FFFFFF",
+  "colorCode3": "#2F3699",
+  "league": "LMX",
+  "capacity": 25709,
+  "startDate": "2019-01-01",
+  "endDate": null
+}, 	
+
 	
 
 
