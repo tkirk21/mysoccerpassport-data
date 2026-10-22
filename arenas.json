@@ -4780,6 +4780,24 @@
   "startDate": "2012-01-01",
   "endDate": null
 },	
+{
+  "teamName": "Monterrey",
+  "teamCode": "MTY",
+  "arena": "Estadio BBVA",
+  "arenaId": "estadio_bbva_nuevo_leon",
+  "city": "Nuevo Leon, Mexico",
+  "address": "Av. Pablo Livas 2011, La Pastora, 67140 Guadalupe, N.L., Mexico",
+  "website": "rayados.com",
+  "latitude": 25.669173251480778, 
+  "longitude": -100.24443843195289,
+  "colorCode": "#000040",
+  "colorCode2": "#FFFFFF",
+  "league": "LMX",
+  "capacity": 53500,
+  "startDate": "2015-01-01",
+  "endDate": null
+},
+	
 
 	
 
