@@ -34345,7 +34345,23 @@
   "startDate": "1970-01-01",
   "endDate": "1970-05-28"
 },
-
+{
+  "teamName": "Juárez",
+  "teamCode": "JUA",
+  "arena": "Estadio Olímpico Benito Juárez",
+  "arenaId": "estadio_akron_jalisco",
+  "city": "Chihuahua, Mexico",
+  "address": "Av. Heroico Colegio Militar 51, Chamizal, 32300 Juárez, Chih., Mexico",
+  "website": "fcjuarez.com",
+  "latitude": 31.753062375849055,
+  "longitude": -106.46780955465945,
+  "colorCode": "#54FC00",
+  "colorCode2": "#ED1C24",
+  "league": "AMX",
+  "capacity": 19703,
+  "startDate": "2015-01-01",
+  "endDate": "2018-12-31"
+},
 
 
 
