@@ -33662,7 +33662,7 @@
   "colorCode": "#1B1B55",
   "colorCode2": "#8C100B",
   "colorCode3": "#FFFFFF",
-  "league": "EMX",
+  "league": "AMX",
   "capacity": 18844,
   "startDate": "2014-01-01",
   "endDate": "2020-12-31"
@@ -33788,7 +33788,7 @@
   "colorCode": "#1B1B55",
   "colorCode2": "#8C100B",
   "colorCode3": "#FFFFFF",
-  "league": "EMX",
+  "league": "SDM",
   "capacity": 33000,
   "startDate": "1990-01-01",
   "endDate": "1990-12-31"
@@ -33842,7 +33842,7 @@
   "colorCode": "#1B1B55",
   "colorCode2": "#8C100B",
   "colorCode3": "#FFFFFF",
-  "league": "EMX",
+  "league": "SDM",
   "capacity": 81070,
   "startDate": "1976-01-01",
   "endDate": "1976-12-31"
@@ -33931,7 +33931,7 @@
   "longitude": -99.15048641764798,
   "colorCode": "#9D1A1A",
   "colorCode2": "#000000",
-  "league": "EMX",
+  "league": "SDM",
   "capacity": 59937,
   "startDate": "1978-01-01",
   "endDate": "1978-12-31"
@@ -33965,7 +33965,7 @@
   "longitude": -99.15048641764798,
   "colorCode": "#9D1A1A",
   "colorCode2": "#000000",
-  "league": "EMX",
+  "league": "SDM",
   "capacity": 59937,
   "startDate": "1971-01-01",
   "endDate": "1971-12-31"
@@ -34016,7 +34016,7 @@
   "longitude": -103.3278482797858,
   "colorCode": "#9D1A1A",
   "colorCode2": "#000000",
-  "league": "EMX",
+  "league": "SDM",
   "capacity": 10000,
   "startDate": "1954-01-01",
   "endDate": "1954-12-31"
@@ -34051,7 +34051,7 @@
   "colorCode": "#C9323A",
   "colorCode2": "#FFFFFF",
   "colorCode3": "#2F3699",
-  "league": "EMX",
+  "league": "AMX",
   "capacity": 25709,
   "startDate": "2013-01-01",
   "endDate": "2018-12-31"
@@ -34087,7 +34087,7 @@
   "colorCode": "#C9323A",
   "colorCode2": "#FFFFFF",
   "colorCode3": "#2F3699",
-  "league": "EMX",
+  "league": "PDA",
   "capacity": 25709,
   "startDate": "2004-01-01",
   "endDate": "2004-05-28"
@@ -34125,9 +34125,27 @@
   "colorCode3": "#2F3699",
   "league": "EMX",
   "capacity": 18000,
-  "startDate": "1977-01-01",
+  "startDate": "1994-01-01",
   "endDate": "2001-05-28"
 },
+{
+  "teamName": "San Luis",
+  "teamCode": "SNL",
+  "arena": "Estadio Plan de San Luis",
+  "arenaId": "estadio_libertad_financiera_sa_luis_potosi",
+  "city": "San Luis Potosi, Mexico",
+  "address": "Calle Av Mariano Jiménez 830, Estadio, 78280 San Luis Potosí, S.L.P., Mexico",
+  "website": "atleticodesanluis.mx",
+  "latitude": 22.14141873012193,  
+  "longitude": -100.98527600729406,
+  "colorCode": "#C9323A",
+  "colorCode2": "#FFFFFF",
+  "colorCode3": "#2F3699",
+  "league": "SDM",
+  "capacity": 18000,
+  "startDate": "1977-01-01",
+  "endDate": "1993-05-28"
+},	
 {
   "teamName": "San Luis",
   "teamCode": "SNL",
@@ -34159,7 +34177,7 @@
   "colorCode": "#C9323A",
   "colorCode2": "#FFFFFF",
   "colorCode3": "#2F3699",
-  "league": "EMX",
+  "league": "SDM",
   "capacity": 18000,
   "startDate": "1970-01-01",
   "endDate": "1970-05-28"
