@@ -3897,6 +3897,111 @@
 
 
 
+  {
+    "teamName": "AC Boise",
+    "teamCode": "BOI",
+    "arena": "Stadium at Expo Idaho",
+    "arenaId": "stadium_at_expo_idaho",
+    "city": "Garden City, Idaho",
+    "address": "12 N Paddock Dr, Garden City, ID 83714",
+    "website": "acboise.com",
+    "latitude": 43.65073066456539,   
+    "longitude": -116.27192930507047,
+    "colorCode": "#000000",
+    "colorCode2": "#008000",
+    "league": "USL1",
+    "capacity": 7225,
+    "startDate": "2026-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "AV Alta",
+    "teamCode": "ALT",
+    "arena": "Lancaster Municipal Stadium",
+    "arenaId": "lancaster_municipal_stadium_lancaster",
+    "city": "Lancaster, California",
+    "address": "45116 Vly Central Wy, Lancaster, CA 93536",
+    "website": "avaltafc.com",
+    "latitude": 34.70319010775762,   
+    "longitude": -118.17257455822748,
+    "colorCode": "#097374",
+    "colorCode2": "#F67B00",
+    "league": "USL1",
+    "capacity": 6000,
+    "startDate": "2025-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Charlotte Independence",
+    "teamCode": "CI",
+    "arena": "American Legion Memorial Stadium",
+    "arenaId": "american_legion_memorial_stadium_charlotte",
+    "city": "Charlotte, North Carolina",
+    "address": "1218-1238 Armory Dr, Charlotte, NC 28204",
+    "website": "charlotteindependence.com",
+    "latitude": 35.218231545619346,  
+    "longitude": -80.82822774480024,
+    "colorCode": "#0000CC",
+    "colorCode2": "#000000",
+    "league": "USL1",
+    "capacity": 10500,
+    "startDate": "2022-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Chattanooga Red Wolves",
+    "teamCode": "CRW",
+    "arena": "CHI Memorial Stadium",
+    "arenaId": "american_legion_memorial_stadium_charlotte",
+    "city": "East Ridge, Tennessee",
+    "address": "1 Stadium Wy, East Ridge, TN 37412",
+    "website": "chattanoogaredwolves-sc.com",
+    "latitude": 34.99710653025418, 
+    "longitude": -85.21069792989043,
+    "colorCode": "#950000",
+    "colorCode2": "#FFFFFF",
+    "league": "USL1",
+    "capacity": 5500,
+    "startDate": "2019-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Corpus Christi",
+    "teamCode": "CC",
+    "arena": "Corpus Christi Stadium",
+    "arenaId": "corpus_christi_stadium_corpus_christi",
+    "city": "Corpus Christi, Texas",
+    "address": "3202 Cabaniss Pkwy, Corpus Christi, TX 78415",
+    "website": "corpuscfc.com",
+    "latitude": 27.705734099710806, 
+    "longitude": -97.4312959861943,
+    "colorCode": "#0000CC",
+    "colorCode2": "#CF0000",
+    "league": "USL1",
+    "capacity": 5000,
+    "startDate": "2026-01-01",
+    "endDate": null
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+  
 
 
 
