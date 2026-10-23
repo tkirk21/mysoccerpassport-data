@@ -35110,6 +35110,40 @@
   "startDate": "1950-01-01",
   "endDate": "1984-12-31"
 },
+{
+  "teamName": "Santos Laguna",
+  "teamCode": "SAN",
+  "arena": "Estadio Corona",
+  "arenaId": "estadio_corona_coachuila",
+  "city": "Coahuila, Mexico",
+  "address": "Calzada Ávila Camacho and Diagonal Las Fuentes, Colonia Carolinas, 27040 Torreón, Coahuila",
+  "website": "clubsantos.mx",
+  "latitude": 25.628720619978232, 
+  "longitude": -103.37993538907646,
+  "colorCode": "#218C5A",
+  "colorCode2": "#FFFFFF",
+  "league": "LMX",
+  "capacity": 20100,
+  "startDate": "1988-01-01",
+  "endDate": "2008-12-31
+},
+{
+  "teamName": "Santos Laguna",
+  "teamCode": "SAN",
+  "arena": "Estadio Corona",
+  "arenaId": "estadio_corona_coachuila",
+  "city": "Coahuila, Mexico",
+  "address": "Calzada Ávila Camacho and Diagonal Las Fuentes, Colonia Carolinas, 27040 Torreón, Coahuila",
+  "website": "clubsantos.mx",
+  "latitude": 25.628720619978232, 
+  "longitude": -103.37993538907646,
+  "colorCode": "#218C5A",
+  "colorCode2": "#FFFFFF",
+  "league": "SDM",
+  "capacity": 20100,
+  "startDate": "1983-01-01",
+  "endDate": "1987-12-31
+},
 
 
 
@@ -35729,7 +35763,7 @@
 
 
 
-	{
+{
   "teamName": "America CFL Spurs",
   "teamCode": "CCFLS",
   "arena": "Lake Mary High School Stadium",
