@@ -2513,7 +2513,40 @@
     "startDate": "2025-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "Chippenham Town",
+    "teamCode": "CHIP",
+    "arena": "Hardenhuish Park",
+    "arenaId": "hardenhuish_park_chippenham",
+    "city": "Chippenham, England",
+    "address": "Bristol Rd, Chippenham SN14 6LR, United Kingdom",
+    "website": "chippenhamtown.com",
+    "latitude": 51.465625403953204, 
+    "longitude": -2.128755483527341,
+    "colorCode": "#0000FF",
+    "colorCode2": "#000000",
+    "league": "NLS",
+    "capacity": 3000,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Dagenham & Redbridge",
+    "teamCode": "DAG",
+    "arena": "Chigwell Construction Stadium",
+    "arenaId": "chigwell_construction_stadium_chippenham",
+    "city": "Dagenham, England",
+    "address": "Victoria Rd, Dagenham RM10 7XL, United Kingdom",
+    "website": "chippenhamtown.com",
+    "latitude": 51.54782964733767,  
+    "longitude": 0.15996462353412372,
+    "colorCode": "#FF0000",
+    "colorCode2": "#0D65EB",
+    "league": "NLS",
+    "capacity": 6078,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
 
 
 
