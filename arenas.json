@@ -5078,6 +5078,34 @@
 
 
 
+
+  {
+    "teamName": "FC Augsburg",
+    "teamCode": "AUG",
+    "arena": "WWK Arena",
+    "arenaId": "wwk_arena_augsburg",
+    "city": "Augsburg, Germany",
+    "address": "Bürgermeister-Ulrich-Straße 90, 86199 Universitätsviertel, Germany",
+    "website": "fcaugsburg.de",
+    "latitude": 48.32312757155262,   
+    "longitude": 10.885962921371252,
+    "colorCode": "#EDE6DC",
+    "colorCode2": "#680F00",
+    "league": "BL",
+    "capacity": 30660,
+    "startDate": "2015-07-01",
+    "endDate": null
+  },
+
+
+
+
+
+
+
+	
+
+
    {
   "teamName": "Club América",
   "teamCode": "CA",
