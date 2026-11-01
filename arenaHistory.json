@@ -352,6 +352,16 @@
       { "name": "Weidner Field", "from": "2017-02-14", "to": "2020-12-31" }
     ]
   },
+  {
+    "currentArena": "Energizer Park",
+    "teamName": "St. Louis City 2",
+    "league": "MLSNP",
+    "history": [
+	  { "name": "Centene Stadium", "from": "2022-01-01", "to": "2023-12-31" },
+      { "name": "CityPark", "from": "2023-01-01", "to": "2024-12-31" },
+      { "name": "Energizer Park", "from": "2025-01-01", "to": null }
+    ]
+  },	
 
 
   {
