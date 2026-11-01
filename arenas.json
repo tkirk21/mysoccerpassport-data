@@ -2480,6 +2480,24 @@
     "endDate": null
   },	
   {
+    "teamName": "Braintree Town",
+    "teamCode": "BT",
+    "arena": "Cressing Road",
+    "arenaId": "cressing_road_braintree",
+    "city": "Braintree, England",
+    "address": "Cressing Rd, Clockhouse Way, Braintree CM7 3AL, United Kingdom",
+    "website": 	"braintreetownfc.org.uk",
+    "latitude": 51.87533072318963,   
+    "longitude": 0.5729916893030621,
+    "colorCode": "#ED6811",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#ED6811",
+    "league": "ENLS",
+    "capacity": 4222,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Chelmsford City",
     "teamCode": "CHEL",
     "arena": "The Dunmow Group Community Stadium",
@@ -2510,23 +2528,6 @@
     "colorCode2": "#87CEFA",
     "league": "ENLS",
     "capacity": 5000,
-    "startDate": "2025-07-01",
-    "endDate": null
-  },
-  {
-    "teamName": "Chippenham Town",
-    "teamCode": "CHIP",
-    "arena": "Hardenhuish Park",
-    "arenaId": "hardenhuish_park_chippenham",
-    "city": "Chippenham, England",
-    "address": "Bristol Rd, Chippenham SN14 6LR, United Kingdom",
-    "website": "chippenhamtown.com",
-    "latitude": 51.465625403953204, 
-    "longitude": -2.128755483527341,
-    "colorCode": "#0000FF",
-    "colorCode2": "#000000",
-    "league": "ENLS",
-    "capacity": 3000,
     "startDate": "2025-07-01",
     "endDate": null
   },
