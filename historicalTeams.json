@@ -16985,7 +16985,7 @@
 	"longitude": -2.8895130103889595,
 	"colorCode": "#FFFFFF",
 	"colorCode2": "#0000FF",
-	"league": "VNLN",
+	"league": "ENLN",
 	"capacity": 6000,
 	"startDate": "2025-07-01",
 	"endDate": "2026-06-30"
@@ -21327,7 +21327,7 @@
   "longitude": -1.564234887067412,
   "colorCode": "#000000",
   "colorCode2": "#FFFFFF",
-  "league": "NLN",
+  "league": "VNLN",
   "capacity": 3300,
   "startDate": "2016-07-01",
   "endDate": "2017-06-30"
@@ -22826,7 +22826,7 @@
     "longitude": -1.5099883845361863,
     "colorCode": "#0000FF",
     "colorCode2": "#FFFFFF",
-    "league": "NLS",
+    "league": "VNLS",
     "capacity": 3000,
     "startDate": "2024-07-01",
     "endDate": "2025-06-30"
