@@ -2547,6 +2547,41 @@
     "startDate": "2025-07-01",
     "endDate": null
   },
+  {
+    "teamName": "Dorking Wanderers",
+    "teamCode": "DORK",
+    "arena": "Meadowbank Stadium",
+    "arenaId": "meadowbank_stadium_dorking",
+    "city": "Dorking, England",
+    "address": "Mill Ln, Dorking RH4 1DX, United Kingdom",
+    "website": "dorkingwanderers.com",
+    "latitude": 51.23444428396009,  
+    "longitude": -0.3335265337946676,
+    "colorCode2": "#FF0000",
+    "colorCode": "#0000FF",
+    "colorCode3": "#FFFFFF",
+    "league": "ENLS",
+    "capacity": 4250,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Dover Athletic",
+    "teamCode": "DOV",
+    "arena": "Crabble",
+    "arenaId": "crabble_dover",
+    "city": "Dover, England",
+    "address": "Lewisham Rd, River, Dover CT17 0QE, United Kingdom",
+    "website": "doverathletic.com",
+    "latitude": 51.137826386494574,  
+    "longitude": 1.284926516276322,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "ENLS",
+    "capacity": 6500,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },	
 
 
 
@@ -5096,6 +5131,23 @@
     "startDate": "2015-07-01",
     "endDate": null
   },
+  {
+    "teamName": "Bayer Leverkusen",
+    "teamCode": "LEV",
+    "arena": "BayArena",
+    "arenaId": "bayarena_leverkusen",
+    "city": "Leverkusen, Germany",
+    "address": "Bismarckstraße 122-124, 51373 Leverkusen, Germany",
+    "website": "bayer04.de",
+    "latitude": 51.03823539694811,   
+    "longitude": 7.002269906669539,
+    "colorCode": "#000000",
+    "colorCode2": "#FF0000",
+    "league": "BL",
+    "capacity": 30210,
+    "startDate": "1979-07-01",
+    "endDate": null
+  },	
 
 
 
