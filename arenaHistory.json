@@ -192,6 +192,23 @@
 
 
 
+
+ {
+    "currentArena": "The Cleo Saul Beveree Stadium",
+    "teamName": "Hampton & Richmond Borough",
+    "league": "VNLS",
+    "history": [
+          { "name": "The Beveree", "from": "2016-08-01", "to": "2021-07-30" },
+	  { "name": "Cleo Saul Beveree Stadium", "from": "2021-08-01", "to": "2023-07-30" },
+          { "name": "The Rocket Hospitality Beveree Stadium", "from": "2023-08-01", "to": "2024-07-30" },
+	  { "name": "The Cleo Saul Beveree Stadium", "from": "204-08-01", "to": "2025-06-30" }	
+    ]
+  },		
+
+
+
+
+
   {
     "currentArena": "SeatGeek Stadium",
     "teamName": "Chicago Fire",
