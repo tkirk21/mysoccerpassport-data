@@ -2655,7 +2655,7 @@
   {
     "teamName": "Hemel Hempstead Town",
     "teamCode": "HHT",
-    "arena": "	Vauxhall Road",
+    "arena": "Vauxhall Road",
     "arenaId": "vauxhall_road_hemel_hempstead",
     "city": "Hemel Hempstead, England",
     "address": "Vauxhall Rd, Hemel Hempstead HP2 4HW, United Kingdom",
@@ -2669,7 +2669,24 @@
     "startDate": "2025-07-01",
     "endDate": null
   },
-
+  {
+    "teamName": "Horsham",
+    "teamCode": "HOR",
+    "arena": "The Fusion Aviation Community Stadium",
+    "arenaId": "the_fusion_aviation_community_stadium_horsham",
+    "city": "Horsham, England",
+    "address": "Worthing Rd, Horsham RH13 0AD, United Kingdom",
+    "website": "horshamfc.co.uk",
+    "latitude": 51.04689308882619,  
+    "longitude": -0.34068756790696697,
+    "colorCode": "#FDDB24",
+    "colorCode2": "#2A5137",
+    "colorCode3": "#006600",
+    "league": "ENLS",
+    "capacity": 3000,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
 
 
 
