@@ -2438,6 +2438,9 @@
 },	
 
 
+	
+
+
 
 
 
@@ -2687,7 +2690,24 @@
     "startDate": "2025-07-01",
     "endDate": null
   },
-
+   {
+    "teamName": "Maidenhead United",
+    "teamCode": "MAI",
+    "arena": "York Road",
+    "arenaId": "york_road_maidenhead",
+    "city": "Maidenhead, England",
+    "address": "York Rd, Maidenhead SL6 1SF, United Kingdom",
+    "website": "maidenheadunitedfc.org",
+    "latitude": 51.519882263791224,   
+    "longitude": -0.7179660815501306,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "colorCode3": "#FF0000",
+    "league": "ENLS",
+    "capacity": 4000,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
 
 
 
