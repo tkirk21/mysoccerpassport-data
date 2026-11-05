@@ -5406,7 +5406,41 @@
     "startDate": "1979-07-01",
     "endDate": null
   },	
-
+  {
+    "teamName": "Union Berlin",
+    "teamCode": "BER",
+    "arena": "Stadion An der Alten Försterei",
+    "arenaId": "stadion_an_der_alten_forsterei_",
+    "city": "Berlin, Germany",
+    "address": "An d. Wuhlheide 263, 12555 Berlin-Bezirk Treptow-Köpenick, Germany",
+    "website": "fcaugsburg.de",
+    "latitude": 52.45739862414404,   
+    "longitude": 13.568130916981843,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "BL",
+    "capacity": 22012,
+    "startDate": "2019-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Werder Bremen",
+    "teamCode": "BRE",
+    "arena": "Weserstadion",
+    "arenaId": "weserstadion_bremen",
+    "city": "Bremen, Germany",
+    "address": "Franz-Böhmert-Straße 1, 28205 Bremen-Östliche Vorstadt, Germany",
+    "website": "werder.de",
+    "latitude": 53.066452236193356,    
+    "longitude": 8.83766194960122,
+    "colorCode": "#009958",
+    "colorCode2": "#FFFFFF",
+    "league": "BL",
+    "capacity": 42100,
+    "startDate": "2022-07-01",
+    "endDate": null
+  },
+	
 
 
 
