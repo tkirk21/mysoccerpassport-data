@@ -446,7 +446,15 @@
       { "name": "Wohninvest Weserstadion", "from": "2019-07-01", "to": "2021-06-30" }
     ]
   },
-
+  {
+    "currentArena": "Signal Iduna Park",
+    "teamName": "Borussia Dortmund",
+    "league": "BL",
+    "history": [
+      { "name": "Westfalenstadion", "from": "1976-07-01", "to": "2005-06-30" },
+      { "name": "Signal Iduna Park", "from": "2005-07-01", "to": null }
+    ]
+  },
 
 
 
