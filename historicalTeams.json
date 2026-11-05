@@ -37830,7 +37830,40 @@
     "startDate": "1963-07-01",
     "endDate": "1980-06-30"
   },
-
+  {
+    "teamName": "Borussia Dortmund",
+    "teamCode": "DORT",
+    "arena": "Westfalenstadion",
+    "arenaId": "signal_iduna_park_dortmund",
+    "city": "Dortmund, Germany",
+    "address": "Strobelallee 50, 44139 Dortmund, Germany",
+    "website": "bvb.de",
+    "latitude": 51.492599277903864,   
+    "longitude": 7.451829819888414,
+    "colorCode": "#FFE300",
+    "colorCode2": "#000000",
+    "league": "BL2",
+    "capacity": 81365S,
+    "startDate": "1974-07-01",
+    "endDate": "1976-06-30"
+  }, 
+  {
+    "teamName": "Borussia Dortmund",
+    "teamCode": "DORT",
+    "arena": "Westfalenstadion",
+    "arenaId": "signal_iduna_park_dortmund",
+    "city": "Dortmund, Germany",
+    "address": "Strobelallee 50, 44139 Dortmund, Germany",
+    "website": "bvb.de",
+    "latitude": 51.492599277903864,   
+    "longitude": 7.451829819888414,
+    "colorCode": "#FFE300",
+    "colorCode2": "#000000",
+    "league": "BL",
+    "capacity": 81365S,
+    "startDate": "1963-07-01",
+    "endDate": "1972-06-30"
+  },
 
 
 	
