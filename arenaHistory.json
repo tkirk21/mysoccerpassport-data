@@ -428,6 +428,32 @@
       { "name": "Iberostar Estadi", "from": "2010-07-01", "to": "2013-06-30" }
     ]
   },
+  {
+    "currentArena": "Weserstadion",
+    "teamName": "Werder Bremen",
+    "league": "BL",
+    "history": [
+      { "name": "Wohninvest Weserstadion", "from": "2022-07-01", "to": "2024-06-30" },
+      { "name": "Weserstadion", "from": "2024-07-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Wohninvest Weserstadion",
+    "teamName": "Werder Bremen",
+    "league": "BL",
+    "history": [
+      { "name": "Weserstadion", "from": "1981-07-01", "to": "2019-06-30" },
+      { "name": "Wohninvest Weserstadion", "from": "2019-07-01", "to": "2021-06-30" }
+    ]
+  },
+
+
+
+
+
+
+
+	
 
 
 
