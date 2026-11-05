@@ -2793,7 +2793,57 @@
     "startDate": "2025-07-01",
     "endDate": null
   },	
-
+  {
+    "teamName": "Truro City",
+    "teamCode": "TRUC",
+    "arena": "Truro City Stadium",
+    "arenaId": "truro_city_stadium_truro",
+    "city": "Truro, England",
+    "address": "Sports Hub, West Langarth, Threemilestone, Truro TR4 9AN, United Kingdom",
+    "website": "trurocity.co.uk",
+    "latitude": 50.26767775784397,   
+    "longitude": -5.1234950582758225,
+    "colorCode": "#DC143C",
+    "colorCode2": "#000000",
+    "league": "ENLS",
+    "capacity": 3597,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Walton & Hersham",
+    "teamCode": "WH",
+    "arena": "Elmbridge Xcel Sports Hub",
+    "arenaId": "elmbridge_xcel_sports_hub_walton_on_thames",
+    "city": "Walton-on-Thames, England",
+    "address": "Waterside Dr, Walton-on-Thames KT12 2JP, United Kingdom",
+    "website": "https://waltonhershamfc.com/",
+    "latitude": 51.39911913029703, 
+    "longitude": -0.4096755173205991,
+    "colorCode": "#FF0000",
+    "colorCode2": "#FFFFFF",
+    "league": "ENLS",
+    "capacity": 2097,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Weston-super-Mare",
+    "teamCode": "WSM",
+    "arena": "The Optima Stadium",
+    "arenaId": "the_optima_stadium_weston_super_mare",
+    "city": "Weston-super-Mare, England",
+    "address": "Winterstoke Rd, Weston-super-Mare BS24 9AA, United Kingdom",
+    "website": "wsmafc.co.uk",
+    "latitude": 51.330665527586845,  
+    "longitude": -2.9560932368722823,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "ENLS",
+    "capacity": 3500,
+    "startDate": "2025-07-01",
+    "endDate": null
+  },
 
 
 
