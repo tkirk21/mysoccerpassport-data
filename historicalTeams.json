@@ -37843,7 +37843,7 @@
     "colorCode": "#FFE300",
     "colorCode2": "#000000",
     "league": "BL2",
-    "capacity": 81365S,
+    "capacity": 81365,
     "startDate": "1974-07-01",
     "endDate": "1976-06-30"
   }, 
@@ -37860,7 +37860,7 @@
     "colorCode": "#FFE300",
     "colorCode2": "#000000",
     "league": "BL",
-    "capacity": 81365S,
+    "capacity": 81365,
     "startDate": "1963-07-01",
     "endDate": "1972-06-30"
   },
