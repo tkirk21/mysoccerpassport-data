@@ -5492,7 +5492,23 @@
     "startDate": "2012-07-01",
     "endDate": null
   }, 
-
+  {
+    "teamName": "Freiburg",
+    "teamCode": "FRE",
+    "arena": "Europa-Park Stadion",
+    "arenaId": "europa_park_stadion_freiburg_im_breisgau",
+    "city": "Freiburg im Breisgau, Germany",
+    "address": "Achim-Stocker-Straße 1, 79108 Freiburg im Breisgau, Germany",
+    "website": "scfreiburg.com",
+    "latitude": 48.02162305787764, 
+    "longitude": 7.829660298207922 ,
+    "colorCode": "#FF0000",
+    "colorCode2": "#B2161B",
+    "league": "BL",
+    "capacity": 34700,
+    "startDate": "2021-07-01",
+    "endDate": null
+  }, 
 
 
 
