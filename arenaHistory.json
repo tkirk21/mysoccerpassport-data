@@ -455,7 +455,15 @@
       { "name": "Signal Iduna Park", "from": "2005-07-01", "to": null }
     ]
   },
-
+  {
+    "currentArena": "Deutsche Bank Park",
+    "teamName": "Eintracht Frankfurt",
+    "league": "BL",
+    "history": [
+      { "name": "Commerzbank-Arena", "from": "2012-07-01", "to": "2020-06-30" },
+      { "name": "Deutsche Bank Park", "from": "2020-07-01", "to": null }
+    ]
+  },
 
 
 
