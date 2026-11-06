@@ -5457,7 +5457,41 @@
     "startDate": "1976-07-01",
     "endDate": null
   },	
-
+  {
+    "teamName": "SV Elversberg",
+    "teamCode": "ELV",
+    "arena": "Ursapharm-Arena",
+    "arenaId": "ursapharm_arena_speisen_elversberg",
+    "city": "Spiesen-Elversberg, Germany",
+    "address": "Lindenstraße 7, 66583 Spiesen-Elversberg-Elversberg, Germany",
+    "website": "sv07elversberg.de",
+    "latitude": 49.31881523478871,  
+    "longitude": 7.121694004072342,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
+    "league": "BL",
+    "capacity": 14221,
+    "startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Eintracht Frankfurt",
+    "teamCode": "EFR",
+    "arena": "Deutsche Bank Park",
+    "arenaId": "deutsche_bank_park_frankfurt_am_main",
+    "city": "Frankfurt am Main, Germany",
+    "address": "Mörfelder Landstraße 362, 60528 Frankfurt-Süd, Germany",
+    "website": "eintracht.de",
+    "latitude": 50.06860144933684,   
+    "longitude": 8.645377168629789,
+    "colorCode": "#B2161B",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "league": "BL",
+    "capacity": 60100,
+    "startDate": "2012-07-01",
+    "endDate": null
+  }, 
 
 
 
