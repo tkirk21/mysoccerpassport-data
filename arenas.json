@@ -5613,108 +5613,6 @@
     "endDate": null
   },
   {
-    "teamName": "Borussia Mönchengladbach",
-    "teamCode": "MONC",
-    "arena": "Borussia Park",
-    "arenaId": "borussia_park_monchengladbach",
-    "city": "Mönchengladbach, Germany",
-    "address": "Hennes Weisweiler Allee 1, 41179 West, Germany",
-    "website": "borussia.de",
-    "latitude": 51.17466729033885,     
-    "longitude": 6.385368464296884,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#00A863",
-    "league": "BL2",
-    "capacity": 54057,
-    "startDate": "2007-07-01",
-    "endDate": "2008-06-30"
-  },
-  {
-    "teamName": "Borussia Mönchengladbach",
-    "teamCode": "MONC",
-    "arena": "Borussia Park",
-    "arenaId": "borussia_park_monchengladbach",
-    "city": "Mönchengladbach, Germany",
-    "address": "Hennes Weisweiler Allee 1, 41179 West, Germany",
-    "website": "borussia.de",
-    "latitude": 51.17466729033885,     
-    "longitude": 6.385368464296884,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#00A863",
-    "league": "BL",
-    "capacity": 54057,
-    "startDate": "2004-07-01",
-    "endDate": "2007-06-30"
-  },
-  {
-    "teamName": "Borussia Mönchengladbach",
-    "teamCode": "MONC",
-    "arena": "Bökelbergstadion",
-    "arenaId": "bokelbergstadion_monchengladbach",
-    "city": "Mönchengladbach, Germany",
-    "address": "Nord, 41063 M. Gladbach, Germany",
-    "website": "borussia.de",
-    "latitude": 51.20897854057873,     
-    "longitude": 6.439172759131532,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#00A863",
-    "league": "BL",
-    "capacity": 34500,
-    "startDate": "2004-07-01",
-    "endDate": "2007-06-30"
-  },
-  {
-    "teamName": "Borussia Mönchengladbach",
-    "teamCode": "MONC",
-    "arena": "Bökelbergstadion",
-    "arenaId": "bokelbergstadion_monchengladbach",
-    "city": "Mönchengladbach, Germany",
-    "address": "Nord, 41063 M. Gladbach, Germany",
-    "website": "borussia.de",
-    "latitude": 51.20897854057873,     
-    "longitude": 6.439172759131532,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#00A863",
-    "league": "BL",
-    "capacity": 34500,
-    "startDate": "2001-07-01",
-    "endDate": "2004-06-30"
-  },
-  {
-    "teamName": "Borussia Mönchengladbach",
-    "teamCode": "MONC",
-    "arena": "Bökelbergstadion",
-    "arenaId": "bokelbergstadion_monchengladbach",
-    "city": "Mönchengladbach, Germany",
-    "address": "Nord, 41063 M. Gladbach, Germany",
-    "website": "borussia.de",
-    "latitude": 51.20897854057873,     
-    "longitude": 6.439172759131532,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#00A863",
-    "league": "BL2",
-    "capacity": 34500,
-    "startDate": "1999-07-01",
-    "endDate": "2001-06-30"
-  },
-  {
-    "teamName": "Borussia Mönchengladbach",
-    "teamCode": "MONC",
-    "arena": "Bökelbergstadion",
-    "arenaId": "bokelbergstadion_monchengladbach",
-    "city": "Mönchengladbach, Germany",
-    "address": "Nord, 41063 M. Gladbach, Germany",
-    "website": "borussia.de",
-    "latitude": 51.20897854057873,     
-    "longitude": 6.439172759131532,
-    "colorCode": "#FFFFFF",
-    "colorCode2": "#00A863",
-    "league": "BL",
-    "capacity": 34500,
-    "startDate": "1965-07-01",
-    "endDate": "1999-06-30"
-  },
-  {
     "teamName": "Bayern Munich",
     "teamCode": "MUN",
     "arena": "Allianz Arena",
@@ -5740,6 +5638,10 @@
 
 	
 
+
+
+
+	
 
 
 
