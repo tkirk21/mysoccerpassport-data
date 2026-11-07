@@ -484,7 +484,48 @@
       { "name": "Schwarzwald-Stadion", "from": "2014-07-01", "to": "2015-06-30" }
     ]
   },
-
+  {
+    "currentArena": "RheinEnergieStadion",
+    "teamName": "1. FC Köln",
+    "league": "BL",
+    "history": [
+      { "name": "Müngersdorfer Stadion", "from": "2000-01-01", "to": "2001-06-30" },
+      { "name": "RheinEnergieStadion", "from": "2001-07-01", "to": "2002-06-30" }
+    ]
+  },  
+ {
+    "currentArena": "Volksparkstadion",
+    "teamName": "Hamburger SV",
+    "league": "BL",
+    "history": [
+      { "name": "Volksparkstadion", "from": "1963-01-01", "to": "2001-06-30" },
+      { "name": "AOL Arena", "from": "2001-01-01", "to": "2007-06-30" },
+      { "name": "HSH Nordbank Arena", "from": "2007-01-01", "to": "2010-06-30" },
+      { "name": "Imtech Arena", "from": "2010-01-01", "to": "2015-06-30" },
+      { "name": "Volksparkstadion", "from": "2015-07-01", "to": "2018-06-30" }
+    ]
+  },
+  {
+    "currentArena": "SNP Arena",
+    "teamName": "TSG Hoffenheim",
+    "league": "BL",
+    "history": [
+      { "name": "Rhein-Neckar-Arena", "from": "2009-01-24", "to": "2011-06-30" },
+      { "name": "WIRSOL Rhein-Neckar-Arena", "from": "2011-07-01", "to": "2019-06-30" },
+      { "name": "PreZero Arena", "from": "2019-07-01", "to": "2026-06-30" },
+      { "name": "SNP Arena", "from": "2026-07-01", "to": null}
+    ]
+  },
+  {
+    "currentArena": "Mewa Arena",
+    "teamName": "Mainz 05",
+    "league": "BL",
+    "history": [
+      { "name": "Coface Arena", "from": "2011-07-01", "to": "2016-06-30" },
+      { "name": "Opel Arena", "from": "2016-07-01", "to": "2021-06-30" },
+      { "name": "Mewa Arena", "from": "2021-07-01", "to": null}
+    ]
+  },
 
 
 
