@@ -37221,7 +37221,58 @@
 	  "startDate": "1975-07-01",
     "endDate": "1963-06-30"
   },
-
+    {
+    "teamName": "SC Paderborn 07",
+    "teamCode": "PAD",
+    "arena": "Home Deluxe Arena",
+    "arenaId": "home_deluxe_arena_paderborn",
+    "city": "Paderborn, Germany",
+    "address": "Wilfried-Finke-Allee 1, 33104 Paderborn, Germany",
+    "website": "scp07.de",
+    "latitude": 51.730787535450396, 
+    "longitude": 8.711088274375044,
+    "colorCode": "#000000",
+	"colorCode2": "#0000FF",
+    "colorCode3": "#191919",
+    "league": "BL",
+    "capacity": 15000,
+	  "startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Schalke 04",
+    "teamCode": "SCH",
+    "arena": "Veltins Arena",
+    "arenaId": "veltins_arena_gelsenkirchen",
+    "city": "Gelsenkirchen, Germany",
+    "address": "Rudi-Assauer-Platz 1, 45891 Gelsenkirchen-Ost, Germany",
+    "website": "schalke04.de",
+    "latitude": 51.55467454159046, 
+    "longitude": 7.067620010005459,
+    "colorCode": "#0000B3",
+	"colorCode2": "#0092FF",
+    "colorCode3": "#FFFFFF",
+    "league": "BL",
+    "capacity": 62273,
+	  "startDate": "2026-07-01",
+    "endDate": null
+  },
+  {
+    "teamName": "VfB Stuttgart",
+    "teamCode": "STUT",
+    "arena": "MHPArena",
+    "arenaId": "mhparena_stuttgart",
+    "city": "Stuttgart, Germany",
+    "address": "Mercedesstraße 87, 70372 Stuttgart, Germany",
+    "website": "vfb.de",
+    "latitude": 48.79226335726744, 
+    "longitude": 9.232014343069029,
+    "colorCode": "#FFFFFF",
+    "league": "BL",
+    "capacity": 60058,
+	  "startDate": "2020-07-01",
+    "endDate": null
+  },
 
 
 
