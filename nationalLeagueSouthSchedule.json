@@ -1,3 +1,1051 @@
 [
+{
+  "id": "ENLS_2026110901",
+  "league": "ENLS",
+  "team": "Chelmsford City",
+  "opponent": "Ebbsfleet United",
+  "arena": "The Dunmow Group Community Stadium",
+  "city": "Chelmsford, England",
+  "date": "2026-11-09T19:45:00Z"
+},
 
+{
+  "id": "ENLS_2026111002",
+  "league": "ENLS",
+  "team": "Hemel Hempstead Town",
+  "opponent": "Torquay United",
+  "arena": "Vauxhall Road",
+  "city": "Hemel Hempstead, England",
+  "date": "2026-11-10T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026111003",
+  "league": "ENLS",
+  "team": "Salisbury",
+  "opponent": "Braintree Town",
+  "arena": "The Raymond McEnhill Stadium",
+  "city": "Salisbury, England",
+  "date": "2026-11-10T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026111704",
+  "league": "ENLS",
+  "team": "Tonbridge Angels",
+  "opponent": "Chesham United",
+  "arena": "Longmead Stadium",
+  "city": "Tonbridge, England",
+  "date": "2026-11-17T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026111705",
+  "league": "ENLS",
+  "team": "Torquay United",
+  "opponent": "Dover Athletic",
+  "arena": "Plainmoor",
+  "city": "Torquay, England",
+  "date": "2026-11-17T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026111706",
+  "league": "ENLS",
+  "team": "Truro City",
+  "opponent": "Billericay Town",
+  "arena": "Truro City Stadium",
+  "city": "Truro, England",
+  "date": "2026-11-17T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112107",
+  "league": "ENLS",
+  "team": "AFC Totton",
+  "opponent": "Dagenham & Redbridge",
+  "arena": "Testwood Stadium",
+  "city": "Southampton, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112108",
+  "league": "ENLS",
+  "team": "Billericay Town",
+  "opponent": "Slough Town",
+  "arena": "New Lodge",
+  "city": "Billericy, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112109",
+  "league": "ENLS",
+  "team": "Braintree Town",
+  "opponent": "Torquay United",
+  "arena": "Cressing Road",
+  "city": "Braintree, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112110",
+  "league": "ENLS",
+  "team": "Chesham United",
+  "opponent": "Hampton & Richmond Borough",
+  "arena": "The Meadow",
+  "city": "Chesham, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112111",
+  "league": "ENLS",
+  "team": "Dorking Wanderers",
+  "opponent": "Ebbsfleet United",
+  "arena": "Meadowbank Stadium",
+  "city": "Dorking, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112112",
+  "league": "ENLS",
+  "team": "Dover Athletic",
+  "opponent": "Horsham",
+  "arena": "Crabble",
+  "city": "Dover, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112113",
+  "league": "ENLS",
+  "team": "Farnborough",
+  "opponent": "Salisbury",
+  "arena": "Saunders Transport Community Stadium",
+  "city": "Farnborough, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112114",
+  "league": "ENLS",
+  "team": "Maidenhead United",
+  "opponent": "Folkestone",
+  "arena": "York Road",
+  "city": "Maidenhead, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112115",
+  "league": "ENLS",
+  "team": "Maidstone United",
+  "opponent": "Farnham Town",
+  "arena": "Gallagher Stadium",
+  "city": "Maidstone, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112116",
+  "league": "ENLS",
+  "team": "Tonbridge Angels",
+  "opponent": "Weston-super-Mare",
+  "arena": "Longmead Stadium",
+  "city": "Tonbridge, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112117",
+  "league": "ENLS",
+  "team": "Truro City",
+  "opponent": "Hemel Hempstead Town",
+  "arena": "Truro City Stadium",
+  "city": "Truro, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112118",
+  "league": "ENLS",
+  "team": "Walton & Hersham",
+  "opponent": "Chelmsford City",
+  "arena": "Elmbridge Xcel Sports Hub",
+  "city": "Walton-on-Thames, England",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112319",
+  "league": "ENLS",
+  "team": "Chelmsford City",
+  "opponent": "Maidstone United",
+  "arena": "The Dunmow Group Community Stadium",
+  "city": "Chelmsford, England",
+  "date": "2026-11-23T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112420",
+  "league": "ENLS",
+  "team": "Dagenham & Redbridge",
+  "opponent": "Tonbridge Angels",
+  "arena": "Chigwell Construction Stadium",
+  "city": "Dagenham, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112421",
+  "league": "ENLS",
+  "team": "Ebbsfleet United",
+  "opponent": "Billericay Town",
+  "arena": "Stonebridge Road",
+  "city": "Gravesend, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112422",
+  "league": "ENLS",
+  "team": "Farnham Town",
+  "opponent": "Maidenhead United",
+  "arena": "The Memorial Ground",
+  "city": "Farnham, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112423",
+  "league": "ENLS",
+  "team": "Folkestone",
+  "opponent": "Dorking Wanderers",
+  "arena": "",
+  "city": "",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112424",
+  "league": "ENLS",
+  "team": "Hampton & Richmond Borough",
+  "opponent": "Dover Athletic",
+  "arena": "The Cleo Saul Beveree Stadium",
+  "city": "Hampton, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112425",
+  "league": "ENLS",
+  "team": "Hemel Hempstead Town",
+  "opponent": "Braintree Town",
+  "arena": "Vauxhall Road",
+  "city": "Hemel Hempstead, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112426",
+  "league": "ENLS",
+  "team": "Horsham",
+  "opponent": "Truro City",
+  "arena": "The Fusion Aviation Community Stadium",
+  "city": "Horsham, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112427",
+  "league": "ENLS",
+  "team": "Salisbury",
+  "opponent": "AFC Totton",
+  "arena": "The Raymond McEnhill Stadium",
+  "city": "Salisbury, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112428",
+  "league": "ENLS",
+  "team": "Slough Town",
+  "opponent": "Farnborough",
+  "arena": "Arbour Park",
+  "city": "Slough, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112429",
+  "league": "ENLS",
+  "team": "Torquay United",
+  "opponent": "Chesham United",
+  "arena": "Plainmoor",
+  "city": "Torquay, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112430",
+  "league": "ENLS",
+  "team": "Weston-super-Mare",
+  "opponent": "Walton & Hersham",
+  "arena": "The Optima Stadium",
+  "city": "Weston-super-Mare, England",
+  "date": "2026-11-24T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026112831",
+  "league": "ENLS",
+  "team": "Billericay Town",
+  "opponent": "Horsham",
+  "arena": "New Lodge",
+  "city": "Billericy, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112832",
+  "league": "ENLS",
+  "team": "Braintree Town",
+  "opponent": "AFC Totton",
+  "arena": "Cressing Road",
+  "city": "Braintree, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112833",
+  "league": "ENLS",
+  "team": "Dorking Wanderers",
+  "opponent": "Farnborough",
+  "arena": "Meadowbank Stadium",
+  "city": "Dorking, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112834",
+  "league": "ENLS",
+  "team": "Farnham Town",
+  "opponent": "Ebbsfleet United",
+  "arena": "The Memorial Ground",
+  "city": "Farnham, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112835",
+  "league": "ENLS",
+  "team": "Folkestone",
+  "opponent": "Hampton & Richmond Borough",
+  "arena": "",
+  "city": "",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112836",
+  "league": "ENLS",
+  "team": "Hemel Hempstead Town",
+  "opponent": "Walton & Hersham",
+  "arena": "Vauxhall Road",
+  "city": "Hemel Hempstead, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112837",
+  "league": "ENLS",
+  "team": "Maidstone United",
+  "opponent": "Chesham United",
+  "arena": "Gallagher Stadium",
+  "city": "Maidstone, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112838",
+  "league": "ENLS",
+  "team": "Salisbury",
+  "opponent": "Dagenham & Redbridge",
+  "arena": "The Raymond McEnhill Stadium",
+  "city": "Salisbury, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112839",
+  "league": "ENLS",
+  "team": "Slough Town",
+  "opponent": "Tonbridge Angels",
+  "arena": "Arbour Park",
+  "city": "Slough, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112840",
+  "league": "ENLS",
+  "team": "Torquay United",
+  "opponent": "Chelmsford City",
+  "arena": "Plainmoor",
+  "city": "Torquay, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112841",
+  "league": "ENLS",
+  "team": "Truro City",
+  "opponent": "Dover Athletic",
+  "arena": "Truro City Stadium",
+  "city": "Truro, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026112842",
+  "league": "ENLS",
+  "team": "Weston-super-Mare",
+  "opponent": "Maidenhead United",
+  "arena": "The Optima Stadium",
+  "city": "Weston-super-Mare, England",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120101",
+  "league": "ENLS",
+  "team": "Walton & Hersham",
+  "opponent": "Dover Athletic",
+  "arena": "Elmbridge Xcel Sports Hub",
+  "city": "Walton-on-Thames, England",
+  "date": "2026-12-01T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120502",
+  "league": "ENLS",
+  "team": "AFC Totton",
+  "opponent": "Maidstone United",
+  "arena": "Testwood Stadium",
+  "city": "Southampton, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120503",
+  "league": "ENLS",
+  "team": "Chelmsford City",
+  "opponent": "Slough Town",
+  "arena": "The Dunmow Group Community Stadium",
+  "city": "Chelmsford, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120504",
+  "league": "ENLS",
+  "team": "Chesham United",
+  "opponent": "Salisbury",
+  "arena": "The Meadow",
+  "city": "Chesham, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120505",
+  "league": "ENLS",
+  "team": "Dagenham & Redbridge",
+  "opponent": "Folkestone",
+  "arena": "Chigwell Construction Stadium",
+  "city": "Dagenham, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120506",
+  "league": "ENLS",
+  "team": "Dover Athletic",
+  "opponent": "Hemel Hempstead Town",
+  "arena": "Crabble",
+  "city": "Dover, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120507",
+  "league": "ENLS",
+  "team": "Ebbsfleet United",
+  "opponent": "Torquay United",
+  "arena": "Stonebridge Road",
+  "city": "Gravesend, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120508",
+  "league": "ENLS",
+  "team": "Farnborough",
+  "opponent": "Truro City",
+  "arena": "Saunders Transport Community Stadium",
+  "city": "Farnborough, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120509",
+  "league": "ENLS",
+  "team": "Hampton & Richmond Borough",
+  "opponent": "Farnham Town",
+  "arena": "The Cleo Saul Beveree Stadium",
+  "city": "Hampton, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120510",
+  "league": "ENLS",
+  "team": "Horsham",
+  "opponent": "Weston-super-Mare",
+  "arena": "The Fusion Aviation Community Stadium",
+  "city": "Horsham, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120511",
+  "league": "ENLS",
+  "team": "Maidenhead United",
+  "opponent": "Braintree Town",
+  "arena": "York Road",
+  "city": "Maidenhead, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120512",
+  "league": "ENLS",
+  "team": "Tonbridge Angels",
+  "opponent": "Dorking Wanderers",
+  "arena": "Longmead Stadium",
+  "city": "Tonbridge, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120513",
+  "league": "ENLS",
+  "team": "Walton & Hersham",
+  "opponent": "Billericay Town",
+  "arena": "Elmbridge Xcel Sports Hub",
+  "city": "Walton-on-Thames, England",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026120714",
+  "league": "ENLS",
+  "team": "Chelmsford City",
+  "opponent": "Hemel Hempstead Town",
+  "arena": "The Dunmow Group Community Stadium",
+  "city": "Chelmsford, England",
+  "date": "2026-12-07T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120815",
+  "league": "ENLS",
+  "team": "AFC Totton",
+  "opponent": "Farnham Town",
+  "arena": "Testwood Stadium",
+  "city": "Southampton, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120816",
+  "league": "ENLS",
+  "team": "Chesham United",
+  "opponent": "Weston-super-Mare",
+  "arena": "The Meadow",
+  "city": "Chesham, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120817",
+  "league": "ENLS",
+  "team": "Dagenham & Redbridge",
+  "opponent": "Dorking Wanderers",
+  "arena": "Chigwell Construction Stadium",
+  "city": "Dagenham, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120818",
+  "league": "ENLS",
+  "team": "Dover Athletic",
+  "opponent": "Billericay Town",
+  "arena": "Crabble",
+  "city": "Dover, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120819",
+  "league": "ENLS",
+  "team": "Ebbsfleet United",
+  "opponent": "Slough Town",
+  "arena": "Stonebridge Road",
+  "city": "Gravesend, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120820",
+  "league": "ENLS",
+  "team": "Hampton & Richmond Borough",
+  "opponent": "Salisbury",
+  "arena": "The Cleo Saul Beveree Stadium",
+  "city": "Hampton, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120821",
+  "league": "ENLS",
+  "team": "Horsham",
+  "opponent": "Torquay United",
+  "arena": "The Fusion Aviation Community Stadium",
+  "city": "Horsham, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120822",
+  "league": "ENLS",
+  "team": "Maidenhead United",
+  "opponent": "Truro City",
+  "arena": "York Road",
+  "city": "Maidenhead, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120823",
+  "league": "ENLS",
+  "team": "Tonbridge Angels",
+  "opponent": "Braintree Town",
+  "arena": "Longmead Stadium",
+  "city": "Tonbridge, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120824",
+  "league": "ENLS",
+  "team": "Walton & Hersham",
+  "opponent": "Folkestone",
+  "arena": "Elmbridge Xcel Sports Hub",
+  "city": "Walton-on-Thames, England",
+  "date": "2026-12-08T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026120925",
+  "league": "ENLS",
+  "team": "Farnborough",
+  "opponent": "Maidstone United",
+  "arena": "Saunders Transport Community Stadium",
+  "city": "Farnborough, England",
+  "date": "2026-12-09T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026121526",
+  "league": "ENLS",
+  "team": "Salisbury",
+  "opponent": "Dorking Wanderers",
+  "arena": "The Raymond McEnhill Stadium",
+  "city": "Salisbury, England",
+  "date": "2026-12-15T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026121527",
+  "league": "ENLS",
+  "team": "Weston-super-Mare",
+  "opponent": "Billericay Town",
+  "arena": "The Optima Stadium",
+  "city": "Weston-super-Mare, England",
+  "date": "2026-12-15T19:45:00Z"
+},
+
+{
+  "id": "ENLS_2026121928",
+  "league": "ENLS",
+  "team": "Billericay Town",
+  "opponent": "AFC Totton",
+  "arena": "New Lodge",
+  "city": "Billericy, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121929",
+  "league": "ENLS",
+  "team": "Chesham United",
+  "opponent": "Braintree Town",
+  "arena": "The Meadow",
+  "city": "Chesham, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121930",
+  "league": "ENLS",
+  "team": "Dorking Wanderers",
+  "opponent": "Maidenhead United",
+  "arena": "Meadowbank Stadium",
+  "city": "Dorking, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121931",
+  "league": "ENLS",
+  "team": "Farnham Town",
+  "opponent": "Dagenham & Redbridge",
+  "arena": "The Memorial Ground",
+  "city": "Farnham, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121932",
+  "league": "ENLS",
+  "team": "Folkestone",
+  "opponent": "Ebbsfleet United",
+  "arena": "",
+  "city": "",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121933",
+  "league": "ENLS",
+  "team": "Hampton & Richmond Borough",
+  "opponent": "Weston-super-Mare",
+  "arena": "The Cleo Saul Beveree Stadium",
+  "city": "Hampton, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121934",
+  "league": "ENLS",
+  "team": "Hemel Hempstead Town",
+  "opponent": "Farnborough",
+  "arena": "Vauxhall Road",
+  "city": "Hemel Hempstead, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121935",
+  "league": "ENLS",
+  "team": "Maidstone United",
+  "opponent": "Walton & Hersham",
+  "arena": "Gallagher Stadium",
+  "city": "Maidstone, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121936",
+  "league": "ENLS",
+  "team": "Salisbury",
+  "opponent": "Horsham",
+  "arena": "The Raymond McEnhill Stadium",
+  "city": "Salisbury, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121937",
+  "league": "ENLS",
+  "team": "Slough Town",
+  "opponent": "Dover Athletic",
+  "arena": "Arbour Park",
+  "city": "Slough, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121938",
+  "league": "ENLS",
+  "team": "Torquay United",
+  "opponent": "Tonbridge Angels",
+  "arena": "Plainmoor",
+  "city": "Torquay, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026121939",
+  "league": "ENLS",
+  "team": "Truro City",
+  "opponent": "Chelmsford City",
+  "arena": "Truro City Stadium",
+  "city": "Truro, England",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122640",
+  "league": "ENLS",
+  "team": "Chelmsford City",
+  "opponent": "Braintree Town",
+  "arena": "The Dunmow Group Community Stadium",
+  "city": "Chelmsford, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122641",
+  "league": "ENLS",
+  "team": "Dorking Wanderers",
+  "opponent": "Horsham",
+  "arena": "Meadowbank Stadium",
+  "city": "Dorking, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122642",
+  "league": "ENLS",
+  "team": "Ebbsfleet United",
+  "opponent": "Dagenham & Redbridge",
+  "arena": "Stonebridge Road",
+  "city": "Gravesend, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122643",
+  "league": "ENLS",
+  "team": "Farnborough",
+  "opponent": "Farnham Town",
+  "arena": "Saunders Transport Community Stadium",
+  "city": "Farnborough, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122644",
+  "league": "ENLS",
+  "team": "Folkestone",
+  "opponent": "Dover Athletic",
+  "arena": "",
+  "city": "",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122645",
+  "league": "ENLS",
+  "team": "Hemel Hempstead Town",
+  "opponent": "Chesham United",
+  "arena": "Vauxhall Road",
+  "city": "Hemel Hempstead, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122646",
+  "league": "ENLS",
+  "team": "Maidstone United",
+  "opponent": "Billericay Town",
+  "arena": "Gallagher Stadium",
+  "city": "Maidstone, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122647",
+  "league": "ENLS",
+  "team": "Salisbury",
+  "opponent": "Weston-super-Mare",
+  "arena": "The Raymond McEnhill Stadium",
+  "city": "Salisbury, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122648",
+  "league": "ENLS",
+  "team": "Slough Town",
+  "opponent": "Maidenhead United",
+  "arena": "Arbour Park",
+  "city": "Slough, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122649",
+  "league": "ENLS",
+  "team": "Tonbridge Angels",
+  "opponent": "AFC Totton",
+  "arena": "Longmead Stadium",
+  "city": "Tonbridge, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122650",
+  "league": "ENLS",
+  "team": "Truro City",
+  "opponent": "Torquay United",
+  "arena": "Truro City Stadium",
+  "city": "Truro, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122651",
+  "league": "ENLS",
+  "team": "Walton & Hersham",
+  "opponent": "Hampton & Richmond Borough",
+  "arena": "Elmbridge Xcel Sports Hub",
+  "city": "Walton-on-Thames, England",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122852",
+  "league": "ENLS",
+  "team": "AFC Totton",
+  "opponent": "Farnborough",
+  "arena": "Testwood Stadium",
+  "city": "Southampton, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122853",
+  "league": "ENLS",
+  "team": "Billericay Town",
+  "opponent": "Chelmsford City",
+  "arena": "New Lodge",
+  "city": "Billericy, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122854",
+  "league": "ENLS",
+  "team": "Braintree Town",
+  "opponent": "Folkestone",
+  "arena": "Cressing Road",
+  "city": "Braintree, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122855",
+  "league": "ENLS",
+  "team": "Chesham United",
+  "opponent": "Slough Town",
+  "arena": "The Meadow",
+  "city": "Chesham, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122856",
+  "league": "ENLS",
+  "team": "Dagenham & Redbridge",
+  "opponent": "Maidstone United",
+  "arena": "Chigwell Construction Stadium",
+  "city": "Dagenham, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122857",
+  "league": "ENLS",
+  "team": "Dover Athletic",
+  "opponent": "Ebbsfleet United",
+  "arena": "Crabble",
+  "city": "Dover, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122858",
+  "league": "ENLS",
+  "team": "Farnham Town",
+  "opponent": "Dorking Wanderers",
+  "arena": "The Memorial Ground",
+  "city": "Farnham, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122859",
+  "league": "ENLS",
+  "team": "Hampton & Richmond Borough",
+  "opponent": "Hemel Hempstead Town",
+  "arena": "The Cleo Saul Beveree Stadium",
+  "city": "Hampton, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122860",
+  "league": "ENLS",
+  "team": "Horsham",
+  "opponent": "Tonbridge Angels",
+  "arena": "The Fusion Aviation Community Stadium",
+  "city": "Horsham, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122861",
+  "league": "ENLS",
+  "team": "Maidenhead United",
+  "opponent": "Walton & Hersham",
+  "arena": "York Road",
+  "city": "Maidenhead, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122862",
+  "league": "ENLS",
+  "team": "Torquay United",
+  "opponent": "Salisbury",
+  "arena": "Plainmoor",
+  "city": "Torquay, England",
+  "date": "2026-12-28T15:00:00Z"
+},
+
+{
+  "id": "ENLS_2026122863",
+  "league": "ENLS",
+  "team": "Weston-super-Mare",
+  "opponent": "Truro City",
+  "arena": "The Optima Stadium",
+  "city": "Weston-super-Mare, England",
+  "date": "2026-12-28T15:00:00Z"
+}  
 ]
