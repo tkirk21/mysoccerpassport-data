@@ -5676,6 +5676,7 @@
     "latitude": 48.79226335726744, 
     "longitude": 9.232014343069029,
     "colorCode": "#FFFFFF",
+	"colorCode2": "#FF0000",  
     "league": "BL",
     "capacity": 60058,
 	  "startDate": "2020-07-01",
