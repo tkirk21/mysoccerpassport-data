@@ -574,6 +574,39 @@
   },
 
 
+
+
+
+   {
+    "currentArena": "CEPAC Vélodrome",
+    "teamName": "Marseille",
+    "league": "L1",
+    "history": [
+      { "name": "Stade Vélodrome", "from": "2002-07-01", "to": "2016-06-30" },
+      { "name": "Orange Vélodrome", "from": "2016-07-01", "to": "2026-06-30" },
+      { "name": "CEPAC Vélodrome", "from": "2026-07-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Roazhon Park",
+    "teamName": "Stade Rennais",
+    "league": "L1",
+    "history": [
+      { "name": "Stade de la Route de Lorient", "from": "2002-07-01", "to": "2015-06-30" },
+      { "name": "Roazhon Park", "from": "2015-07-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Stadium de Toulouse",
+    "teamName": "Stade Rennais",
+    "league": "L1",
+    "history": [
+      { "name": "Stadium Municipal", "from": "2003-07-01", "to": "2005-06-30" },
+      { "name": "Stadium de Toulouse", "from": "2005-07-01", "to": "2020-06-30" }
+    ]
+  },	
+
+
 	
 
 
