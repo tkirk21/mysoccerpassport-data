@@ -37333,7 +37333,7 @@
 
 
 
-  
+  {
     "teamName": "Angers",
     "teamCode": "ANG",
     "arena": "Stade Raymond Kopa",
@@ -37355,7 +37355,6 @@
     "teamCode": "ANG",
     "arenaId": "stade_raymond_kopa_angers",
     "city": "Angers, France",
-    "city": "Abgers, France",
     "address": "Bd Pierre de Coubertin, 49000 Angers, France",
     "website": "angers-sco.fr",
     "latitude": 47.46043471622446,   
@@ -37389,7 +37388,6 @@
     "teamCode": "ANG",
     "arenaId": "stade_raymond_kopa_angers",
     "city": "Angers, France",
-    "city": "Abgers, France",
     "address": "Bd Pierre de Coubertin, 49000 Angers, France",
     "website": "angers-sco.fr",
     "latitude": 47.46043471622446,   
@@ -41090,7 +41088,7 @@
     "capacity": 20400,
     "startDate": "1996-07-01",
     "endDate": "1999-06-30"
-  }	
+  },
 
 
 
