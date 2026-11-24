@@ -1,3 +1,360 @@
 [
+  {
+  "id": "BL_2026112719",
+  "league": "BL",
+  "team": "Werder Bremen",
+  "opponent": "Borussia Mönchengladbach",
+  "arena": "Weserstadion",
+  "city": "Bremen, Germany",
+  "date": "2026-11-27T19:30Z"
+},
 
+{
+  "id": "BL_2026112820",
+  "league": "BL",
+  "team": "1. FC Köln",
+  "opponent": "SV Elversberg",
+  "arena": "RheinEnergieStadion",
+  "city": "Cologne, Germany",
+  "date": "2026-11-28T14:30Z"
+},
+
+{
+  "id": "BL_2026112821",
+  "league": "BL",
+  "team": "Hamburger SV",
+  "opponent": "Bayern Munich",
+  "arena": "Volksparkstadion",
+  "city": "Altona, Germany",
+  "date": "2026-11-28T14:30Z"
+},
+
+{
+  "id": "BL_2026112822",
+  "league": "BL",
+  "team": "Mainz 05",
+  "opponent": "1. FC Union Berlin",
+  "arena": "MEWA Arena",
+  "city": "Mainz, Germany",
+  "date": "2026-11-28T14:30Z"
+},
+
+{
+  "id": "BL_2026112823",
+  "league": "BL",
+  "team": "SC Paderborn 07",
+  "opponent": "Schalke 04",
+  "arena": "Home Deluxe Arena",
+  "city": "Paderborn, Germany",
+  "date": "2026-11-28T14:30Z"
+},
+
+{
+  "id": "BL_2026112824",
+  "league": "BL",
+  "team": "VfB Stuttgart",
+  "opponent": "Eintracht Frankfurt",
+  "arena": "MHPArena",
+  "city": "Stuttgart, Germany",
+  "date": "2026-11-28T17:30Z"
+},
+
+{
+  "id": "BL_2026112925",
+  "league": "BL",
+  "team": "Freiburg",
+  "opponent": "RB Leipzig",
+  "arena": "Europa-Park Stadion",
+  "city": "Freiburg im Breisgau, Germany",
+  "date": "2026-11-29T14:30Z"
+},
+
+{
+  "id": "BL_2026112926",
+  "league": "BL",
+  "team": "TSG Hoffenheim",
+  "opponent": "FC Augsburg",
+  "arena": "SNP Arena",
+  "city": "Sinsheim, Germany",
+  "date": "2026-11-29T16:30Z"
+},
+
+{
+  "id": "BL_2026112927",
+  "league": "BL",
+  "team": "Borussia Dortmund",
+  "opponent": "Bayer Leverkusen",
+  "arena": "Signal Iduna Park",
+  "city": "Dortmund, Germany",
+  "date": "2026-11-29T18:30Z"
+},
+  {
+  "id": "BL_2026120401",
+  "league": "BL",
+  "team": "Bayern Munich",
+  "opponent": "SC Paderborn 07",
+  "arena": "Allianz Arena",
+  "city": "Munich, Germany",
+  "date": "2026-12-04T19:30Z"
+},
+
+{
+  "id": "BL_2026120502",
+  "league": "BL",
+  "team": "Union Berlin",
+  "opponent": "Hamburger SV",
+  "arena": "Stadion An der Alten Försterei",
+  "city": "Berlin, Germany",
+  "date": "2026-12-05T14:30Z"
+},
+
+{
+  "id": "BL_2026120503",
+  "league": "BL",
+  "team": "Bayer Leverkusen",
+  "opponent": "Borussia Mönchengladbach",
+  "arena": "BayArena",
+  "city": "Leverkusen, Germany",
+  "date": "2026-12-05T14:30Z"
+},
+
+{
+  "id": "BL_2026120504",
+  "league": "BL",
+  "team": "FC Augsburg",
+  "opponent": "1. FC Köln",
+  "arena": "WWK Arena",
+  "city": "Augsburg, Germany",
+  "date": "2026-12-05T14:30Z"
+},
+
+{
+  "id": "BL_2026120505",
+  "league": "BL",
+  "team": "RB Leipzig",
+  "opponent": "Mainz 05",
+  "arena": "Red Bull Arena",
+  "city": "Leipzig, Germany",
+  "date": "2026-12-05T14:30Z"
+},
+
+{
+  "id": "BL_2026120506",
+  "league": "BL",
+  "team": "Freiburg",
+  "opponent": "TSG Hoffenheim",
+  "arena": "Europa-Park Stadion",
+  "city": "Freiburg im Breisgau, Germany",
+  "date": "2026-12-05T14:30Z"
+},
+
+{
+  "id": "BL_2026120507",
+  "league": "BL",
+  "team": "Eintracht Frankfurt",
+  "opponent": "Werder Bremen",
+  "arena": "Deutsche Bank Park",
+  "city": "Frankfurt am Main, Germany",
+  "date": "2026-12-05T17:30Z"
+},
+
+{
+  "id": "BL_2026120608",
+  "league": "BL",
+  "team": "Schalke 04",
+  "opponent": "Borussia Dortmund",
+  "arena": "Veltins Arena",
+  "city": "Gelsenkirchen, Germany",
+  "date": "2026-12-06T14:30Z"
+},
+
+{
+  "id": "BL_2026120609",
+  "league": "BL",
+  "team": "SV Elversberg",
+  "opponent": "VfB Stuttgart",
+  "arena": "Ursapharm-Arena",
+  "city": "Spiesen-Elversberg, Germany",
+  "date": "2026-12-06T16:30Z"
+},
+
+{
+  "id": "BL_2026121110",
+  "league": "BL",
+  "team": "Hamburger SV",
+  "opponent": "Schalke 04",
+  "arena": "Volksparkstadion",
+  "city": "Altona, Germany",
+  "date": "2026-12-11T19:30Z"
+},
+
+{
+  "id": "BL_2026121211",
+  "league": "BL",
+  "team": "Borussia Dortmund",
+  "opponent": "FC Augsburg",
+  "arena": "Signal Iduna Park",
+  "city": "Dortmund, Germany",
+  "date": "2026-12-12T14:30Z"
+},
+
+{
+  "id": "BL_2026121212",
+  "league": "BL",
+  "team": "1. FC Köln",
+  "opponent": "RB Leipzig",
+  "arena": "RheinEnergieStadion",
+  "city": "Cologne, Germany",
+  "date": "2026-12-12T14:30Z"
+},
+
+{
+  "id": "BL_2026121213",
+  "league": "BL",
+  "team": "SC Paderborn 07",
+  "opponent": "SV Elversberg",
+  "arena": "Home Deluxe Arena",
+  "city": "Paderborn, Germany",
+  "date": "2026-12-12T14:30Z"
+},
+
+{
+  "id": "BL_2026121214",
+  "league": "BL",
+  "team": "VfB Stuttgart",
+  "opponent": "Union Berlin",
+  "arena": "MHPArena",
+  "city": "Stuttgart, Germany",
+  "date": "2026-12-12T14:30Z"
+},
+
+{
+  "id": "BL_2026121215",
+  "league": "BL",
+  "team": "Borussia Mönchengladbach",
+  "opponent": "Eintracht Frankfurt",
+  "arena": "Borussia Park",
+  "city": "Mönchengladbach, Germany",
+  "date": "2026-12-12T17:30Z"
+},
+
+{
+  "id": "BL_2026121316",
+  "league": "BL",
+  "team": "Mainz 05",
+  "opponent": "Freiburg",
+  "arena": "MEWA Arena",
+  "city": "Mainz, Germany",
+  "date": "2026-12-13T14:30Z"
+},
+
+{
+  "id": "BL_2026121317",
+  "league": "BL",
+  "team": "TSG Hoffenheim",
+  "opponent": "Bayern Munich",
+  "arena": "SNP Arena",
+  "city": "Sinsheim, Germany",
+  "date": "2026-12-13T16:30Z"
+},
+
+{
+  "id": "BL_2026121318",
+  "league": "BL",
+  "team": "Werder Bremen",
+  "opponent": "Bayer Leverkusen",
+  "arena": "Weserstadion",
+  "city": "Bremen, Germany",
+  "date": "2026-12-13T18:30Z"
+},
+
+{
+  "id": "BL_2026121819",
+  "league": "BL",
+  "team": "Bayern Munich",
+  "opponent": "Werder Bremen",
+  "arena": "Allianz Arena",
+  "city": "Munich, Germany",
+  "date": "2026-12-18T19:30Z"
+},
+
+{
+  "id": "BL_2026121920",
+  "league": "BL",
+  "team": "Bayer Leverkusen",
+  "opponent": "Eintracht Frankfurt",
+  "arena": "BayArena",
+  "city": "Leverkusen, Germany",
+  "date": "2026-12-19T14:30Z"
+},
+
+{
+  "id": "BL_2026121921",
+  "league": "BL",
+  "team": "FC Augsburg",
+  "opponent": "SC Paderborn 07",
+  "arena": "WWK Arena",
+  "city": "Augsburg, Germany",
+  "date": "2026-12-19T14:30Z"
+},
+
+{
+  "id": "BL_2026121922",
+  "league": "BL",
+  "team": "Mainz 05",
+  "opponent": "1. FC Köln",
+  "arena": "MEWA Arena",
+  "city": "Mainz, Germany",
+  "date": "2026-12-19T14:30Z"
+},
+
+{
+  "id": "BL_2026121923",
+  "league": "BL",
+  "team": "SV Elversberg",
+  "opponent": "Hamburger SV",
+  "arena": "Ursapharm-Arena",
+  "city": "Spiesen-Elversberg, Germany",
+  "date": "2026-12-19T14:30Z"
+},
+
+{
+  "id": "BL_2026121924",
+  "league": "BL",
+  "team": "RB Leipzig",
+  "opponent": "Borussia Dortmund",
+  "arena": "Red Bull Arena",
+  "city": "Leipzig, Germany",
+  "date": "2026-12-19T17:30Z"
+},
+
+{
+  "id": "BL_2026122025",
+  "league": "BL",
+  "team": "Freiburg",
+  "opponent": "VfB Stuttgart",
+  "arena": "Europa-Park Stadion",
+  "city": "Freiburg im Breisgau, Germany",
+  "date": "2026-12-20T14:30Z"
+},
+
+{
+  "id": "BL_2026122026",
+  "league": "BL",
+  "team": "Union Berlin",
+  "opponent": "TSG Hoffenheim",
+  "arena": "Stadion An der Alten Försterei",
+  "city": "Berlin, Germany",
+  "date": "2026-12-20T16:30Z"
+},
+
+{
+  "id": "BL_2026122027",
+  "league": "BL",
+  "team": "Schalke 04",
+  "opponent": "Borussia Mönchengladbach",
+  "arena": "Veltins Arena",
+  "city": "Gelsenkirchen, Germany",
+  "date": "2026-12-20T18:30Z"
+}  
 ]
