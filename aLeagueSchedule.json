@@ -1,3 +1,260 @@
 [
-
+  {
+    "id": "alm_2026112714",
+    "league": "ALM",
+    "team": "Macarthur",
+    "opponent": "Melbourne City",
+    "arena": "Campbelltown Sports Stadium",
+    "city": "Leumeah, New South Wales",
+    "date": "2026-11-27T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026112815",
+    "league": "ALM",
+    "team": "Central Coast Mariners",
+    "opponent": "Auckland",
+    "arena": "Polytec Stadium",
+    "city": "Gosford, New South Wales",
+    "date": "2026-11-28T08:40Z"
+  },
+  {
+    "id": "alm_2026120501",
+    "league": "ALM",
+    "team": "Western Sydney Wanderers",
+    "opponent": "Perth Glory",
+    "arena": "CommBank Stadium",
+    "city": "Parramatta, New South Wales",
+    "date": "2026-12-05T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026120602",
+    "league": "ALM",
+    "team": "Wellington Phoenix",
+    "opponent": "Adelaide United",
+    "arena": "Hnry Stadium",
+    "city": "Wellington, New Zealand",
+    "date": "2026-12-06T02:00Z"
+  },
+  
+  {
+    "id": "alm_2026120603",
+    "league": "ALM",
+    "team": "Sydney",
+    "opponent": "Melbourne Victory",
+    "arena": "Allianz Stadium",
+    "city": "Moore Park, New South Wales",
+    "date": "2026-12-06T06:00Z"
+  },
+  
+  {
+    "id": "alm_2026121104",
+    "league": "ALM",
+    "team": "Adelaide United",
+    "opponent": "Macarthur",
+    "arena": "Coopers Stadium",
+    "city": "Hindmarsh, South Australia",
+    "date": "2026-12-11T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026121105",
+    "league": "ALM",
+    "team": "Perth Glory",
+    "opponent": "Melbourne City",
+    "arena": "HBF Park",
+    "city": "Perth, Western Australia",
+    "date": "2026-12-11T10:45Z"
+  },
+  
+  {
+    "id": "alm_2026121206",
+    "league": "ALM",
+    "team": "Auckland",
+    "opponent": "Sydney",
+    "arena": "Go Media Stadium",
+    "city": "Auckland, New Zealand",
+    "date": "2026-12-12T04:00Z"
+  },
+  
+  {
+    "id": "alm_2026121207",
+    "league": "ALM",
+    "team": "Central Coast Mariners",
+    "opponent": "Brisbane Roar",
+    "arena": "Polytec Stadium",
+    "city": "Gosford, New South Wales",
+    "date": "2026-12-12T06:00Z"
+  },
+  
+  {
+    "id": "alm_2026121208",
+    "league": "ALM",
+    "team": "Melbourne Victory",
+    "opponent": "Newcastle Jets",
+    "arena": "AAMI Park",
+    "city": "Melbourne, Victoria",
+    "date": "2026-12-12T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026121309",
+    "league": "ALM",
+    "team": "Western Sydney Wanderers",
+    "opponent": "Wellington Phoenix",
+    "arena": "CommBank Stadium",
+    "city": "Parramatta, New South Wales",
+    "date": "2026-12-13T06:00Z"
+  },
+  
+  {
+    "id": "alm_2026121510",
+    "league": "ALM",
+    "team": "Adelaide United",
+    "opponent": "Brisbane Roar",
+    "arena": "Coopers Stadium",
+    "city": "Hindmarsh, South Australia",
+    "date": "2026-12-15T08:30Z"
+  },
+  
+  {
+    "id": "alm_2026121811",
+    "league": "ALM",
+    "team": "Sydney",
+    "opponent": "Perth Glory",
+    "arena": "Allianz Stadium",
+    "city": "Moore Park, New South Wales",
+    "date": "2026-12-18T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026121912",
+    "league": "ALM",
+    "team": "Wellington Phoenix",
+    "opponent": "Auckland",
+    "arena": "Hnry Stadium",
+    "city": "Wellington, New Zealand",
+    "date": "2026-12-19T04:00Z"
+  },
+  
+  {
+    "id": "alm_2026121913",
+    "league": "ALM",
+    "team": "Brisbane Roar",
+    "opponent": "Western Sydney Wanderers",
+    "arena": "Suncorp Stadium",
+    "city": "Milton, Queensland",
+    "date": "2026-12-19T06:00Z"
+  },
+  
+  {
+    "id": "alm_2026121914",
+    "league": "ALM",
+    "team": "Melbourne City",
+    "opponent": "Melbourne Victory",
+    "arena": "AAMI Park",
+    "city": "Melbourne, Victoria",
+    "date": "2026-12-19T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026122015",
+    "league": "ALM",
+    "team": "Adelaide United",
+    "opponent": "Newcastle Jets",
+    "arena": "Coopers Stadium",
+    "city": "Hindmarsh, South Australia",
+    "date": "2026-12-20T06:00Z"
+  },
+  
+  {
+    "id": "alm_2026122116",
+    "league": "ALM",
+    "team": "Macarthur",
+    "opponent": "Central Coast Mariners",
+    "arena": "Campbelltown Sports Stadium",
+    "city": "Leumeah, New South Wales",
+    "date": "2026-12-21T08:00Z"
+  },
+  
+  {
+    "id": "alm_2026122617",
+    "league": "ALM",
+    "team": "Western Sydney Wanderers",
+    "opponent": "Newcastle Jets",
+    "arena": "CommBank Stadium",
+    "city": "Parramatta, New South Wales",
+    "date": "2026-12-26T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026122718",
+    "league": "ALM",
+    "team": "Melbourne City",
+    "opponent": "Auckland",
+    "arena": "AAMI Park",
+    "city": "Melbourne, Victoria",
+    "date": "2026-12-27T07:00Z"
+  },
+  
+  {
+    "id": "alm_2026122719",
+    "league": "ALM",
+    "team": "Adelaide United",
+    "opponent": "Central Coast Mariners",
+    "arena": "Coopers Stadium",
+    "city": "Hindmarsh, South Australia",
+    "date": "2026-12-27T09:00Z"
+  },
+  
+  {
+    "id": "alm_2026122820",
+    "league": "ALM",
+    "team": "Sydney",
+    "opponent": "Macarthur",
+    "arena": "Allianz Stadium",
+    "city": "Moore Park, New South Wales",
+    "date": "2026-12-28T08:00Z"
+  },
+  
+  {
+    "id": "alm_2026122921",
+    "league": "ALM",
+    "team": "Melbourne Victory",
+    "opponent": "Wellington Phoenix",
+    "arena": "AAMI Park",
+    "city": "Melbourne, Victoria",
+    "date": "2026-12-29T08:00Z"
+  },
+  
+  {
+    "id": "alm_2026123022",
+    "league": "ALM",
+    "team": "Brisbane Roar",
+    "opponent": "Perth Glory",
+    "arena": "Suncorp Stadium",
+    "city": "Milton, Queensland",
+    "date": "2026-12-30T08:40Z"
+  },
+  
+  {
+    "id": "alm_2026123123",
+    "league": "ALM",
+    "team": "Central Coast Mariners",
+    "opponent": "Melbourne City",
+    "arena": "Polytec Stadium",
+    "city": "Gosford, New South Wales",
+    "date": "2026-12-31T08:00Z"
+  },
+  
+  {
+    "id": "alm_2027010124",
+    "league": "ALM",
+    "team": "Auckland",
+    "opponent": "Adelaide United",
+    "arena": "Go Media Stadium",
+    "city": "Auckland, New Zealand",
+    "date": "2027-01-01T04:00Z"
+  }
 ]
