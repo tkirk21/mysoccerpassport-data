@@ -1,3 +1,431 @@
 [
+  {
+  "id": "LL_2026112726",
+  "league": "LL",
+  "team": "Levante",
+  "opponent": "Racing Santander",
+  "arena": "Estadi Ciutat de València",
+  "city": "València, Spain",
+  "date": "2026-11-27T20:00Z"
+},
 
+{
+  "id": "LL_2026112827",
+  "league": "LL",
+  "team": "Real Betis",
+  "opponent": "Rayo Vallecano",
+  "arena": "Estadio de La Cartuja",
+  "city": "Sevilla, Spain",
+  "date": "2026-11-28T13:00Z"
+},
+
+{
+  "id": "LL_2026112828",
+  "league": "LL",
+  "team": "Málaga",
+  "opponent": "Athletic Bilbao",
+  "arena": "La Rosaleda",
+  "city": "Málaga, Spain",
+  "date": "2026-11-28T15:15Z"
+},
+
+{
+  "id": "LL_2026112829",
+  "league": "LL",
+  "team": "Elche",
+  "opponent": "Atlético Madrid",
+  "arena": "Estadio Martínez Valero",
+  "city": "Alicante, Spain",
+  "date": "2026-11-28T17:30Z"
+},
+
+{
+  "id": "LL_2026112830",
+  "league": "LL",
+  "team": "Real Madrid",
+  "opponent": "Alavés",
+  "arena": "Bernabéu",
+  "city": "Madrid, Spain",
+  "date": "2026-11-28T20:00Z"
+},
+
+{
+  "id": "LL_2026112931",
+  "league": "LL",
+  "team": "Valencia",
+  "opponent": "Osasuna",
+  "arena": "Mestalla",
+  "city": "Valencia, Spain",
+  "date": "2026-11-29T13:00Z"
+},
+
+{
+  "id": "LL_2026112932",
+  "league": "LL",
+  "team": "Deportivo La Coruña",
+  "opponent": "Barcelona",
+  "arena": "Abanca-Riazor",
+  "city": "A Coruña, Spain",
+  "date": "2026-11-29T15:15Z"
+},
+
+{
+  "id": "LL_2026112933",
+  "league": "LL",
+  "team": "Celta Vigo",
+  "opponent": "Villarreal",
+  "arena": "Balaídos",
+  "city": "Vigo, Spain",
+  "date": "2026-11-29T17:30Z"
+},
+
+{
+  "id": "LL_2026112934",
+  "league": "LL",
+  "team": "Real Sociedad",
+  "opponent": "Sevilla",
+  "arena": "Anoeta Stadium",
+  "city": "Donostia / San Sebastián, Spain",
+  "date": "2026-11-29T20:00Z"
+},
+
+{
+  "id": "LL_2026113035",
+  "league": "LL",
+  "team": "Espanyol",
+  "opponent": "Getafe",
+  "arena": "RCDE Stadium",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2026-11-30T20:00Z"
+},
+  {
+  "id": "LL_2026120201",
+  "league": "LL",
+  "team": "Real Sociedad",
+  "opponent": "Real Madrid",
+  "arena": "Anoeta Stadium",
+  "city": "Donostia / San Sebastián, Spain",
+  "date": "2026-12-02T18:00Z"
+},
+
+{
+  "id": "LL_2026120202",
+  "league": "LL",
+  "team": "Barcelona",
+  "opponent": "Atlético Madrid",
+  "arena": "Spotify Camp Nou",
+  "city": "Barcelona, Spain",
+  "date": "2026-12-02T20:30Z"
+},
+
+{
+  "id": "LL_2026120403",
+  "league": "LL",
+  "team": "Alavés",
+  "opponent": "Espanyol",
+  "arena": "Mendizorroza",
+  "city": "Vitoria-Gasteiz, Spain",
+  "date": "2026-12-04T20:00Z"
+},
+
+{
+  "id": "LL_2026120504",
+  "league": "LL",
+  "team": "Racing Santander",
+  "opponent": "Deportivo La Coruña",
+  "arena": "El Sardinero",
+  "city": "Santander, Spain",
+  "date": "2026-12-05T13:00Z"
+},
+
+{
+  "id": "LL_2026120505",
+  "league": "LL",
+  "team": "Rayo Vallecano",
+  "opponent": "Levante",
+  "arena": "Ontime Butarque",
+  "city": "Madrid, Spain",
+  "date": "2026-12-05T15:15Z"
+},
+
+{
+  "id": "LL_2026120506",
+  "league": "LL",
+  "team": "Villarreal",
+  "opponent": "Real Sociedad",
+  "arena": "Estadio de la Cerámica",
+  "city": "Castelló, Spain",
+  "date": "2026-12-05T17:30Z"
+},
+
+{
+  "id": "LL_2026120507",
+  "league": "LL",
+  "team": "Barcelona",
+  "opponent": "Celta Vigo",
+  "arena": "Spotify Camp Nou",
+  "city": "Barcelona, Spain",
+  "date": "2026-12-05T20:00Z"
+},
+
+{
+  "id": "LL_2026120608",
+  "league": "LL",
+  "team": "Osasuna",
+  "opponent": "Elche",
+  "arena": "Estadio El Sadar",
+  "city": "Pamplona, Spain",
+  "date": "2026-12-06T13:00Z"
+},
+
+{
+  "id": "LL_2026120609",
+  "league": "LL",
+  "team": "Athletic Bilbao",
+  "opponent": "Real Madrid",
+  "arena": "Estadio San Mamés",
+  "city": "Bilbao, Spain",
+  "date": "2026-12-06T15:15Z"
+},
+
+{
+  "id": "LL_2026120610",
+  "league": "LL",
+  "team": "Getafe",
+  "opponent": "Valencia",
+  "arena": "Estadio Coliseum",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2026-12-06T17:30Z"
+},
+
+{
+  "id": "LL_2026120611",
+  "league": "LL",
+  "team": "Atlético Madrid",
+  "opponent": "Real Betis",
+  "arena": "Riyadh Air Metropolitano",
+  "city": "Madrid, Spain",
+  "date": "2026-12-06T20:00Z"
+},
+
+{
+  "id": "LL_2026120712",
+  "league": "LL",
+  "team": "Sevilla",
+  "opponent": "Málaga",
+  "arena": "Estadio Ramón Sánchez-Pizjuán",
+  "city": "Sevilla, Spain",
+  "date": "2026-12-07T20:00Z"
+},
+
+{
+  "id": "LL_2026120913",
+  "league": "LL",
+  "team": "Rayo Vallecano",
+  "opponent": "Athletic Bilbao",
+  "arena": "Ontime Butarque",
+  "city": "Madrid, Spain",
+  "date": "2026-12-09T19:00Z"
+},
+
+{
+  "id": "LL_2026121114",
+  "league": "LL",
+  "team": "Elche",
+  "opponent": "Sevilla",
+  "arena": "Estadio Martínez Valero",
+  "city": "Alicante, Spain",
+  "date": "2026-12-11T20:00Z"
+},
+
+{
+  "id": "LL_2026121215",
+  "league": "LL",
+  "team": "Levante",
+  "opponent": "Alavés",
+  "arena": "Estadi Ciutat de València",
+  "city": "València, Spain",
+  "date": "2026-12-12T13:00Z"
+},
+
+{
+  "id": "LL_2026121216",
+  "league": "LL",
+  "team": "Villarreal",
+  "opponent": "Rayo Vallecano",
+  "arena": "Estadio de la Cerámica",
+  "city": "Castelló, Spain",
+  "date": "2026-12-12T15:15Z"
+},
+
+{
+  "id": "LL_2026121217",
+  "league": "LL",
+  "team": "Málaga",
+  "opponent": "Barcelona",
+  "arena": "La Rosaleda",
+  "city": "Málaga, Spain",
+  "date": "2026-12-12T17:30Z"
+},
+
+{
+  "id": "LL_2026121218",
+  "league": "LL",
+  "team": "Real Betis",
+  "opponent": "Racing Santander",
+  "arena": "Estadio de La Cartuja",
+  "city": "Sevilla, Spain",
+  "date": "2026-12-12T20:00Z"
+},
+
+{
+  "id": "LL_2026121319",
+  "league": "LL",
+  "team": "Atlético Madrid",
+  "opponent": "Valencia",
+  "arena": "Riyadh Air Metropolitano",
+  "city": "Madrid, Spain",
+  "date": "2026-12-13T13:00Z"
+},
+
+{
+  "id": "LL_2026121320",
+  "league": "LL",
+  "team": "Deportivo La Coruña",
+  "opponent": "Athletic Bilbao",
+  "arena": "Abanca-Riazor",
+  "city": "A Coruña, Spain",
+  "date": "2026-12-13T15:15Z"
+},
+
+{
+  "id": "LL_2026121321",
+  "league": "LL",
+  "team": "Real Sociedad",
+  "opponent": "Getafe",
+  "arena": "Anoeta Stadium",
+  "city": "Donostia / San Sebastián, Spain",
+  "date": "2026-12-13T17:30Z"
+},
+
+{
+  "id": "LL_2026121322",
+  "league": "LL",
+  "team": "Real Madrid",
+  "opponent": "Osasuna",
+  "arena": "Bernabéu",
+  "city": "Madrid, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "LL_2026121423",
+  "league": "LL",
+  "team": "Espanyol",
+  "opponent": "Celta Vigo",
+  "arena": "RCDE Stadium",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2026-12-14T20:00Z"
+},
+
+{
+  "id": "LL_2026122024",
+  "league": "LL",
+  "team": "Alavés",
+  "opponent": "Elche",
+  "arena": "Mendizorroza",
+  "city": "Vitoria-Gasteiz, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122025",
+  "league": "LL",
+  "team": "Athletic Bilbao",
+  "opponent": "Real Betis",
+  "arena": "Estadio San Mamés",
+  "city": "Bilbao, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122026",
+  "league": "LL",
+  "team": "Barcelona",
+  "opponent": "Real Sociedad",
+  "arena": "Spotify Camp Nou",
+  "city": "Barcelona, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122027",
+  "league": "LL",
+  "team": "Celta Vigo",
+  "opponent": "Atlético Madrid",
+  "arena": "Balaídos",
+  "city": "Vigo, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122028",
+  "league": "LL",
+  "team": "Deportivo La Coruña",
+  "opponent": "Real Madrid",
+  "arena": "Abanca-Riazor",
+  "city": "A Coruña, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122029",
+  "league": "LL",
+  "team": "Getafe",
+  "opponent": "Levante",
+  "arena": "Estadio Coliseum",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122030",
+  "league": "LL",
+  "team": "Osasuna",
+  "opponent": "Villarreal",
+  "arena": "Estadio El Sadar",
+  "city": "Pamplona, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122031",
+  "league": "LL",
+  "team": "Rayo Vallecano",
+  "opponent": "Málaga",
+  "arena": "Ontime Butarque",
+  "city": "Madrid, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122032",
+  "league": "LL",
+  "team": "Sevilla",
+  "opponent": "Racing Santander",
+  "arena": "Estadio Ramón Sánchez-Pizjuán",
+  "city": "Sevilla, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "LL_2026122033",
+  "league": "LL",
+  "team": "Valencia",
+  "opponent": "Espanyol",
+  "arena": "Mestalla",
+  "city": "Valencia, Spain",
+  "date": "2026-12-20T20:00Z"
+}
+  
 ]
