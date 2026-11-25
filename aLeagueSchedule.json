@@ -256,5 +256,294 @@
     "arena": "Go Media Stadium",
     "city": "Auckland, New Zealand",
     "date": "2027-01-01T04:00Z"
-  }
+  },
+  {
+  "id": "alm_2027010101",
+  "league": "ALM",
+  "team": "Western Sydney Wanderers",
+  "opponent": "Macarthur",
+  "arena": "CommBank Stadium",
+  "city": "Parramatta, New South Wales",
+  "date": "2027-01-01T08:00Z"
+},
+
+{
+  "id": "alm_2027010202",
+  "league": "ALM",
+  "team": "Wellington Phoenix",
+  "opponent": "Newcastle Jets",
+  "arena": "Hnry Stadium",
+  "city": "Wellington, New Zealand",
+  "date": "2027-01-02T04:00Z"
+},
+
+{
+  "id": "alm_2027010203",
+  "league": "ALM",
+  "team": "Sydney",
+  "opponent": "Brisbane Roar",
+  "arena": "Allianz Stadium",
+  "city": "Moore Park, New South Wales",
+  "date": "2027-01-02T08:40Z"
+},
+
+{
+  "id": "alm_2027010304",
+  "league": "ALM",
+  "team": "Melbourne Victory",
+  "opponent": "Perth Glory",
+  "arena": "AAMI Park",
+  "city": "Melbourne, Victoria",
+  "date": "2027-01-03T06:00Z"
+},
+
+{
+  "id": "alm_2027010805",
+  "league": "ALM",
+  "team": "Central Coast Mariners",
+  "opponent": "Western Sydney Wanderers",
+  "arena": "Polytec Stadium",
+  "city": "Gosford, New South Wales",
+  "date": "2027-01-08T08:40Z"
+},
+
+{
+  "id": "alm_2027010806",
+  "league": "ALM",
+  "team": "Perth Glory",
+  "opponent": "Macarthur",
+  "arena": "HBF Park",
+  "city": "Perth, Western Australia",
+  "date": "2027-01-08T10:45Z"
+},
+
+{
+  "id": "alm_2027010907",
+  "league": "ALM",
+  "team": "Newcastle Jets",
+  "opponent": "Auckland",
+  "arena": "McDonald Jones Stadium",
+  "city": "Broadmeadow, New South Wales",
+  "date": "2027-01-09T06:00Z"
+},
+
+{
+  "id": "alm_2027010908",
+  "league": "ALM",
+  "team": "Brisbane Roar",
+  "opponent": "Melbourne Victory",
+  "arena": "Suncorp Stadium",
+  "city": "Milton, Queensland",
+  "date": "2027-01-09T07:00Z"
+},
+
+{
+  "id": "alm_2027010909",
+  "league": "ALM",
+  "team": "Adelaide United",
+  "opponent": "Sydney",
+  "arena": "Coopers Stadium",
+  "city": "Hindmarsh, South Australia",
+  "date": "2027-01-09T08:40Z"
+},
+
+{
+  "id": "alm_2027011010",
+  "league": "ALM",
+  "team": "Melbourne City",
+  "opponent": "Wellington Phoenix",
+  "arena": "AAMI Park",
+  "city": "Melbourne, Victoria",
+  "date": "2027-01-10T06:00Z"
+},
+
+{
+  "id": "alm_2027011411",
+  "league": "ALM",
+  "team": "Macarthur",
+  "opponent": "Wellington Phoenix",
+  "arena": "Campbelltown Sports Stadium",
+  "city": "Leumeah, New South Wales",
+  "date": "2027-01-14T08:40Z"
+},
+
+{
+  "id": "alm_2027011512",
+  "league": "ALM",
+  "team": "Melbourne Victory",
+  "opponent": "Auckland",
+  "arena": "AAMI Park",
+  "city": "Melbourne, Victoria",
+  "date": "2027-01-15T08:40Z"
+},
+
+{
+  "id": "alm_2027011613",
+  "league": "ALM",
+  "team": "Melbourne City",
+  "opponent": "Brisbane Roar",
+  "arena": "AAMI Park",
+  "city": "Melbourne, Victoria",
+  "date": "2027-01-16T06:00Z"
+},
+
+{
+  "id": "alm_2027011614",
+  "league": "ALM",
+  "team": "Sydney",
+  "opponent": "Newcastle Jets",
+  "arena": "Allianz Stadium",
+  "city": "Moore Park, New South Wales",
+  "date": "2027-01-16T08:40Z"
+},
+
+{
+  "id": "alm_2027011615",
+  "league": "ALM",
+  "team": "Perth Glory",
+  "opponent": "Central Coast Mariners",
+  "arena": "HBF Park",
+  "city": "Perth, Western Australia",
+  "date": "2027-01-16T10:45Z"
+},
+
+{
+  "id": "alm_2027011716",
+  "league": "ALM",
+  "team": "Adelaide United",
+  "opponent": "Western Sydney Wanderers",
+  "arena": "Coopers Stadium",
+  "city": "Hindmarsh, South Australia",
+  "date": "2027-01-17T06:00Z"
+},
+
+{
+  "id": "alm_2027011917",
+  "league": "ALM",
+  "team": "Newcastle Jets",
+  "opponent": "Melbourne City",
+  "arena": "McDonald Jones Stadium",
+  "city": "Broadmeadow, New South Wales",
+  "date": "2027-01-19T08:00Z"
+},
+
+{
+  "id": "alm_2027012218",
+  "league": "ALM",
+  "team": "Western Sydney Wanderers",
+  "opponent": "Melbourne City",
+  "arena": "CommBank Stadium",
+  "city": "Parramatta, New South Wales",
+  "date": "2027-01-22T08:40Z"
+},
+
+{
+  "id": "alm_2027012319",
+  "league": "ALM",
+  "team": "Brisbane Roar",
+  "opponent": "Wellington Phoenix",
+  "arena": "Suncorp Stadium",
+  "city": "Milton, Queensland",
+  "date": "2027-01-23T06:00Z"
+},
+
+{
+  "id": "alm_2027012320",
+  "league": "ALM",
+  "team": "Newcastle Jets",
+  "opponent": "Central Coast Mariners",
+  "arena": "McDonald Jones Stadium",
+  "city": "Broadmeadow, New South Wales",
+  "date": "2027-01-23T08:40Z"
+},
+
+{
+  "id": "alm_2027012421",
+  "league": "ALM",
+  "team": "Auckland",
+  "opponent": "Perth Glory",
+  "arena": "Go Media Stadium",
+  "city": "Auckland, New Zealand",
+  "date": "2027-01-24T02:00Z"
+},
+
+{
+  "id": "alm_2027012522",
+  "league": "ALM",
+  "team": "Macarthur",
+  "opponent": "Adelaide United",
+  "arena": "Campbelltown Sports Stadium",
+  "city": "Leumeah, New South Wales",
+  "date": "2027-01-25T08:00Z"
+},
+
+{
+  "id": "alm_2027012623",
+  "league": "ALM",
+  "team": "Melbourne Victory",
+  "opponent": "Sydney",
+  "arena": "AAMI Park",
+  "city": "Melbourne, Victoria",
+  "date": "2027-01-26T06:00Z"
+},
+
+{
+  "id": "alm_2027012924",
+  "league": "ALM",
+  "team": "Adelaide United",
+  "opponent": "Melbourne City",
+  "arena": "Coopers Stadium",
+  "city": "Hindmarsh, South Australia",
+  "date": "2027-01-29T08:40Z"
+},
+
+{
+  "id": "alm_2027013025",
+  "league": "ALM",
+  "team": "Wellington Phoenix",
+  "opponent": "Perth Glory",
+  "arena": "Hnry Stadium",
+  "city": "Wellington, New Zealand",
+  "date": "2027-01-30T04:00Z"
+},
+
+{
+  "id": "alm_2027013026",
+  "league": "ALM",
+  "team": "Newcastle Jets",
+  "opponent": "Melbourne Victory",
+  "arena": "McDonald Jones Stadium",
+  "city": "Broadmeadow, New South Wales",
+  "date": "2027-01-30T06:00Z"
+},
+
+{
+  "id": "alm_2027013027",
+  "league": "ALM",
+  "team": "Western Sydney Wanderers",
+  "opponent": "Sydney",
+  "arena": "CommBank Stadium",
+  "city": "Parramatta, New South Wales",
+  "date": "2027-01-30T08:40Z"
+},
+
+{
+  "id": "alm_2027013128",
+  "league": "ALM",
+  "team": "Auckland",
+  "opponent": "Brisbane Roar",
+  "arena": "Go Media Stadium",
+  "city": "Auckland, New Zealand",
+  "date": "2027-01-31T02:00Z"
+},
+
+{
+  "id": "alm_2027013129",
+  "league": "ALM",
+  "team": "Central Coast Mariners",
+  "opponent": "Macarthur",
+  "arena": "Polytec Stadium",
+  "city": "Gosford, New South Wales",
+  "date": "2027-01-31T06:00Z"
+}
 ]
