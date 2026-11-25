@@ -426,6 +426,505 @@
   "arena": "Mestalla",
   "city": "Valencia, Spain",
   "date": "2026-12-20T20:00Z"
-}
+},
+  {
+  "id": "LL_2027010301",
+  "league": "LL",
+  "team": "Celta Vigo",
+  "opponent": "Deportivo La Coruña",
+  "arena": "Balaídos",
+  "city": "Vigo, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010302",
+  "league": "LL",
+  "team": "Espanyol",
+  "opponent": "Barcelona",
+  "arena": "RCDE Stadium",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010303",
+  "league": "LL",
+  "team": "Levante",
+  "opponent": "Valencia",
+  "arena": "Estadi Ciutat de València",
+  "city": "València, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010304",
+  "league": "LL",
+  "team": "Málaga",
+  "opponent": "Elche",
+  "arena": "La Rosaleda",
+  "city": "Málaga, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010305",
+  "league": "LL",
+  "team": "Racing Santander",
+  "opponent": "Athletic Bilbao",
+  "arena": "El Sardinero",
+  "city": "Santander, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010306",
+  "league": "LL",
+  "team": "Rayo Vallecano",
+  "opponent": "Atlético Madrid",
+  "arena": "Ontime Butarque",
+  "city": "Madrid, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010307",
+  "league": "LL",
+  "team": "Real Betis",
+  "opponent": "Alavés",
+  "arena": "Estadio de La Cartuja",
+  "city": "Sevilla, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010308",
+  "league": "LL",
+  "team": "Real Madrid",
+  "opponent": "Getafe",
+  "arena": "Bernabéu",
+  "city": "Madrid, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010309",
+  "league": "LL",
+  "team": "Real Sociedad",
+  "opponent": "Osasuna",
+  "arena": "Anoeta Stadium",
+  "city": "Donostia / San Sebastián, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027010310",
+  "league": "LL",
+  "team": "Villarreal",
+  "opponent": "Sevilla",
+  "arena": "Estadio de la Cerámica",
+  "city": "Castelló, Spain",
+  "date": "2027-01-03T20:00Z"
+},
+
+{
+  "id": "LL_2027011011",
+  "league": "LL",
+  "team": "Alavés",
+  "opponent": "Real Sociedad",
+  "arena": "Mendizorroza",
+  "city": "Vitoria-Gasteiz, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011012",
+  "league": "LL",
+  "team": "Athletic Bilbao",
+  "opponent": "Villarreal",
+  "arena": "Estadio San Mamés",
+  "city": "Bilbao, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011013",
+  "league": "LL",
+  "team": "Atlético Madrid",
+  "opponent": "Racing Santander",
+  "arena": "Riyadh Air Metropolitano",
+  "city": "Madrid, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011014",
+  "league": "LL",
+  "team": "Deportivo La Coruña",
+  "opponent": "Rayo Vallecano",
+  "arena": "Abanca-Riazor",
+  "city": "A Coruña, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011015",
+  "league": "LL",
+  "team": "Elche",
+  "opponent": "Getafe",
+  "arena": "Estadio Martínez Valero",
+  "city": "Alicante, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011016",
+  "league": "LL",
+  "team": "Espanyol",
+  "opponent": "Real Betis",
+  "arena": "RCDE Stadium",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011017",
+  "league": "LL",
+  "team": "Osasuna",
+  "opponent": "Barcelona",
+  "arena": "Estadio El Sadar",
+  "city": "Pamplona, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011018",
+  "league": "LL",
+  "team": "Real Madrid",
+  "opponent": "Levante",
+  "arena": "Bernabéu",
+  "city": "Madrid, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011019",
+  "league": "LL",
+  "team": "Sevilla",
+  "opponent": "Celta Vigo",
+  "arena": "Estadio Ramón Sánchez-Pizjuán",
+  "city": "Sevilla, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011020",
+  "league": "LL",
+  "team": "Valencia",
+  "opponent": "Málaga",
+  "arena": "Mestalla",
+  "city": "Valencia, Spain",
+  "date": "2027-01-10T20:00Z"
+},
+
+{
+  "id": "LL_2027011721",
+  "league": "LL",
+  "team": "Atlético Madrid",
+  "opponent": "Real Sociedad",
+  "arena": "Riyadh Air Metropolitano",
+  "city": "Madrid, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011722",
+  "league": "LL",
+  "team": "Barcelona",
+  "opponent": "Elche",
+  "arena": "Spotify Camp Nou",
+  "city": "Barcelona, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011723",
+  "league": "LL",
+  "team": "Celta Vigo",
+  "opponent": "Valencia",
+  "arena": "Balaídos",
+  "city": "Vigo, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011724",
+  "league": "LL",
+  "team": "Getafe",
+  "opponent": "Athletic Bilbao",
+  "arena": "Estadio Coliseum",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011725",
+  "league": "LL",
+  "team": "Levante",
+  "opponent": "Espanyol",
+  "arena": "Estadi Ciutat de València",
+  "city": "València, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011726",
+  "league": "LL",
+  "team": "Málaga",
+  "opponent": "Real Madrid",
+  "arena": "La Rosaleda",
+  "city": "Málaga, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011727",
+  "league": "LL",
+  "team": "Racing Santander",
+  "opponent": "Osasuna",
+  "arena": "El Sardinero",
+  "city": "Santander, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011728",
+  "league": "LL",
+  "team": "Rayo Vallecano",
+  "opponent": "Sevilla",
+  "arena": "Ontime Butarque",
+  "city": "Madrid, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011729",
+  "league": "LL",
+  "team": "Real Betis",
+  "opponent": "Deportivo La Coruña",
+  "arena": "Estadio de La Cartuja",
+  "city": "Sevilla, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027011730",
+  "league": "LL",
+  "team": "Villarreal",
+  "opponent": "Alavés",
+  "arena": "Estadio de la Cerámica",
+  "city": "Castelló, Spain",
+  "date": "2027-01-17T20:00Z"
+},
+
+{
+  "id": "LL_2027012431",
+  "league": "LL",
+  "team": "Alavés",
+  "opponent": "Barcelona",
+  "arena": "Mendizorroza",
+  "city": "Vitoria-Gasteiz, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012432",
+  "league": "LL",
+  "team": "Athletic Bilbao",
+  "opponent": "Levante",
+  "arena": "Estadio San Mamés",
+  "city": "Bilbao, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012433",
+  "league": "LL",
+  "team": "Deportivo La Coruña",
+  "opponent": "Atlético Madrid",
+  "arena": "Abanca-Riazor",
+  "city": "A Coruña, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012434",
+  "league": "LL",
+  "team": "Elche",
+  "opponent": "Rayo Vallecano",
+  "arena": "Estadio Martínez Valero",
+  "city": "Alicante, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012435",
+  "league": "LL",
+  "team": "Espanyol",
+  "opponent": "Villarreal",
+  "arena": "RCDE Stadium",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012436",
+  "league": "LL",
+  "team": "Getafe",
+  "opponent": "Osasuna",
+  "arena": "Estadio Coliseum",
+  "city": "Cornellà de Llobregat, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012437",
+  "league": "LL",
+  "team": "Racing Santander",
+  "opponent": "Celta Vigo",
+  "arena": "El Sardinero",
+  "city": "Santander, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012438",
+  "league": "LL",
+  "team": "Real Madrid",
+  "opponent": "Real Betis",
+  "arena": "Bernabéu",
+  "city": "Madrid, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012439",
+  "league": "LL",
+  "team": "Real Sociedad",
+  "opponent": "Málaga",
+  "arena": "Anoeta Stadium",
+  "city": "Donostia / San Sebastián, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027012440",
+  "league": "LL",
+  "team": "Valencia",
+  "opponent": "Sevilla",
+  "arena": "Mestalla",
+  "city": "Valencia, Spain",
+  "date": "2027-01-24T20:00Z"
+},
+
+{
+  "id": "LL_2027013141",
+  "league": "LL",
+  "team": "Atlético Madrid",
+  "opponent": "Espanyol",
+  "arena": "Riyadh Air Metropolitano",
+  "city": "Madrid, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013142",
+  "league": "LL",
+  "team": "Barcelona",
+  "opponent": "Valencia",
+  "arena": "Spotify Camp Nou",
+  "city": "Barcelona, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013143",
+  "league": "LL",
+  "team": "Celta Vigo",
+  "opponent": "Getafe",
+  "arena": "Balaídos",
+  "city": "Vigo, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013144",
+  "league": "LL",
+  "team": "Levante",
+  "opponent": "Real Sociedad",
+  "arena": "Estadi Ciutat de València",
+  "city": "València, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013145",
+  "league": "LL",
+  "team": "Málaga",
+  "opponent": "Alavés",
+  "arena": "La Rosaleda",
+  "city": "Málaga, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013146",
+  "league": "LL",
+  "team": "Osasuna",
+  "opponent": "Deportivo La Coruña",
+  "arena": "Estadio El Sadar",
+  "city": "Pamplona, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013147",
+  "league": "LL",
+  "team": "Rayo Vallecano",
+  "opponent": "Real Madrid",
+  "arena": "Ontime Butarque",
+  "city": "Madrid, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013148",
+  "league": "LL",
+  "team": "Real Betis",
+  "opponent": "Elche",
+  "arena": "Estadio de La Cartuja",
+  "city": "Sevilla, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013149",
+  "league": "LL",
+  "team": "Sevilla",
+  "opponent": "Athletic Bilbao",
+  "arena": "Estadio Ramón Sánchez-Pizjuán",
+  "city": "Sevilla, Spain",
+  "date": "2027-01-31T20:00Z"
+},
+
+{
+  "id": "LL_2027013150",
+  "league": "LL",
+  "team": "Villarreal",
+  "opponent": "Racing Santander",
+  "arena": "Estadio de la Cerámica",
+  "city": "Castelló, Spain",
+  "date": "2027-01-31T20:00Z"
+} 
   
 ]
