@@ -1,3 +1,471 @@
 [
+  {
+    "id": "SD_2026112738",
+    "league": "SD",
+    "team": "Leganés",
+    "opponent": "Sabadell",
+    "arena": "Estadio Ontime Butarque",
+    "city": "v",
+    "date": "2026-11-27T19:30Z"
+  },
+  
+  {
+    "id": "SD_2026112839",
+    "league": "SD",
+    "team": "Las Palmas",
+    "opponent": "Andorra",
+    "arena": "Estadio de Gran Canaria",
+    "city": "Las Palmas, Spain",
+    "date": "2026-11-28T13:00Z"
+  },
+  
+  {
+    "id": "SD_2026112840",
+    "league": "SD",
+    "team": "Albacete",
+    "opponent": "Tenerife",
+    "arena": "Estadio Carlos Belmonte",
+    "city": "Albacete, Spain",
+    "date": "2026-11-28T15:15Z"
+  },
+  
+  {
+    "id": "SD_2026112841",
+    "league": "SD",
+    "team": "Eldense",
+    "opponent": "Girona",
+    "arena": "Estadio Municipal Nuevo Pepico Amat",
+    "city": "Alicante, Spain",
+    "date": "2026-11-28T15:15Z"
+  },
+  
+  {
+    "id": "SD_2026112842",
+    "league": "SD",
+    "team": "Eibar",
+    "opponent": "Burgos",
+    "arena": "Estadio Municipal de Ipurúa",
+    "city": "Gipuzkoa, Spain",
+    "date": "2026-11-28T17:30Z"
+  },
+  
+  {
+    "id": "SD_2026112843",
+    "league": "SD",
+    "team": "Real Valladolid",
+    "opponent": "Real Sociedad B",
+    "arena": "Estadio José Zorrilla",
+    "city": "Valladolid, Castile and León",
+    "date": "2026-11-28T20:00Z"
+  },
+  
+  {
+    "id": "SD_2026112944",
+    "league": "SD",
+    "team": "Granada",
+    "opponent": "Ceuta",
+    "arena": "Nuevo Estadio de Los Cármenes",
+    "city": "Granada, Spain",
+    "date": "2026-11-29T13:00Z"
+  },
+  
+  {
+    "id": "SD_2026112945",
+    "league": "SD",
+    "team": "Mallorca",
+    "opponent": "Castellón",
+    "arena": "Estadi Mallorca Son Moix",
+    "city": "Palma, Illes Balears",
+    "date": "2026-11-29T15:15Z"
+  },
+  
+  {
+    "id": "SD_2026112946",
+    "league": "SD",
+    "team": "Cádiz",
+    "opponent": "Córdoba",
+    "arena": "JP Financial Estadio",
+    "city": "Cádiz, Spain",
+    "date": "2026-11-29T17:30Z"
+  },
+  
+  {
+    "id": "SD_2026112947",
+    "league": "SD",
+    "team": "Almería",
+    "opponent": "Real Sporting Gijón",
+    "arena": "UD Almería Stadium",
+    "city": "Albacete, Spain",
+    "date": "2026-11-29T20:00Z"
+  },
+  
+  {
+    "id": "SD_2026113048",
+    "league": "SD",
+    "team": "Real Oviedo",
+    "opponent": "Celta Fortuna",
+    "arena": "Estadio Carlos Tartiere",
+    "city": "Oviedo, Asturias",
+    "date": "2026-11-30T19:30Z"
+  },
 
+  {
+  "id": "SD_2026120501",
+  "league": "SD",
+  "team": "Real Sociedad B",
+  "opponent": "Leganés",
+  "arena": "Zubieta",
+  "city": "Donostia / San Sebastián, Gipuzkoa",
+  "date": "2026-12-05T13:00Z"
+},
+
+{
+  "id": "SD_2026120502",
+  "league": "SD",
+  "team": "Sabadell",
+  "opponent": "Eibar",
+  "arena": "Estadi Municipal de la Nova Creu Alta",
+  "city": "Sabadell, Barcelona",
+  "date": "2026-12-05T15:15Z"
+},
+
+{
+  "id": "SD_2026120503",
+  "league": "SD",
+  "team": "Andorra",
+  "opponent": "Real Oviedo",
+  "arena": "L'Estadi de la FAF",
+  "city": "Andorra, Spain",
+  "date": "2026-12-05T17:30Z"
+},
+
+{
+  "id": "SD_2026120504",
+  "league": "SD",
+  "team": "Tenerife",
+  "opponent": "Eldense",
+  "arena": "Estadio Heliodoro Rodriguez Lopez",
+  "city": "Santa Cruz de Tenerife",
+  "date": "2026-12-05T20:00Z"
+},
+
+{
+  "id": "SD_2026120605",
+  "league": "SD",
+  "team": "Celta Fortuna",
+  "opponent": "Mallorca",
+  "arena": "Estadio Municipal de Balaídos",
+  "city": "Pontevedra, Spain",
+  "date": "2026-12-06T13:00Z"
+},
+
+{
+  "id": "SD_2026120606",
+  "league": "SD",
+  "team": "Castellón",
+  "opponent": "Almería",
+  "arena": "Estadio SkyFi Castalia",
+  "city": "Castelló de la Plana, Spain",
+  "date": "2026-12-06T15:15Z"
+},
+
+{
+  "id": "SD_2026120607",
+  "league": "SD",
+  "team": "Ceuta",
+  "opponent": "Albacete",
+  "arena": "Estadio Municipal Alfonso Murube",
+  "city": "Ceuta, Spain",
+  "date": "2026-12-06T17:30Z"
+},
+
+{
+  "id": "SD_2026120608",
+  "league": "SD",
+  "team": "Real Sporting Gijón",
+  "opponent": "Granada",
+  "arena": "Estadio El Molinón",
+  "city": "Gijón, Asturias",
+  "date": "2026-12-06T17:30Z"
+},
+
+{
+  "id": "SD_2026120609",
+  "league": "SD",
+  "team": "Girona",
+  "opponent": "Real Valladolid",
+  "arena": "Estadi Municipal de Montilivi",
+  "city": "Girona, Spain",
+  "date": "2026-12-06T20:00Z"
+},
+
+{
+  "id": "SD_2026120710",
+  "league": "SD",
+  "team": "Burgos",
+  "opponent": "Cádiz",
+  "arena": "Estadio Municipal El Plantío",
+  "city": "Burgos, Spain",
+  "date": "2026-12-07T15:15Z"
+},
+
+{
+  "id": "SD_2026120711",
+  "league": "SD",
+  "team": "Córdoba",
+  "opponent": "Las Palmas",
+  "arena": "Estadio Bahrain Victorious Nuevo Arcángel de Córdoba",
+  "city": "Córdoba, Spain",
+  "date": "2026-12-07T17:30Z"
+},
+
+{
+  "id": "SD_2026120912",
+  "league": "SD",
+  "team": "Castellón",
+  "opponent": "Eibar",
+  "arena": "Estadio SkyFi Castalia",
+  "city": "Castelló de la Plana, Spain",
+  "date": "2026-12-09T20:00Z"
+},
+
+{
+  "id": "SD_2026120913",
+  "league": "SD",
+  "team": "Andorra",
+  "opponent": "Mallorca",
+  "arena": "L'Estadi de la FAF",
+  "city": "Andorra, Spain",
+  "date": "2026-12-09T20:00Z"
+},
+
+{
+  "id": "SD_2026120914",
+  "league": "SD",
+  "team": "Granada",
+  "opponent": "Tenerife",
+  "arena": "Nuevo Estadio de Los Cármenes",
+  "city": "Granada, Spain",
+  "date": "2026-12-09T20:00Z"
+},
+
+{
+  "id": "SD_2026121315",
+  "league": "SD",
+  "team": "Almería",
+  "opponent": "Albacete",
+  "arena": "UD Almería Stadium",
+  "city": "Albacete, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121316",
+  "league": "SD",
+  "team": "Cádiz",
+  "opponent": "Sabadell",
+  "arena": "JP Financial Estadio",
+  "city": "Cádiz, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121317",
+  "league": "SD",
+  "team": "Córdoba",
+  "opponent": "Castellón",
+  "arena": "Estadio Bahrain Victorious Nuevo Arcángel de Córdoba",
+  "city": "Córdoba, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121318",
+  "league": "SD",
+  "team": "Eibar",
+  "opponent": "Real Sporting Gijón",
+  "arena": "Estadio Municipal de Ipurúa",
+  "city": "Gipuzkoa, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121319",
+  "league": "SD",
+  "team": "Eldense",
+  "opponent": "Andorra",
+  "arena": "Estadio Municipal Nuevo Pepico Amat",
+  "city": "Alicante, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121320",
+  "league": "SD",
+  "team": "Granada",
+  "opponent": "Girona",
+  "arena": "Nuevo Estadio de Los Cármenes",
+  "city": "Granada, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121321",
+  "league": "SD",
+  "team": "Las Palmas",
+  "opponent": "Celta Fortuna",
+  "arena": "Estadio de Gran Canaria",
+  "city": "Las Palmas, Spain",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121322",
+  "league": "SD",
+  "team": "Leganés",
+  "opponent": "Ceuta",
+  "arena": "Estadio Ontime Butarque",
+  "city": "v",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121323",
+  "league": "SD",
+  "team": "Mallorca",
+  "opponent": "Burgos",
+  "arena": "Estadi Mallorca Son Moix",
+  "city": "Palma, Illes Balears",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121324",
+  "league": "SD",
+  "team": "Real Oviedo",
+  "opponent": "Real Sociedad B",
+  "arena": "Estadio Carlos Tartiere",
+  "city": "Oviedo, Asturias",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026121325",
+  "league": "SD",
+  "team": "Real Valladolid",
+  "opponent": "Tenerife",
+  "arena": "Estadio José Zorrilla",
+  "city": "Valladolid, Castile and León",
+  "date": "2026-12-13T20:00Z"
+},
+
+{
+  "id": "SD_2026122026",
+  "league": "SD",
+  "team": "Albacete",
+  "opponent": "Mallorca",
+  "arena": "Estadio Carlos Belmonte",
+  "city": "Albacete, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122027",
+  "league": "SD",
+  "team": "Almería",
+  "opponent": "Real Valladolid",
+  "arena": "UD Almería Stadium",
+  "city": "Albacete, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122028",
+  "league": "SD",
+  "team": "Burgos",
+  "opponent": "Girona",
+  "arena": "Estadio Municipal El Plantío",
+  "city": "Burgos, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122029",
+  "league": "SD",
+  "team": "Castellón",
+  "opponent": "Granada",
+  "arena": "Estadio SkyFi Castalia",
+  "city": "Castelló de la Plana, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122030",
+  "league": "SD",
+  "team": "Sabadell",
+  "opponent": "Las Palmas",
+  "arena": "Estadi Municipal de la Nova Creu Alta",
+  "city": "Sabadell, Barcelona",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122031",
+  "league": "SD",
+  "team": "Ceuta",
+  "opponent": "Eibar",
+  "arena": "Estadio Municipal Alfonso Murube",
+  "city": "Ceuta, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122032",
+  "league": "SD",
+  "team": "Andorra",
+  "opponent": "Cádiz",
+  "arena": "L'Estadi de la FAF",
+  "city": "Andorra, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122033",
+  "league": "SD",
+  "team": "Celta Fortuna",
+  "opponent": "Eldense",
+  "arena": "Estadio Municipal de Balaídos",
+  "city": "Pontevedra, Spain",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122034",
+  "league": "SD",
+  "team": "Real Sociedad B",
+  "opponent": "Córdoba",
+  "arena": "Zubieta",
+  "city": "Donostia / San Sebastián, Gipuzkoa",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122035",
+  "league": "SD",
+  "team": "Real Sporting Gijón",
+  "opponent": "Leganés",
+  "arena": "Estadio El Molinón",
+  "city": "Gijón, Asturias",
+  "date": "2026-12-20T20:00Z"
+},
+
+{
+  "id": "SD_2026122036",
+  "league": "SD",
+  "team": "Tenerife",
+  "opponent": "Real Oviedo",
+  "arena": "Estadio Heliodoro Rodriguez Lopez",
+  "city": "Santa Cruz de Tenerife",
+  "date": "2026-12-20T20:00Z"
+}
 ]
