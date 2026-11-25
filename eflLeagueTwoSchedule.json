@@ -1,974 +1,4 @@
-[
-  {
-    "id": "EFL2_2026100301",
-    "league": "EFL2",
-    "team": "Chesterfield",
-    "opponent": "Tranmere Rovers",
-    "arena": "SMH Group Stadium",
-    "city": "Chesterfield, England",
-    "date": "2026-10-03T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026100302",
-    "league": "EFL2",
-    "team": "Accrington Stanley",
-    "opponent": "Cheltenham Town",
-    "arena": "Crown Ground",
-    "city": "Accrington, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100303",
-    "league": "EFL2",
-    "team": "Colchester United",
-    "opponent": "Port Vale",
-    "arena": "JobServe Community Stadium",
-    "city": "Colchester, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100304",
-    "league": "EFL2",
-    "team": "Crewe Alexandra",
-    "opponent": "Bristol Rovers",
-    "arena": "Mornflake Stadium",
-    "city": "Crewe, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100305",
-    "league": "EFL2",
-    "team": "Exeter City",
-    "opponent": "Rotherham United",
-    "arena": "St James Park",
-    "city": "Exeter, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100306",
-    "league": "EFL2",
-    "team": "Gillingham",
-    "opponent": "Newport County",
-    "arena": " MEMS Priestfield Stadium",
-    "city": "Gillingham, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100307",
-    "league": "EFL2",
-    "team": "Grimsby Town",
-    "opponent": "Shrewsbury Town",
-    "arena": "Blundell Park",
-    "city": "Cleethorpes, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100308",
-    "league": "EFL2",
-    "team": "Northampton Town",
-    "opponent": "Oldham Athletic",
-    "arena": "Sixfields Stadium",
-    "city": "Northampton, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100309",
-    "league": "EFL2",
-    "team": "Rochdale",
-    "opponent": "Swindon Town",
-    "arena": "Spotland Stadium",
-    "city": "Rochdale, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100310",
-    "league": "EFL2",
-    "team": "Salford City",
-    "opponent": "Fleetwood Town",
-    "arena": "AIG Stadium",
-    "city": "Salford, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026100311",
-    "league": "EFL2",
-    "team": "Walsall",
-    "opponent": "Crawley Town",
-    "arena": "Pallet-Track Bescot Stadium",
-    "city": "Walsall, England",
-    "date": "2026-10-03T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101012",
-    "league": "EFL2",
-    "team": "Oldham Athletic",
-    "opponent": "Accrington Stanley",
-    "arena": "Boundary Park",
-    "city": "Oldham, England",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026101013",
-    "league": "EFL2",
-    "team": "Swindon Town",
-    "opponent": "Crewe Alexandra",
-    "arena": "Nigel Eady County Ground",
-    "city": "Swindon, England",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026101014",
-    "league": "EFL2",
-    "team": "Bristol Rovers",
-    "opponent": "Barnet",
-    "arena": "Memorial Stadium",
-    "city": "Bristol, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101015",
-    "league": "EFL2",
-    "team": "Cheltenham Town",
-    "opponent": "Salford City",
-    "arena": "EV Charger Points Stadium",
-    "city": "Cheltenham, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101016",
-    "league": "EFL2",
-    "team": "Crawley Town",
-    "opponent": "Chesterfield",
-    "arena": "Broadfield Stadium",
-    "city": "Crawley, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101017",
-    "league": "EFL2",
-    "team": "Fleetwood Town",
-    "opponent": "Walsall",
-    "arena": "Highbury Stadium",
-    "city": "Fleetwood, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101018",
-    "league": "EFL2",
-    "team": "Newport County",
-    "opponent": "Colchester United",
-    "arena": "Rodney Parade",
-    "city": "Newport, Wales",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101019",
-    "league": "EFL2",
-    "team": "Port Vale",
-    "opponent": "Grimsby Town",
-    "arena": "Vale Park",
-    "city": "Stoke-On-Trent, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101020",
-    "league": "EFL2",
-    "team": "Rotherham United",
-    "opponent": "Gillingham",
-    "arena": "AESSEAL New York Stadium",
-    "city": "Rotherham, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101021",
-    "league": "EFL2",
-    "team": "Shrewsbury Town",
-    "opponent": "Exeter City",
-    "arena": "The Croud Meadow",
-    "city": "Shrewsbury, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101022",
-    "league": "EFL2",
-    "team": "Tranmere Rovers",
-    "opponent": "Rochdale",
-    "arena": "Prenton Park",
-    "city": "Birkenhead, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101023",
-    "league": "EFL2",
-    "team": "York City",
-    "opponent": "Northampton Town",
-    "arena": "LNER Community Stadium",
-    "city": "York, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101724",
-    "league": "EFL2",
-    "team": "Fleetwood Town",
-    "opponent": "Rotherham United",
-    "arena": "Highbury Stadium",
-    "city": "Fleetwood, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026101725",
-    "league": "EFL2",
-    "team": "Shrewsbury Town",
-    "opponent": "Bristol Rovers",
-    "arena": "The Croud Meadow",
-    "city": "Shrewsbury, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026101726",
-    "league": "EFL2",
-    "team": "Accrington Stanley",
-    "opponent": "Gillingham",
-    "arena": "Crown Ground",
-    "city": "Accrington, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101727",
-    "league": "EFL2",
-    "team": "Colchester United",
-    "opponent": "Exeter City",
-    "arena": "JobServe Community Stadium",
-    "city": "Colchester, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101728",
-    "league": "EFL2",
-    "team": "Crewe Alexandra",
-    "opponent": "Rochdale",
-    "arena": "Mornflake Stadium",
-    "city": "Crewe, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101729",
-    "league": "EFL2",
-    "team": "Grimsby Town",
-    "opponent": "Northampton Town",
-    "arena": "Blundell Park",
-    "city": "Cleethorpes, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101730",
-    "league": "EFL2",
-    "team": "Newport County",
-    "opponent": "York City",
-    "arena": "Rodney Parade",
-    "city": "Newport, Wales",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101731",
-    "league": "EFL2",
-    "team": "Oldham Athletic",
-    "opponent": "Cheltenham Town",
-    "arena": "Boundary Park",
-    "city": "Oldham, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101732",
-    "league": "EFL2",
-    "team": "Port Vale",
-    "opponent": "Chesterfield",
-    "arena": "Vale Park",
-    "city": "Stoke-On-Trent, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101733",
-    "league": "EFL2",
-    "team": "Salford City",
-    "opponent": "Crawley Town",
-    "arena": "AIG Stadium",
-    "city": "Salford, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101734",
-    "league": "EFL2",
-    "team": "Swindon Town",
-    "opponent": "Walsall",
-    "arena": "Nigel Eady County Ground",
-    "city": "Swindon, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026101735",
-    "league": "EFL2",
-    "team": "Tranmere Rovers",
-    "opponent": "Barnet",
-    "arena": "Prenton Park",
-    "city": "Birkenhead, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102036",
-    "league": "EFL2",
-    "team": "Barnet",
-    "opponent": "Swindon Town",
-    "arena": "The Hive",
-    "city": "London, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102037",
-    "league": "EFL2",
-    "team": "Bristol Rovers",
-    "opponent": "Salford City",
-    "arena": "Memorial Stadium",
-    "city": "Bristol, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102038",
-    "league": "EFL2",
-    "team": "Cheltenham Town",
-    "opponent": "Fleetwood Town",
-    "arena": "EV Charger Points Stadium",
-    "city": "Cheltenham, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102039",
-    "league": "EFL2",
-    "team": "Chesterfield",
-    "opponent": "Colchester United",
-    "arena": "SMH Group Stadium",
-    "city": "Chesterfield, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102040",
-    "league": "EFL2",
-    "team": "Crawley Town",
-    "opponent": "Shrewsbury Town",
-    "arena": "Broadfield Stadium",
-    "city": "Crawley, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102041",
-    "league": "EFL2",
-    "team": "Exeter City",
-    "opponent": "Crewe Alexandra",
-    "arena": "St James Park",
-    "city": "Exeter, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102042",
-    "league": "EFL2",
-    "team": "Northampton Town",
-    "opponent": "Tranmere Rovers",
-    "arena": "Sixfields Stadium",
-    "city": "Northampton, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102043",
-    "league": "EFL2",
-    "team": "Rochdale",
-    "opponent": "Grimsby Town",
-    "arena": "Spotland Stadium",
-    "city": "Rochdale, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102044",
-    "league": "EFL2",
-    "team": "Rotherham United",
-    "opponent": "Newport County",
-    "arena": "AESSEAL New York Stadium",
-    "city": "Rotherham, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102045",
-    "league": "EFL2",
-    "team": "Walsall",
-    "opponent": "Oldham Athletic",
-    "arena": "Pallet-Track Bescot Stadium",
-    "city": "Walsall, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102046",
-    "league": "EFL2",
-    "team": "York City",
-    "opponent": "Accrington Stanley",
-    "arena": "LNER Community Stadium",
-    "city": "York, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026102047",
-    "league": "EFL2",
-    "team": "Gillingham",
-    "opponent": "Port Vale",
-    "arena": " MEMS Priestfield Stadium",
-    "city": "Gillingham, England",
-    "date": "2026-10-20T19:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102448",
-    "league": "EFL2",
-    "team": "Bristol Rovers",
-    "opponent": "Swindon Town",
-    "arena": "Memorial Stadium",
-    "city": "Bristol, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026102449",
-    "league": "EFL2",
-    "team": "Cheltenham Town",
-    "opponent": "Newport County",
-    "arena": "EV Charger Points Stadium",
-    "city": "Cheltenham, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026102450",
-    "league": "EFL2",
-    "team": "Northampton Town",
-    "opponent": "Colchester United",
-    "arena": "Sixfields Stadium",
-    "city": "Northampton, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026102451",
-    "league": "EFL2",
-    "team": "Barnet",
-    "opponent": "Oldham Athletic",
-    "arena": "The Hive",
-    "city": "London, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102452",
-    "league": "EFL2",
-    "team": "Chesterfield",
-    "opponent": "Crewe Alexandra",
-    "arena": "SMH Group Stadium",
-    "city": "Chesterfield, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102453",
-    "league": "EFL2",
-    "team": "Crawley Town",
-    "opponent": "Tranmere Rovers",
-    "arena": "Broadfield Stadium",
-    "city": "Crawley, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102454",
-    "league": "EFL2",
-    "team": "Exeter City",
-    "opponent": "Fleetwood Town",
-    "arena": "St James Park",
-    "city": "Exeter, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102455",
-    "league": "EFL2",
-    "team": "Gillingham",
-    "opponent": "Grimsby Town",
-    "arena": " MEMS Priestfield Stadium",
-    "city": "Gillingham, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102456",
-    "league": "EFL2",
-    "team": "Rochdale",
-    "opponent": "Accrington Stanley",
-    "arena": "Spotland Stadium",
-    "city": "Rochdale, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102457",
-    "league": "EFL2",
-    "team": "Rotherham United",
-    "opponent": "Shrewsbury Town",
-    "arena": "AESSEAL New York Stadium",
-    "city": "Rotherham, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102458",
-    "league": "EFL2",
-    "team": "York City",
-    "opponent": "Port Vale",
-    "arena": "LNER Community Stadium",
-    "city": "York, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102659",
-    "league": "EFL2",
-    "team": "Walsall",
-    "opponent": "Salford City",
-    "arena": "Pallet-Track Bescot Stadium",
-    "city": "Walsall, England",
-    "date": "2026-10-26T20:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026102760",
-    "league": "EFL2",
-    "team": "Barnet",
-    "opponent": "York City",
-    "arena": "The Hive",
-    "city": "London, England",
-    "date": "2026-10-27T19:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026103061",
-    "league": "EFL2",
-    "team": "Newport County",
-    "opponent": "Chesterfield",
-    "arena": "Rodney Parade",
-    "city": "Newport, Wales",
-    "date": "2026-10-30T19:45Z"
-  },
-  
-  {
-    "id": "EFL2_2026103162",
-    "league": "EFL2",
-    "team": "Grimsby Town",
-    "opponent": "York City",
-    "arena": "Blundell Park",
-    "city": "Cleethorpes, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026103163",
-    "league": "EFL2",
-    "team": "Port Vale",
-    "opponent": "Rochdale",
-    "arena": "Vale Park",
-    "city": "Stoke-On-Trent, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026103164",
-    "league": "EFL2",
-    "team": "Accrington Stanley",
-    "opponent": "Northampton Town",
-    "arena": "Crown Ground",
-    "city": "Accrington, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103165",
-    "league": "EFL2",
-    "team": "Colchester United",
-    "opponent": "Walsall",
-    "arena": "JobServe Community Stadium",
-    "city": "Colchester, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103166",
-    "league": "EFL2",
-    "team": "Crewe Alexandra",
-    "opponent": "Barnet",
-    "arena": "Mornflake Stadium",
-    "city": "Crewe, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103167",
-    "league": "EFL2",
-    "team": "Fleetwood Town",
-    "opponent": "Bristol Rovers",
-    "arena": "Highbury Stadium",
-    "city": "Fleetwood, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103168",
-    "league": "EFL2",
-    "team": "Oldham Athletic",
-    "opponent": "Crawley Town",
-    "arena": "Boundary Park",
-    "city": "Oldham, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103169",
-    "league": "EFL2",
-    "team": "Salford City",
-    "opponent": "Exeter City",
-    "arena": "AIG Stadium",
-    "city": "Salford, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103170",
-    "league": "EFL2",
-    "team": "Shrewsbury Town",
-    "opponent": "Gillingham",
-    "arena": "The Croud Meadow",
-    "city": "Shrewsbury, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103171",
-    "league": "EFL2",
-    "team": "Swindon Town",
-    "opponent": "Rotherham United",
-    "arena": "Nigel Eady County Ground",
-    "city": "Swindon, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026103172",
-    "league": "EFL2",
-    "team": "Tranmere Rovers",
-    "opponent": "Cheltenham Town",
-    "arena": "Prenton Park",
-    "city": "Birkenhead, England",
-    "date": "2026-10-31T15:00Z"
-  },
-
-  {
-    "id": "EFL2_2026111401",
-    "league": "EFL2",
-    "team": "Exeter City",
-    "opponent": "Cheltenham Town",
-    "arena": "St James Park",
-    "city": "Exeter, England",
-    "date": "2026-11-14T12:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026111402",
-    "league": "EFL2",
-    "team": "Bristol Rovers",
-    "opponent": "Chesterfield",
-    "arena": "Memorial Stadium",
-    "city": "Bristol, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111403",
-    "league": "EFL2",
-    "team": "Colchester United",
-    "opponent": "Gillingham",
-    "arena": "JobServe Community Stadium",
-    "city": "Colchester, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111404",
-    "league": "EFL2",
-    "team": "Crewe Alexandra",
-    "opponent": "Newport County",
-    "arena": "Mornflake Stadium",
-    "city": "Crewe, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111405",
-    "league": "EFL2",
-    "team": "Port Vale",
-    "opponent": "Accrington Stanley",
-    "arena": "Vale Park",
-    "city": "Stoke-On-Trent, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111406",
-    "league": "EFL2",
-    "team": "Rochdale",
-    "opponent": "York City",
-    "arena": "Spotland Stadium",
-    "city": "Rochdale, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111407",
-    "league": "EFL2",
-    "team": "Rotherham United",
-    "opponent": "Crawley Town",
-    "arena": "AESSEAL New York Stadium",
-    "city": "Rotherham, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111408",
-    "league": "EFL2",
-    "team": "Salford City",
-    "opponent": "Northampton Town",
-    "arena": "AIG Stadium",
-    "city": "Salford, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111409",
-    "league": "EFL2",
-    "team": "Shrewsbury Town",
-    "opponent": "Oldham Athletic",
-    "arena": "The Croud Meadow",
-    "city": "Shrewsbury, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111410",
-    "league": "EFL2",
-    "team": "Swindon Town",
-    "opponent": "Grimsby Town",
-    "arena": "Nigel Eady County Ground",
-    "city": "Swindon, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111411",
-    "league": "EFL2",
-    "team": "Walsall",
-    "opponent": "Barnet",
-    "arena": "Pallet-Track Bescot Stadium",
-    "city": "Walsall, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026111412",
-    "league": "EFL2",
-    "team": "Fleetwood Town",
-    "opponent": "Tranmere Rovers",
-    "arena": "Highbury Stadium",
-    "city": "Fleetwood, England",
-    "date": "2026-11-14T17:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026112113",
-    "league": "EFL2",
-    "team": "Gillingham",
-    "opponent": "Crewe Alexandra",
-    "arena": " MEMS Priestfield Stadium",
-    "city": "Gillingham, England",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026112114",
-    "league": "EFL2",
-    "team": "Newport County",
-    "opponent": "Swindon Town",
-    "arena": "Rodney Parade",
-    "city": "Newport, Wales",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFL2_2026112115",
-    "league": "EFL2",
-    "team": "Accrington Stanley",
-    "opponent": "Salford City",
-    "arena": "Crown Ground",
-    "city": "Accrington, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112116",
-    "league": "EFL2",
-    "team": "Barnet",
-    "opponent": "Port Vale",
-    "arena": "The Hive",
-    "city": "London, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112117",
-    "league": "EFL2",
-    "team": "Cheltenham Town",
-    "opponent": "Bristol Rovers",
-    "arena": "EV Charger Points Stadium",
-    "city": "Cheltenham, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112118",
-    "league": "EFL2",
-    "team": "Chesterfield",
-    "opponent": "Shrewsbury Town",
-    "arena": "SMH Group Stadium",
-    "city": "Chesterfield, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112119",
-    "league": "EFL2",
-    "team": "Crawley Town",
-    "opponent": "Fleetwood Town",
-    "arena": "Broadfield Stadium",
-    "city": "Crawley, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112120",
-    "league": "EFL2",
-    "team": "Grimsby Town",
-    "opponent": "Rotherham United",
-    "arena": "Blundell Park",
-    "city": "Cleethorpes, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112121",
-    "league": "EFL2",
-    "team": "Northampton Town",
-    "opponent": "Rochdale",
-    "arena": "Sixfields Stadium",
-    "city": "Northampton, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112122",
-    "league": "EFL2",
-    "team": "Oldham Athletic",
-    "opponent": "Exeter City",
-    "arena": "Boundary Park",
-    "city": "Oldham, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112123",
-    "league": "EFL2",
-    "team": "Tranmere Rovers",
-    "opponent": "Colchester United",
-    "arena": "Prenton Park",
-    "city": "Birkenhead, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112124",
-    "league": "EFL2",
-    "team": "York City",
-    "opponent": "Walsall",
-    "arena": "LNER Community Stadium",
-    "city": "York, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL2_2026112425",
-    "league": "EFL2",
-    "team": "Crawley Town",
-    "opponent": "Barnet",
-    "arena": "Broadfield Stadium",
-    "city": "Crawley, England",
-    "date": "2026-11-24T19:45Z"
-  },
-  
+[  
   {
     "id": "EFL2_2026112826",
     "league": "EFL2",
@@ -1687,5 +717,724 @@
     "arena": "LNER Community Stadium",
     "city": "York, England",
     "date": "2026-12-29T19:45Z"
-  } 
+  },
+  {
+  "id": "EFL2_2027010101",
+  "league": "EFL2",
+  "team": "Accrington Stanley",
+  "opponent": "Shrewsbury Town",
+  "arena": "Crown Ground",
+  "city": "Accrington, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010102",
+  "league": "EFL2",
+  "team": "Colchester United",
+  "opponent": "Rotherham United",
+  "arena": "JobServe Community Stadium",
+  "city": "Colchester, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010103",
+  "league": "EFL2",
+  "team": "Crewe Alexandra",
+  "opponent": "Oldham Athletic",
+  "arena": "Mornflake Stadium",
+  "city": "Crewe, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010104",
+  "league": "EFL2",
+  "team": "Grimsby Town",
+  "opponent": "Tranmere Rovers",
+  "arena": "Blundell Park",
+  "city": "Cleethorpes, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010105",
+  "league": "EFL2",
+  "team": "Newport County",
+  "opponent": "Barnet",
+  "arena": "Rodney Parade",
+  "city": "Newport, Wales",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010106",
+  "league": "EFL2",
+  "team": "Port Vale",
+  "opponent": "Fleetwood Town",
+  "arena": "Vale Park",
+  "city": "Stoke-On-Trent, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010107",
+  "league": "EFL2",
+  "team": "Rochdale",
+  "opponent": "Chesterfield",
+  "arena": "Spotland Stadium",
+  "city": "Rochdale, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010108",
+  "league": "EFL2",
+  "team": "Swindon Town",
+  "opponent": "Crawley Town",
+  "arena": "Nigel Eady County Ground",
+  "city": "Swindon, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010109",
+  "league": "EFL2",
+  "team": "Walsall",
+  "opponent": "Cheltenham Town",
+  "arena": "Pallet-Track Bescot Stadium",
+  "city": "Walsall, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010110",
+  "league": "EFL2",
+  "team": "York City",
+  "opponent": "Salford City",
+  "arena": "LNER Community Stadium",
+  "city": "York, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010211",
+  "league": "EFL2",
+  "team": "Gillingham",
+  "opponent": "Exeter City",
+  "arena": " MEMS Priestfield Stadium",
+  "city": "Gillingham, England",
+  "date": "2027-01-02T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010212",
+  "league": "EFL2",
+  "team": "Northampton Town",
+  "opponent": "Bristol Rovers",
+  "arena": "Sixfields Stadium",
+  "city": "Northampton, England",
+  "date": "2027-01-02T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010913",
+  "league": "EFL2",
+  "team": "Barnet",
+  "opponent": "Grimsby Town",
+  "arena": "The Hive",
+  "city": "London, England",
+  "date": "2027-01-09T12:30Z"
+},
+
+{
+  "id": "EFL2_2027010914",
+  "league": "EFL2",
+  "team": "Chesterfield",
+  "opponent": "Accrington Stanley",
+  "arena": "SMH Group Stadium",
+  "city": "Chesterfield, England",
+  "date": "2027-01-09T12:30Z"
+},
+
+{
+  "id": "EFL2_2027010915",
+  "league": "EFL2",
+  "team": "Shrewsbury Town",
+  "opponent": "Walsall",
+  "arena": "The Croud Meadow",
+  "city": "Shrewsbury, England",
+  "date": "2027-01-09T12:30Z"
+},
+
+{
+  "id": "EFL2_2027010916",
+  "league": "EFL2",
+  "team": "Bristol Rovers",
+  "opponent": "Rochdale",
+  "arena": "Memorial Stadium",
+  "city": "Bristol, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010917",
+  "league": "EFL2",
+  "team": "Cheltenham Town",
+  "opponent": "Gillingham",
+  "arena": "EV Charger Points Stadium",
+  "city": "Cheltenham, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010918",
+  "league": "EFL2",
+  "team": "Crawley Town",
+  "opponent": "York City",
+  "arena": "Broadfield Stadium",
+  "city": "Crawley, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010919",
+  "league": "EFL2",
+  "team": "Exeter City",
+  "opponent": "Northampton Town",
+  "arena": "St James Park",
+  "city": "Exeter, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010920",
+  "league": "EFL2",
+  "team": "Fleetwood Town",
+  "opponent": "Colchester United",
+  "arena": "Highbury Stadium",
+  "city": "Fleetwood, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010921",
+  "league": "EFL2",
+  "team": "Oldham Athletic",
+  "opponent": "Newport County",
+  "arena": "Boundary Park",
+  "city": "Oldham, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010922",
+  "league": "EFL2",
+  "team": "Rotherham United",
+  "opponent": "Port Vale",
+  "arena": "AESSEAL New York Stadium",
+  "city": "Rotherham, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010923",
+  "league": "EFL2",
+  "team": "Salford City",
+  "opponent": "Crewe Alexandra",
+  "arena": "AIG Stadium",
+  "city": "Salford, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027010924",
+  "league": "EFL2",
+  "team": "Tranmere Rovers",
+  "opponent": "Swindon Town",
+  "arena": "Prenton Park",
+  "city": "Birkenhead, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011625",
+  "league": "EFL2",
+  "team": "Bristol Rovers",
+  "opponent": "Shrewsbury Town",
+  "arena": "Memorial Stadium",
+  "city": "Bristol, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFL2_2027011626",
+  "league": "EFL2",
+  "team": "Chesterfield",
+  "opponent": "Port Vale",
+  "arena": "SMH Group Stadium",
+  "city": "Chesterfield, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFL2_2027011627",
+  "league": "EFL2",
+  "team": "Barnet",
+  "opponent": "Tranmere Rovers",
+  "arena": "The Hive",
+  "city": "London, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011628",
+  "league": "EFL2",
+  "team": "Cheltenham Town",
+  "opponent": "Oldham Athletic",
+  "arena": "EV Charger Points Stadium",
+  "city": "Cheltenham, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011629",
+  "league": "EFL2",
+  "team": "Crawley Town",
+  "opponent": "Salford City",
+  "arena": "Broadfield Stadium",
+  "city": "Crawley, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011630",
+  "league": "EFL2",
+  "team": "Exeter City",
+  "opponent": "Colchester United",
+  "arena": "St James Park",
+  "city": "Exeter, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011631",
+  "league": "EFL2",
+  "team": "Gillingham",
+  "opponent": "Accrington Stanley",
+  "arena": " MEMS Priestfield Stadium",
+  "city": "Gillingham, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011632",
+  "league": "EFL2",
+  "team": "Northampton Town",
+  "opponent": "Grimsby Town",
+  "arena": "Sixfields Stadium",
+  "city": "Northampton, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011633",
+  "league": "EFL2",
+  "team": "Rochdale",
+  "opponent": "Crewe Alexandra",
+  "arena": "Spotland Stadium",
+  "city": "Rochdale, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011634",
+  "league": "EFL2",
+  "team": "Rotherham United",
+  "opponent": "Fleetwood Town",
+  "arena": "AESSEAL New York Stadium",
+  "city": "Rotherham, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011635",
+  "league": "EFL2",
+  "team": "Walsall",
+  "opponent": "Swindon Town",
+  "arena": "Pallet-Track Bescot Stadium",
+  "city": "Walsall, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011636",
+  "league": "EFL2",
+  "team": "York City",
+  "opponent": "Newport County",
+  "arena": "LNER Community Stadium",
+  "city": "York, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL2_2027011937",
+  "league": "EFL2",
+  "team": "Accrington Stanley",
+  "opponent": "York City",
+  "arena": "Crown Ground",
+  "city": "Accrington, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011938",
+  "league": "EFL2",
+  "team": "Colchester United",
+  "opponent": "Chesterfield",
+  "arena": "JobServe Community Stadium",
+  "city": "Colchester, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011939",
+  "league": "EFL2",
+  "team": "Crewe Alexandra",
+  "opponent": "Exeter City",
+  "arena": "Mornflake Stadium",
+  "city": "Crewe, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011940",
+  "league": "EFL2",
+  "team": "Fleetwood Town",
+  "opponent": "Cheltenham Town",
+  "arena": "Highbury Stadium",
+  "city": "Fleetwood, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011941",
+  "league": "EFL2",
+  "team": "Grimsby Town",
+  "opponent": "Rochdale",
+  "arena": "Blundell Park",
+  "city": "Cleethorpes, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011942",
+  "league": "EFL2",
+  "team": "Oldham Athletic",
+  "opponent": "Walsall",
+  "arena": "Boundary Park",
+  "city": "Oldham, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011943",
+  "league": "EFL2",
+  "team": "Port Vale",
+  "opponent": "Gillingham",
+  "arena": "Vale Park",
+  "city": "Stoke-On-Trent, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011944",
+  "league": "EFL2",
+  "team": "Salford City",
+  "opponent": "Bristol Rovers",
+  "arena": "AIG Stadium",
+  "city": "Salford, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011945",
+  "league": "EFL2",
+  "team": "Shrewsbury Town",
+  "opponent": "Crawley Town",
+  "arena": "The Croud Meadow",
+  "city": "Shrewsbury, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011946",
+  "league": "EFL2",
+  "team": "Swindon Town",
+  "opponent": "Barnet",
+  "arena": "Nigel Eady County Ground",
+  "city": "Swindon, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011947",
+  "league": "EFL2",
+  "team": "Tranmere Rovers",
+  "opponent": "Northampton Town",
+  "arena": "Prenton Park",
+  "city": "Birkenhead, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL2_2027011948",
+  "league": "EFL2",
+  "team": "Newport County",
+  "opponent": "Rotherham United",
+  "arena": "Rodney Parade",
+  "city": "Newport, Wales",
+  "date": "2027-01-19T20:00Z"
+},
+
+{
+  "id": "EFL2_2027012349",
+  "league": "EFL2",
+  "team": "Colchester United",
+  "opponent": "Northampton Town",
+  "arena": "JobServe Community Stadium",
+  "city": "Colchester, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFL2_2027012350",
+  "league": "EFL2",
+  "team": "Salford City",
+  "opponent": "Walsall",
+  "arena": "AIG Stadium",
+  "city": "Salford, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFL2_2027012351",
+  "league": "EFL2",
+  "team": "Accrington Stanley",
+  "opponent": "Rochdale",
+  "arena": "Crown Ground",
+  "city": "Accrington, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012352",
+  "league": "EFL2",
+  "team": "Crewe Alexandra",
+  "opponent": "Chesterfield",
+  "arena": "Mornflake Stadium",
+  "city": "Crewe, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012353",
+  "league": "EFL2",
+  "team": "Fleetwood Town",
+  "opponent": "Exeter City",
+  "arena": "Highbury Stadium",
+  "city": "Fleetwood, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012354",
+  "league": "EFL2",
+  "team": "Grimsby Town",
+  "opponent": "Gillingham",
+  "arena": "Blundell Park",
+  "city": "Cleethorpes, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012355",
+  "league": "EFL2",
+  "team": "Newport County",
+  "opponent": "Cheltenham Town",
+  "arena": "Rodney Parade",
+  "city": "Newport, Wales",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012356",
+  "league": "EFL2",
+  "team": "Oldham Athletic",
+  "opponent": "Barnet",
+  "arena": "Boundary Park",
+  "city": "Oldham, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012357",
+  "league": "EFL2",
+  "team": "Port Vale",
+  "opponent": "York City",
+  "arena": "Vale Park",
+  "city": "Stoke-On-Trent, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012358",
+  "league": "EFL2",
+  "team": "Shrewsbury Town",
+  "opponent": "Rotherham United",
+  "arena": "The Croud Meadow",
+  "city": "Shrewsbury, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012359",
+  "league": "EFL2",
+  "team": "Swindon Town",
+  "opponent": "Bristol Rovers",
+  "arena": "Nigel Eady County Ground",
+  "city": "Swindon, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027012360",
+  "league": "EFL2",
+  "team": "Tranmere Rovers",
+  "opponent": "Crawley Town",
+  "arena": "Prenton Park",
+  "city": "Birkenhead, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013061",
+  "league": "EFL2",
+  "team": "Rotherham United",
+  "opponent": "Swindon Town",
+  "arena": "AESSEAL New York Stadium",
+  "city": "Rotherham, England",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFL2_2027013062",
+  "league": "EFL2",
+  "team": "York City",
+  "opponent": "Grimsby Town",
+  "arena": "LNER Community Stadium",
+  "city": "York, England",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFL2_2027013063",
+  "league": "EFL2",
+  "team": "Barnet",
+  "opponent": "Crewe Alexandra",
+  "arena": "The Hive",
+  "city": "London, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013064",
+  "league": "EFL2",
+  "team": "Bristol Rovers",
+  "opponent": "Fleetwood Town",
+  "arena": "Memorial Stadium",
+  "city": "Bristol, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013065",
+  "league": "EFL2",
+  "team": "Cheltenham Town",
+  "opponent": "Tranmere Rovers",
+  "arena": "EV Charger Points Stadium",
+  "city": "Cheltenham, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013066",
+  "league": "EFL2",
+  "team": "Chesterfield",
+  "opponent": "Newport County",
+  "arena": "SMH Group Stadium",
+  "city": "Chesterfield, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013067",
+  "league": "EFL2",
+  "team": "Crawley Town",
+  "opponent": "Oldham Athletic",
+  "arena": "Broadfield Stadium",
+  "city": "Crawley, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013068",
+  "league": "EFL2",
+  "team": "Exeter City",
+  "opponent": "Salford City",
+  "arena": "St James Park",
+  "city": "Exeter, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013069",
+  "league": "EFL2",
+  "team": "Gillingham",
+  "opponent": "Shrewsbury Town",
+  "arena": " MEMS Priestfield Stadium",
+  "city": "Gillingham, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013070",
+  "league": "EFL2",
+  "team": "Northampton Town",
+  "opponent": "Accrington Stanley",
+  "arena": "Sixfields Stadium",
+  "city": "Northampton, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013071",
+  "league": "EFL2",
+  "team": "Rochdale",
+  "opponent": "Port Vale",
+  "arena": "Spotland Stadium",
+  "city": "Rochdale, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL2_2027013072",
+  "league": "EFL2",
+  "team": "Walsall",
+  "opponent": "Colchester United",
+  "arena": "Pallet-Track Bescot Stadium",
+  "city": "Walsall, England",
+  "date": "2027-01-30T15:00Z"
+}
 ]
