@@ -5883,6 +5883,23 @@
     "endDate": null
   },
   {
+    "teamName": "Nice",
+    "teamCode": "NICE",
+    "arena": "Allianz Riviera",
+    "arenaId": "allianz_riviera_nice",
+    "city": "Nice, France",
+    "address": "Bd des Jardiniers, 06200 Nice, France",
+    "website": "www.ogcnice.com",
+    "latitude": 43.705200068748304,    
+    "longitude": 7.192551417139956 , 
+    "colorCode": "#FF0000",
+    "colorCode2": "#000000",
+    "league": "L1",
+    "capacity": 36178,
+    "startDate": "2013-07-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Paris",
     "teamCode": "PAR",
     "arena": "Stade Jean-Bouin",
