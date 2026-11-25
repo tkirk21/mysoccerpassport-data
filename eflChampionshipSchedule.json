@@ -1,975 +1,5 @@
 [
   {
-    "id": "EFLC_2026100901",
-    "league": "EFLC",
-    "team": "West Ham United",
-    "opponent": "Queens Park Rangers",
-    "arena": "London Stadium",
-    "city": "London, England",
-    "date": "2026-10-09T19:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101002",
-    "league": "EFLC",
-    "team": "Charlton Athletic",
-    "opponent": "Bristol City",
-    "arena": "The Valley",
-    "city": "London, England",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026101003",
-    "league": "EFLC",
-    "team": "Swansea City",
-    "opponent": "Norwich City",
-    "arena": "Swansea.com Stadium",
-    "city": "Swansea, Wales",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026101004",
-    "league": "EFLC",
-    "team": "West Bromwich Albion",
-    "opponent": "Birmingham City",
-    "arena": "The Hawthorns",
-    "city": "West Bromwich, England",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026101005",
-    "league": "EFLC",
-    "team": "Blackburn Rovers",
-    "opponent": "Cardiff City",
-    "arena": "Ewood Park",
-    "city": "Blackburn, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101006",
-    "league": "EFLC",
-    "team": "Bolton Wanderers",
-    "opponent": "Stoke City",
-    "arena": "Toughsheet Community Stadium",
-    "city": "Bolton, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101007",
-    "league": "EFLC",
-    "team": "Derby County",
-    "opponent": "Wrexham",
-    "arena": "Pride Park Stadium",
-    "city": "derby, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101008",
-    "league": "EFLC",
-    "team": "Middlesbrough",
-    "opponent": "Wolverhampton Wanderers",
-    "arena": "Riverside Stadium",
-    "city": "Middlesbrough, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101009",
-    "league": "EFLC",
-    "team": "Preston North End",
-    "opponent": "Millwall",
-    "arena": "Deepdale",
-    "city": "Preston, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101010",
-    "league": "EFLC",
-    "team": "Sheffield United",
-    "opponent": "Lincoln City",
-    "arena": "Bramall Lane",
-    "city": "Sheffield, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101011",
-    "league": "EFLC",
-    "team": "Watford",
-    "opponent": "Burnley",
-    "arena": "Vicarage Road Stadium",
-    "city": "Watford, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101112",
-    "league": "EFLC",
-    "team": "Southampton",
-    "opponent": "Portsmouth",
-    "arena": "St Mary's Stadium",
-    "city": "Southampton, England",
-    "date": "2026-10-11T11:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101313",
-    "league": "EFLC",
-    "team": "Bristol City",
-    "opponent": "Blackburn Rovers",
-    "arena": "Ashton Gate",
-    "city": "Bristol, England",
-    "date": "2026-10-13T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101314",
-    "league": "EFLC",
-    "team": "Burnley",
-    "opponent": "Charlton Athletic",
-    "arena": "Turf Moor",
-    "city": "Burnley, England",
-    "date": "2026-10-13T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101315",
-    "league": "EFLC",
-    "team": "Cardiff City",
-    "opponent": "Watford",
-    "arena": "Cardiff City Stadium",
-    "city": "Cardiff, Wales",
-    "date": "2026-10-13T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101316",
-    "league": "EFLC",
-    "team": "Millwall",
-    "opponent": "Swansea City",
-    "arena": "The Den",
-    "city": "London, England",
-    "date": "2026-10-13T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101317",
-    "league": "EFLC",
-    "team": "Wolverhampton Wanderers",
-    "opponent": "Bolton Wanderers",
-    "arena": "Molineux Stadium",
-    "city": "Wolverhampton, England",
-    "date": "2026-10-13T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101318",
-    "league": "EFLC",
-    "team": "Wrexham",
-    "opponent": "West Bromwich Albion",
-    "arena": "Racecourse Ground",
-    "city": "Wrexham, Wales",
-    "date": "2026-10-13T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101319",
-    "league": "EFLC",
-    "team": "Birmingham City",
-    "opponent": "Preston North End",
-    "arena": "St. Andrew's @ Knighthead Park",
-    "city": "Birmingham, England",
-    "date": "2026-10-13T19:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101320",
-    "league": "EFLC",
-    "team": "Stoke City",
-    "opponent": "Middlesbrough",
-    "arena": "bet365 Stadium",
-    "city": "Stoke-on-Trent, England",
-    "date": "2026-10-13T19:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101421",
-    "league": "EFLC",
-    "team": "Norwich City",
-    "opponent": "Southampton",
-    "arena": "Carrow Road",
-    "city": "Norwich, England",
-    "date": "2026-10-14T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101422",
-    "league": "EFLC",
-    "team": "Portsmouth",
-    "opponent": "Sheffield United",
-    "arena": "Fratton Park",
-    "city": "Portsmouth, England",
-    "date": "2026-10-14T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101423",
-    "league": "EFLC",
-    "team": "Queens Park Rangers",
-    "opponent": "Derby County",
-    "arena": "MATRADE Loftus Road Stadium",
-    "city": "London, England",
-    "date": "2026-10-14T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026101424",
-    "league": "EFLC",
-    "team": "Lincoln City",
-    "opponent": "West Ham United",
-    "arena": "ProAmpac Stadium",
-    "city": "Lincoln, England",
-    "date": "2026-10-14T19:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101625",
-    "league": "EFLC",
-    "team": "Burnley",
-    "opponent": "Wolverhampton Wanderers",
-    "arena": "Turf Moor",
-    "city": "Burnley, England",
-    "date": "2026-10-16T19:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101726",
-    "league": "EFLC",
-    "team": "Middlesbrough",
-    "opponent": "Cardiff City",
-    "arena": "Riverside Stadium",
-    "city": "Middlesbrough, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026101727",
-    "league": "EFLC",
-    "team": "Millwall",
-    "opponent": "Lincoln City",
-    "arena": "The Den",
-    "city": "London, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026101728",
-    "league": "EFLC",
-    "team": "Watford",
-    "opponent": "Charlton Athletic",
-    "arena": "Vicarage Road Stadium",
-    "city": "Watford, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026101729",
-    "league": "EFLC",
-    "team": "Birmingham City",
-    "opponent": "Queens Park Rangers",
-    "arena": "St. Andrew's @ Knighthead Park",
-    "city": "Birmingham, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101730",
-    "league": "EFLC",
-    "team": "Bristol City",
-    "opponent": "Sheffield United",
-    "arena": "Ashton Gate",
-    "city": "Bristol, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101731",
-    "league": "EFLC",
-    "team": "Derby County",
-    "opponent": "Stoke City",
-    "arena": "Pride Park Stadium",
-    "city": "derby, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101732",
-    "league": "EFLC",
-    "team": "Norwich City",
-    "opponent": "Portsmouth",
-    "arena": "Carrow Road",
-    "city": "Norwich, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101733",
-    "league": "EFLC",
-    "team": "Southampton",
-    "opponent": "Bolton Wanderers",
-    "arena": "St Mary's Stadium",
-    "city": "Southampton, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101734",
-    "league": "EFLC",
-    "team": "Swansea City",
-    "opponent": "West Ham United",
-    "arena": "Swansea.com Stadium",
-    "city": "Swansea, Wales",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101735",
-    "league": "EFLC",
-    "team": "West Bromwich Albion",
-    "opponent": "Blackburn Rovers",
-    "arena": "The Hawthorns",
-    "city": "West Bromwich, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026101736",
-    "league": "EFLC",
-    "team": "Wrexham",
-    "opponent": "Preston North End",
-    "arena": "Racecourse Ground",
-    "city": "Wrexham, Wales",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102037",
-    "league": "EFLC",
-    "team": "Wolverhampton Wanderers",
-    "opponent": "Portsmouth",
-    "arena": "Molineux Stadium",
-    "city": "Wolverhampton, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026102338",
-    "league": "EFLC",
-    "team": "Bolton Wanderers",
-    "opponent": "Middlesbrough",
-    "arena": "Toughsheet Community Stadium",
-    "city": "Bolton, England",
-    "date": "2026-10-23T19:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102439",
-    "league": "EFLC",
-    "team": "Charlton Athletic",
-    "opponent": "Norwich City",
-    "arena": "The Valley",
-    "city": "London, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026102440",
-    "league": "EFLC",
-    "team": "Portsmouth",
-    "opponent": "Millwall",
-    "arena": "Fratton Park",
-    "city": "Portsmouth, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026102441",
-    "league": "EFLC",
-    "team": "Sheffield United",
-    "opponent": "Derby County",
-    "arena": "Bramall Lane",
-    "city": "Sheffield, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026102442",
-    "league": "EFLC",
-    "team": "Blackburn Rovers",
-    "opponent": "Wrexham",
-    "arena": "Ewood Park",
-    "city": "Blackburn, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102443",
-    "league": "EFLC",
-    "team": "Cardiff City",
-    "opponent": "Birmingham City",
-    "arena": "Cardiff City Stadium",
-    "city": "Cardiff, Wales",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102444",
-    "league": "EFLC",
-    "team": "Lincoln City",
-    "opponent": "Burnley",
-    "arena": "ProAmpac Stadium",
-    "city": "Lincoln, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102445",
-    "league": "EFLC",
-    "team": "Preston North End",
-    "opponent": "West Bromwich Albion",
-    "arena": "Deepdale",
-    "city": "Preston, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102446",
-    "league": "EFLC",
-    "team": "Queens Park Rangers",
-    "opponent": "Swansea City",
-    "arena": "MATRADE Loftus Road Stadium",
-    "city": "London, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102447",
-    "league": "EFLC",
-    "team": "Stoke City",
-    "opponent": "Bristol City",
-    "arena": "bet365 Stadium",
-    "city": "Stoke-on-Trent, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102448",
-    "league": "EFLC",
-    "team": "West Ham United",
-    "opponent": "Southampton",
-    "arena": "London Stadium",
-    "city": "London, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026102449",
-    "league": "EFLC",
-    "team": "Wolverhampton Wanderers",
-    "opponent": "Watford",
-    "arena": "Molineux Stadium",
-    "city": "Wolverhampton, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103050",
-    "league": "EFLC",
-    "team": "Sheffield United",
-    "opponent": "Wrexham",
-    "arena": "Bramall Lane",
-    "city": "Sheffield, England",
-    "date": "2026-10-30T20:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103151",
-    "league": "EFLC",
-    "team": "Lincoln City",
-    "opponent": "Birmingham City",
-    "arena": "ProAmpac Stadium",
-    "city": "Lincoln, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026103152",
-    "league": "EFLC",
-    "team": "Norwich City",
-    "opponent": "Watford",
-    "arena": "Carrow Road",
-    "city": "Norwich, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026103153",
-    "league": "EFLC",
-    "team": "Stoke City",
-    "opponent": "Preston North End",
-    "arena": "bet365 Stadium",
-    "city": "Stoke-on-Trent, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026103154",
-    "league": "EFLC",
-    "team": "Bolton Wanderers",
-    "opponent": "Bristol City",
-    "arena": "Toughsheet Community Stadium",
-    "city": "Bolton, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103155",
-    "league": "EFLC",
-    "team": "Burnley",
-    "opponent": "Portsmouth",
-    "arena": "Turf Moor",
-    "city": "Burnley, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103156",
-    "league": "EFLC",
-    "team": "Middlesbrough",
-    "opponent": "Charlton Athletic",
-    "arena": "Riverside Stadium",
-    "city": "Middlesbrough, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103157",
-    "league": "EFLC",
-    "team": "Millwall",
-    "opponent": "Derby County",
-    "arena": "The Den",
-    "city": "London, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103158",
-    "league": "EFLC",
-    "team": "Southampton",
-    "opponent": "Queens Park Rangers",
-    "arena": "St Mary's Stadium",
-    "city": "Southampton, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103159",
-    "league": "EFLC",
-    "team": "Swansea City",
-    "opponent": "Blackburn Rovers",
-    "arena": "Swansea.com Stadium",
-    "city": "Swansea, Wales",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103160",
-    "league": "EFLC",
-    "team": "West Ham United",
-    "opponent": "West Bromwich Albion",
-    "arena": "London Stadium",
-    "city": "London, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026103161",
-    "league": "EFLC",
-    "team": "Wolverhampton Wanderers",
-    "opponent": "Cardiff City",
-    "arena": "Molineux Stadium",
-    "city": "Wolverhampton, England",
-    "date": "2026-10-31T15:00Z"
-  },
-
-  {
-    "id": "EFLC_2026110301",
-    "league": "EFLC",
-    "team": "Blackburn Rovers",
-    "opponent": "Stoke City",
-    "arena": "Ewood Park",
-    "city": "Blackburn, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110302",
-    "league": "EFLC",
-    "team": "Charlton Athletic",
-    "opponent": "Bolton Wanderers",
-    "arena": "The Valley",
-    "city": "London, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110303",
-    "league": "EFLC",
-    "team": "Derby County",
-    "opponent": "Norwich City",
-    "arena": "Pride Park Stadium",
-    "city": "derby, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110304",
-    "league": "EFLC",
-    "team": "Portsmouth",
-    "opponent": "Swansea City",
-    "arena": "Fratton Park",
-    "city": "Portsmouth, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110305",
-    "league": "EFLC",
-    "team": "Preston North End",
-    "opponent": "Sheffield United",
-    "arena": "Deepdale",
-    "city": "Preston, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110306",
-    "league": "EFLC",
-    "team": "Queens Park Rangers",
-    "opponent": "Burnley",
-    "arena": "MATRADE Loftus Road Stadium",
-    "city": "London, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110307",
-    "league": "EFLC",
-    "team": "Watford",
-    "opponent": "Lincoln City",
-    "arena": "Vicarage Road Stadium",
-    "city": "Watford, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110308",
-    "league": "EFLC",
-    "team": "Birmingham City",
-    "opponent": "Millwall",
-    "arena": "St. Andrew's @ Knighthead Park",
-    "city": "Birmingham, England",
-    "date": "2026-11-03T20:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110309",
-    "league": "EFLC",
-    "team": "West Bromwich Albion",
-    "opponent": "Southampton",
-    "arena": "The Hawthorns",
-    "city": "West Bromwich, England",
-    "date": "2026-11-03T20:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110410",
-    "league": "EFLC",
-    "team": "Cardiff City",
-    "opponent": "West Ham United",
-    "arena": "Cardiff City Stadium",
-    "city": "Cardiff, Wales",
-    "date": "2026-11-04T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110411",
-    "league": "EFLC",
-    "team": "Wrexham",
-    "opponent": "Middlesbrough",
-    "arena": "Racecourse Ground",
-    "city": "Wrexham, Wales",
-    "date": "2026-11-04T19:45Z"
-  },
-  
-  {
-    "id": "EFLC_2026110412",
-    "league": "EFLC",
-    "team": "Bristol City",
-    "opponent": "Wolverhampton Wanderers",
-    "arena": "Ashton Gate",
-    "city": "Bristol, England",
-    "date": "2026-11-04T20:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110613",
-    "league": "EFLC",
-    "team": "Derby County",
-    "opponent": "Bolton Wanderers",
-    "arena": "Pride Park Stadium",
-    "city": "derby, England",
-    "date": "2026-11-06T20:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110714",
-    "league": "EFLC",
-    "team": "Bristol City",
-    "opponent": "Norwich City",
-    "arena": "Ashton Gate",
-    "city": "Bristol, England",
-    "date": "2026-11-07T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026110715",
-    "league": "EFLC",
-    "team": "Portsmouth",
-    "opponent": "Stoke City",
-    "arena": "Fratton Park",
-    "city": "Portsmouth, England",
-    "date": "2026-11-07T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026110716",
-    "league": "EFLC",
-    "team": "Wrexham",
-    "opponent": "Wolverhampton Wanderers",
-    "arena": "Racecourse Ground",
-    "city": "Wrexham, Wales",
-    "date": "2026-11-07T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026110717",
-    "league": "EFLC",
-    "team": "Birmingham City",
-    "opponent": "Swansea City",
-    "arena": "St. Andrew's @ Knighthead Park",
-    "city": "Birmingham, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110718",
-    "league": "EFLC",
-    "team": "Blackburn Rovers",
-    "opponent": "West Ham United",
-    "arena": "Ewood Park",
-    "city": "Blackburn, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110719",
-    "league": "EFLC",
-    "team": "Cardiff City",
-    "opponent": "Burnley",
-    "arena": "Cardiff City Stadium",
-    "city": "Cardiff, Wales",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110720",
-    "league": "EFLC",
-    "team": "Charlton Athletic",
-    "opponent": "Sheffield United",
-    "arena": "The Valley",
-    "city": "London, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110721",
-    "league": "EFLC",
-    "team": "Preston North End",
-    "opponent": "Southampton",
-    "arena": "Deepdale",
-    "city": "Preston, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110722",
-    "league": "EFLC",
-    "team": "Queens Park Rangers",
-    "opponent": "Lincoln City",
-    "arena": "MATRADE Loftus Road Stadium",
-    "city": "London, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110723",
-    "league": "EFLC",
-    "team": "Watford",
-    "opponent": "Middlesbrough",
-    "arena": "Vicarage Road Stadium",
-    "city": "Watford, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026110724",
-    "league": "EFLC",
-    "team": "West Bromwich Albion",
-    "opponent": "Millwall",
-    "arena": "The Hawthorns",
-    "city": "West Bromwich, England",
-    "date": "2026-11-07T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112125",
-    "league": "EFLC",
-    "team": "Millwall",
-    "opponent": "Queens Park Rangers",
-    "arena": "The Den",
-    "city": "London, England",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026112126",
-    "league": "EFLC",
-    "team": "Norwich City",
-    "opponent": "Cardiff City",
-    "arena": "Carrow Road",
-    "city": "Norwich, England",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026112127",
-    "league": "EFLC",
-    "team": "Southampton",
-    "opponent": "Derby County",
-    "arena": "St Mary's Stadium",
-    "city": "Southampton, England",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFLC_2026112128",
-    "league": "EFLC",
-    "team": "Bolton Wanderers",
-    "opponent": "Portsmouth",
-    "arena": "Toughsheet Community Stadium",
-    "city": "Bolton, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112129",
-    "league": "EFLC",
-    "team": "Lincoln City",
-    "opponent": "Wrexham",
-    "arena": "ProAmpac Stadium",
-    "city": "Lincoln, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112130",
-    "league": "EFLC",
-    "team": "Middlesbrough",
-    "opponent": "Bristol City",
-    "arena": "Riverside Stadium",
-    "city": "Middlesbrough, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112131",
-    "league": "EFLC",
-    "team": "Sheffield United",
-    "opponent": "Watford",
-    "arena": "Bramall Lane",
-    "city": "Sheffield, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112132",
-    "league": "EFLC",
-    "team": "Stoke City",
-    "opponent": "Birmingham City",
-    "arena": "bet365 Stadium",
-    "city": "Stoke-on-Trent, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112133",
-    "league": "EFLC",
-    "team": "Swansea City",
-    "opponent": "West Bromwich Albion",
-    "arena": "Swansea.com Stadium",
-    "city": "Swansea, Wales",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112134",
-    "league": "EFLC",
-    "team": "West Ham United",
-    "opponent": "Preston North End",
-    "arena": "London Stadium",
-    "city": "London, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112135",
-    "league": "EFLC",
-    "team": "Wolverhampton Wanderers",
-    "opponent": "Charlton Athletic",
-    "arena": "Molineux Stadium",
-    "city": "Wolverhampton, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFLC_2026112236",
-    "league": "EFLC",
-    "team": "Burnley",
-    "opponent": "Blackburn Rovers",
-    "arena": "Turf Moor",
-    "city": "Burnley, England",
-    "date": "2026-11-22T12:00Z"
-  },
-  
-  {
     "id": "EFLC_2026112437",
     "league": "EFLC",
     "team": "Bristol City",
@@ -1927,5 +957,604 @@
     "arena": "St Mary's Stadium",
     "city": "Southampton, England",
     "date": "2026-12-29T20:15Z"
-  }
+  },
+  {
+  "id": "EFLC_2027010101",
+  "league": "EFLC",
+  "team": "Millwall",
+  "opponent": "Wolverhampton Wanderers",
+  "arena": "The Den",
+  "city": "London, England",
+  "date": "2027-01-01T12:30Z"
+},
+
+{
+  "id": "EFLC_2027010102",
+  "league": "EFLC",
+  "team": "Birmingham City",
+  "opponent": "Portsmouth",
+  "arena": "St. Andrew's @ Knighthead Park",
+  "city": "Birmingham, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010103",
+  "league": "EFLC",
+  "team": "Bristol City",
+  "opponent": "West Ham United",
+  "arena": "Ashton Gate",
+  "city": "Bristol, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010104",
+  "league": "EFLC",
+  "team": "Derby County",
+  "opponent": "Blackburn Rovers",
+  "arena": "Pride Park Stadium",
+  "city": "derby, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010105",
+  "league": "EFLC",
+  "team": "Middlesbrough",
+  "opponent": "Preston North End",
+  "arena": "Riverside Stadium",
+  "city": "Middlesbrough, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010106",
+  "league": "EFLC",
+  "team": "Norwich City",
+  "opponent": "Lincoln City",
+  "arena": "Carrow Road",
+  "city": "Norwich, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010107",
+  "league": "EFLC",
+  "team": "Southampton",
+  "opponent": "Cardiff City",
+  "arena": "St Mary's Stadium",
+  "city": "Southampton, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010108",
+  "league": "EFLC",
+  "team": "Swansea City",
+  "opponent": "Charlton Athletic",
+  "arena": "Swansea.com Stadium",
+  "city": "Swansea, Wales",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010109",
+  "league": "EFLC",
+  "team": "Watford",
+  "opponent": "Queens Park Rangers",
+  "arena": "Vicarage Road Stadium",
+  "city": "Watford, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010110",
+  "league": "EFLC",
+  "team": "West Bromwich Albion",
+  "opponent": "Stoke City",
+  "arena": "The Hawthorns",
+  "city": "West Bromwich, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010111",
+  "league": "EFLC",
+  "team": "Wrexham",
+  "opponent": "Bolton Wanderers",
+  "arena": "Racecourse Ground",
+  "city": "Wrexham, Wales",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFLC_2027010112",
+  "league": "EFLC",
+  "team": "Burnley",
+  "opponent": "Sheffield United",
+  "arena": "Turf Moor",
+  "city": "Burnley, England",
+  "date": "2027-01-01T17:30Z"
+},
+
+{
+  "id": "EFLC_2027011513",
+  "league": "EFLC",
+  "team": "West Ham United",
+  "opponent": "Swansea City",
+  "arena": "London Stadium",
+  "city": "London, England",
+  "date": "2027-01-15T20:00Z"
+},
+
+{
+  "id": "EFLC_2027011614",
+  "league": "EFLC",
+  "team": "Queens Park Rangers",
+  "opponent": "Birmingham City",
+  "arena": "MATRADE Loftus Road Stadium",
+  "city": "London, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFLC_2027011615",
+  "league": "EFLC",
+  "team": "Stoke City",
+  "opponent": "Derby County",
+  "arena": "bet365 Stadium",
+  "city": "Stoke-on-Trent, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFLC_2027011616",
+  "league": "EFLC",
+  "team": "Wolverhampton Wanderers",
+  "opponent": "Burnley",
+  "arena": "Molineux Stadium",
+  "city": "Wolverhampton, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFLC_2027011617",
+  "league": "EFLC",
+  "team": "Blackburn Rovers",
+  "opponent": "West Bromwich Albion",
+  "arena": "Ewood Park",
+  "city": "Blackburn, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011618",
+  "league": "EFLC",
+  "team": "Bolton Wanderers",
+  "opponent": "Southampton",
+  "arena": "Toughsheet Community Stadium",
+  "city": "Bolton, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011619",
+  "league": "EFLC",
+  "team": "Cardiff City",
+  "opponent": "Middlesbrough",
+  "arena": "Cardiff City Stadium",
+  "city": "Cardiff, Wales",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011620",
+  "league": "EFLC",
+  "team": "Lincoln City",
+  "opponent": "Millwall",
+  "arena": "ProAmpac Stadium",
+  "city": "Lincoln, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011621",
+  "league": "EFLC",
+  "team": "Portsmouth",
+  "opponent": "Norwich City",
+  "arena": "Fratton Park",
+  "city": "Portsmouth, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011622",
+  "league": "EFLC",
+  "team": "Preston North End",
+  "opponent": "Wrexham",
+  "arena": "Deepdale",
+  "city": "Preston, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011623",
+  "league": "EFLC",
+  "team": "Sheffield United",
+  "opponent": "Bristol City",
+  "arena": "Bramall Lane",
+  "city": "Sheffield, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFLC_2027011724",
+  "league": "EFLC",
+  "team": "Charlton Athletic",
+  "opponent": "Watford",
+  "arena": "The Valley",
+  "city": "London, England",
+  "date": "2027-01-17T12:00Z"
+},
+
+{
+  "id": "EFLC_2027012225",
+  "league": "EFLC",
+  "team": "Preston North End",
+  "opponent": "Stoke City",
+  "arena": "Deepdale",
+  "city": "Preston, England",
+  "date": "2027-01-22T20:00Z"
+},
+
+{
+  "id": "EFLC_2027012326",
+  "league": "EFLC",
+  "team": "Birmingham City",
+  "opponent": "Lincoln City",
+  "arena": "St. Andrew's @ Knighthead Park",
+  "city": "Birmingham, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFLC_2027012327",
+  "league": "EFLC",
+  "team": "Queens Park Rangers",
+  "opponent": "Southampton",
+  "arena": "MATRADE Loftus Road Stadium",
+  "city": "London, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFLC_2027012328",
+  "league": "EFLC",
+  "team": "West Bromwich Albion",
+  "opponent": "West Ham United",
+  "arena": "The Hawthorns",
+  "city": "West Bromwich, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFLC_2027012329",
+  "league": "EFLC",
+  "team": "Blackburn Rovers",
+  "opponent": "Swansea City",
+  "arena": "Ewood Park",
+  "city": "Blackburn, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012330",
+  "league": "EFLC",
+  "team": "Bristol City",
+  "opponent": "Bolton Wanderers",
+  "arena": "Ashton Gate",
+  "city": "Bristol, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012331",
+  "league": "EFLC",
+  "team": "Charlton Athletic",
+  "opponent": "Middlesbrough",
+  "arena": "The Valley",
+  "city": "London, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012332",
+  "league": "EFLC",
+  "team": "Derby County",
+  "opponent": "Millwall",
+  "arena": "Pride Park Stadium",
+  "city": "derby, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012333",
+  "league": "EFLC",
+  "team": "Portsmouth",
+  "opponent": "Burnley",
+  "arena": "Fratton Park",
+  "city": "Portsmouth, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012334",
+  "league": "EFLC",
+  "team": "Watford",
+  "opponent": "Norwich City",
+  "arena": "Vicarage Road Stadium",
+  "city": "Watford, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012335",
+  "league": "EFLC",
+  "team": "Wrexham",
+  "opponent": "Sheffield United",
+  "arena": "Racecourse Ground",
+  "city": "Wrexham, Wales",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFLC_2027012436",
+  "league": "EFLC",
+  "team": "Cardiff City",
+  "opponent": "Wolverhampton Wanderers",
+  "arena": "Cardiff City Stadium",
+  "city": "Cardiff, Wales",
+  "date": "2027-01-24T12:00Z"
+},
+
+{
+  "id": "EFLC_2027012637",
+  "league": "EFLC",
+  "team": "Bolton Wanderers",
+  "opponent": "Charlton Athletic",
+  "arena": "Toughsheet Community Stadium",
+  "city": "Bolton, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012638",
+  "league": "EFLC",
+  "team": "Burnley",
+  "opponent": "Queens Park Rangers",
+  "arena": "Turf Moor",
+  "city": "Burnley, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012639",
+  "league": "EFLC",
+  "team": "Lincoln City",
+  "opponent": "Watford",
+  "arena": "ProAmpac Stadium",
+  "city": "Lincoln, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012640",
+  "league": "EFLC",
+  "team": "Millwall",
+  "opponent": "Birmingham City",
+  "arena": "The Den",
+  "city": "London, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012641",
+  "league": "EFLC",
+  "team": "Sheffield United",
+  "opponent": "Preston North End",
+  "arena": "Bramall Lane",
+  "city": "Sheffield, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012642",
+  "league": "EFLC",
+  "team": "Southampton",
+  "opponent": "West Bromwich Albion",
+  "arena": "St Mary's Stadium",
+  "city": "Southampton, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012643",
+  "league": "EFLC",
+  "team": "Stoke City",
+  "opponent": "Blackburn Rovers",
+  "arena": "bet365 Stadium",
+  "city": "Stoke-on-Trent, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012644",
+  "league": "EFLC",
+  "team": "Norwich City",
+  "opponent": "Derby County",
+  "arena": "Carrow Road",
+  "city": "Norwich, England",
+  "date": "2027-01-26T20:00Z"
+},
+
+{
+  "id": "EFLC_2027012745",
+  "league": "EFLC",
+  "team": "Middlesbrough",
+  "opponent": "Wrexham",
+  "arena": "Riverside Stadium",
+  "city": "Middlesbrough, England",
+  "date": "2027-01-27T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012746",
+  "league": "EFLC",
+  "team": "West Ham United",
+  "opponent": "Cardiff City",
+  "arena": "London Stadium",
+  "city": "London, England",
+  "date": "2027-01-27T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012747",
+  "league": "EFLC",
+  "team": "Wolverhampton Wanderers",
+  "opponent": "Bristol City",
+  "arena": "Molineux Stadium",
+  "city": "Wolverhampton, England",
+  "date": "2027-01-27T19:45Z"
+},
+
+{
+  "id": "EFLC_2027012748",
+  "league": "EFLC",
+  "team": "Swansea City",
+  "opponent": "Portsmouth",
+  "arena": "Swansea.com Stadium",
+  "city": "Swansea, Wales",
+  "date": "2027-01-27T20:00Z"
+},
+
+{
+  "id": "EFLC_2027012949",
+  "league": "EFLC",
+  "team": "Lincoln City",
+  "opponent": "Queens Park Rangers",
+  "arena": "ProAmpac Stadium",
+  "city": "Lincoln, England",
+  "date": "2027-01-29T20:00Z"
+},
+
+{
+  "id": "EFLC_2027013050",
+  "league": "EFLC",
+  "team": "Bolton Wanderers",
+  "opponent": "Derby County",
+  "arena": "Toughsheet Community Stadium",
+  "city": "Bolton, England",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFLC_2027013051",
+  "league": "EFLC",
+  "team": "Swansea City",
+  "opponent": "Birmingham City",
+  "arena": "Swansea.com Stadium",
+  "city": "Swansea, Wales",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFLC_2027013052",
+  "league": "EFLC",
+  "team": "Wolverhampton Wanderers",
+  "opponent": "Wrexham",
+  "arena": "Molineux Stadium",
+  "city": "Wolverhampton, England",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFLC_2027013053",
+  "league": "EFLC",
+  "team": "Burnley",
+  "opponent": "Cardiff City",
+  "arena": "Turf Moor",
+  "city": "Burnley, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013054",
+  "league": "EFLC",
+  "team": "Middlesbrough",
+  "opponent": "Watford",
+  "arena": "Riverside Stadium",
+  "city": "Middlesbrough, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013055",
+  "league": "EFLC",
+  "team": "Millwall",
+  "opponent": "West Bromwich Albion",
+  "arena": "The Den",
+  "city": "London, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013056",
+  "league": "EFLC",
+  "team": "Sheffield United",
+  "opponent": "Charlton Athletic",
+  "arena": "Bramall Lane",
+  "city": "Sheffield, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013057",
+  "league": "EFLC",
+  "team": "Southampton",
+  "opponent": "Preston North End",
+  "arena": "St Mary's Stadium",
+  "city": "Southampton, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013058",
+  "league": "EFLC",
+  "team": "Stoke City",
+  "opponent": "Portsmouth",
+  "arena": "bet365 Stadium",
+  "city": "Stoke-on-Trent, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013059",
+  "league": "EFLC",
+  "team": "West Ham United",
+  "opponent": "Blackburn Rovers",
+  "arena": "London Stadium",
+  "city": "London, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFLC_2027013160",
+  "league": "EFLC",
+  "team": "Norwich City",
+  "opponent": "Bristol City",
+  "arena": "Carrow Road",
+  "city": "Norwich, England",
+  "date": "2027-01-31T12:00Z"
+}
 ]
