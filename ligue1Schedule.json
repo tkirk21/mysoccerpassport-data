@@ -1,3 +1,270 @@
 [
+  {
+  "id": "L1_2026112724",
+  "league": "L1",
+  "team": "Brest",
+  "opponent": "Paris",
+  "arena": "Stade Francis-Le Blé",
+  "city": "Brest, France",
+  "date": "2026-11-27T19:45Z"
+},
 
+{
+  "id": "L1_2026112825",
+  "league": "L1",
+  "team": "Angers",
+  "opponent": "RC Lens",
+  "arena": "Stade Raymond Kopa",
+  "city": "Angers, France",
+  "date": "2026-11-28T16:15Z"
+},
+
+{
+  "id": "L1_2026112826",
+  "league": "L1",
+  "team": "Le Havre",
+  "opponent": "Strasbourg",
+  "arena": "Stade CMA CGM Océane",
+  "city": "Le Havre, France",
+  "date": "2026-11-28T19:45Z"
+},
+
+{
+  "id": "L1_2026112827",
+  "league": "L1",
+  "team": "Le Mans",
+  "opponent": "Lille",
+  "arena": "Stade Marie-Marvingt",
+  "city": "Le Mans, France",
+  "date": "2026-11-28T19:45Z"
+},
+
+{
+  "id": "L1_2026112828",
+  "league": "L1",
+  "team": "Nice",
+  "opponent": "Troyes",
+  "arena": "Allianz Riviera",
+  "city": "Nice, France",
+  "date": "2026-11-28T19:45Z"
+},
+
+{
+  "id": "L1_2026112829",
+  "league": "L1",
+  "team": "Paris Saint-Germain",
+  "opponent": "Lorient",
+  "arena": "Parc des Princes",
+  "city": "Paris, France",
+  "date": "2026-11-28T19:45Z"
+},
+
+{
+  "id": "L1_2026112930",
+  "league": "L1",
+  "team": "Auxerre",
+  "opponent": "Marseille",
+  "arena": "Stade de l'Abbé-Deschamps",
+  "city": "Auxerre, France",
+  "date": "2026-11-29T14:00Z"
+},
+
+{
+  "id": "L1_2026112931",
+  "league": "L1",
+  "team": "Toulouse",
+  "opponent": "Stade Rennais",
+  "arena": "Stadium de Toulouse",
+  "city": "Toulouse, France",
+  "date": "2026-11-29T16:15Z"
+},
+
+{
+  "id": "L1_2026112932",
+  "league": "L1",
+  "team": "Lyon",
+  "opponent": "Monaco",
+  "arena": "Groupama Stadium",
+  "city": "Décines-Charpieu, France",
+  "date": "2026-11-29T19:45Z"
+},
+  {
+  "id": "L1_2026120401",
+  "league": "L1",
+  "team": "Toulouse",
+  "opponent": "Paris Saint-Germain",
+  "arena": "Stadium de Toulouse",
+  "city": "Toulouse, France",
+  "date": "2026-12-04T19:45Z"
+},
+
+{
+  "id": "L1_2026120502",
+  "league": "L1",
+  "team": "Lille",
+  "opponent": "Auxerre",
+  "arena": "Decathlon Arena – Stade Pierre-Mauroy",
+  "city": "Villeneuve-d'Ascq, France",
+  "date": "2026-12-05T16:15Z"
+},
+
+{
+  "id": "L1_2026120503",
+  "league": "L1",
+  "team": "Monaco",
+  "opponent": "Angers",
+  "arena": "Stade Louis II",
+  "city": "Monaco",
+  "date": "2026-12-05T19:45Z"
+},
+
+{
+  "id": "L1_2026120504",
+  "league": "L1",
+  "team": "RC Lens",
+  "opponent": "Le Havre",
+  "arena": "Stade Bollaert-Delelis",
+  "city": "Lens, France",
+  "date": "2026-12-05T19:45Z"
+},
+
+{
+  "id": "L1_2026120505",
+  "league": "L1",
+  "team": "Paris",
+  "opponent": "Le Mans",
+  "arena": "Stade Jean-Bouin",
+  "city": "Paris, France",
+  "date": "2026-12-05T19:45Z"
+},
+
+{
+  "id": "L1_2026120506",
+  "league": "L1",
+  "team": "Strasbourg",
+  "opponent": "Lorient",
+  "arena": "Stade de la Meinau",
+  "city": "Strasbourg, France",
+  "date": "2026-12-05T19:45Z"
+},
+
+{
+  "id": "L1_2026120607",
+  "league": "L1",
+  "team": "Troyes",
+  "opponent": "Lyon",
+  "arena": "Stade de l'Aube",
+  "city": "Troyes, France",
+  "date": "2026-12-06T14:00Z"
+},
+
+{
+  "id": "L1_2026120608",
+  "league": "L1",
+  "team": "Stade Rennais",
+  "opponent": "Brest",
+  "arena": "Roazhon Park",
+  "city": "Rennes, France",
+  "date": "2026-12-06T16:15Z"
+},
+
+{
+  "id": "L1_2026120609",
+  "league": "L1",
+  "team": "Marseille",
+  "opponent": "Nice",
+  "arena": "CEPAC Vélodrome",
+  "city": "Marseille, France",
+  "date": "2026-12-06T19:45Z"
+},
+
+{
+  "id": "L1_2026121110",
+  "league": "L1",
+  "team": "Auxerre",
+  "opponent": "Toulouse",
+  "arena": "Stade de l'Abbé-Deschamps",
+  "city": "Auxerre, France",
+  "date": "2026-12-11T19:45Z"
+},
+
+{
+  "id": "L1_2026121211",
+  "league": "L1",
+  "team": "Paris Saint-Germain",
+  "opponent": "Paris",
+  "arena": "Parc des Princes",
+  "city": "Paris, France",
+  "date": "2026-12-12T16:15Z"
+},
+
+{
+  "id": "L1_2026121212",
+  "league": "L1",
+  "team": "Angers",
+  "opponent": "Strasbourg",
+  "arena": "Stade Raymond Kopa",
+  "city": "Angers, France",
+  "date": "2026-12-12T19:45Z"
+},
+
+{
+  "id": "L1_2026121213",
+  "league": "L1",
+  "team": "Brest",
+  "opponent": "Troyes",
+  "arena": "Stade Francis-Le Blé",
+  "city": "Brest, France",
+  "date": "2026-12-12T19:45Z"
+},
+
+{
+  "id": "L1_2026121214",
+  "league": "L1",
+  "team": "Le Havre",
+  "opponent": "Le Mans",
+  "arena": "Stade CMA CGM Océane",
+  "city": "Le Havre, France",
+  "date": "2026-12-12T19:45Z"
+},
+
+{
+  "id": "L1_2026121215",
+  "league": "L1",
+  "team": "Nice",
+  "opponent": "RC Lens",
+  "arena": "Allianz Riviera",
+  "city": "Nice, France",
+  "date": "2026-12-12T19:45Z"
+},
+
+{
+  "id": "L1_2026121316",
+  "league": "L1",
+  "team": "Lorient",
+  "opponent": "Lille",
+  "arena": "Stade du Moustoir - Yves Allainmat",
+  "city": "Lorient, France",
+  "date": "2026-12-13T14:00Z"
+},
+
+{
+  "id": "L1_2026121317",
+  "league": "L1",
+  "team": "Stade Rennais",
+  "opponent": "Monaco",
+  "arena": "Roazhon Park",
+  "city": "Rennes, France",
+  "date": "2026-12-13T16:15Z"
+},
+
+{
+  "id": "L1_2026121318",
+  "league": "L1",
+  "team": "Lyon",
+  "opponent": "Marseille",
+  "arena": "Groupama Stadium",
+  "city": "Décines-Charpieu, France",
+  "date": "2026-12-13T19:45Z"
+}  
 ]
