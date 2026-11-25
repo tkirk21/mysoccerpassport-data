@@ -1,934 +1,4 @@
-[
-  {
-    "id": "EFL1_2026101009",
-    "league": "EFL1",
-    "team": "Notts County",
-    "opponent": "Oxford United",
-    "arena": "Meadow Lane",
-    "city": "Nottingham, England",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026101010",
-    "league": "EFL1",
-    "team": "Plymouth Argyle",
-    "opponent": "AFC Wimbledon",
-    "arena": "Home Park",
-    "city": "Plymouth, England",
-    "date": "2026-10-10T11:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026101011",
-    "league": "EFL1",
-    "team": "Bradford City",
-    "opponent": "Leyton Orient",
-    "arena": "Valley Parade",
-    "city": "Bradford, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101012",
-    "league": "EFL1",
-    "team": "Cambridge United",
-    "opponent": "Blackpool",
-    "arena": "Abbey Stadium",
-    "city": "Cambridge, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101013",
-    "league": "EFL1",
-    "team": "Doncaster Rovers",
-    "opponent": "Burton Albion",
-    "arena": "Club Doncaster Sports Village",
-    "city": "Doncaster, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101014",
-    "league": "EFL1",
-    "team": "Huddersfield Town",
-    "opponent": "Sheffield Wednesday",
-    "arena": "Accu Stadium",
-    "city": "Huddersfield, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101015",
-    "league": "EFL1",
-    "team": "Leicester City",
-    "opponent": "Peterborough United",
-    "arena": "King Power Stadium",
-    "city": "Leicester, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101016",
-    "league": "EFL1",
-    "team": "Mansfield Town",
-    "opponent": "Bromley",
-    "arena": "One Call Stadium",
-    "city": "Mansfield, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101017",
-    "league": "EFL1",
-    "team": "Milton Keynes Dons",
-    "opponent": "Reading",
-    "arena": "Stadium MK",
-    "city": "Milton Keynes, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101018",
-    "league": "EFL1",
-    "team": "Stevenage",
-    "opponent": "Wigan Athletic",
-    "arena": "SPORTA Arena",
-    "city": "Stevenage, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101019",
-    "league": "EFL1",
-    "team": "Stockport County",
-    "opponent": "Barnsley",
-    "arena": "Edgeley Park",
-    "city": "Stockport, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101020",
-    "league": "EFL1",
-    "team": "Wycombe Wanderers",
-    "opponent": "Luton Town",
-    "arena": "Adams Park",
-    "city": "Wycombe, England",
-    "date": "2026-10-10T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101521",
-    "league": "EFL1",
-    "team": "Mansfield Town",
-    "opponent": "Oxford United",
-    "arena": "One Call Stadium",
-    "city": "Mansfield, England",
-    "date": "2026-10-15T19:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101722",
-    "league": "EFL1",
-    "team": "Milton Keynes Dons",
-    "opponent": "Luton Town",
-    "arena": "Stadium MK",
-    "city": "Milton Keynes, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026101723",
-    "league": "EFL1",
-    "team": "Peterborough United",
-    "opponent": "Burton Albion",
-    "arena": "Weston Homes Stadium",
-    "city": "Peterborough, England",
-    "date": "2026-10-17T11:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026101724",
-    "league": "EFL1",
-    "team": "Barnsley",
-    "opponent": "Cambridge United",
-    "arena": "Oakwell",
-    "city": "Barnsley, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101725",
-    "league": "EFL1",
-    "team": "Bradford City",
-    "opponent": "Stevenage",
-    "arena": "Valley Parade",
-    "city": "Bradford, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101726",
-    "league": "EFL1",
-    "team": "Leicester City",
-    "opponent": "Doncaster Rovers",
-    "arena": "King Power Stadium",
-    "city": "Leicester, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101727",
-    "league": "EFL1",
-    "team": "Leyton Orient",
-    "opponent": "Blackpool",
-    "arena": "BetWright Stadium",
-    "city": "London, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101728",
-    "league": "EFL1",
-    "team": "Plymouth Argyle",
-    "opponent": "Huddersfield Town",
-    "arena": "Home Park",
-    "city": "Plymouth, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101729",
-    "league": "EFL1",
-    "team": "Sheffield Wednesday",
-    "opponent": "AFC Wimbledon",
-    "arena": "Hillsborough Stadium",
-    "city": "Sheffield, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101730",
-    "league": "EFL1",
-    "team": "Stockport County",
-    "opponent": "Bromley",
-    "arena": "Edgeley Park",
-    "city": "Stockport, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101731",
-    "league": "EFL1",
-    "team": "Wigan Athletic",
-    "opponent": "Reading",
-    "arena": "Brick Community Stadium",
-    "city": "Wigan, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026101732",
-    "league": "EFL1",
-    "team": "Wycombe Wanderers",
-    "opponent": "Notts County",
-    "arena": "Adams Park",
-    "city": "Wycombe, England",
-    "date": "2026-10-17T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102033",
-    "league": "EFL1",
-    "team": "AFC Wimbledon",
-    "opponent": "Mansfield Town",
-    "arena": "Plough Lane",
-    "city": "London, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102034",
-    "league": "EFL1",
-    "team": "Blackpool",
-    "opponent": "Milton Keynes Dons",
-    "arena": "Bloomfield Road",
-    "city": "Blackpool, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102035",
-    "league": "EFL1",
-    "team": "Bromley",
-    "opponent": "Leicester City",
-    "arena": "Hayes Lane",
-    "city": "Bromley, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102036",
-    "league": "EFL1",
-    "team": "Burton Albion",
-    "opponent": "Bradford City",
-    "arena": "Pirelli Stadium",
-    "city": "Burton-on-Trent, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102037",
-    "league": "EFL1",
-    "team": "Cambridge United",
-    "opponent": "Wycombe Wanderers",
-    "arena": "Abbey Stadium",
-    "city": "Cambridge, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102038",
-    "league": "EFL1",
-    "team": "Doncaster Rovers",
-    "opponent": "Stockport County",
-    "arena": "Club Doncaster Sports Village",
-    "city": "Doncaster, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102039",
-    "league": "EFL1",
-    "team": "Huddersfield Town",
-    "opponent": "Peterborough United",
-    "arena": "Accu Stadium",
-    "city": "Huddersfield, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102040",
-    "league": "EFL1",
-    "team": "Luton Town",
-    "opponent": "Barnsley",
-    "arena": "Kenilworth Road",
-    "city": "Luton, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102041",
-    "league": "EFL1",
-    "team": "Notts County",
-    "opponent": "Sheffield Wednesday",
-    "arena": "Meadow Lane",
-    "city": "Nottingham, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102042",
-    "league": "EFL1",
-    "team": "Oxford United",
-    "opponent": "Wigan Athletic",
-    "arena": "Kassam Stadium",
-    "city": "Oxford, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102043",
-    "league": "EFL1",
-    "team": "Stevenage",
-    "opponent": "Plymouth Argyle",
-    "arena": "SPORTA Arena",
-    "city": "Stevenage, England",
-    "date": "2026-10-20T18:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102144",
-    "league": "EFL1",
-    "team": "Reading",
-    "opponent": "Leyton Orient",
-    "arena": "Select Car Leasing Stadium",
-    "city": "Reading, England",
-    "date": "2026-10-21T19:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102445",
-    "league": "EFL1",
-    "team": "Huddersfield Town",
-    "opponent": "Wigan Athletic",
-    "arena": "Accu Stadium",
-    "city": "Huddersfield, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026102446",
-    "league": "EFL1",
-    "team": "Luton Town",
-    "opponent": "Leicester City",
-    "arena": "Kenilworth Road",
-    "city": "Luton, England",
-    "date": "2026-10-24T11:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026102447",
-    "league": "EFL1",
-    "team": "AFC Wimbledon",
-    "opponent": "Wycombe Wanderers",
-    "arena": "Plough Lane",
-    "city": "London, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102448",
-    "league": "EFL1",
-    "team": "Blackpool",
-    "opponent": "Mansfield Town",
-    "arena": "Bloomfield Road",
-    "city": "Blackpool, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102449",
-    "league": "EFL1",
-    "team": "Bromley",
-    "opponent": "Peterborough United",
-    "arena": "Hayes Lane",
-    "city": "Bromley, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102450",
-    "league": "EFL1",
-    "team": "Burton Albion",
-    "opponent": "Leyton Orient",
-    "arena": "Pirelli Stadium",
-    "city": "Burton-on-Trent, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102451",
-    "league": "EFL1",
-    "team": "Cambridge United",
-    "opponent": "Plymouth Argyle",
-    "arena": "Abbey Stadium",
-    "city": "Cambridge, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102452",
-    "league": "EFL1",
-    "team": "Doncaster Rovers",
-    "opponent": "Sheffield Wednesday",
-    "arena": "Club Doncaster Sports Village",
-    "city": "Doncaster, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102453",
-    "league": "EFL1",
-    "team": "Notts County",
-    "opponent": "Stockport County",
-    "arena": "Meadow Lane",
-    "city": "Nottingham, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102454",
-    "league": "EFL1",
-    "team": "Oxford United",
-    "opponent": "Bradford City",
-    "arena": "Kassam Stadium",
-    "city": "Oxford, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102455",
-    "league": "EFL1",
-    "team": "Reading",
-    "opponent": "Barnsley",
-    "arena": "Select Car Leasing Stadium",
-    "city": "Reading, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102456",
-    "league": "EFL1",
-    "team": "Stevenage",
-    "opponent": "Milton Keynes Dons",
-    "arena": "SPORTA Arena",
-    "city": "Stevenage, England",
-    "date": "2026-10-24T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026102757",
-    "league": "EFL1",
-    "team": "Leicester City",
-    "opponent": "Wigan Athletic",
-    "arena": "King Power Stadium",
-    "city": "Leicester, England",
-    "date": "2026-10-27T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102758",
-    "league": "EFL1",
-    "team": "Luton Town",
-    "opponent": "Doncaster Rovers",
-    "arena": "Kenilworth Road",
-    "city": "Luton, England",
-    "date": "2026-10-27T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102759",
-    "league": "EFL1",
-    "team": "Oxford United",
-    "opponent": "Stockport County",
-    "arena": "Kassam Stadium",
-    "city": "Oxford, England",
-    "date": "2026-10-27T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026102760",
-    "league": "EFL1",
-    "team": "Sheffield Wednesday",
-    "opponent": "Cambridge United",
-    "arena": "Hillsborough Stadium",
-    "city": "Sheffield, England",
-    "date": "2026-10-27T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026103161",
-    "league": "EFL1",
-    "team": "Bradford City",
-    "opponent": "Huddersfield Town",
-    "arena": "Valley Parade",
-    "city": "Bradford, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026103162",
-    "league": "EFL1",
-    "team": "Leyton Orient",
-    "opponent": "Cambridge United",
-    "arena": "BetWright Stadium",
-    "city": "London, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026103163",
-    "league": "EFL1",
-    "team": "Plymouth Argyle",
-    "opponent": "Reading",
-    "arena": "Home Park",
-    "city": "Plymouth, England",
-    "date": "2026-10-31T12:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026103164",
-    "league": "EFL1",
-    "team": "Barnsley",
-    "opponent": "Oxford United",
-    "arena": "Oakwell",
-    "city": "Barnsley, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103165",
-    "league": "EFL1",
-    "team": "Leicester City",
-    "opponent": "Stevenage",
-    "arena": "King Power Stadium",
-    "city": "Leicester, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103166",
-    "league": "EFL1",
-    "team": "Mansfield Town",
-    "opponent": "Notts County",
-    "arena": "One Call Stadium",
-    "city": "Mansfield, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103167",
-    "league": "EFL1",
-    "team": "Milton Keynes Dons",
-    "opponent": "Doncaster Rovers",
-    "arena": "Stadium MK",
-    "city": "Milton Keynes, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103168",
-    "league": "EFL1",
-    "team": "Peterborough United",
-    "opponent": "Luton Town",
-    "arena": "Weston Homes Stadium",
-    "city": "Peterborough, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103169",
-    "league": "EFL1",
-    "team": "Stockport County",
-    "opponent": "AFC Wimbledon",
-    "arena": "Edgeley Park",
-    "city": "Stockport, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103170",
-    "league": "EFL1",
-    "team": "Wigan Athletic",
-    "opponent": "Bromley",
-    "arena": "Brick Community Stadium",
-    "city": "Wigan, England",
-    "date": "2026-10-31T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026103171",
-    "league": "EFL1",
-    "team": "Wycombe Wanderers",
-    "opponent": "Burton Albion",
-    "arena": "Adams Park",
-    "city": "Wycombe, England",
-    "date": "2026-10-31T15:00Z"
-  },
-
-  {
-    "id": "EFL1_2026110101",
-    "league": "EFL1",
-    "team": "Sheffield Wednesday",
-    "opponent": "Blackpool",
-    "arena": "Hillsborough Stadium",
-    "city": "Sheffield, England",
-    "date": "2026-11-01T14:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026110302",
-    "league": "EFL1",
-    "team": "Huddersfield Town",
-    "opponent": "Luton Town",
-    "arena": "Accu Stadium",
-    "city": "Huddersfield, England",
-    "date": "2026-11-03T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026110403",
-    "league": "EFL1",
-    "team": "Oxford United",
-    "opponent": "Reading",
-    "arena": "Kassam Stadium",
-    "city": "Oxford, England",
-    "date": "2026-11-04T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026111404",
-    "league": "EFL1",
-    "team": "AFC Wimbledon",
-    "opponent": "Blackpool",
-    "arena": "Plough Lane",
-    "city": "London, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111405",
-    "league": "EFL1",
-    "team": "Bromley",
-    "opponent": "Notts County",
-    "arena": "Hayes Lane",
-    "city": "Bromley, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111406",
-    "league": "EFL1",
-    "team": "Doncaster Rovers",
-    "opponent": "Leyton Orient",
-    "arena": "Club Doncaster Sports Village",
-    "city": "Doncaster, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111407",
-    "league": "EFL1",
-    "team": "Leicester City",
-    "opponent": "Bradford City",
-    "arena": "King Power Stadium",
-    "city": "Leicester, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111408",
-    "league": "EFL1",
-    "team": "Luton Town",
-    "opponent": "Cambridge United",
-    "arena": "Kenilworth Road",
-    "city": "Luton, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111409",
-    "league": "EFL1",
-    "team": "Milton Keynes Dons",
-    "opponent": "Burton Albion",
-    "arena": "Stadium MK",
-    "city": "Milton Keynes, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111410",
-    "league": "EFL1",
-    "team": "Peterborough United",
-    "opponent": "Oxford United",
-    "arena": "Weston Homes Stadium",
-    "city": "Peterborough, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111411",
-    "league": "EFL1",
-    "team": "Sheffield Wednesday",
-    "opponent": "Plymouth Argyle",
-    "arena": "Hillsborough Stadium",
-    "city": "Sheffield, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111412",
-    "league": "EFL1",
-    "team": "Stevenage",
-    "opponent": "Mansfield Town",
-    "arena": "SPORTA Arena",
-    "city": "Stevenage, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111413",
-    "league": "EFL1",
-    "team": "Stockport County",
-    "opponent": "Reading",
-    "arena": "Edgeley Park",
-    "city": "Stockport, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111414",
-    "league": "EFL1",
-    "team": "Wigan Athletic",
-    "opponent": "Barnsley",
-    "arena": "Brick Community Stadium",
-    "city": "Wigan, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026111415",
-    "league": "EFL1",
-    "team": "Wycombe Wanderers",
-    "opponent": "Huddersfield Town",
-    "arena": "Adams Park",
-    "city": "Wycombe, England",
-    "date": "2026-11-14T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112016",
-    "league": "EFL1",
-    "team": "Barnsley",
-    "opponent": "Sheffield Wednesday",
-    "arena": "Oakwell",
-    "city": "Barnsley, England",
-    "date": "2026-11-20T20:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112117",
-    "league": "EFL1",
-    "team": "Blackpool",
-    "opponent": "Wigan Athletic",
-    "arena": "Bloomfield Road",
-    "city": "Blackpool, England",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026112118",
-    "league": "EFL1",
-    "team": "Reading",
-    "opponent": "Bromley",
-    "arena": "Select Car Leasing Stadium",
-    "city": "Reading, England",
-    "date": "2026-11-21T12:30Z"
-  },
-  
-  {
-    "id": "EFL1_2026112119",
-    "league": "EFL1",
-    "team": "Bradford City",
-    "opponent": "Doncaster Rovers",
-    "arena": "Valley Parade",
-    "city": "Bradford, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112120",
-    "league": "EFL1",
-    "team": "Burton Albion",
-    "opponent": "Luton Town",
-    "arena": "Pirelli Stadium",
-    "city": "Burton-on-Trent, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112121",
-    "league": "EFL1",
-    "team": "Cambridge United",
-    "opponent": "Stockport County",
-    "arena": "Abbey Stadium",
-    "city": "Cambridge, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112122",
-    "league": "EFL1",
-    "team": "Huddersfield Town",
-    "opponent": "Leicester City",
-    "arena": "Accu Stadium",
-    "city": "Huddersfield, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112123",
-    "league": "EFL1",
-    "team": "Leyton Orient",
-    "opponent": "AFC Wimbledon",
-    "arena": "BetWright Stadium",
-    "city": "London, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112124",
-    "league": "EFL1",
-    "team": "Mansfield Town",
-    "opponent": "Milton Keynes Dons",
-    "arena": "One Call Stadium",
-    "city": "Mansfield, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112125",
-    "league": "EFL1",
-    "team": "Notts County",
-    "opponent": "Stevenage",
-    "arena": "Meadow Lane",
-    "city": "Nottingham, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112126",
-    "league": "EFL1",
-    "team": "Oxford United",
-    "opponent": "Wycombe Wanderers",
-    "arena": "Kassam Stadium",
-    "city": "Oxford, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112127",
-    "league": "EFL1",
-    "team": "Plymouth Argyle",
-    "opponent": "Peterborough United",
-    "arena": "Home Park",
-    "city": "Plymouth, England",
-    "date": "2026-11-21T15:00Z"
-  },
-  
-  {
-    "id": "EFL1_2026112428",
-    "league": "EFL1",
-    "team": "Blackpool",
-    "opponent": "Leicester City",
-    "arena": "Bloomfield Road",
-    "city": "Blackpool, England",
-    "date": "2026-11-24T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026112429",
-    "league": "EFL1",
-    "team": "Bradford City",
-    "opponent": "Barnsley",
-    "arena": "Valley Parade",
-    "city": "Bradford, England",
-    "date": "2026-11-24T19:45Z"
-  },
-  
-  {
-    "id": "EFL1_2026112430",
-    "league": "EFL1",
-    "team": "Stevenage",
-    "opponent": "Sheffield Wednesday",
-    "arena": "SPORTA Arena",
-    "city": "Stevenage, England",
-    "date": "2026-11-24T19:45Z"
-  },
-  
+[ 
   {
     "id": "EFL1_2026112631",
     "league": "EFL1",
@@ -1657,7 +727,746 @@
     "arena": "Select Car Leasing Stadium",
     "city": "Reading, England",
     "date": "2026-12-29T20:00Z"
-  }
+  },
+  {
+  "id": "EFL1_2027010101",
+  "league": "EFL1",
+  "team": "AFC Wimbledon",
+  "opponent": "Peterborough United",
+  "arena": "Plough Lane",
+  "city": "London, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010102",
+  "league": "EFL1",
+  "team": "Barnsley",
+  "opponent": "Notts County",
+  "arena": "Oakwell",
+  "city": "Barnsley, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010103",
+  "league": "EFL1",
+  "team": "Blackpool",
+  "opponent": "Doncaster Rovers",
+  "arena": "Bloomfield Road",
+  "city": "Blackpool, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010104",
+  "league": "EFL1",
+  "team": "Bromley",
+  "opponent": "Stevenage",
+  "arena": "Hayes Lane",
+  "city": "Bromley, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010105",
+  "league": "EFL1",
+  "team": "Leyton Orient",
+  "opponent": "Oxford United",
+  "arena": "BetWright Stadium",
+  "city": "London, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010106",
+  "league": "EFL1",
+  "team": "Reading",
+  "opponent": "Milton Keynes Dons",
+  "arena": "Select Car Leasing Stadium",
+  "city": "Reading, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010107",
+  "league": "EFL1",
+  "team": "Sheffield Wednesday",
+  "opponent": "Huddersfield Town",
+  "arena": "Hillsborough Stadium",
+  "city": "Sheffield, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010108",
+  "league": "EFL1",
+  "team": "Wigan Athletic",
+  "opponent": "Bradford City",
+  "arena": "Brick Community Stadium",
+  "city": "Wigan, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010109",
+  "league": "EFL1",
+  "team": "Wycombe Wanderers",
+  "opponent": "Leicester City",
+  "arena": "Adams Park",
+  "city": "Wycombe, England",
+  "date": "2027-01-01T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010210",
+  "league": "EFL1",
+  "team": "Cambridge United",
+  "opponent": "Mansfield Town",
+  "arena": "Abbey Stadium",
+  "city": "Cambridge, England",
+  "date": "2027-01-02T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010211",
+  "league": "EFL1",
+  "team": "Plymouth Argyle",
+  "opponent": "Luton Town",
+  "arena": "Home Park",
+  "city": "Plymouth, England",
+  "date": "2027-01-02T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010212",
+  "league": "EFL1",
+  "team": "Stockport County",
+  "opponent": "Burton Albion",
+  "arena": "Edgeley Park",
+  "city": "Stockport, England",
+  "date": "2027-01-02T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010813",
+  "league": "EFL1",
+  "team": "Burton Albion",
+  "opponent": "Blackpool",
+  "arena": "Pirelli Stadium",
+  "city": "Burton-on-Trent, England",
+  "date": "2027-01-08T20:00Z"
+},
+
+{
+  "id": "EFL1_2027010914",
+  "league": "EFL1",
+  "team": "Oxford United",
+  "opponent": "AFC Wimbledon",
+  "arena": "Kassam Stadium",
+  "city": "Oxford, England",
+  "date": "2027-01-09T12:30Z"
+},
+
+{
+  "id": "EFL1_2027010915",
+  "league": "EFL1",
+  "team": "Stevenage",
+  "opponent": "Cambridge United",
+  "arena": "SPORTA Arena",
+  "city": "Stevenage, England",
+  "date": "2027-01-09T12:30Z"
+},
+
+{
+  "id": "EFL1_2027010916",
+  "league": "EFL1",
+  "team": "Bradford City",
+  "opponent": "Bromley",
+  "arena": "Valley Parade",
+  "city": "Bradford, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010917",
+  "league": "EFL1",
+  "team": "Doncaster Rovers",
+  "opponent": "Wycombe Wanderers",
+  "arena": "Club Doncaster Sports Village",
+  "city": "Doncaster, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010918",
+  "league": "EFL1",
+  "team": "Huddersfield Town",
+  "opponent": "Barnsley",
+  "arena": "Accu Stadium",
+  "city": "Huddersfield, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010919",
+  "league": "EFL1",
+  "team": "Leicester City",
+  "opponent": "Reading",
+  "arena": "King Power Stadium",
+  "city": "Leicester, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010920",
+  "league": "EFL1",
+  "team": "Luton Town",
+  "opponent": "Sheffield Wednesday",
+  "arena": "Kenilworth Road",
+  "city": "Luton, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010921",
+  "league": "EFL1",
+  "team": "Mansfield Town",
+  "opponent": "Plymouth Argyle",
+  "arena": "One Call Stadium",
+  "city": "Mansfield, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010922",
+  "league": "EFL1",
+  "team": "Milton Keynes Dons",
+  "opponent": "Stockport County",
+  "arena": "Stadium MK",
+  "city": "Milton Keynes, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010923",
+  "league": "EFL1",
+  "team": "Notts County",
+  "opponent": "Leyton Orient",
+  "arena": "Meadow Lane",
+  "city": "Nottingham, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027010924",
+  "league": "EFL1",
+  "team": "Peterborough United",
+  "opponent": "Wigan Athletic",
+  "arena": "Weston Homes Stadium",
+  "city": "Peterborough, England",
+  "date": "2027-01-09T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011225",
+  "league": "EFL1",
+  "team": "Notts County",
+  "opponent": "Blackpool",
+  "arena": "Meadow Lane",
+  "city": "Nottingham, England",
+  "date": "2027-01-12T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011626",
+  "league": "EFL1",
+  "team": "Bromley",
+  "opponent": "Stockport County",
+  "arena": "Hayes Lane",
+  "city": "Bromley, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFL1_2027011627",
+  "league": "EFL1",
+  "team": "Luton Town",
+  "opponent": "Milton Keynes Dons",
+  "arena": "Kenilworth Road",
+  "city": "Luton, England",
+  "date": "2027-01-16T12:30Z"
+},
+
+{
+  "id": "EFL1_2027011628",
+  "league": "EFL1",
+  "team": "AFC Wimbledon",
+  "opponent": "Sheffield Wednesday",
+  "arena": "Plough Lane",
+  "city": "London, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011629",
+  "league": "EFL1",
+  "team": "Blackpool",
+  "opponent": "Leyton Orient",
+  "arena": "Bloomfield Road",
+  "city": "Blackpool, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011630",
+  "league": "EFL1",
+  "team": "Burton Albion",
+  "opponent": "Peterborough United",
+  "arena": "Pirelli Stadium",
+  "city": "Burton-on-Trent, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011631",
+  "league": "EFL1",
+  "team": "Cambridge United",
+  "opponent": "Barnsley",
+  "arena": "Abbey Stadium",
+  "city": "Cambridge, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011632",
+  "league": "EFL1",
+  "team": "Doncaster Rovers",
+  "opponent": "Leicester City",
+  "arena": "Club Doncaster Sports Village",
+  "city": "Doncaster, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011633",
+  "league": "EFL1",
+  "team": "Huddersfield Town",
+  "opponent": "Plymouth Argyle",
+  "arena": "Accu Stadium",
+  "city": "Huddersfield, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011634",
+  "league": "EFL1",
+  "team": "Notts County",
+  "opponent": "Wycombe Wanderers",
+  "arena": "Meadow Lane",
+  "city": "Nottingham, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011635",
+  "league": "EFL1",
+  "team": "Oxford United",
+  "opponent": "Mansfield Town",
+  "arena": "Kassam Stadium",
+  "city": "Oxford, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011636",
+  "league": "EFL1",
+  "team": "Reading",
+  "opponent": "Wigan Athletic",
+  "arena": "Select Car Leasing Stadium",
+  "city": "Reading, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011637",
+  "league": "EFL1",
+  "team": "Stevenage",
+  "opponent": "Bradford City",
+  "arena": "SPORTA Arena",
+  "city": "Stevenage, England",
+  "date": "2027-01-16T15:00Z"
+},
+
+{
+  "id": "EFL1_2027011938",
+  "league": "EFL1",
+  "team": "Barnsley",
+  "opponent": "Luton Town",
+  "arena": "Oakwell",
+  "city": "Barnsley, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011939",
+  "league": "EFL1",
+  "team": "Bradford City",
+  "opponent": "Burton Albion",
+  "arena": "Valley Parade",
+  "city": "Bradford, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011940",
+  "league": "EFL1",
+  "team": "Leicester City",
+  "opponent": "Bromley",
+  "arena": "King Power Stadium",
+  "city": "Leicester, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011941",
+  "league": "EFL1",
+  "team": "Leyton Orient",
+  "opponent": "Reading",
+  "arena": "BetWright Stadium",
+  "city": "London, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011942",
+  "league": "EFL1",
+  "team": "Mansfield Town",
+  "opponent": "AFC Wimbledon",
+  "arena": "One Call Stadium",
+  "city": "Mansfield, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011943",
+  "league": "EFL1",
+  "team": "Milton Keynes Dons",
+  "opponent": "Blackpool",
+  "arena": "Stadium MK",
+  "city": "Milton Keynes, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011944",
+  "league": "EFL1",
+  "team": "Peterborough United",
+  "opponent": "Huddersfield Town",
+  "arena": "Weston Homes Stadium",
+  "city": "Peterborough, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011945",
+  "league": "EFL1",
+  "team": "Plymouth Argyle",
+  "opponent": "Stevenage",
+  "arena": "Home Park",
+  "city": "Plymouth, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011946",
+  "league": "EFL1",
+  "team": "Sheffield Wednesday",
+  "opponent": "Notts County",
+  "arena": "Hillsborough Stadium",
+  "city": "Sheffield, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011947",
+  "league": "EFL1",
+  "team": "Stockport County",
+  "opponent": "Doncaster Rovers",
+  "arena": "Edgeley Park",
+  "city": "Stockport, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027011948",
+  "league": "EFL1",
+  "team": "Wycombe Wanderers",
+  "opponent": "Cambridge United",
+  "arena": "Adams Park",
+  "city": "Wycombe, England",
+  "date": "2027-01-19T19:45Z"
+},
+
+{
+  "id": "EFL1_2027012049",
+  "league": "EFL1",
+  "team": "Wigan Athletic",
+  "opponent": "Oxford United",
+  "arena": "Brick Community Stadium",
+  "city": "Wigan, England",
+  "date": "2027-01-20T20:00Z"
+},
+
+{
+  "id": "EFL1_2027012350",
+  "league": "EFL1",
+  "team": "Sheffield Wednesday",
+  "opponent": "Doncaster Rovers",
+  "arena": "Hillsborough Stadium",
+  "city": "Sheffield, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFL1_2027012351",
+  "league": "EFL1",
+  "team": "Wigan Athletic",
+  "opponent": "Huddersfield Town",
+  "arena": "Brick Community Stadium",
+  "city": "Wigan, England",
+  "date": "2027-01-23T12:30Z"
+},
+
+{
+  "id": "EFL1_2027012352",
+  "league": "EFL1",
+  "team": "Barnsley",
+  "opponent": "Reading",
+  "arena": "Oakwell",
+  "city": "Barnsley, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012353",
+  "league": "EFL1",
+  "team": "Bradford City",
+  "opponent": "Oxford United",
+  "arena": "Valley Parade",
+  "city": "Bradford, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012354",
+  "league": "EFL1",
+  "team": "Leicester City",
+  "opponent": "Luton Town",
+  "arena": "King Power Stadium",
+  "city": "Leicester, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012355",
+  "league": "EFL1",
+  "team": "Leyton Orient",
+  "opponent": "Burton Albion",
+  "arena": "BetWright Stadium",
+  "city": "London, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012356",
+  "league": "EFL1",
+  "team": "Mansfield Town",
+  "opponent": "Blackpool",
+  "arena": "One Call Stadium",
+  "city": "Mansfield, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012357",
+  "league": "EFL1",
+  "team": "Milton Keynes Dons",
+  "opponent": "Stevenage",
+  "arena": "Stadium MK",
+  "city": "Milton Keynes, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012358",
+  "league": "EFL1",
+  "team": "Peterborough United",
+  "opponent": "Bromley",
+  "arena": "Weston Homes Stadium",
+  "city": "Peterborough, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012359",
+  "league": "EFL1",
+  "team": "Stockport County",
+  "opponent": "Notts County",
+  "arena": "Edgeley Park",
+  "city": "Stockport, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012360",
+  "league": "EFL1",
+  "team": "Wycombe Wanderers",
+  "opponent": "AFC Wimbledon",
+  "arena": "Adams Park",
+  "city": "Wycombe, England",
+  "date": "2027-01-23T15:00Z"
+},
+
+{
+  "id": "EFL1_2027012561",
+  "league": "EFL1",
+  "team": "Plymouth Argyle",
+  "opponent": "Cambridge United",
+  "arena": "Home Park",
+  "city": "Plymouth, England",
+  "date": "2027-01-25T20:00Z"
+},
+
+{
+  "id": "EFL1_2027012662",
+  "league": "EFL1",
+  "team": "AFC Wimbledon",
+  "opponent": "Stevenage",
+  "arena": "Plough Lane",
+  "city": "London, England",
+  "date": "2027-01-26T19:45Z"
+},
+
+{
+  "id": "EFL1_2027013063",
+  "league": "EFL1",
+  "team": "Huddersfield Town",
+  "opponent": "Bradford City",
+  "arena": "Accu Stadium",
+  "city": "Huddersfield, England",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFL1_2027013064",
+  "league": "EFL1",
+  "team": "Luton Town",
+  "opponent": "Peterborough United",
+  "arena": "Kenilworth Road",
+  "city": "Luton, England",
+  "date": "2027-01-30T12:30Z"
+},
+
+{
+  "id": "EFL1_2027013065",
+  "league": "EFL1",
+  "team": "AFC Wimbledon",
+  "opponent": "Stockport County",
+  "arena": "Plough Lane",
+  "city": "London, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013066",
+  "league": "EFL1",
+  "team": "Blackpool",
+  "opponent": "Sheffield Wednesday",
+  "arena": "Bloomfield Road",
+  "city": "Blackpool, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013067",
+  "league": "EFL1",
+  "team": "Bromley",
+  "opponent": "Wigan Athletic",
+  "arena": "Hayes Lane",
+  "city": "Bromley, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013068",
+  "league": "EFL1",
+  "team": "Burton Albion",
+  "opponent": "Wycombe Wanderers",
+  "arena": "Pirelli Stadium",
+  "city": "Burton-on-Trent, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013069",
+  "league": "EFL1",
+  "team": "Cambridge United",
+  "opponent": "Leyton Orient",
+  "arena": "Abbey Stadium",
+  "city": "Cambridge, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013070",
+  "league": "EFL1",
+  "team": "Doncaster Rovers",
+  "opponent": "Milton Keynes Dons",
+  "arena": "Club Doncaster Sports Village",
+  "city": "Doncaster, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013071",
+  "league": "EFL1",
+  "team": "Notts County",
+  "opponent": "Mansfield Town",
+  "arena": "Meadow Lane",
+  "city": "Nottingham, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013072",
+  "league": "EFL1",
+  "team": "Oxford United",
+  "opponent": "Barnsley",
+  "arena": "Kassam Stadium",
+  "city": "Oxford, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013073",
+  "league": "EFL1",
+  "team": "Reading",
+  "opponent": "Plymouth Argyle",
+  "arena": "Select Car Leasing Stadium",
+  "city": "Reading, England",
+  "date": "2027-01-30T15:00Z"
+},
+
+{
+  "id": "EFL1_2027013074",
+  "league": "EFL1",
+  "team": "Stevenage",
+  "opponent": "Leicester City",
+  "arena": "SPORTA Arena",
+  "city": "Stevenage, England",
+  "date": "2027-01-30T15:00Z"
+}
   
 
 ]
