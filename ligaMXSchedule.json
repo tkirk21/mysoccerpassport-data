@@ -1,3 +1,82 @@
 [
-
+  {
+    "id": "lmx_2026112618",
+    "league": "LMX",
+    "team": "Toluca",
+    "opponent": "Atlas",
+    "arena": "Estadio Nemesio Diez",
+    "city": "Toluca, Mexico",
+    "date": "2026-11-26T01:00Z"
+  },
+  
+  {
+    "id": "lmx_2026112619",
+    "league": "LMX",
+    "team": "Monterrey",
+    "opponent": "Club América",
+    "arena": "Estadio BBVA",
+    "city": "Nuevo Leon, Mexico",
+    "date": "2026-11-26T03:10Z"
+  },
+  
+  {
+    "id": "lmx_2026112720",
+    "league": "LMX",
+    "team": "Pachuca",
+    "opponent": "Chivas de Guadalajara",
+    "arena": "Estadio Hidalgo",
+    "city": "Hidalgo, Mexico",
+    "date": "2026-11-27T01:00Z"
+  },
+  
+  {
+    "id": "lmx_2026112721",
+    "league": "LMX",
+    "team": "León",
+    "opponent": "Cruz Azul",
+    "arena": "Estadio León",
+    "city": "Guanajuato, Mexico",
+    "date": "2026-11-27T03:10Z"
+  },
+  
+  {
+    "id": "lmx_2026112922",
+    "league": "LMX",
+    "team": "Atlas",
+    "opponent": "Toluca",
+    "arena": "Estadio Jalisco",
+    "city": "Jalisco, Mexico",
+    "date": "2026-11-29T01:00Z"
+  },
+  
+  {
+    "id": "lmx_2026112923",
+    "league": "LMX",
+    "team": "Club América",
+    "opponent": "Monterrey",
+    "arena": "Estadio Banorte",
+    "city": "Mexico City, Mexico",
+    "date": "2026-11-29T03:10Z"
+  },
+  
+  {
+    "id": "lmx_2026113024",
+    "league": "LMX",
+    "team": "Chivas de Guadalajara",
+    "opponent": "Pachuca",
+    "arena": "Estadio Akron",
+    "city": "Jalisco, Mexico",
+    "date": "2026-11-30T01:07Z"
+  },
+  
+  {
+    "id": "lmx_2026113025",
+    "league": "LMX",
+    "team": "Cruz Azul",
+    "opponent": "León",
+    "arena": "Estadio Banorte",
+    "city": "Mexico City, Mexico",
+    "date": "2026-11-30T03:00Z"
+  }
+  
 ]
