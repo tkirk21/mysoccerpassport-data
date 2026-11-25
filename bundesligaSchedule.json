@@ -356,5 +356,454 @@
   "arena": "Veltins Arena",
   "city": "Gelsenkirchen, Germany",
   "date": "2026-12-20T18:30Z"
-}  
+},
+  {
+  "id": "BL_2027010801",
+  "league": "BL",
+  "team": "Borussia Dortmund",
+  "opponent": "Mainz 05",
+  "arena": "Signal Iduna Park",
+  "city": "Dortmund, Germany",
+  "date": "2027-01-08T19:30Z"
+},
+
+{
+  "id": "BL_2027010902",
+  "league": "BL",
+  "team": "Eintracht Frankfurt",
+  "opponent": "Schalke 04",
+  "arena": "Deutsche Bank Park",
+  "city": "Frankfurt am Main, Germany",
+  "date": "2027-01-09T14:30Z"
+},
+
+{
+  "id": "BL_2027010903",
+  "league": "BL",
+  "team": "1. FC Köln",
+  "opponent": "Freiburg",
+  "arena": "RheinEnergieStadion",
+  "city": "Cologne, Germany",
+  "date": "2027-01-09T14:30Z"
+},
+
+{
+  "id": "BL_2027010904",
+  "league": "BL",
+  "team": "SC Paderborn 07",
+  "opponent": "RB Leipzig",
+  "arena": "Home Deluxe Arena",
+  "city": "Paderborn, Germany",
+  "date": "2027-01-09T14:30Z"
+},
+
+{
+  "id": "BL_2027010905",
+  "league": "BL",
+  "team": "TSG Hoffenheim",
+  "opponent": "SV Elversberg",
+  "arena": "SNP Arena",
+  "city": "Sinsheim, Germany",
+  "date": "2027-01-09T14:30Z"
+},
+
+{
+  "id": "BL_2027010906",
+  "league": "BL",
+  "team": "VfB Stuttgart",
+  "opponent": "FC Augsburg",
+  "arena": "MHPArena",
+  "city": "Stuttgart, Germany",
+  "date": "2027-01-09T14:30Z"
+},
+
+{
+  "id": "BL_2027010907",
+  "league": "BL",
+  "team": "Borussia Mönchengladbach",
+  "opponent": "Bayern Munich",
+  "arena": "Borussia Park",
+  "city": "Mönchengladbach, Germany",
+  "date": "2027-01-09T17:30Z"
+},
+
+{
+  "id": "BL_2027011008",
+  "league": "BL",
+  "team": "Werder Bremen",
+  "opponent": "Union Berlin",
+  "arena": "Weserstadion",
+  "city": "Bremen, Germany",
+  "date": "2027-01-10T14:30Z"
+},
+
+{
+  "id": "BL_2027011009",
+  "league": "BL",
+  "team": "Hamburger SV",
+  "opponent": "Bayer Leverkusen",
+  "arena": "Volksparkstadion",
+  "city": "Altona, Germany",
+  "date": "2027-01-10T16:30Z"
+},
+
+{
+  "id": "BL_2027011210",
+  "league": "BL",
+  "team": "RB Leipzig",
+  "opponent": "VfB Stuttgart",
+  "arena": "Red Bull Arena",
+  "city": "Leipzig, Germany",
+  "date": "2027-01-12T17:30Z"
+},
+
+{
+  "id": "BL_2027011211",
+  "league": "BL",
+  "team": "FC Augsburg",
+  "opponent": "Borussia Mönchengladbach",
+  "arena": "WWK Arena",
+  "city": "Augsburg, Germany",
+  "date": "2027-01-12T19:30Z"
+},
+
+{
+  "id": "BL_2027011212",
+  "league": "BL",
+  "team": "1. FC Köln",
+  "opponent": "Borussia Dortmund",
+  "arena": "RheinEnergieStadion",
+  "city": "Cologne, Germany",
+  "date": "2027-01-12T19:30Z"
+},
+
+{
+  "id": "BL_2027011213",
+  "league": "BL",
+  "team": "Mainz 05",
+  "opponent": "TSG Hoffenheim",
+  "arena": "MEWA Arena",
+  "city": "Mainz, Germany",
+  "date": "2027-01-12T19:30Z"
+},
+
+{
+  "id": "BL_2027011314",
+  "league": "BL",
+  "team": "SV Elversberg",
+  "opponent": "Eintracht Frankfurt",
+  "arena": "Ursapharm-Arena",
+  "city": "Spiesen-Elversberg, Germany",
+  "date": "2027-01-13T17:30Z"
+},
+
+{
+  "id": "BL_2027011315",
+  "league": "BL",
+  "team": "Union Berlin",
+  "opponent": "SC Paderborn 07",
+  "arena": "Stadion An der Alten Försterei",
+  "city": "Berlin, Germany",
+  "date": "2027-01-13T19:30Z"
+},
+
+{
+  "id": "BL_2027011316",
+  "league": "BL",
+  "team": "Bayern Munich",
+  "opponent": "Bayer Leverkusen",
+  "arena": "Allianz Arena",
+  "city": "Munich, Germany",
+  "date": "2027-01-13T19:30Z"
+},
+
+{
+  "id": "BL_2027011317",
+  "league": "BL",
+  "team": "Freiburg",
+  "opponent": "Hamburger SV",
+  "arena": "Europa-Park Stadion",
+  "city": "Freiburg im Breisgau, Germany",
+  "date": "2027-01-13T19:30Z"
+},
+
+{
+  "id": "BL_2027011418",
+  "league": "BL",
+  "team": "Schalke 04",
+  "opponent": "Werder Bremen",
+  "arena": "Veltins Arena",
+  "city": "Gelsenkirchen, Germany",
+  "date": "2027-01-14T19:30Z"
+},
+
+{
+  "id": "BL_2027011519",
+  "league": "BL",
+  "team": "VfB Stuttgart",
+  "opponent": "Mainz 05",
+  "arena": "MHPArena",
+  "city": "Stuttgart, Germany",
+  "date": "2027-01-15T19:30Z"
+},
+
+{
+  "id": "BL_2027011620",
+  "league": "BL",
+  "team": "Borussia Dortmund",
+  "opponent": "Freiburg",
+  "arena": "Signal Iduna Park",
+  "city": "Dortmund, Germany",
+  "date": "2027-01-16T14:30Z"
+},
+
+{
+  "id": "BL_2027011621",
+  "league": "BL",
+  "team": "Borussia Mönchengladbach",
+  "opponent": "Union Berlin",
+  "arena": "Borussia Park",
+  "city": "Mönchengladbach, Germany",
+  "date": "2027-01-16T14:30Z"
+},
+
+{
+  "id": "BL_2027011622",
+  "league": "BL",
+  "team": "Hamburger SV",
+  "opponent": "FC Augsburg",
+  "arena": "Volksparkstadion",
+  "city": "Altona, Germany",
+  "date": "2027-01-16T14:30Z"
+},
+
+{
+  "id": "BL_2027011623",
+  "league": "BL",
+  "team": "SC Paderborn 07",
+  "opponent": "1. FC Köln",
+  "arena": "Home Deluxe Arena",
+  "city": "Paderborn, Germany",
+  "date": "2027-01-16T14:30Z"
+},
+
+{
+  "id": "BL_2027011624",
+  "league": "BL",
+  "team": "TSG Hoffenheim",
+  "opponent": "RB Leipzig",
+  "arena": "SNP Arena",
+  "city": "Sinsheim, Germany",
+  "date": "2027-01-16T14:30Z"
+},
+
+{
+  "id": "BL_2027011625",
+  "league": "BL",
+  "team": "Eintracht Frankfurt",
+  "opponent": "Bayern Munich",
+  "arena": "Deutsche Bank Park",
+  "city": "Frankfurt am Main, Germany",
+  "date": "2027-01-16T17:30Z"
+},
+
+{
+  "id": "BL_2027011726",
+  "league": "BL",
+  "team": "Werder Bremen",
+  "opponent": "SV Elversberg",
+  "arena": "Weserstadion",
+  "city": "Bremen, Germany",
+  "date": "2027-01-17T14:30Z"
+},
+
+{
+  "id": "BL_2027011727",
+  "league": "BL",
+  "team": "Bayer Leverkusen",
+  "opponent": "Schalke 04",
+  "arena": "BayArena",
+  "city": "Leverkusen, Germany",
+  "date": "2027-01-17T16:30Z"
+},
+
+{
+  "id": "BL_2027012228",
+  "league": "BL",
+  "team": "Werder Bremen",
+  "opponent": "Freiburg",
+  "arena": "Weserstadion",
+  "city": "Bremen, Germany",
+  "date": "2027-01-22T19:30Z"
+},
+
+{
+  "id": "BL_2027012329",
+  "league": "BL",
+  "team": "Borussia Mönchengladbach",
+  "opponent": "RB Leipzig",
+  "arena": "Borussia Park",
+  "city": "Mönchengladbach, Germany",
+  "date": "2027-01-23T14:30Z"
+},
+
+{
+  "id": "BL_2027012330",
+  "league": "BL",
+  "team": "SC Paderborn 07",
+  "opponent": "Mainz 05",
+  "arena": "Home Deluxe Arena",
+  "city": "Paderborn, Germany",
+  "date": "2027-01-23T14:30Z"
+},
+
+{
+  "id": "BL_2027012331",
+  "league": "BL",
+  "team": "Schalke 04",
+  "opponent": "FC Augsburg",
+  "arena": "Veltins Arena",
+  "city": "Gelsenkirchen, Germany",
+  "date": "2027-01-23T14:30Z"
+},
+
+{
+  "id": "BL_2027012332",
+  "league": "BL",
+  "team": "VfB Stuttgart",
+  "opponent": "Bayern Munich",
+  "arena": "MHPArena",
+  "city": "Stuttgart, Germany",
+  "date": "2027-01-23T14:30Z"
+},
+
+{
+  "id": "BL_2027012333",
+  "league": "BL",
+  "team": "Hamburger SV",
+  "opponent": "Borussia Dortmund",
+  "arena": "Volksparkstadion",
+  "city": "Altona, Germany",
+  "date": "2027-01-23T17:30Z"
+},
+
+{
+  "id": "BL_2027012434",
+  "league": "BL",
+  "team": "Eintracht Frankfurt",
+  "opponent": "Union Berlin",
+  "arena": "Deutsche Bank Park",
+  "city": "Frankfurt am Main, Germany",
+  "date": "2027-01-24T14:30Z"
+},
+
+{
+  "id": "BL_2027012435",
+  "league": "BL",
+  "team": "Bayer Leverkusen",
+  "opponent": "SV Elversberg",
+  "arena": "BayArena",
+  "city": "Leverkusen, Germany",
+  "date": "2027-01-24T16:30Z"
+},
+
+{
+  "id": "BL_2027012436",
+  "league": "BL",
+  "team": "TSG Hoffenheim",
+  "opponent": "1. FC Köln",
+  "arena": "SNP Arena",
+  "city": "Sinsheim, Germany",
+  "date": "2027-01-24T18:30Z"
+},
+
+{
+  "id": "BL_2027013037",
+  "league": "BL",
+  "team": "Union Berlin",
+  "opponent": "Bayer Leverkusen",
+  "arena": "Stadion An der Alten Försterei",
+  "city": "Berlin, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013038",
+  "league": "BL",
+  "team": "Bayern Munich",
+  "opponent": "Schalke 04",
+  "arena": "Allianz Arena",
+  "city": "Munich, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013039",
+  "league": "BL",
+  "team": "Borussia Dortmund",
+  "opponent": "TSG Hoffenheim",
+  "arena": "Signal Iduna Park",
+  "city": "Dortmund, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013040",
+  "league": "BL",
+  "team": "FC Augsburg",
+  "opponent": "Eintracht Frankfurt",
+  "arena": "WWK Arena",
+  "city": "Augsburg, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013041",
+  "league": "BL",
+  "team": "1. FC Köln",
+  "opponent": "VfB Stuttgart",
+  "arena": "RheinEnergieStadion",
+  "city": "Cologne, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013042",
+  "league": "BL",
+  "team": "Mainz 05",
+  "opponent": "Hamburger SV",
+  "arena": "MEWA Arena",
+  "city": "Mainz, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013043",
+  "league": "BL",
+  "team": "RB Leipzig",
+  "opponent": "Werder Bremen",
+  "arena": "Red Bull Arena",
+  "city": "Leipzig, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013044",
+  "league": "BL",
+  "team": "Freiburg",
+  "opponent": "SC Paderborn 07",
+  "arena": "Europa-Park Stadion",
+  "city": "Freiburg im Breisgau, Germany",
+  "date": "2027-01-30T20:00Z"
+},
+
+{
+  "id": "BL_2027013045",
+  "league": "BL",
+  "team": "SV Elversberg",
+  "opponent": "Borussia Mönchengladbach",
+  "arena": "Ursapharm-Arena",
+  "city": "Spiesen-Elversberg, Germany",
+  "date": "2027-01-30T20:00Z"
+}
 ]
